@@ -54,6 +54,25 @@ VERIFIED = {
     "Offit Kurman": ("https://www.offitkurman.com/", "external_verified", "Live official homepage 'Offit Kurman | Strategic Legal Solutions for Businesses & Individuals'"),
     "Procopio, Cory, Hargreaves & Savitch LLP": ("https://www.procopio.com/", "external_verified", "Live official homepage 'Procopio -- AmLaw 200 Corporate and Litigation Law Firm'"),
     "Foster Garvey PC": ("https://www.foster.com/", "external_verified", "Live official homepage 'Foster Garvey PC | Full-Service Corporate Law Firm'"),
+    "Snell & Wilmer L.L.P.": ("https://www.swlaw.com/", "external_verified", "Live official homepage 'Snell & Wilmer | Full Service Business Law Firm'; Wikipedia + ZoomInfo corroborate swlaw.com"),
+    "K&L Gates LLP": ("https://www.klgates.com/", "external_verified", "Live official homepage 'Homepage | K&L Gates'; Wikipedia + Chambers corroborate klgates.com"),
+    "Stoel Rives LLP": ("https://www.stoel.com/", "external_verified", "Live official homepage 'Stoel Rives LLP Attorneys - A Leading U.S. Law Firm'"),
+    "Bryan Cave Leighton Paisner LLP": ("https://www.bclplaw.com/", "external_verified", "Live official homepage 'BCLP - Bryan Cave Leighton Paisner' (bclplaw.com redirects to /en-US/)"),
+    "Womble Bond Dickinson (US) LLP": ("https://www.womblebonddickinson.com/us", "external_verified", "Live official US homepage 'Womble Bond Dickinson | International Law Firm'"),
+    "McGuireWoods LLP": ("https://www.mcguirewoods.com/", "external_verified", "Live official homepage 'McGuireWoods'; Wikipedia + Chambers corroborate"),
+    "Husch Blackwell LLP": ("https://www.huschblackwell.com/", "external_verified", "Live official homepage 'Husch Blackwell: Trusted Legal Leaders | Husch Blackwell'"),
+    "Fenwick & West LLP": ("https://www.fenwick.com/", "external_verified", "Live official homepage 'Fenwick | Homepage'; Wikipedia corroborates fenwick.com"),
+    "Dorsey & Whitney LLP": ("https://www.dorsey.com/", "external_verified", "Live official homepage 'Dorsey & Whitney LLP'; Wikipedia corroborates dorsey.com"),
+    "Reed Smith LLP": ("https://www.reedsmith.com/", "external_verified", "Live official homepage 'Reed Smith LLP'; FindLaw + LCJ directory corroborate"),
+    "Barnes & Thornburg LLP": ("https://www.btlaw.com/", "external_verified", "Live official homepage 'Business Law Firm | Barnes & Thornburg'; Wikipedia corroborates btlaw.com"),
+    "Jackson Lewis P.C.": ("https://www.jacksonlewis.com/", "external_verified", "Live official homepage 'Jackson Lewis'; Wikidata + ZoomInfo corroborate"),
+    "Foley & Lardner LLP": ("https://www.foley.com/", "external_verified", "Live official homepage 'Foley & Lardner LLP | Top 50 Global Law Firm'"),
+    "Cooley LLP": ("https://www.cooley.com/", "external_verified", "Live official homepage 'Cooley | Global Law Firm for Innovative Companies and Investors'"),
+    "Duane Morris LLP": ("https://www.duanemorris.com/", "external_verified", "Live official homepage 'Welcome to Duane Morris LLP'; Wikipedia corroborates"),
+    "Cozen O'Connor": ("https://www.cozen.com/", "external_verified", "Live official homepage 'Cozen O'Connor'; Wikipedia + ICLG corroborate"),
+    "Buchanan Ingersoll & Rooney PC": ("https://www.bipc.com/", "external_verified", "Live official homepage 'Buchanan Ingersoll & Rooney PC'; LinkedIn + Wikipedia corroborate bipc.com"),
+    "Polsinelli PC": ("https://www.polsinelli.com/", "external_verified", "Live official homepage 'Polsinelli Law Firm'; FindLaw corroborates"),
+    "Quarles & Brady LLP": ("https://www.quarles.com/", "external_verified", "Live official homepage 'Quarles: Attorneys, Lawyers, Law Firm'"),
 
     # --- exact-name URL already present elsewhere in the SAME uploaded file,
     #     re-verified by fetching that page before copying ---
@@ -81,6 +100,8 @@ REJECTED = {
     "Middleton Reutlinger, P.S.C.": "middletonlaw.com states the firm dissolved 12/31/2022; no active firm site",
     "Conrad O'Brien": "conradobrien.com could not be fetched (http and https); left unverified",
     "Krieg DeVault LLP": "the same-name URL elsewhere in the file is fuchsandroselli.com, a different firm; not copied",
+    "Perkins Coie, LLP": "perkinscoie.com now redirects to ashurstperkinscoie.com after the Ashurst merger; successor site not substituted for the original firm URL",
+    "Perkins Coie LLP": "perkinscoie.com now redirects to ashurstperkinscoie.com after the Ashurst merger; successor site not substituted for the original firm URL",
 }
 
 GENERIC_REASON = "Not yet individually verified; no authentic official URL confirmed, so left blank (no guessing)"
@@ -233,7 +254,7 @@ def main():
             cp["counts"]["urls_added_source_internal_verified"],
             cp["counts"]["urls_added_verified_name_variant"]),
         "%s INFO  existing %d URLs verified unchanged; source order + duplicate rows preserved" % (ts, total - 4862),
-        "%s INFO  explicit rejections (%d): Waller(redirect), Cabaniss(domain for sale), Middleton(dissolved), Conrad O'Brien(fetch failed), Krieg DeVault(mismatched duplicate)" % (ts, len(REJECTED)),
+        "%s INFO  explicit rejections (%d): see REJECTED dict for per-firm reasons (redirect/merger, domain for sale, dissolved, fetch failed, mismatched duplicate)" % (ts, len(REJECTED)),
         "%s WARN  %d blank rows still unresolved; deliberately left blank (no guessing)" % (ts, blanks),
         "%s INFO  wrote %s, %s, audit, unresolved, checkpoint" % (ts, OUT_CSV, OUT_XLSX),
         "%s INFO  end | total URLs after=%d blank after=%d" % (ts, total_urls, blanks),

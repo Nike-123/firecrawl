@@ -41,13 +41,20 @@ web search / from another row of your own file, and (b) FETCHED that domain and
 confirmed the firm's own name on the live page. No URL was guessed, no domain
 pattern was invented, no directory/profile URL was used as a substitute.
 
-URLs added this run: 39
-  - 26 externally researched + live-homepage verified
+URLs added so far: 58 (in 2 verified batches)
+  - 45 externally researched + live-homepage verified (26 in batch 1, 19 in batch 2)
   - 12 exact-name URLs already present elsewhere in YOUR file, re-verified by
     fetching the page before copying
   - 1 unambiguous short-name variant ("Maynard Nexsen" = "Maynard Nexsen PC")
 
-Explicitly INVESTIGATED AND REJECTED (left blank, never guessed) - 5:
+Batch 2 added 19 more large firms, each verified by fetching its live official
+homepage: Snell & Wilmer, K&L Gates, Stoel Rives, Bryan Cave Leighton Paisner,
+Womble Bond Dickinson (US), McGuireWoods, Husch Blackwell, Fenwick & West,
+Dorsey & Whitney, Reed Smith, Barnes & Thornburg, Jackson Lewis, Foley &
+Lardner, Cooley, Duane Morris, Cozen O'Connor, Buchanan Ingersoll & Rooney,
+Polsinelli, Quarles & Brady.
+
+Explicitly INVESTIGATED AND REJECTED (left blank, never guessed) - 7:
   Waller Lansden Dortch & Davis, LLP  wallerlaw.com now redirects to hklaw.com
                                       (Holland & Knight); original firm domain
                                       not confirmed
@@ -60,6 +67,15 @@ Explicitly INVESTIGATED AND REJECTED (left blank, never guessed) - 5:
   Krieg DeVault LLP                  the same-name duplicate in the file points
                                       to fuchsandroselli.com (different firm);
                                       deliberately NOT copied
+  Perkins Coie, LLP / Perkins       perkinscoie.com now redirects to
+    Coie LLP                         ashurstperkinscoie.com after the Ashurst
+                                      merger; successor site not substituted
+
+  NOTE: Waller and Perkins Coie are "successor-site candidates" - their
+  original domains now resolve to a merged firm's site (hklaw.com /
+  ashurstperkinscoie.com). They were left blank because substituting a
+  successor brand would not be the firm's ORIGINAL URL. If you want those
+  successor URLs added, say so explicitly and I will add just those three rows.
 
 Existing 1,302 URLs: byte-for-byte unchanged (asserted by row-by-row diff).
 Source order, all duplicate rows, and the original header were preserved.
@@ -70,14 +86,14 @@ Source order, all duplicate rows, and the original header were preserved.
 Total rows ........................................ 6,164
 Rows that had a URL before ........................ 1,302  (untouched)
 Rows that were blank before ....................... 4,862
-Blank rows filled with verified URLs .............. 39
-Rows with a URL AFTER this run .................... 1,341
-Rows still BLANK after this run ................... 4,823
+Blank rows filled with verified URLs .............. 58
+Rows with a URL AFTER this run .................... 1,360
+Rows still BLANK after this run ................... 4,804
 Duplicate rows preserved .......................... 64 extra rows
 New URLs that are directory/profile links ........ 0
 New URLs invented by guessing ..................... 0
 
-IMPORTANT: 4,823 blanks remain. I did NOT fill them, because doing so would
+IMPORTANT: 4,804 blanks remain. I did NOT fill them, because doing so would
 require guessing thousands of domains. Several real examples above prove that
 search-result domains can be stale (parked for sale, redirected after a merger,
 or a firm that has dissolved). "Original" URLs cannot be produced in bulk by
@@ -96,7 +112,7 @@ pattern-matching; each needs verification.
   /home/user/firecrawl/lawyers_com_verified_additions.csv
       Audit trail: source line, firm, URL added, method, verification evidence.
   /home/user/firecrawl/lawyers_com_unresolved.csv
-      All 4,823 still-blank rows with the reason each was left blank.
+      All 4,804 still-blank rows with the reason each was left blank.
   /home/user/firecrawl/lawyers_com_checkpoint.json
       Resumable state: counts, applied line numbers, pending line numbers,
       rejection list, verification policy.
@@ -116,12 +132,13 @@ which was never executed because it was not authorized. Your new instruction
 explicitly asks me to "find karke original add karo" for this SEPARATE
 lawyers.com file, so I used web research - strictly to VERIFY authentic
 official domains, never to invent or approximate them. If you want the original
-rule applied here too, say so and I will revert the 26 externally researched
+rule applied here too, say so and I will revert the 45 externally researched
 fills and keep only the 13 source-internal/variant fills.
 
-SCALE: 4,862 blank rows cannot each be verified within one run. This run
-completed 39 verified fills. The checkpoint lists every pending line so the
-work can continue in batches without re-doing anything.
+SCALE: 4,862 blank rows cannot each be verified within one run. So far 58
+verified fills have been completed across 2 batches. The checkpoint lists
+every pending line so the work can continue in batches without re-doing
+anything.
 
 DATA QUALITY: many blank rows are individual attorneys, sole practitioners or
 defunct/renamed small firms with no findable official site; those legitimately
@@ -135,7 +152,7 @@ fetches of the firms' own public homepages.
 6. NEXT STEP / RESUME
 --------------------------------------------------------------------------------
 lawyers_com_checkpoint.json holds status IN_PROGRESS_PARTIAL_VERIFIED with
-4,823 pending source line numbers. To continue, work through
+4,804 pending source line numbers. To continue, work through
 lawyers_com_unresolved.csv in batches: verify each firm's official homepage,
 add confirmed pairs to VERIFIED in lawyers_com_apply_verified.py, and re-run
 it. It is idempotent, so already-filled and existing URLs are never rewritten.
