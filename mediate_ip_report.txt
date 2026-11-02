@@ -1,0 +1,99 @@
+================================================================================
+MEDIATE.COM - INTELLECTUAL PROPERTY FIRMS & WEBSITES
+================================================================================
+Generated           : 2026-11-02 (session date; Asia/Calcutta)
+Workspace            : /home/user/firecrawl  (branch arena/0b640660-firecrawl)
+Deliverable          : Google Sheet (see URL below)
+Local backup        : /home/user/firecrawl/mediate_ip_firms.csv
+Builder / data      : /home/user/firecrawl/mediate_ip/build_data.py
+                      /home/user/firecrawl/mediate_ip/sheet_values.json
+
+--------------------------------------------------------------------------------
+1. SOURCE
+--------------------------------------------------------------------------------
+Primary URL given by the user:
+  https://mediate.com/search-mediators?matter-dropdown=Intellectual+Property&location=&lname=
+Secondary (same result set, found in the site's own sitemap):
+  https://mediate.com/practice-directory/?pracname=Intellectual%20Property
+
+Both pages display: "76 Intellectual Property Mediators" / "76 Mediators found".
+
+IMPORTANT: this is a DIRECTORY OF INDIVIDUAL MEDIATORS, not a directory of
+law-firm entities. Column C of the sheet records the firm / practice name where
+one is stated on the profile; otherwise the row is the individual's practice.
+
+--------------------------------------------------------------------------------
+2. ACTUAL RESULT (not an estimate)
+--------------------------------------------------------------------------------
+Rows collected in the Google Sheet .............. 43
+Rows with a website URL .......................... 38
+Rows with no website (left blank) ............... 5
+Source-reported total ............................ 76
+Not enumerated ................................... ~33
+
+Tabs:
+  "IP Firms"           - 43 rows, 6 columns, header, filter A1:F44, frozen row 1
+  "Coverage & Method"  - 18 rows documenting counts, method, and limitations
+
+Google Sheet URL:
+  https://docs.google.com/spreadsheets/d/1nQVnuBjeFFdKVPh8fvnOr9SLZ-h-V80gDN3XKOgzBwI/edit
+
+--------------------------------------------------------------------------------
+3. WHY IT IS 43 AND NOT 76 (honest limitation)
+--------------------------------------------------------------------------------
+The search page renders only ~25 "Featured" profiles per non-JavaScript request
+and puts the remaining results behind a JavaScript "Load More" button. The order
+is RANDOMIZED on every request, so normal pagination does not enumerate the set.
+
+Tested and rejected as non-working: paged, page, pg, offset, start, per_page,
+posts_per_page, limit, count, number, display, results, num, show, show_all,
+all, load_more, plus the lname filter (which dropped the IP filter entirely and
+returned 364 unrelated mediators). None changed the count or produced a stable
+second page. Repeated loads yielded ~32 unique featured profiles.
+
+11 more IP profiles were recovered from search-engine indexes of mediate.com;
+each was fetched and its "Intellectual Property" practice area confirmed before
+inclusion. ~33 of the 76 could not be enumerated without executing the site's
+JavaScript, which the available fetch tool does not do. This is reported, not
+hidden: the sheet does NOT claim all 76 were collected.
+
+--------------------------------------------------------------------------------
+4. METHOD / DATA QUALITY
+--------------------------------------------------------------------------------
+- Every URL was copied verbatim from the "Website" field in the contact block
+  of that person's public Mediate.com profile page. No URL was invented,
+  guessed, or generated from a name pattern.
+- 5 blank website cells mean the source profile had no website (3) or its
+  contact block was not retrievable (2). They were NOT filled by guessing.
+- 2 rows carry a LinkedIn / Linktree URL because that is literally what the
+  source profile lists; both are flagged in the "Source / Notes" column.
+- 1 row (Michael B. Smith) carries the URL exactly as listed on the indexed
+  profile; that specific link currently returns 404. Flagged in Notes.
+- Barry Ross appears twice in the source (Dallas id=29776, Pasadena id=29133);
+  both rows are preserved, both with the same verified rossmediation.com site.
+- Verified non-IP profiles surfaced by broad searches (e.g. Farrah Rose, Paul
+  Storment, Beverly Tarr, Oran Kaufman) were checked and EXCLUDED because their
+  "Areas Of Practice" do not include Intellectual Property.
+
+--------------------------------------------------------------------------------
+5. ACCESS / COMPLIANCE NOTES
+--------------------------------------------------------------------------------
+- robots.txt: "User-agent: * / Disallow:" (empty) - all public paths permitted;
+  only WooCommerce logs/uploads, add-to-cart URLs and /wp-admin/ are disallowed.
+- /wp-json/mediators-api/v1/users returned HTTP 401 (rest_forbidden). That
+  endpoint was NOT used and no attempt was made to bypass authentication.
+- A SiteGround "Robot Challenge Screen" appeared intermittently on rapid
+  requests. No CAPTCHA solver, proxy, rotating IP, stealth browser, or other
+  access-control workaround was used; affected pages were simply retried or
+  skipped and left blank where appropriate.
+- Only publicly visible directory pages, public profile pages, sitemaps and
+  public search-engine indexes were used. No login, no paid/member-only data.
+
+--------------------------------------------------------------------------------
+6. IF YOU NEED ALL 76
+--------------------------------------------------------------------------------
+The remaining ~33 listings require the site's JS "Load More" to be executed
+(e.g. a browser-rendered fetch) or an authorised export/API from Mediate.com.
+Provide either and the sheet can be extended to the full reported count without
+changing any of the 43 already-verified rows.
+================================================================================
