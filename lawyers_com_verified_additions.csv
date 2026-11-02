@@ -18,30 +18,46 @@ Source Line,Firm Name,Website URL Added,Method,Verification Evidence
 358,Offit Kurman,https://www.offitkurman.com/,external_verified,Live official homepage 'Offit Kurman | Strategic Legal Solutions for Businesses & Individuals'
 382,"Procopio, Cory, Hargreaves & Savitch LLP",https://www.procopio.com/,external_verified,Live official homepage 'Procopio -- AmLaw 200 Corporate and Litigation Law Firm'
 416,Foster Garvey PC,https://www.foster.com/,external_verified,Live official homepage 'Foster Garvey PC | Full-Service Corporate Law Firm'
+421,Tonkon Torp LLP,https://www.tonkon.com/,external_verified,"Live official homepage 'Business Law Attorneys | Tonkon Torp LLP | Portland, Oregon'"
 426,Snell & Wilmer L.L.P.,https://www.swlaw.com/,external_verified,Live official homepage 'Snell & Wilmer | Full Service Business Law Firm'; Wikipedia + ZoomInfo corroborate swlaw.com
 430,K&L Gates LLP,https://www.klgates.com/,external_verified,Live official homepage 'Homepage | K&L Gates'; Wikipedia + Chambers corroborate klgates.com
 450,Stoel Rives LLP,https://www.stoel.com/,external_verified,Live official homepage 'Stoel Rives LLP Attorneys - A Leading U.S. Law Firm'
+462,Fox Rothschild LLP,https://www.foxrothschild.com/,external_verified,Live official homepage 'Fox Rothschild LLP - Attorneys at Law'; Wikipedia + Wikidata corroborate
+532,"Vorys, Sater, Seymour and Pease LLP",https://www.vorys.com/,external_verified,"Live official homepage 'Vorys | Law Firm in Ohio, Washington, D.C., Texas, Pennsylvania, California & London'"
+549,Dinsmore & Shohl LLP,https://www.dinsmore.com/,external_verified,"Live official homepage 'Dinsmore - A full-service, national law firm'; LinkedIn + Wikidata corroborate"
+601,Squire Patton Boggs,https://www.squirepattonboggs.com/,external_verified,Live official homepage 'Squire Patton Boggs | Global law firm'; Wikipedia corroborates
+602,"Tucker Ellis, LLP",https://www.tuckerellis.com/,external_verified,Live official homepage 'Tucker Ellis LLP | Lead by Example'
+614,"Benesch, Friedlander, Coplan & Aronoff LLP",https://www.beneschlaw.com/,external_verified,Live official homepage 'Homepage | Benesch'; TerraLex + Mondaq list the full name at beneschlaw.com
 699,Bryan Cave Leighton Paisner LLP,https://www.bclplaw.com/,external_verified,Live official homepage 'BCLP - Bryan Cave Leighton Paisner' (bclplaw.com redirects to /en-US/)
 717,Stoll Keenon Ogden PLLC,http://www.skofirm.com/,source_internal_verified,URL from another row of the same file; fetched 'Home - Stoll Keenon Ogden PLLC'
+736,Parker Poe Adams & Bernstein LLP,https://www.parkerpoe.com/,external_verified,Live official homepage 'Parker Poe | Attorneys & Counselors at Law'
 746,Womble Bond Dickinson (US) LLP,https://www.womblebonddickinson.com/us,external_verified,Live official US homepage 'Womble Bond Dickinson | International Law Firm'
 751,Moore & Van Allen PLLC,https://www.mvalaw.com/,external_verified,Live official homepage 'Moore & Van Allen'; LinkedIn + Vault + ZoomInfo corroborate
 800,McGuireWoods LLP,https://www.mcguirewoods.com/,external_verified,Live official homepage 'McGuireWoods'; Wikipedia + Chambers corroborate
+880,Fisher & Phillips LLP,https://www.fisherphillips.com/,external_verified,Live official homepage 'Homepage | Fisher Phillips LLP'; firm's own 2016 rebrand release confirms the URL
 923,Husch Blackwell LLP,https://www.huschblackwell.com/,external_verified,Live official homepage 'Husch Blackwell: Trusted Legal Leaders | Husch Blackwell'
 957,Fenwick & West LLP,https://www.fenwick.com/,external_verified,Live official homepage 'Fenwick | Homepage'; Wikipedia corroborates fenwick.com
 978,Faegre Drinker Biddle & Reath LLP,https://www.faegredrinker.com/en/,external_verified,Live official homepage title 'Faegre Drinker Biddle & Reath LLP'
 983,Dorsey & Whitney LLP,https://www.dorsey.com/,external_verified,Live official homepage 'Dorsey & Whitney LLP'; Wikipedia corroborates dorsey.com
 987,Gislason & Hunter LLP,https://www.gislason.com/,external_verified,Live official homepage 'Gislason & Hunter'
 1312,Musca Law,https://www.muscalaw.com/naples/,source_internal_verified,URL from another row of the same file; fetched 'Naples Criminal Defense Lawyers | Musca Law'
+1381,Nixon Peabody LLP,https://www.nixonpeabody.com/,external_verified,Live official homepage 'Nixon Peabody LLP: Sophisticated Legal Solutions for Businesses'
 1383,Robinson & Cole LLP,https://www.rc.com/,external_verified,Live official homepage 'Robinson+Cole | Tailored Solutions for a Complex World'
 1385,"Dickie, McCamey & Chilcote, P.C.",https://www.dmclaw.com/,source_internal_verified,"URL from another row of the same file; fetched 'Dickie, McCamey & Chilcote'"
 1459,Barnes & Thornburg LLP,https://www.btlaw.com/,external_verified,Live official homepage 'Business Law Firm | Barnes & Thornburg'; Wikipedia corroborates btlaw.com
 1483,Reed Smith LLP,https://www.reedsmith.com/,external_verified,Live official homepage 'Reed Smith LLP'; FindLaw + LCJ directory corroborate
 1522,Marshall Dennehey,http://www.marshalldennehey.com/,source_internal_verified,URL from another row of the same file; fetched 'Marshall Dennehey'
+1627,Davis Wright Tremaine LLP,https://www.dwt.com/,external_verified,Live official homepage 'Davis Wright Tremaine'; LinkedIn + ZoomInfo corroborate dwt.com
+1638,Holland & Knight LLP,https://www.hklaw.com/,external_verified,Live official homepage 'Home | Holland & Knight'; Wikipedia corroborates hklaw.com
 1891,Nixon & Vanderhye P.C.,https://www.nixon-vanderhye.com/,external_verified,Live official homepage 'Nixon Vanderhye | IP Law Firm'
+1968,DLA Piper LLP (US),https://www.dlapiper.com/,external_verified,Live official homepage 'Global Law Firm | DLA Piper'; ICLG + Wikidata corroborate dlapiper.com
 2102,"Astor Weiss Kaplan & Mandel, LLP",https://www.astorweiss.com/,external_verified,"Live official homepage 'Philadelphia Attorneys | Astor Weiss Kaplan & Mandel, LLP'"
 2130,LaFleur & Laborde,https://www.lalalawfirm.com/,source_internal_verified,URL from another row of the same file; fetched 'About the Firm: LaFleur & Laborde'
 2154,Jackson Lewis P.C.,https://www.jacksonlewis.com/,external_verified,Live official homepage 'Jackson Lewis'; Wikidata + ZoomInfo corroborate
+2164,DLA Piper,https://www.dlapiper.com/,external_verified,"Live official homepage 'Global Law Firm | DLA Piper'; same firm, short-name row"
+2165,DLA Piper LLP,https://www.dlapiper.com/,external_verified,"Live official homepage 'Global Law Firm | DLA Piper'; same firm, name variant row"
 2217,"Kerrick Bachert, PSC",https://www.kerrickbachertlaw.com/,source_internal_verified,"URL from another row of the same file; fetched 'Kerrick Bachert, PSC'"
+2627,Ballard Spahr LLP,https://www.ballardspahr.com/,external_verified,Live official homepage 'Ballard Spahr - National Strategic Law Partners'; Wikipedia corroborates
 2786,Foley & Lardner LLP,https://www.foley.com/,external_verified,Live official homepage 'Foley & Lardner LLP | Top 50 Global Law Firm'
 2984,Downs Rachlin Martin PLLC,http://www.drm.com/,source_internal_verified,URL from another row of the same file; fetched 'Downs Rachlin Martin'
 3139,Cooley LLP,https://www.cooley.com/,external_verified,Live official homepage 'Cooley | Global Law Firm for Innovative Companies and Investors'
@@ -52,8 +68,12 @@ Source Line,Firm Name,Website URL Added,Method,Verification Evidence
 3687,Quarles & Brady LLP,https://www.quarles.com/,external_verified,"Live official homepage 'Quarles: Attorneys, Lawyers, Law Firm'"
 3743,McNees Wallace & Nurick LLC,https://www.mcneeslaw.com/,external_verified,"Live official homepage 'McNees | Business law firm in PA, MD, OH & Washington, D.C.'; firm rebranded to McNees"
 3827,Thrive IP,https://www.thrive-ip.com/,source_internal_verified,URL from another row of the same file; fetched 'Thrive IP Intellectual Property / Patent Firm'
+4014,Baker & Hostetler LLP,https://www.bakerlaw.com/,external_verified,Live official homepage 'Home | BakerHostetler'; Wikipedia corroborates bakerlaw.com
 4372,"Hinman, Howard & Kattell, LLP",http://www.hhk.com/,source_internal_verified,"URL from another row of the same file; fetched 'Hinman, Howard & Kattell'"
 5114,High Tide Legal,https://hightide.law/,source_internal_verified,URL from another row of the same file; fetched 'High Tide Legal'
+5126,Alston & Bird LLP,https://www.alston.com/,external_verified,Live official homepage 'Alston & Bird Law Firm | International Attorneys and Lawyers'
+5228,Ropes & Gray LLP,https://www.ropesgray.com/,external_verified,Live official homepage 'Ropes & Gray LLP'; Wikipedia + Chambers corroborate
 5495,Lipsitz Green Scime Cambria LLP,http://www.lipsitzgreen.com/,source_internal_verified,URL from another row of the same file; fetched 'Lipsitz Green Scime Cambria'
+5541,Latham & Watkins LLP,https://www.lw.com/,external_verified,Live official homepage 'Latham & Watkins LLP | Global Law Firm'; Wikipedia + ICLG corroborate lw.com
 5639,"Blankingship & Keith, P.C.",http://www.blankingshipandkeith.com/,source_internal_verified,URL from another row of the same file; fetched 'Blankingship & Keith'
 6073,"Scheef & Stone, L.L.P.",https://www.solidcounsel.com/,external_verified,"Live official homepage 'Scheef & Stone - Scheef & Stone, LLP'; Mackrell + Cience corroborate solidcounsel.com"

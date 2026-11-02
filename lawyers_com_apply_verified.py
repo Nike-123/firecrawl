@@ -73,6 +73,26 @@ VERIFIED = {
     "Buchanan Ingersoll & Rooney PC": ("https://www.bipc.com/", "external_verified", "Live official homepage 'Buchanan Ingersoll & Rooney PC'; LinkedIn + Wikipedia corroborate bipc.com"),
     "Polsinelli PC": ("https://www.polsinelli.com/", "external_verified", "Live official homepage 'Polsinelli Law Firm'; FindLaw corroborates"),
     "Quarles & Brady LLP": ("https://www.quarles.com/", "external_verified", "Live official homepage 'Quarles: Attorneys, Lawyers, Law Firm'"),
+    "Tonkon Torp LLP": ("https://www.tonkon.com/", "external_verified", "Live official homepage 'Business Law Attorneys | Tonkon Torp LLP | Portland, Oregon'"),
+    "Fox Rothschild LLP": ("https://www.foxrothschild.com/", "external_verified", "Live official homepage 'Fox Rothschild LLP - Attorneys at Law'; Wikipedia + Wikidata corroborate"),
+    "Vorys, Sater, Seymour and Pease LLP": ("https://www.vorys.com/", "external_verified", "Live official homepage 'Vorys | Law Firm in Ohio, Washington, D.C., Texas, Pennsylvania, California & London'"),
+    "Dinsmore & Shohl LLP": ("https://www.dinsmore.com/", "external_verified", "Live official homepage 'Dinsmore - A full-service, national law firm'; LinkedIn + Wikidata corroborate"),
+    "Squire Patton Boggs": ("https://www.squirepattonboggs.com/", "external_verified", "Live official homepage 'Squire Patton Boggs | Global law firm'; Wikipedia corroborates"),
+    "Tucker Ellis, LLP": ("https://www.tuckerellis.com/", "external_verified", "Live official homepage 'Tucker Ellis LLP | Lead by Example'"),
+    "Benesch, Friedlander, Coplan & Aronoff LLP": ("https://www.beneschlaw.com/", "external_verified", "Live official homepage 'Homepage | Benesch'; TerraLex + Mondaq list the full name at beneschlaw.com"),
+    "Parker Poe Adams & Bernstein LLP": ("https://www.parkerpoe.com/", "external_verified", "Live official homepage 'Parker Poe | Attorneys & Counselors at Law'"),
+    "Fisher & Phillips LLP": ("https://www.fisherphillips.com/", "external_verified", "Live official homepage 'Homepage | Fisher Phillips LLP'; firm's own 2016 rebrand release confirms the URL"),
+    "Nixon Peabody LLP": ("https://www.nixonpeabody.com/", "external_verified", "Live official homepage 'Nixon Peabody LLP: Sophisticated Legal Solutions for Businesses'"),
+    "Davis Wright Tremaine LLP": ("https://www.dwt.com/", "external_verified", "Live official homepage 'Davis Wright Tremaine'; LinkedIn + ZoomInfo corroborate dwt.com"),
+    "Holland & Knight LLP": ("https://www.hklaw.com/", "external_verified", "Live official homepage 'Home | Holland & Knight'; Wikipedia corroborates hklaw.com"),
+    "DLA Piper LLP (US)": ("https://www.dlapiper.com/", "external_verified", "Live official homepage 'Global Law Firm | DLA Piper'; ICLG + Wikidata corroborate dlapiper.com"),
+    "DLA Piper": ("https://www.dlapiper.com/", "external_verified", "Live official homepage 'Global Law Firm | DLA Piper'; same firm, short-name row"),
+    "DLA Piper LLP": ("https://www.dlapiper.com/", "external_verified", "Live official homepage 'Global Law Firm | DLA Piper'; same firm, name variant row"),
+    "Ballard Spahr LLP": ("https://www.ballardspahr.com/", "external_verified", "Live official homepage 'Ballard Spahr - National Strategic Law Partners'; Wikipedia corroborates"),
+    "Baker & Hostetler LLP": ("https://www.bakerlaw.com/", "external_verified", "Live official homepage 'Home | BakerHostetler'; Wikipedia corroborates bakerlaw.com"),
+    "Alston & Bird LLP": ("https://www.alston.com/", "external_verified", "Live official homepage 'Alston & Bird Law Firm | International Attorneys and Lawyers'"),
+    "Ropes & Gray LLP": ("https://www.ropesgray.com/", "external_verified", "Live official homepage 'Ropes & Gray LLP'; Wikipedia + Chambers corroborate"),
+    "Latham & Watkins LLP": ("https://www.lw.com/", "external_verified", "Live official homepage 'Latham & Watkins LLP | Global Law Firm'; Wikipedia + ICLG corroborate lw.com"),
 
     # --- exact-name URL already present elsewhere in the SAME uploaded file,
     #     re-verified by fetching that page before copying ---
@@ -102,6 +122,8 @@ REJECTED = {
     "Krieg DeVault LLP": "the same-name URL elsewhere in the file is fuchsandroselli.com, a different firm; not copied",
     "Perkins Coie, LLP": "perkinscoie.com now redirects to ashurstperkinscoie.com after the Ashurst merger; successor site not substituted for the original firm URL",
     "Perkins Coie LLP": "perkinscoie.com now redirects to ashurstperkinscoie.com after the Ashurst merger; successor site not substituted for the original firm URL",
+    "Brinks Gilson & Lione": "brinksgilson.com now redirects to crowell.com; the firm's lawyers joined Crowell & Moring, so no original firm homepage remains",
+    "Burns & Levinson LLP": "burnslev.com returned '404 - Unknown site' on http, https and /en fetches; live homepage could not be confirmed despite directory corroboration",
 }
 
 GENERIC_REASON = "Not yet individually verified; no authentic official URL confirmed, so left blank (no guessing)"

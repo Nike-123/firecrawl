@@ -1,9 +1,9 @@
-2026-11-02T17:27:38Z INFO  lawyers_com_enrich | start (no network calls in this script)
-2026-11-02T17:27:38Z INFO  source=/home/user/firecrawl/lawyers_com_ORIGINAL_upload.csv rows=6164 columns=2 header=['Firm Name', 'Firm Website URL']
-2026-11-02T17:27:38Z INFO  original: 1302 URLs present, 4862 blank
-2026-11-02T17:27:38Z INFO  applied 58 verified URLs (45 external, 12 source-internal, 1 name-variant)
-2026-11-02T17:27:38Z INFO  existing 1302 URLs verified unchanged; source order + duplicate rows preserved
-2026-11-02T17:27:38Z INFO  explicit rejections (7): see REJECTED dict for per-firm reasons (redirect/merger, domain for sale, dissolved, fetch failed, mismatched duplicate)
-2026-11-02T17:27:38Z WARN  4804 blank rows still unresolved; deliberately left blank (no guessing)
-2026-11-02T17:27:38Z INFO  wrote /home/user/firecrawl/Lawyers_com_US_IP_Firms.csv, /home/user/firecrawl/Lawyers_com_US_IP_Firms.xlsx, audit, unresolved, checkpoint
-2026-11-02T17:27:38Z INFO  end | total URLs after=1360 blank after=4804
+2026-11-02T17:29:50Z INFO  lawyers_com_enrich | start (no network calls in this script)
+2026-11-02T17:29:50Z INFO  source=/home/user/firecrawl/lawyers_com_ORIGINAL_upload.csv rows=6164 columns=2 header=['Firm Name', 'Firm Website URL']
+2026-11-02T17:29:50Z INFO  original: 1302 URLs present, 4862 blank
+2026-11-02T17:29:50Z INFO  applied 78 verified URLs (65 external, 12 source-internal, 1 name-variant)
+2026-11-02T17:29:50Z INFO  existing 1302 URLs verified unchanged; source order + duplicate rows preserved
+2026-11-02T17:29:50Z INFO  explicit rejections (9): see REJECTED dict for per-firm reasons (redirect/merger, domain for sale, dissolved, fetch failed, mismatched duplicate)
+2026-11-02T17:29:50Z WARN  4784 blank rows still unresolved; deliberately left blank (no guessing)
+2026-11-02T17:29:50Z INFO  wrote /home/user/firecrawl/Lawyers_com_US_IP_Firms.csv, /home/user/firecrawl/Lawyers_com_US_IP_Firms.xlsx, audit, unresolved, checkpoint
+2026-11-02T17:29:50Z INFO  end | total URLs after=1380 blank after=4784
