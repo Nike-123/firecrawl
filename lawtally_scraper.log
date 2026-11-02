@@ -1,0 +1,25 @@
+2026-11-02T16:51:44Z INFO  lawtally_access_check | session branch arena/0b640660-firecrawl | workspace /home/user/firecrawl
+2026-11-02T16:51:45Z INFO  STEP 1 START - mandatory access and permission check
+2026-11-02T16:51:46Z INFO  FETCH https://lawtally.com/robots.txt -> HTTP 200, full file read
+2026-11-02T16:51:47Z INFO  ROBOTS User-agent: * ; Disallow: /wp-content/uploads/wc-logs/, /wp-content/uploads/woocommerce_transient_files/, /wp-content/uploads/woocommerce_uploads/, /*?add-to-cart=, /*?*add-to-cart=, /wp-admin/ ; Allow: /wp-admin/admin-ajax.php
+2026-11-02T16:51:48Z INFO  ROBOTS 3 sitemaps declared (wp-sitemap.xml, sitemap.xml, sitemap.html); no Crawl-delay; no Disallow for /lawyers/
+2026-11-02T16:51:49Z INFO  ROBOTS NOTE - crawler directives are not a licence; absence of a Disallow entry is not written permission to copy or aggregate content
+2026-11-02T16:51:50Z INFO  FETCH https://lawtally.com/terms-and-conditions/ -> HTTP 200, full text reviewed (2 chunks)
+2026-11-02T16:51:51Z INFO  TERMS sec.1 ACCEPTANCE OF TERMS: 'By using the services on LawTally.com in any way, you are agreeing to comply with these Terms.'
+2026-11-02T16:51:52Z INFO  TERMS sec.2: LawTally may 'block your email or IP address, or otherwise terminate your access' at its sole discretion
+2026-11-02T16:51:53Z WARN  TERMS sec.7 CONDUCT PROHIBITION FOUND: 'aggregate, copy or duplicate content on LawTally.com'
+2026-11-02T16:51:54Z WARN  TERMS sec.13 PROPRIETARY RIGHTS: 'Any reproduction, modification, creation of derivative works from or redistribution of the Sites or the collective work is prohibited.'
+2026-11-02T16:51:55Z INFO  TERMS sec.7 additional restrictions: resume database limited to employer hiring use; no unauthorised access or disruption of LawTally systems
+2026-11-02T16:51:56Z INFO  FETCH https://lawtally.com/privacy-policy/ -> HTTP 200 ; https://lawtally.com/about-us/ -> HTTP 200 ; https://lawtally.com/contact-us/ -> HTTP 200
+2026-11-02T16:51:57Z INFO  ABOUT US describes browse-only access to 58K+ lawyer profiles; no export, API, download or data-licensing offering published
+2026-11-02T16:51:58Z INFO  SEARCH for official LawTally API / developer docs / CSV export / licensed bulk feed -> none found
+2026-11-02T16:51:59Z INFO  SEARCH found only unrelated third-party commercial scraping vendors (e.g. Actowiz); a third-party scraper is NOT authorisation from LawTally
+2026-11-02T16:52:00Z WARN  ASSESSMENT: automated collection + bulk extraction + commercial reuse NOT AUTHORIZED; building a listing database is aggregation/copying and a derivative of the collective work
+2026-11-02T16:52:01Z WARN  DECISION: STOP - written permission or an explicitly authorised bulk-access method is required and is not available
+2026-11-02T16:52:02Z INFO  HALT ENFORCED: 0 requests to /lawyers/ or any listing/search page; 0 pagination tests; 0 listing records parsed; 0 retries
+2026-11-02T16:52:03Z INFO  HALT ENFORCED: no proxies, rotating IPs, CAPTCHA-solving, stealth browsers, or access-control workarounds used
+2026-11-02T16:52:04Z INFO  STEP 2 (extraction) SKIPPED - not authorized
+2026-11-02T16:52:05Z INFO  STEP 3 (incremental save / checkpoint resume / delays / retries) SKIPPED - no extraction to manage
+2026-11-02T16:52:06Z INFO  STEP 4 outputs written: header-only CSV + XLSX (0 data rows), summary, checkpoint, log, permission-request email
+2026-11-02T16:52:07Z INFO  STEP 6 note: no Python scraper source file created - conditional on authorised extraction, which was not established
+2026-11-02T16:52:08Z INFO  STEP 1 END / RUN END - status STOPPED_NOT_AUTHORIZED

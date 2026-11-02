@@ -1,0 +1,100 @@
+{
+  "project": "LawTally US Intellectual Property Lawyer Directory",
+  "source_url": "https://lawtally.com/lawyers/?search_keywords=intellectual+&search_location=&submit=&filter_job_type%5B%5D=",
+  "workspace": "/home/user/firecrawl",
+  "session_branch": "arena/0b640660-firecrawl",
+  "schema_version": 1,
+  "generated_at_utc": "2026-11-02T16:51:44Z",
+  "status": "STOPPED_NOT_AUTHORIZED",
+  "current_phase": "step1_access_and_permission_check",
+  "extraction_authorized": false,
+  "stop_reason": "LawTally Terms and Conditions sec. 7 (CONDUCT) prohibits users from aggregating, copying or duplicating content on LawTally.com, and sec. 13 (PROPRIETARY RIGHTS) prohibits reproduction, derivative works and redistribution of the Sites or the collective work. No official API, export, licensed feed or other explicitly authorised bulk-access method was found, and no written permission was provided. robots.txt is a crawler directive, not a licence.",
+  "authorization_required": "Express prior written permission / a data licence from LawTally explicitly granting automated bulk collection, reproduction into CSV/XLSX, and the intended use (including commercial reuse if applicable), or access to an official authorised API/export/feed.",
+  "access_checks": {
+    "robots_txt": {
+      "url": "https://lawtally.com/robots.txt",
+      "retrieved": true,
+      "user_agent": "*",
+      "disallow": [
+        "/wp-content/uploads/wc-logs/",
+        "/wp-content/uploads/woocommerce_transient_files/",
+        "/wp-content/uploads/woocommerce_uploads/",
+        "/*?add-to-cart=",
+        "/*?*add-to-cart=",
+        "/wp-admin/"
+      ],
+      "allow": [
+        "/wp-admin/admin-ajax.php"
+      ],
+      "crawl_delay": null,
+      "listing_path_disallowed": false,
+      "grants_copying_or_reuse_rights": false
+    },
+    "terms_and_conditions": {
+      "url": "https://lawtally.com/terms-and-conditions/",
+      "retrieved": true,
+      "reviewed_in_full": true,
+      "restricting_clauses": [
+        "sec. 1 ACCEPTANCE OF TERMS",
+        "sec. 2 SERVICE AND CONTENT",
+        "sec. 7 CONDUCT",
+        "sec. 13 PROPRIETARY RIGHTS"
+      ],
+      "verbatim_prohibition": "aggregate, copy or duplicate content on LawTally.com",
+      "automated_bulk_collection_authorized": false,
+      "commercial_reuse_authorized": false,
+      "governing_law_per_sec_14": "People Republic of China"
+    },
+    "other_pages_reviewed": [
+      "https://lawtally.com/privacy-policy/",
+      "https://lawtally.com/about-us/",
+      "https://lawtally.com/contact-us/"
+    ],
+    "official_api_found": false,
+    "official_export_found": false,
+    "licensed_bulk_feed_found": false,
+    "written_permission_on_file": false,
+    "third_party_scraping_vendors_found": true,
+    "third_party_vendors_constitute_authorization": false
+  },
+  "website_reported_listing_count": 4269,
+  "website_reported_count_verified": false,
+  "reported_count_note": "4,269 is the user-reported figure shown by the site. It was NOT independently verified: doing so would require requesting a listing/search page, which the STOP directive forbids. Treated as a reported count, not as a confirmed number of law firms.",
+  "extraction": {
+    "extraction_started": false,
+    "listing_pages_requested": 0,
+    "pagination_tests_performed": 0,
+    "total_pages_determined": null,
+    "pages_completed": 0,
+    "pages_failed": 0,
+    "failed_page_numbers": [],
+    "last_completed_page": null,
+    "next_page_to_resume": null,
+    "records_collected": 0,
+    "rows_with_website_url": 0,
+    "rows_with_blank_website_url": 0,
+    "duplicate_rows_preserved": 0,
+    "unresolved_individual_lawyer_listings": 0,
+    "source_order_preserved": true,
+    "incremental_csv_saves": 0,
+    "retries": 0,
+    "http_errors": 0,
+    "proxies_or_access_workarounds_used": false,
+    "resume_possible": false,
+    "resume_condition": "Only after LawTally grants written permission or provides an authorised API/export/feed. Then start from page 1 with this checkpoint reset; no partial data exists to resume from."
+  },
+  "output_files": {
+    "csv": "/home/user/firecrawl/LawTally_US_IP_Listings.csv",
+    "xlsx": "/home/user/firecrawl/LawTally_US_IP_Listings.xlsx",
+    "summary": "/home/user/firecrawl/lawtally_summary.txt",
+    "checkpoint": "/home/user/firecrawl/lawtally_checkpoint.json",
+    "log": "/home/user/firecrawl/lawtally_scraper.log",
+    "email": "/home/user/firecrawl/lawtally_permission_request.txt"
+  },
+  "notes": [
+    "CSV and XLSX contain the required header row and exactly two columns, but ZERO data rows.",
+    "No scraper/extraction Python source was written because extraction is not authorized.",
+    "The workspace repo (Firecrawl) contains scraping tooling; tooling availability does not create authorisation.",
+    "No original data export or raw database file was requested from the user; none exists for this project."
+  ]
+}

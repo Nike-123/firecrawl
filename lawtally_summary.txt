@@ -1,0 +1,251 @@
+================================================================================
+LAW TALLY - US INTELLECTUAL PROPERTY LAWYER DIRECTORY
+ACCESS / PERMISSION REPORT AND FINAL VERIFICATION SUMMARY
+================================================================================
+Generated (UTC) : 2026-11-02T16:51:44Z
+Workspace       : /home/user/firecrawl  (existing VS Code project root)
+Git branch      : arena/0b640660-firecrawl
+Source URL      : https://lawtally.com/lawyers/?search_keywords=intellectual+&search_location=&submit=&filter_job_type%5B%5D=
+Pages reviewed  : robots.txt, Terms and Conditions, Privacy Policy, About Us,
+                  Contact Us - all fetched live on the date above.
+
+--------------------------------------------------------------------------------
+1. HEADLINE RESULT
+--------------------------------------------------------------------------------
+PERMISSION / ACCESS STATUS  : NOT AUTHORIZED
+AUTHORIZED ACCESS METHOD    : NONE AVAILABLE (no API, export, licensed feed,
+                              or written permission)
+BULK EXTRACTION             : STOPPED AT STEP 1, before any listing page request
+LISTINGS ACTUALLY COLLECTED : 0
+
+This is a compliance outcome, not a partial run and not a technical failure.
+The project brief states: "If written permission or an explicitly authorized
+method is required and is not available: STOP bulk extraction." That condition
+is met. Steps 2 (extraction), 3 (reliable processing) and Step 4 item 6
+(scraper source files) were therefore NOT performed. No claim is made that the
+4,269 reported listings were extracted.
+
+--------------------------------------------------------------------------------
+2. STEP 1 - MANDATORY ACCESS AND PERMISSION CHECK: FINDINGS
+--------------------------------------------------------------------------------
+2.1  robots.txt - https://lawtally.com/robots.txt (HTTP 200, read in full)
+
+     User-agent: *
+     Disallow: /wp-content/uploads/wc-logs/
+     Disallow: /wp-content/uploads/woocommerce_transient_files/
+     Disallow: /wp-content/uploads/woocommerce_uploads/
+     Disallow: /*?add-to-cart=
+     Disallow: /*?*add-to-cart=
+     Disallow: /wp-admin/
+     Allow: /wp-admin/admin-ajax.php
+
+     Sitemap: https://lawtally.com/wp-sitemap.xml
+     Sitemap: https://lawtally.com/sitemap.xml
+     Sitemap: https://lawtally.com/sitemap.html
+
+     Observations: the file does not Disallow /lawyers/ or the search endpoint,
+     declares three sitemaps, and sets no Crawl-delay. HOWEVER robots.txt is a
+     technical crawler directive addressed to crawlers; it is not a licence,
+     not a grant of copying/reuse rights, and cannot override the Terms. The
+     absence of a Disallow rule is NOT "explicitly authorized" bulk access.
+     Per the brief: "Do not interpret publicly visible listings as permission
+     for bulk collection."
+
+2.2  Terms and Conditions - https://lawtally.com/terms-and-conditions/
+     (HTTP 200, both chunks / full text reviewed)
+
+     Sec. 1  ACCEPTANCE OF TERMS (verbatim):
+       "By using the services on LawTally.com in any way, you are agreeing to
+        comply with these Terms."
+
+     Sec. 7  CONDUCT - the section opens "You agree that by using
+     LawTally.com services, you do not" and ends with this prohibited act
+     (verbatim):
+       "aggregate, copy or duplicate content on LawTally.com"
+
+     Sec. 13 PROPRIETARY RIGHTS (verbatim):
+       "The Service is protected to the maximum extent permitted by copyright
+        laws and international treaties. Any reproduction, modification,
+        creation of derivative works from or redistribution of the Sites or
+        the collective work is prohibited."
+
+     Supporting restrictions:
+       Sec. 2  LawTally "has the right to delete or deactivate your account,
+               block your email or IP address, or otherwise terminate your
+               access" at its sole discretion, and "can establish limits
+               concerning the use of service".
+       Sec. 7  "use any LawTally.com's resume database for any purpose other
+               than as an employer seeking employees"; and "attempt to gain
+               unauthorized access to LawTally.com's computer systems disrupt
+               the order of LawTally.com and its services".
+       Sec. 14 Governing law stated as "People Republic of China".
+
+2.3  Applicable directory and data-use restrictions
+       - LawTally's About Us page describes browse-only access ("LawTally allows
+         you to browse the profiles of more than 58K lawyers"), categorised by
+         work area / state / city. No database download, export, API, or data
+         licence is offered anywhere on the site.
+       - The Privacy Policy covers LawTally's own collection and use of visitor
+         and member data; it grants no rights to third parties to harvest
+         directory listings.
+       - Building a CSV/XLSX database of the IP lawyer listings is precisely
+         "aggregat[ing], copy[ing] or duplicat[ing] content on LawTally.com"
+         (Sec. 7) and a reproduction / derivative / redistribution of "the
+         collective work" (Sec. 13). Both are expressly prohibited.
+
+2.4  Automated collection, bulk extraction, commercial reuse
+       Automated collection / bulk extraction : NOT AUTHORIZED (Sec. 7, Sec. 13)
+       Commercial reuse                      : NOT AUTHORIZED. No clause grants
+         any commercial-use right; Sec. 13 prohibits reproduction and
+         redistribution of the collective work outright. Terms are silent on
+         any opt-in licensing pathway other than ordinary site use.
+
+2.5  Official API / export / authorized bulk-access method
+       Searched for an official LawTally API, developer documentation, CSV/Excel
+       export, downloadable dataset, partner feed, or data-licensing page.
+       RESULT: NONE FOUND. The only "LawTally API"/data-extraction offerings
+       that surface are from unrelated third-party commercial scraping vendors
+       (e.g. Actowiz Solutions, "Extract LawTally Lawyer Data"). A third-party
+       scraper is not authorisation from LawTally, and using one would still
+       breach Secs. 7 and 13 (and would violate the brief's prohibition on
+       proxies/stealth/workarounds). No written permission is on file.
+
+--------------------------------------------------------------------------------
+3. EXACT RESTRICTION AND PERMISSION REQUIRED
+--------------------------------------------------------------------------------
+Exact restriction (verbatim, LawTally Terms sec. 7 CONDUCT):
+    "aggregate, copy or duplicate content on LawTally.com"
+Exact restriction (verbatim, LawTally Terms sec. 13 PROPRIETARY RIGHTS):
+    "Any reproduction, modification, creation of derivative works from or
+     redistribution of the Sites or the collective work is prohibited."
+
+Permission required: EXPRESS PRIOR WRITTEN PERMISSION from LawTally (or a signed
+data licence / official API or export agreement granted by LawTally) that
+explicitly authorises, at minimum:
+    (a) automated/bulk collection of the Intellectual Property directory
+        listings across the result pages;
+    (b) reproduction and storage of those listings in CSV and XLSX format;
+    (c) the intended use of the resulting database, including commercial reuse
+        if the use is commercial;
+    (d) scope details - fields, volume, rate limits, duration, attribution,
+        redistribution, and termination conditions.
+Until such permission exists, the correct action is to stop. Robots.txt
+permissiveness and public visibility do not substitute for it.
+
+A ready-to-send draft is provided in lawtally_permission_request.txt.
+Published LawTally contacts: help@lawtally.com (Contact Us),
+contact@lawtally.com (Privacy Policy, shown as "contact{at}lawtally.com"), and
+cs@LawTally.com.com (Terms sec. 3 copyright agent, verbatim - note the apparent
+duplicated ".com" typo on the site).
+
+--------------------------------------------------------------------------------
+4. INTEGRITY ATTESTATION - WHAT WAS AND WAS NOT DONE
+--------------------------------------------------------------------------------
+NOT DONE (by design, per the STOP directive):
+    - No listing page, search result page, or lawyer profile page was requested.
+    - No automated pagination test; no page-count discovery; no HTML parsing of
+      listings; no firm names or URLs extracted or guessed.
+    - No Google/Bing/external lookups used to fill missing website URLs.
+    - No LawTally profile URL substituted for an official firm website.
+    - No proxies, rotating IPs, CAPTCHA services, stealth browsers, fake user
+      agents, or access-control workarounds of any kind.
+    - No scraper / extraction Python source file created (Step 4 item 6 is
+      conditional on authorised extraction).
+    - No bypass of any access restriction; no requests beyond the six public
+      policy/information pages listed at the top of this report.
+DONE:
+    - Full Step 1 access/permission review, logged in lawtally_scraper.log.
+    - Machine-readable halt state in lawtally_checkpoint.json.
+    - Schema-only CSV and XLSX deliverables with the required formatting, plus
+      this summary and the permission-request email.
+
+--------------------------------------------------------------------------------
+5. STEP 5 - FINAL VERIFICATION (ACTUAL RESULTS, NOT ESTIMATES)
+--------------------------------------------------------------------------------
+Permission/access status .................. NOT AUTHORIZED - extraction stopped
+Authorized access method .................. None available (no API/export/feed/
+                                           written permission)
+Website-reported listing count ........... 4,269 (user-reported; NOT independently
+                                           verified - verifying would require a
+                                           listing-page request forbidden by STOP)
+Actual number of listings collected ...... 0
+Rows with website URLs ................... 0
+Rows with blank website URLs ............. 0
+Duplicate listings preserved ............. 0 (no deduplication was performed;
+                                           duplicate-preserving logic is required
+                                           if extraction is ever authorized)
+Unresolved individual-lawyer listings .... 0 (no listings processed; none
+                                           misrepresented as law firms)
+Pages processed .......................... 0
+Pages failed ............................. 0 (none attempted)
+Total pages determined ................... Not determined (pagination not tested)
+Retries / HTTP errors / request delays .... 0 / 0 / n/a - no listing requests
+Data rows in CSV ......................... 0 (header only)
+Data rows in XLSX ........................ 0 (header only)
+Columns in both files .................... Exactly 2: "Firm Name", "Website URL"
+
+The 4,269 figure is a REPORTED listing count, not a confirmed number of law
+firms, exactly as specified in the brief. Nothing in this report claims that
+all 4,269 listings were extracted.
+
+--------------------------------------------------------------------------------
+6. OUTPUT FILES (EXACT PATHS)
+--------------------------------------------------------------------------------
+  /home/user/firecrawl/LawTally_US_IP_Listings.csv
+      Header-only CSV, exactly two columns, 0 data rows.
+  /home/user/firecrawl/LawTally_US_IP_Listings.xlsx
+      Single sheet "Listings", exactly two columns, header row, AutoFilter
+      enabled on A1:B1, freeze panes A2, column widths A=48 / B=62, bold styled
+      header, 0 data rows, no deduplication. A1 carries a comment documenting
+      the compliance status.
+  /home/user/firecrawl/lawtally_summary.txt          (this report)
+  /home/user/firecrawl/lawtally_checkpoint.json      (halt state + resume gate)
+  /home/user/firecrawl/lawtally_scraper.log          (access-check / halt log)
+  /home/user/firecrawl/lawtally_permission_request.txt (short permission email)
+
+  Python source files: NONE - intentionally not created, because Step 4 item 6
+  is conditional on authorized extraction.
+
+--------------------------------------------------------------------------------
+7. TECHNICAL AND LEGAL LIMITATIONS
+--------------------------------------------------------------------------------
+LEGAL
+  - Secs. 7 and 13 of the Terms are the binding blockers. Proceeding would be a
+    breach of the Terms the user accepts under Sec. 1, and could additionally
+    raise database-copyright / derivative-work, CFAA-style unauthorised-access,
+    and personal-data (lawyer contact details) considerations.
+  - LawTally may block IPs/accounts at its discretion (Sec. 2). Terms are
+    stated to be governed by the laws of the People's Republic of China (Sec. 14),
+    which adds jurisdiction uncertainty; this is not legal advice.
+  - Third-party scraping vendors advertising "LawTally data" are not LawTally
+    authorisation and were not used.
+  - publicly visible != licensed. No permission was granted in this session.
+
+TECHNICAL / DATA-QUALITY (relevant only if permission is later granted)
+  - Pagination structure and true page count are unknown by design - they were
+    not probed.
+  - LawTally is a profile-centric directory (About Us: 58K+ individual lawyer
+    profiles). Many "listings" are individual lawyers, not firms. Any future
+    extraction must verify that a listing clearly identifies an associated firm
+    before writing a "Firm Name", and must report unmatched profiles separately
+    as unresolved listings rather than inventing a firm name.
+  - Website URLs must come only from the source listing; blanks must stay blank;
+    LawTally profile URLs must never be substituted for official firm websites.
+  - The repo workspace is Firecrawl, a web-scraping framework. Having scraping
+    tooling available does not create authorisation, so none of it was pointed
+    at LawTally.
+
+--------------------------------------------------------------------------------
+8. RESUME / NEXT STEP
+--------------------------------------------------------------------------------
+lawtally_checkpoint.json records status STOPPED_NOT_AUTHORIZED, 0 pages, 0
+records, and a resume gate. There is no partial data to resume from. If LawTally
+grants written permission (or supplies an official API/export/feed), a compliant
+Step 2/3 pipeline can then be built with incremental CSV saving, checkpoint
+resume, error logging, request delays, retries for temporary errors only,
+duplicate preservation, source-order preservation, and page completion only
+after all records on the page are saved. Until then: do not run it.
+
+Suggested immediate action: send lawtally_permission_request.txt to
+help@lawtally.com and await written approval.
+================================================================================

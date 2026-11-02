@@ -1,0 +1,53 @@
+To: help@lawtally.com
+Cc: contact@lawtally.com
+Subject: Request for written permission / data licence - Intellectual Property lawyer directory listings
+
+Dear LawTally Team,
+
+I am writing to request your express written permission (or a data licence /
+official bulk-access arrangement) to collect a limited set of publicly listed
+Intellectual Property lawyer directory data from lawtally.com and store it in a
+CSV / Excel database.
+
+Scope of the request:
+  - Source: the "Intellectual Property" search results in /lawyers/ (reported
+    as approximately 4,269 results).
+  - Fields: firm name and the official website URL shown on each listing only.
+  - Purpose: [state your exact purpose, including whether it is commercial].
+  - Method: automated, rate-limited collection of the result pages, or --
+    preferably -- an official API, export file, or licensed data feed if you
+    offer one.
+  - Volume / duration / redistribution: [state requested volume, term, and
+    whether the data would be shared or republished].
+
+I have reviewed your Terms and Conditions. Section 7 (CONDUCT) states that users
+must not "aggregate, copy or duplicate content on LawTally.com", and Section 13
+(PROPRIETARY RIGHTS) states that "Any reproduction, modification, creation of
+derivative works from or redistribution of the Sites or the collective work is
+prohibited." I have therefore not collected, copied, or aggregated any listings,
+and I will not do so unless you grant permission in writing.
+
+Could you please confirm:
+  1. Whether an official API, export, licensed feed, or other authorised bulk
+     access method exists, and how to obtain access;
+  2. If not, whether you would grant written permission for the scope above,
+     and on what terms (fees, attribution, rate limits, permitted use);
+  3. The correct contact for such a request, if it is not this address.
+
+I am happy to sign a licence agreement, restrict use to non-commercial research,
+honour any rate limits or technical conditions, and cease collection on request.
+
+Thank you for your time.
+
+Kind regards,
+[Your name]
+[Organisation]
+[Email] | [Phone]
+[Date]
+
+---
+Contact addresses published by LawTally (as of 2026-11-02):
+  help@lawtally.com                  - Contact Us page (https://lawtally.com/contact-us/)
+  contact@lawtally.com              - Privacy Policy (rendered as "contact{at}lawtally.com")
+  cs@LawTally.com.com               - Terms sec. 3 copyright agent (verbatim; appears
+                                      to contain a duplicated ".com" typo on the site)
