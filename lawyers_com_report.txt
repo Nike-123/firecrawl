@@ -1,0 +1,142 @@
+================================================================================
+LAWYERS.COM US IP FIRMS - FILE CHECK & BLANK-URL ENRICHMENT REPORT
+================================================================================
+Generated (UTC) : 2026-11-02 (session date)
+Workspace       : /home/user/firecrawl   (branch arena/0b640660-firecrawl)
+Input           : Lawyers_com_US_IP_Firms.csv (user attachment, copied unchanged
+                  to lawyers_com_ORIGINAL_upload.csv)
+
+--------------------------------------------------------------------------------
+1. "ISKO CHECK KARO" - FILE INSPECTION RESULTS
+--------------------------------------------------------------------------------
+Encoding / format : UTF-8 with BOM, CRLF line endings, standard CSV quoting
+Header            : exactly 2 columns -> "Firm Name", "Firm Website URL"
+Total data rows   : 6,164
+Rows with a URL   : 1,302
+Rows with BLANK URL: 4,862   <-- the rows you asked me to fill
+Unique firm names : 6,100
+Duplicate rows    : 64 extra rows across 59 name groups (duplicates preserved)
+Malformed rows    : 0 (every row has exactly 2 columns)
+Blank names       : all 4,862 blank-URL names are distinct (no repeats among them)
+
+Data-quality observations on the EXISTING URLs (left untouched, as instructed):
+  - 15 rows point to directory/profile or unrelated sites rather than a firm
+    homepage (e.g. Avvo profiles, federal-lawyer.com, contactmylawyer.com).
+  - 48 firm names appear with >1 DIFFERENT URL (mostly http vs https of the
+    same site, but some genuinely different domains).
+  - Some rows are not IP firms at all (e.g. "CEO Lawyer Personal Injury Law
+    Firm", "Americas Lemon Lawyer") and ~794 blank rows look like individual
+    attorney names rather than firms.
+  - Example of a bad mapping already in the file: "Krieg DeVault LLP" is paired
+    with https://www.fuchsandroselli.com/ (a different firm) on another row.
+  You said the existing URLs are correct and must be left alone, so I changed
+  NONE of them. This is reported only so you are aware.
+
+--------------------------------------------------------------------------------
+2. WHAT I DID
+--------------------------------------------------------------------------------
+I filled ONLY blank rows for which an authentic, live official firm website was
+individually verified. For each one I (a) located the firm's official domain via
+web search / from another row of your own file, and (b) FETCHED that domain and
+confirmed the firm's own name on the live page. No URL was guessed, no domain
+pattern was invented, no directory/profile URL was used as a substitute.
+
+URLs added this run: 39
+  - 26 externally researched + live-homepage verified
+  - 12 exact-name URLs already present elsewhere in YOUR file, re-verified by
+    fetching the page before copying
+  - 1 unambiguous short-name variant ("Maynard Nexsen" = "Maynard Nexsen PC")
+
+Explicitly INVESTIGATED AND REJECTED (left blank, never guessed) - 5:
+  Waller Lansden Dortch & Davis, LLP  wallerlaw.com now redirects to hklaw.com
+                                      (Holland & Knight); original firm domain
+                                      not confirmed
+  Cabaniss, Johnston, Gardner, Dumas cabaniss.com is now a GoDaddy "domain for
+    & O'Neal LLP                     sale" page; no live official firm site
+  Middleton Reutlinger, P.S.C.       middletonlaw.com says the firm dissolved
+                                      12/31/2022; no active firm site
+  Conrad O'Brien                     conradobrien.com fetch failed twice
+                                      (http + https); unverified
+  Krieg DeVault LLP                  the same-name duplicate in the file points
+                                      to fuchsandroselli.com (different firm);
+                                      deliberately NOT copied
+
+Existing 1,302 URLs: byte-for-byte unchanged (asserted by row-by-row diff).
+Source order, all duplicate rows, and the original header were preserved.
+
+--------------------------------------------------------------------------------
+3. ACTUAL NUMBERS (not estimates)
+--------------------------------------------------------------------------------
+Total rows ........................................ 6,164
+Rows that had a URL before ........................ 1,302  (untouched)
+Rows that were blank before ....................... 4,862
+Blank rows filled with verified URLs .............. 39
+Rows with a URL AFTER this run .................... 1,341
+Rows still BLANK after this run ................... 4,823
+Duplicate rows preserved .......................... 64 extra rows
+New URLs that are directory/profile links ........ 0
+New URLs invented by guessing ..................... 0
+
+IMPORTANT: 4,823 blanks remain. I did NOT fill them, because doing so would
+require guessing thousands of domains. Several real examples above prove that
+search-result domains can be stale (parked for sale, redirected after a merger,
+or a firm that has dissolved). "Original" URLs cannot be produced in bulk by
+pattern-matching; each needs verification.
+
+--------------------------------------------------------------------------------
+4. OUTPUT FILES (EXACT PATHS)
+--------------------------------------------------------------------------------
+  /home/user/firecrawl/Lawyers_com_US_IP_Firms.csv
+      Updated main deliverable: 6,164 rows, exactly 2 columns.
+  /home/user/firecrawl/Lawyers_com_US_IP_Firms.xlsx
+      Same data: 1 sheet, 2 columns, header, AutoFilter A1:B6165, frozen top
+      row (A2), column widths 56/62, duplicates preserved.
+  /home/user/firecrawl/lawyers_com_ORIGINAL_upload.csv
+      Untouched copy of your attachment (for diff / rollback).
+  /home/user/firecrawl/lawyers_com_verified_additions.csv
+      Audit trail: source line, firm, URL added, method, verification evidence.
+  /home/user/firecrawl/lawyers_com_unresolved.csv
+      All 4,823 still-blank rows with the reason each was left blank.
+  /home/user/firecrawl/lawyers_com_checkpoint.json
+      Resumable state: counts, applied line numbers, pending line numbers,
+      rejection list, verification policy.
+  /home/user/firecrawl/lawyers_com_fill.log
+      Run log.
+  /home/user/firecrawl/lawyers_com_apply_verified.py
+      Re-runnable builder. Contains NO network/scraping code - it only applies
+      the hand-verified URL list to blank rows and rebuilds the outputs.
+
+--------------------------------------------------------------------------------
+5. LIMITATIONS / NOTES
+--------------------------------------------------------------------------------
+POLICY CONFLICT (flagged for transparency): the original LawTally project brief
+(Step 2, rule 10) said "Do not use Google, Bing, or other external searches to
+fill missing website URLs." That rule belonged to the LawTally extraction step,
+which was never executed because it was not authorized. Your new instruction
+explicitly asks me to "find karke original add karo" for this SEPARATE
+lawyers.com file, so I used web research - strictly to VERIFY authentic
+official domains, never to invent or approximate them. If you want the original
+rule applied here too, say so and I will revert the 26 externally researched
+fills and keep only the 13 source-internal/variant fills.
+
+SCALE: 4,862 blank rows cannot each be verified within one run. This run
+completed 39 verified fills. The checkpoint lists every pending line so the
+work can continue in batches without re-doing anything.
+
+DATA QUALITY: many blank rows are individual attorneys, sole practitioners or
+defunct/renamed small firms with no findable official site; those legitimately
+have no URL to add. Some will remain blank even after full verification.
+
+TECHNICAL: no proxies, rotating IPs, CAPTCHA services, stealth browsers or
+access-control workarounds were used. Only public web search plus direct
+fetches of the firms' own public homepages.
+
+--------------------------------------------------------------------------------
+6. NEXT STEP / RESUME
+--------------------------------------------------------------------------------
+lawyers_com_checkpoint.json holds status IN_PROGRESS_PARTIAL_VERIFIED with
+4,823 pending source line numbers. To continue, work through
+lawyers_com_unresolved.csv in batches: verify each firm's official homepage,
+add confirmed pairs to VERIFIED in lawyers_com_apply_verified.py, and re-run
+it. It is idempotent, so already-filled and existing URLs are never rewritten.
+================================================================================
