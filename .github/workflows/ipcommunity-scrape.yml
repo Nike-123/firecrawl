@@ -28,7 +28,7 @@ jobs:
           python-version: "3.11"
       - name: Install deps
         run: |
-          pip install requests playwright
+          pip install requests playwright beautifulsoup4
           playwright install --with-deps chromium
       - name: Scrape + verify
         run: |
@@ -52,7 +52,8 @@ jobs:
         run: |
           git config user.name "ipcommunity-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add data/ipcommunity_*.csv data/ipcommunity_stats.json || true
+          git add -f data/ipcommunity_all.csv data/ipcommunity_live.csv \
+                     data/ipcommunity_stats.json data/progress.log data/debug_anchors.txt || true
           git commit -m "data: ipcommunity verified firms [skip ci]" || echo "nothing to commit"
           git pull --rebase origin "${GITHUB_REF_NAME}" || true
           git push origin HEAD:"${GITHUB_REF_NAME}"

@@ -57,11 +57,51 @@ FIELDS = ["firm_name", "practice_areas", "entity_type", "address", "city", "stat
           "page_title", "profile_url", "checked_at", "notes"]
 
 lock = threading.Lock()
+debug_left = [40]
 seen_ids: set[str] = set()
 seen_domains: set[str] = set()
 rows: list[dict] = []
 live: list[dict] = []
 counts: Counter = Counter()
+
+
+PROGRESS = Path("data/progress.log")
+
+
+def log(msg: str) -> None:
+    line = f"[{datetime.now(timezone.utc).strftime('%H:%M:%S')}] {msg}"
+    print(line, flush=True)
+    try:
+        PROGRESS.parent.mkdir(parents=True, exist_ok=True)
+        with PROGRESS.open("a") as fh:
+            fh.write(line + "\n")
+    except Exception:
+        pass
+
+
+def git_checkpoint(note: str, include_csv: bool = False) -> None:
+    """Actions runner se progress repo me push karo (sandbox me logs block hain)."""
+    import os
+    import subprocess
+    branch = os.environ.get("GITHUB_REF_NAME", "")
+    if not branch:
+        return
+    try:
+        subprocess.run(["git", "add", "-f", "data/progress.log"], check=False,
+                       capture_output=True, timeout=60)
+        if include_csv:
+            for f in ("data/ipcommunity_all.csv", "data/ipcommunity_live.csv",
+                      "data/ipcommunity_stats.json", "data/debug_anchors.txt"):
+                subprocess.run(["git", "add", "-f", f], check=False,
+                               capture_output=True, timeout=60)
+        subprocess.run(["git", "commit", "-m", f"data: {note} [skip ci]"], check=False,
+                       capture_output=True, timeout=60)
+        subprocess.run(["git", "pull", "--rebase", "origin", branch], check=False,
+                       capture_output=True, timeout=120)
+        subprocess.run(["git", "push", "origin", f"HEAD:refs/heads/{branch}"], check=False,
+                       capture_output=True, timeout=120)
+    except Exception:
+        pass
 
 
 def now() -> str:
@@ -89,48 +129,72 @@ def clean_site(raw: str | None) -> str | None:
 
 # ------------------------------------------------------------------ profile parse
 
+def extract_web(soup, html: str) -> str:
+    """Profile page se website nikalo.
+
+    Strategy: document order me pehla external anchor jo domain jaisa dikhe,
+    site ke apne social/vendor links aur mailto/tel ko chhod ke.
+    """
+    cands = []
+    for a in soup.find_all("a", href=True):
+        href = (a.get("href") or "").strip()
+        text = a.get_text(" ", strip=True)
+        if href.lower().startswith(("mailto:", "tel:", "javascript:", "#")):
+            continue
+        blob = text if "." in text and " " not in text else href
+        blob = html_unescape(blob)
+        blob = blob.replace("https://http://", "").replace("https://http//", "")
+        blob = blob.replace("http://http://", "").replace("http://http//", "")
+        blob = re.sub(r"^https?://(https?://)", r"\1", blob)
+        low = blob.lower()
+        if "." not in blob or low.startswith(("mailto", "tel")):
+            continue
+        if any(s in low for s in SITE_SOCIALS):
+            continue
+        if "ipcommunity.org" in low:
+            continue
+        cands.append((href, blob))
+    return cands
+
+
+def html_unescape(t: str) -> str:
+    import html as _h
+    return _h.unescape(t or "")
+
+
 def parse_profile(html: str) -> dict:
+    from bs4 import BeautifulSoup
+
     out = {"firm_name": "", "practice_areas": "", "address": "", "city": "", "state": "",
-           "zip": "", "website_declared": "", "region": ""}
+           "zip": "", "website_declared": "", "debug": ""}
+    soup = BeautifulSoup(html, "html.parser")
 
-    m = re.search(r"<h1[^>]*>(.*?)</h1>", html, re.S | re.I)
-    if m:
-        out["firm_name"] = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", m.group(1))).strip()
+    h1 = soup.find("h1")
+    if h1:
+        out["firm_name"] = h1.get_text(" ", strip=True)
 
-    # practice areas: anchors pointing to practicearea=... filters
     areas = re.findall(r"practicearea=([a-z]+)", html)
-    extra = re.search(r"searchkeyword=([^\"&]+)\"[^>]*>(?:<[^>]+>)*\s*([^<]{2,60})", html)
     names = [a.strip().capitalize() for a in dict.fromkeys(areas)]
-    if extra:
-        names.append(extra.group(2).strip())
+    kw = re.findall(r"searchkeyword=[^\"&]+\"[^>]*>(?:<[^>]+>)*\s*([^<]{2,60})</a>", html)
+    for k in kw:
+        k = html_unescape(k).strip()
+        if k and k.lower() not in [n.lower() for n in names]:
+            names.append(k)
     out["practice_areas"] = ", ".join(n for n in dict.fromkeys(names) if n)
 
-    # "Web" field: label Web ke turant baad wala anchor
-    web = None
-    for mt in re.finditer(r"web", html, re.I):
-        seg = html[mt.start(): mt.start() + 900]
-        a = re.search(r"<a[^>]+href=\"([^\"]+)\"[^>]*>(.*?)</a>", seg, re.S | re.I)
-        if not a:
-            continue
-        href, text = a.group(1), re.sub(r"<[^>]+>", "", a.group(2)).strip()
-        cand = text if "." in text else href
-        cand = cand.replace("https://http://", "").replace("https://http//", "")
-        cand = re.sub(r"^https?://(https?://)", r"\1", cand)
-        if "." in cand and not cand.lower().startswith(("mailto", "tel")):
-            web = cand
-            break
-    if web and not any(s in web.lower() for s in SITE_SOCIALS):
-        out["website_declared"] = clean_site(web) or ""
+    cands = extract_web(soup, html)
+    out["debug"] = " | ".join(f"{b}" for _, b in cands[:4])
+    if cands:
+        out["website_declared"] = clean_site(cands[0][1]) or ""
 
-    # address block
-    txt = re.sub(r"<script.*?</script>", " ", html, flags=re.S | re.I)
-    am = re.search(r"Address\s*</?[^>]*>?\s*(.{0,300}?)(City|Postal Address)", txt, re.S | re.I)
+    txt = soup.get_text("\n", strip=True)
+    am = re.search(r"Address\s*\n(.{0,200}?)\n(City|Postal Address)", txt, re.S)
     if am:
-        out["address"] = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", am.group(1))).strip(" ,")
+        out["address"] = re.sub(r"\s+", " ", am.group(1)).strip(" ,")
     for key, label in (("city", "City"), ("state", "State"), ("zip", "Zip Code")):
-        km = re.search(label + r"\s*</?[^>]*>?\s*([^<]{1,60})", txt, re.I)
+        km = re.search(rf"^{label}\s*\n([^\n]{{1,60}})$", txt, re.M)
         if km:
-            out[key] = re.sub(r"\s+", " ", km.group(1)).strip()
+            out[key] = km.group(1).strip()
     return out
 
 
@@ -143,7 +207,7 @@ def verify(site: str) -> tuple[str, str, str, str]:
     if any(h == s or h.endswith("." + s) for s in SOCIAL):
         return "SOCIAL_ONLY", site, "", ""
     try:
-        r = requests.get(site, timeout=15, allow_redirects=True,
+        r = requests.get(site, timeout=12, allow_redirects=True,
                          headers={"User-Agent": UA, "Accept-Language": "en"})
         final = r.url
         title = ""
@@ -219,6 +283,14 @@ def process_one(item: dict, target: int) -> None:
     }
 
     with lock:
+        if debug_left[0] > 0:
+            debug_left[0] -= 1
+            try:
+                with open("data/debug_anchors.txt", "a", encoding="utf-8") as fh:
+                    fh.write(f"{item['url']}\n  name={name}\n  cands={rec.get('debug','')}\n"
+                             f"  declared={declared} -> {status}\n")
+            except Exception:
+                pass
         counts[status] += 1
         rows.append(row)
         if status == "LIVE":
@@ -257,7 +329,7 @@ NEXT_JS = """() => {
 
 def scrape(target: int, max_pages: int, workdir: Path) -> None:
     workdir.mkdir(parents=True, exist_ok=True)
-    pool = ThreadPoolExecutor(max_workers=24)
+    pool = ThreadPoolExecutor(max_workers=32)
 
     with sync_playwright() as p:
         browser = p.chromium.launch(args=["--no-sandbox"])
@@ -279,40 +351,53 @@ def scrape(target: int, max_pages: int, workdir: Path) -> None:
             pass
 
         pages = 0
-        stale = 0
+        fails = 0
+        log(f"start: target={target} live, page size 15")
         while pages < max_pages and len(live) < target:
             rows_now = page.evaluate(ROWS_JS)
             pages += 1
-            with lock:
-                total_seen = len(seen_ids)
-            print(f"page {pages}: {len(rows_now)} rows | profiles seen {total_seen} | "
-                  f"live {len(live)} | {dict(counts)}", flush=True)
-
             for it in rows_now:
                 if len(live) >= target:
                     break
                 pool.submit(process_one, it, target)
 
+            if pages % 10 == 0 or pages <= 3:
+                log(f"page {pages:>4} | checked {len(rows)} | live {len(live)} | {dict(counts)}")
+
+            if pages % 100 == 0:
+                write_csv(Path("data/ipcommunity_all.csv"), rows)
+                write_csv(Path("data/ipcommunity_live.csv"), live)
+                git_checkpoint(f"progress page {pages}, live {len(live)}")
+
             before = page.evaluate(FIRST_ROW_JS)
             clicked = page.evaluate(NEXT_JS)
             if not clicked:
-                print("no next button -> end", flush=True)
-                break
-            # wait for table to change
+                # fallback: real mouse click
+                try:
+                    page.locator('fluent-button[aria-label="Go to next page"]').click(timeout=5000)
+                    clicked = "locator-click"
+                except Exception as e:  # noqa: BLE001
+                    log(f"  no next button ({type(e).__name__}) -> pager html: "
+                        + str(page.evaluate("() => (document.querySelector('.paginator')||{}).innerText"))[:300])
+                    break
+
             changed = False
-            for _ in range(30):
+            for _ in range(40):
                 page.wait_for_timeout(500)
                 if page.evaluate(FIRST_ROW_JS) != before:
                     changed = True
                     break
             if not changed:
-                stale += 1
-                print(f"  page did not change (stale {stale})", flush=True)
-                if stale >= 3:
+                fails += 1
+                log(f"  page {pages+1} did not load (fail {fails}); url={page.url}")
+                if fails >= 4:
+                    # last resort: reload aur usi page se aage badho
+                    log("  4 fails -> stopping pagination")
                     break
-            else:
-                stale = 0
-            time.sleep(1.0)  # politeness
+                page.wait_for_timeout(8000)
+                continue
+            fails = 0
+            time.sleep(0.6)
 
         pool.shutdown(wait=True)
         browser.close()
@@ -352,6 +437,8 @@ def main() -> int:
         "elapsed_minutes": round((time.time() - t0) / 60, 1),
     }
     (wd / "ipcommunity_stats.json").write_text(json.dumps(stats, indent=2))
+    log(f"done: {json.dumps(stats)}")
+    git_checkpoint(f"final {len(live)} live / {len(rows)} checked", include_csv=True)
     print(json.dumps(stats, indent=2))
     return 0 if len(live) >= args.target else 2
 
