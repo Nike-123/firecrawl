@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-11-04 05:59 UTC",
+  "target": 1000,
+  "profiles_checked": 4050,
+  "live_verified": 103,
+  "status_breakdown": {
+    "INVALID": 1,
+    "DEAD": 193,
+    "NO_WEBSITE": 3681,
+    "LIVE": 132,
+    "PARKED": 15,
+    "REDIRECT_OTHER": 28
+  },
+  "elapsed_minutes": 7.2
+}
