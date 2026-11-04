@@ -1,0 +1,58 @@
+name: ipcommunity scrape
+
+on:
+  workflow_dispatch:
+    inputs:
+      target:
+        description: "kitne LIVE verified firms chahiye"
+        default: "1000"
+      max_pages:
+        description: "max listing pages"
+        default: "3000"
+  push:
+    paths:
+      - "tools/ipcommunity_scrape.py"
+      - ".github/workflows/ipcommunity-scrape.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install deps
+        run: |
+          pip install requests playwright
+          playwright install --with-deps chromium
+      - name: Scrape + verify
+        run: |
+          python tools/ipcommunity_scrape.py \
+            --target "${{ github.event.inputs.target || '1000' }}" \
+            --max-pages "${{ github.event.inputs.max_pages || '3000' }}" \
+            --workdir data
+        continue-on-error: true
+      - name: Show stats
+        run: cat data/ipcommunity_stats.json
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ipcommunity-data
+          path: |
+            data/ipcommunity_all.csv
+            data/ipcommunity_live.csv
+            data/ipcommunity_stats.json
+          if-no-files-found: warn
+      - name: Commit results
+        run: |
+          git config user.name "ipcommunity-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/ipcommunity_*.csv data/ipcommunity_stats.json || true
+          git commit -m "data: ipcommunity verified firms [skip ci]" || echo "nothing to commit"
+          git pull --rebase origin "${GITHUB_REF_NAME}" || true
+          git push origin HEAD:"${GITHUB_REF_NAME}"
