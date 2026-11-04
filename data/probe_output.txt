@@ -1,0 +1,14 @@
+=== RAW HTTP (requests) ===
+status: 200 len: 48161
+member links in raw html: 15 unique: 15
+has <table>: True
+has 'An unhandled error': True
+profile 37137: status 200 len 19990
+  profile has 'Web' label: True
+  external hrefs: ['https://http://www.ibm.net', 'https://x.com/IPRCommunity', 'http://www.linkedin.com/in/ipcommunity', 'http://www.facebook.com/pages/IP-Attorneys-Community/156815064397554', 'https://www.jsksoftware.com']
+
+=== PLAYWRIGHT DOM PROBE ===
+dom_probe failed: TimeoutError Page.goto: Timeout 90000ms exceeded.
+Call log:
+  - navigating to "https://www.ipcommunity.org/members?countryid=179", waiting until "networkidle"
+
