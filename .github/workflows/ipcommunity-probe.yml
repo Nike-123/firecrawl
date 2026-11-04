@@ -1,0 +1,36 @@
+name: ipcommunity probe
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "tools/ipcommunity_probe.py"
+      - ".github/workflows/ipcommunity-probe.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install deps
+        run: |
+          pip install requests playwright
+          playwright install --with-deps chromium
+      - name: Run probe
+        run: python tools/ipcommunity_probe.py 2>&1 | tee probe_output.txt
+      - name: Save probe output
+        run: |
+          mkdir -p data
+          cp probe_output.txt data/probe_output.txt
+          git config user.name "ipcommunity-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/probe_output.txt
+          git commit -m "chore: ipcommunity probe output [skip ci]" || echo "nothing to commit"
+          git push
