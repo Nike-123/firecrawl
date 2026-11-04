@@ -1,0 +1,160 @@
+https://www.ipcommunity.org/member/2340/dept-of-the-navy
+  name=Dept Of The Navy
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/14918/kevin-kaster
+  name=Kevin Kaster
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/37137/guerrero-noble-perez-orama-and-guerrero-calderon
+  name=Guerrero-Noble, Perez-Orama & Guerrero-Calderon
+  cands=http://www.ibm.net
+  declared=https://www.ibm.net -> INVALID
+https://www.ipcommunity.org/member/38058/techmark-tm-and-intell-property-law
+  name=TechMark - TM & Intell. Property Law
+  cands=http://www.techmark.com
+  declared=https://www.techmark.com -> DEAD
+https://www.ipcommunity.org/member/9319/the-invention-science-fund-i-llc
+  name=The Invention Science Fund I, LLC
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/9717/law-offices-of-morland-c-fischer
+  name=Law Offices Of Morland C Fischer
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/20551/wallenstein-wagner-and-rockey-ltd
+  name=Wallenstein Wagner & Rockey, Ltd.
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/14119/the-law-office-of-richard-w-james
+  name=The Law Office Of Richard W James
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/22975/3m-innovative-properties-company
+  name=3M Innovative Properties Company
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/1052/glenn-j-perry
+  name=Glenn J. Perry
+  cands=http://www.patlawyer.com
+  declared=https://www.patlawyer.com -> DEAD
+https://www.ipcommunity.org/member/17209/cuspa-technology-law-associates-pa
+  name=Cuspa Technology Law Associates, PA
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/2030/pitney-hardin-kipp-and-szuch-llp
+  name=Pitney Hardin Kipp and Szuch LLP
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/21479/law-office-of-john-s-oki
+  name=Law Office Of John S Oki
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/31778/hahn-and-kinoshita
+  name=Hahn & Kinoshita
+  cands=http://www.hkpatentlaw.com
+  declared=https://www.hkpatentlaw.com -> DEAD
+https://www.ipcommunity.org/member/39125/keil-and-weinkauf
+  name=Keil & Weinkauf
+  cands=http://www.aol.com
+  declared=https://www.aol.com -> LIVE
+https://www.ipcommunity.org/member/13297/afmc-lojaz-us-air-force
+  name=Afmc LO/JAZ US Air Force
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/27771/law-offices-of-clifford-l-tager
+  name=Law Offices Of Clifford L Tager
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/36881/dart-industries-inctupperware-worldwide
+  name=Dart Industries Inc.Tupperware Worldwide
+  cands=http://www.tupperware.com
+  declared=https://www.tupperware.com -> LIVE
+https://www.ipcommunity.org/member/45043/cascio-schmoyer-and-zervas
+  name=Cascio, Schmoyer & Zervas
+  cands=http://www.csziplaw.com
+  declared=https://www.csziplaw.com -> DEAD
+https://www.ipcommunity.org/member/19853/honeywell-intrntl-inc
+  name=Honeywell Intrntl INC
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/15914/pratt-and-whitney
+  name=Pratt and Whitney
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/11693/lee-grosskreuz-hechtel
+  name=Lee Grosskreuz Hechtel
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/9402/fasse-patent-attorneys-pa
+  name=Fasse Patent Attorneys PA
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/28966/elmore-craig-pc
+  name=Elmore Craig, P.C.
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/1125/elliott-n-kramsky-esq
+  name=Elliott N. Kramsky, Esq.
+  cands=http://kramskypctlaw.com
+  declared=https://kramskypctlaw.com -> DEAD
+https://www.ipcommunity.org/member/991/gregory-m-friedlander-and-associates-pc
+  name=Gregory M. Friedlander & Associates, P.C.
+  cands=http://www.gmfpc.com
+  declared=https://www.gmfpc.com -> PARKED
+https://www.ipcommunity.org/member/967/international-patent-agency
+  name=INTERNATIONAL PATENT AGENCY
+  cands=http://www.msn.com
+  declared=https://www.msn.com -> PARKED
+https://www.ipcommunity.org/member/53530/911-bail-bonds
+  name=911 Bail Bonds
+  cands=http://911bailbondslv.com
+  declared=https://911bailbondslv.com -> DEAD
+https://www.ipcommunity.org/member/3339/law-office-of-n-thane-bauz
+  name=Law Office of N. Thane Bauz
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/22706/dennis-plank
+  name=Dennis Plank
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/16739/ibm-microelectronics-div
+  name=IBM Microelectronics Div
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/10206/jay-friedenson
+  name=Jay Friedenson
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/23402/reginald-ratliff
+  name=Reginald Ratliff
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/26202/singla-patent-services-inc
+  name=Singla Patent Services, Inc.
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/1509/darby-and-darby-pc
+  name=Darby & Darby P.C.
+  cands=http://www.darbylaw.com
+  declared=https://www.darbylaw.com -> LIVE
+https://www.ipcommunity.org/member/12984/solvay-engineered-polymers
+  name=Solvay Engineered Polymers
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/6179/flehr-hohbach-test-albritton-and-herbert-llp
+  name=Flehr Hohbach Test Albritton and Herbert LLP
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/2233/waddy-and-patterson-pc
+  name=Waddy & Patterson, P.C.
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/25782/howard-sheerin
+  name=Howard Sheerin
+  cands=
+  declared= -> NO_WEBSITE
+https://www.ipcommunity.org/member/27707/sylke-law-offices-llc
+  name=Sylke Law Offices LLC
+  cands=
+  declared= -> NO_WEBSITE
