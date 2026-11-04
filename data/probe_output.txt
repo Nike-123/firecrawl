@@ -1,14 +1,16 @@
-=== RAW HTTP (requests) ===
-status: 200 len: 48161
-member links in raw html: 15 unique: 15
-has <table>: True
-has 'An unhandled error': True
-profile 37137: status 200 len 19990
-  profile has 'Web' label: True
-  external hrefs: ['https://http://www.ibm.net', 'https://x.com/IPRCommunity', 'http://www.linkedin.com/in/ipcommunity', 'http://www.facebook.com/pages/IP-Attorneys-Community/156815064397554', 'https://www.jsksoftware.com']
+title: List of IP Attorneys, Lawyers and Agents in United States of America
+rows: 15
+pager candidates:
+   {'i': 23, 'tag': 'A', 'text': '3M Innovative Properties Compa', 'cls': '', 'aria': '', 'dis': False}
+   {'i': 24, 'tag': 'A', 'text': '911 Bail Bonds', 'cls': '', 'aria': '', 'dis': False}
 
-=== PLAYWRIGHT DOM PROBE ===
-dom_probe failed: TimeoutError Page.goto: Timeout 90000ms exceeded.
-Call log:
-  - navigating to "https://www.ipcommunity.org/members?countryid=179", waiting until "networkidle"
+container html: [class*=paginator] => <div class="paginator" b-mskuhp0vb1=""><div class="summary" b-mskuhp0vb1=""><strong b-mskuhp0vb1="">38059</strong> items</div><!--!-->
+        <nav role="navigation" class="paginator-nav" b-mskuhp0vb1=""><!--!--><!--!--> <fluent-button type="button" disabled="" title="Go to first page" appearance="neutral" class="neutral disabled" aria-label="Go to first page" b-x1200685t0="" _bl_f569c7d1-0cc9-4035-a2d2-f4702e0f2405="" current-value=""><!--!--><svg style="width: 20px; fill: var(--accent-fill-rest);" focusable="false" viewBox="0 0 20 20" aria-hidden="true"><!--!--><path d="M11.35 15.85a.5.5 0 0 1-.7 0L5.16 10.4a.55.55 0 0 1 0-.78l5.49-5.46a.5.5 0 1 1 .7.7L6.2 10l5.16 5.15c.2.2.2.5 0 .7Zm4 0a.5.5 0 0 1-.7 0L9.16 10.4a.55.55 0 0 1 0-.78l5.49-5.46a.5.5 0 1 1 .7.7L10.2 10l5.16 5.15c.2.2.2.5 0 .7Z"></path></svg></fluent-button><!--!-->
+            <!--!--><!--!--> <fluent-button type="button" disabled="" title="Go to previous page" appearance="neutral" class="neutral disabled" aria-label="Go to previous page" b-x1200685t0="" _bl_8e511b05-7541-4bef-a287-a01d7d87d765="" current-value=""><!--!--><svg style="width: 20px; fill: var(--accent-fill-rest);" focusable="false" viewBox="0 0 24 24" a
 
+first row before: Guerrero-Noble, Perez-Orama & Guerrero-Calderon
+click result: no next candidate
+first row after : Guerrero-Noble, Perez-Orama & Guerrero-Calderon | changed: False
+url now: https://www.ipcommunity.org/members?countryid=179
+strategy2: no page-2 button
+first row now: Guerrero-Noble, Perez-Orama & Guerrero-Calderon | url: https://www.ipcommunity.org/members?countryid=179
