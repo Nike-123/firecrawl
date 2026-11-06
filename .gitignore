@@ -66,3 +66,4 @@ apps/api/src/lib/scrape-interact/*.md
 vitest.out
 
 tmp/sl_ip_verification/work/batch_*.json
+sl_ip_verification/work/sheets_*.json
