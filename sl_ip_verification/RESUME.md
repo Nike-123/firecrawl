@@ -119,11 +119,41 @@ Key sub-rules that decided actual rows:
    **sn 172** `wantathome.com` + `hjlawfirm.com` (AMBIGUOUS).
 4. After every batch: `python3 scripts/build_outputs.py && python3 scripts/verify_outputs.py`.
 
-## Known blocker for a Google Sheets export
+## Google Sheet edition — BUILT AND VERIFIED
 
-The Notes column totals **1,479,640 characters** (~370 k tokens) across 216 rows. The Sheets
-connector passes every cell value inline through model output, so pushing full Notes into a
-sheet is not feasible in any reasonable number of `batch_update_values` calls. The XLSX and CSV
-in `output/` carry the full text and can be imported into Sheets directly (a cell holds up to
-50,000 characters; the longest note here is 13,474). Alternatives if a native sheet is required:
-truncated Notes in Sheets plus the full CSV as the record, or full Notes for a named subset.
+Spreadsheet: **Super Lawyers - IP Practice Verification (2026-11-06)**
+`https://docs.google.com/spreadsheets/d/1LRYq-I2WSRLJ0-BccLHH-OyapBkWkRb-o6bzw_TDocA/edit`
+`spreadsheet_id = 1LRYq-I2WSRLJ0-BccLHH-OyapBkWkRb-o6bzw_TDocA`
+
+| Tab | sheet_id | Contents |
+| --- | --- | --- |
+| `IP Verification` | 1754575256 | header + 216 rows, A1:L217, 12 columns in the required order |
+| `Summary` | 147577980 | `Summary.txt` in A1:A60 plus a truncation-disclosure block in A61:A74 |
+| `Error Log` | 47903829 | `Error_Log.txt`, complete and untruncated, A1:A166 |
+
+Formatting: frozen header row, autofilter on A1:L217, bold white-on-`1F3864` header with wrap,
+per-column widths, coloured tabs.
+
+**The Notes column in the Sheet is truncated to the first 500 characters** and every one of the
+216 cells ends with the marker
+`[… FULL NOTE: n chars, complete text in Super_Lawyers_IP_Verification.csv and .xlsx]`, where `n`
+is that note's true length. The other 11 columns are complete and untruncated in the Sheet.
+Reason: the connector sends every cell value inline through model output and the Notes column
+totals **1,479,746 characters** (~370 k tokens), which cannot be pushed through it. The Sheet's
+own `Summary` tab states this in writing. A Sheets cell holds 50,000 characters and the longest
+note here is 13,474, so the API was never the limit — context was.
+
+Verified after writing, by `query_table` against the built files: 216 data rows, sn 1–216;
+Firm Verification Status VERIFIED 167 / SOLO PRACTICE 46 / AMBIGUOUS 3; Website Verification
+Status NOT YET VERIFIED 200 / WEBSITE VERIFIED 12 / NOT APPLICABLE 4; single Verification Date
+2026-11-06 on all 216 rows; 12 rows carrying `QUALIFIED:` in IP Practice Evidence; 216 rows
+carrying the truncation marker. Spot checks: sn 7 Alonzo M. Alston SOLO PRACTICE + WEBSITE
+VERIFIED, sn 22 Michael Boehringer / sn 48 Alexandra Devine / sn 172 Neven Selimovic AMBIGUOUS,
+sn 212 Chun T. Wright SOLO PRACTICE, sn 216 Kelly desRosiers in row 217.
+
+Regenerating the payload: `python3 scripts/make_sheets_chunks.py` writes
+`work/sheets_chunk_00.json` … `sheets_chunk_18.json` plus `work/sheets_tab_summary.json` and
+`work/sheets_tab_errorlog.json` (NOTE_CAP 500, CHUNK_CHARS 17000). Those files are git-ignored.
+Read **one** chunk file per `bash` call — `cat`-ing two or three at once silently truncates the
+middle of the output. There is no file-import tool in this connector, so every value is written
+inline; ~16 k characters of payload per call is the practical ceiling.
