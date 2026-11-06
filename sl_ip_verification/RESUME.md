@@ -157,3 +157,76 @@ Regenerating the payload: `python3 scripts/make_sheets_chunks.py` writes
 Read **one** chunk file per `bash` call — `cat`-ing two or three at once silently truncates the
 middle of the output. There is no file-import tool in this connector, so every value is written
 inline; ~16 k characters of payload per call is the practical ceiling.
+
+
+## Just Great Lawyers tab — second dataset (added 2026-11-06)
+
+Second upload: Just_Great_Lawyers_Verified.csv, 176 rows, 9 columns, utf-8-sig with a BOM and CRLF
+line endings. Preserved byte-identically at input_original/just_great_lawyers_original.csv
+(65,659 bytes, sha256 2a4e8ffbdf287610e86b582f57f02c9752e409b7b2cf59ae0e3c087f14a6e733).
+
+The user asked for ONLY two fields from it — the law firm name and that firm's website URL — added to
+the existing spreadsheet. Delivered as a new tab in the SAME spreadsheet:
+
+  tab            Just Great Lawyers   sheet_id 659568122   index 1 (right after IP Verification)
+  header A1:D1   Serial Number | Person Name | Law Firm Name | Official Firm Website URL
+  data           A2:D177 (176 rows, 708 cells) — written in ONE batch_update_values, 3 ranges
+  formatting     frozen row 1, basic filter A1:D177, header bold/white on 1F3864 wrapped, 56px row
+                 widths A46 B230 C420 D320, legend column F (620px) F1:F10
+  tab colour     rgb 0.35 / 0.42 / 0.62
+
+Serial Number and Person Name were added on my own judgement so a row can be identified at all; the
+user never asked for them. Offer to strip them if they want a strict 2-column tab.
+
+VERIFIED IN-SHEET (query_table + 6 batch_get_values spot checks against the source CSV):
+  count(A) 176, min 1, max 176 — count(C) 146 rows carry a firm name, count(D) 119 carry a website.
+  Both tallies equal 176 minus the source's own blanks (30 and 57), so nothing was invented or lost.
+  Spot checks sn 1, 44, 61, 79, 133, 176 all byte-identical to the upload, including the curly
+  quotes in Robert D. “Bob” Katz and the blank C/D on sn 176.
+
+THE BLANKS ARE THE SOURCE FILE'S, NOT MINE. This upload is itself a verification output and already
+published no value for some rows:
+  Law Firm Name blank on 30 rows: 7, 10, 24, 25, 27, 28, 29, 33, 49, 56, 69, 80, 95, 101, 103, 113,
+    114, 128, 134, 138, 143, 145, 148, 158, 162, 164, 168, 172, 175, 176
+  Official Firm Website URL blank on 57 rows: 4, 7, 9, 10, 24, 25, 27, 28, 29, 33, 39, 43, 47, 49,
+    50, 56, 63, 69, 70, 73, 80, 90, 95, 101, 103, 104, 107, 110, 113, 114, 115, 118, 119, 126, 128,
+    134, 136, 137, 138, 141, 142, 143, 145, 148, 149, 150, 158, 159, 162, 164, 168, 169, 171, 172,
+    173, 175, 176
+  Evidence URL blank on 9 rows: 24, 25, 29, 56, 69, 95, 103, 134, 162
+  Firm Verification Status in the source: VERIFIED 132, AMBIGUOUS 29, NOT FOUND 13, SOLO PRACTICE 2
+  Website Verification Status: VERIFIED 119, WEBSITE NOT VERIFIED 42, NOT FOUND 14, N/A 1
+  116 unique domains; three serve two rows each — cohnlg.com (sn 2, 3), themyerslg.com (71, 72),
+    haynesboone.com (116, 170).
+  7 rows publish several candidate firms separated by a slash because the source could not resolve
+    the current one: sn 4, 39, 43, 50, 70, 110, 150.
+  Encoding defect copied verbatim, NOT silently corrected: sn 133 reads O?Melveny & Myers LLP — the
+    apostrophe in O'Melveny was already lost upstream. The real firm is O'Melveny & Myers LLP (omm.com).
+
+If the user wants the 87 blank cells researched, the columns NOT copied into the sheet — Lawyer
+Profile URL, Evidence URL, both status columns, Notes — are still in the preserved upload and are the
+starting point for each row.
+
+Regenerate the tab payload with: python3 scripts/make_jgl_chunks.py
+  -> work/jgl_chunk_00.json (A2:D153, 152 rows) and work/jgl_chunk_01.json (A154:D177, 24 rows).
+Those are git-ignored, so they must be re-made after any restart.
+
+## Durability incident 2026-11-06 — the global *.csv ignore ate two files
+
+The upstream .gitignore carries a bare `*.csv` rule. Because of it, neither input_original/*.csv nor
+output/Super_Lawyers_IP_Verification.csv was ever committed, and a workspace restore wiped them from
+disk while every tracked file came back. Recovery:
+
+  input_original/superlawyers_original.csv — restored from /tmp/arena-coding-uploads/superlawyers.csv
+    (that upload IS the Task 1 source, not an unrelated file). Re-checked against the tracked
+    work/input_records.json: 216 rows, 0 mismatches. sha256
+    89c53c521c9a038abf7f62c2a2f4a50330efa4fe655ff8614ebb93c99348f884, 30,400 bytes.
+  output/Super_Lawyers_IP_Verification.csv — rebuilt with scripts/build_outputs.py from the tracked
+    profiles.jsonl + sites.jsonl. Came back at exactly 1,629,219 bytes, and verify_outputs.py passes
+    all 15 checks again (CSV and XLSX agree cell for cell).
+
+Fix now committed: two negation rules in .gitignore —
+  !sl_ip_verification/input_original/*.csv
+  !sl_ip_verification/output/*.csv
+RULE: after any new CSV deliverable or upload is written, confirm with `git ls-files` that it is
+tracked. A file that is not in git does not survive a restart. openpyxl does not survive either;
+reinstall with pip3 install --break-system-packages openpyxl before running build_outputs.py.

@@ -68,3 +68,7 @@ vitest.out
 tmp/sl_ip_verification/work/batch_*.json
 sl_ip_verification/work/sheets_*.json
 sl_ip_verification/work/jgl_*.json
+
+# deliverable + source CSVs for the verification project (global *.csv ignore would lose them)
+!sl_ip_verification/input_original/*.csv
+!sl_ip_verification/output/*.csv

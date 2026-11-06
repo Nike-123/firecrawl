@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# preserve the uploaded/delivered CSVs exactly as written - no line-ending conversion
+sl_ip_verification/input_original/*.csv -text
+sl_ip_verification/output/*.csv -text
