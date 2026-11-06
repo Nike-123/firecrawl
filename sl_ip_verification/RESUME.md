@@ -262,3 +262,50 @@ differences, and asserts the blank census equals the source's (30 firm names, 57
 Gotcha worth remembering: openpyxl writes "" but reads it back as None, so the comparison must treat
 those as equal - the first run reported 96 and 87 false mismatches for exactly that reason
 (96 = 30 + 57 + 9, 87 = 30 + 57).
+
+
+## Standalone Just Great Lawyers Google Sheet (added 2026-11-06)
+
+The user then asked for this dataset ALONE in a Google Sheet of its own, not as a tab inside the
+Super Lawyers workbook. Built as a separate spreadsheet mirroring the Excel deliverable.
+
+  spreadsheet_id  1JRbuBs2ny1OcPS56Q6_o9UxEVGm-SZk_V5-j1Yk_YoM
+  title           Just Great Lawyers - Verified (2026-11-06)
+  url             https://docs.google.com/spreadsheets/d/1JRbuBs2ny1OcPS56Q6_o9UxEVGm-SZk_V5-j1Yk_YoM/edit
+
+  tab 0  Just Great Lawyers      sheet_id 0          A1:I177  all 9 source columns
+         frozen row 1, filter A1:I177, header bold white on 1F3864 wrapped, 40px header row
+         widths A44 B200 C300 D280 E230 F:G150 H340 I520; D, H, I wrapped and top-aligned;
+         A and F:G centred; tab colour 1F3864
+  tab 1  Firm and Website Only   sheet_id 1964516267  A1:D177  the 4-column narrow view
+         obtained with copy_sheet from sheet 659568122 of the Super Lawyers workbook, so the data,
+         widths, frozen row, filter and tab colour came across intact; F1:Z400 then cleared to drop
+         the READ ME legend that belonged to the old tab. tab colour 59699E
+  tab 2  Read Me                 sheet_id 1975474507  A1:A44, column width 1050, wrapped, tab 2D8C3D
+
+Payload generator: scripts/make_jgl_standalone_chunks.py -> work/jgl_standalone_*.json (git-ignored).
+CAP 9500 chars per chunk. It emitted a header chunk plus 8 data chunks for the full tab
+(A2:I24, A25:I48, A49:I70, A71:I95, A96:I118, A119:I143, A144:I166, A167:I177), 2 for the narrow
+tab and 1 for Read Me - 87,434 chars total. Written with value_input_option RAW in three
+batch_update_values calls: 630 + 657 + 306 cells on the full tab = 1593 cells (9 header + 176 x 9).
+
+VERIFIED IN-SHEET against the preserved upload:
+  query_table counts   A 176, B 176, C 176, D 146, E 119, F 176, G 176, H 167, I 176
+                       (D, E, H equal 176 minus the source's own 30, 57, 9 blanks)
+  firm status group-by    VERIFIED 132, AMBIGUOUS 29, NOT FOUND 13, SOLO PRACTICE 2   -- matches source
+  website status group-by VERIFIED 119, WEBSITE NOT VERIFIED 42, NOT FOUND 14, NOT APPLICABLE 1 -- matches
+  narrow tab counts    176 rows, 146 firm names, 119 websites, sn 1..176
+  5 whole rows (sn 79, 102, 133, 161, 176) read back with batch_get_values and compared field by
+  field against the CSV: identical, including the curly quotes in Robert D. “Bob” Katz and
+  Richard “Rocky” L. Schwartz, the accented Andéa Tullo-Searle, the source's own mangled
+  apostrophes (O?Melveny, Richard ?Rocky?, this record?s) and the empty C/D/E on sn 176.
+
+TWO TRAPS HIT HERE, worth remembering:
+  1. A sheet name containing '+' breaks A1 range parsing - clear_values on
+     'Firm + Website Only'!F1:Z400 failed with "Unable to parse range: 'Firm Website Only'!F1:Z400"
+     because the plus sign was dropped in transit. Renamed the tab to 'Firm and Website Only'.
+     Never put a '+' in a Google Sheet tab name that a tool must address by A1 range.
+  2. Writing Serial Number with value_input_option RAW keeps it TEXT, so query_table's max(A)
+     returned "99" (lexicographic) instead of 176. Fixed by rewriting A2:A177 with USER_ENTERED.
+     The narrow tab, written earlier with USER_ENTERED, already held numbers - which is what exposed
+     the inconsistency. Prefer USER_ENTERED for numeric columns, or expect text-sort artefacts.
