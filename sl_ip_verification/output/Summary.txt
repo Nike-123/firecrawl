@@ -1,0 +1,60 @@
+SUPER LAWYERS - INTELLECTUAL PROPERTY PRACTICE VERIFICATION
+Summary of results
+Generated: 2026-11-06 15:17:13 UTC
+Verification date recorded on every row: 2026-11-06
+
+ROWS
+  Rows in the uploaded input file ....... 216
+  Rows in the output workbook ........... 216
+  Serial numbers ........................ 1 - 216, contiguous, no duplicates
+  Unique person names ................... 216
+  Unique Super Lawyers profile URLs ..... 216
+
+FIRM VERIFICATION STATUS
+  AMBIGUOUS      3
+  SOLO PRACTICE  46
+  VERIFIED       167
+
+WEBSITE VERIFICATION STATUS
+  NOT APPLICABLE       4
+  NOT YET VERIFIED     200
+  WEBSITE VERIFIED     12
+  (NOT YET VERIFIED = the firm domain has not been fetched yet; Phase B is in progress.)
+
+PHASE B PROGRESS (firm-website checks)
+  Unique firm names published ........... 193
+  Unique firm domains published ......... 189
+  Domains fetched and saved ............. 10
+  Domains still to fetch ................ 179
+  Domains shared by 2+ rows ............. 16
+
+IP PRACTICE EVIDENCE
+  Rows with published IP evidence ....... 216
+  Rows where IP is "Not established" .... 0  
+  Every one of the 216 profiles publishes at least one IP term in its
+  headline, practice split, practice areas or focus areas, so this column is
+  never empty. HOW WELL each claim is substantiated varies row by row and is
+  analysed in the Notes column: rows whose own note qualifies the claim carry
+  a "QUALIFIED:" prefix in the IP Practice Evidence cell.
+  Rows carrying that qualification ...... 12  [3, 78, 85, 90, 99, 114, 142, 151, 175, 176, 191, 198]
+
+ROWS WITH NO PUBLISHED WEBSITE / PROFESSIONAL WEBPAGE
+  No official law firm website .......... 4  [64, 79, 195, 207]
+  No Professional Webpage ............... 10  [6, 19, 22, 51, 64, 79, 99, 172, 195, 207]
+
+NOTES COLUMN (characters)
+  Minimum ....... 3401
+  Median ........ 6519
+  Maximum ....... 13474
+  Total ......... 1479746
+  Cells over Excel's 32,767-character limit (truncated in the XLSX only, full text kept in the CSV): 0 []
+
+REVIEW QUEUE (ambiguous firm identity or failed website check)
+  3 rows: [22, 48, 172]
+
+FILES
+  Super_Lawyers_IP_Verification.xlsx         463940 bytes
+  Super_Lawyers_IP_Verification.csv          1629219 bytes
+  Summary.txt                                2376 bytes
+  Checkpoint.json                            1178 bytes
+  Error_Log.txt                              14084 bytes

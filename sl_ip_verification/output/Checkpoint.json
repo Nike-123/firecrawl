@@ -1,0 +1,45 @@
+{
+  "project": "Super Lawyers IP practice verification",
+  "generated_utc": "2026-11-06T15:17:13+00:00",
+  "verification_date": "2026-11-06",
+  "input_rows": 216,
+  "output_rows": 216,
+  "phase_a": {
+    "status": "COMPLETE",
+    "profiles": 216,
+    "file": "work/profiles.jsonl",
+    "firm_verification_tally": {
+      "SOLO PRACTICE": 46,
+      "VERIFIED": 167,
+      "AMBIGUOUS": 3
+    }
+  },
+  "phase_b": {
+    "status": "IN PROGRESS",
+    "domains_total": 189,
+    "domains_fetched": 10,
+    "domains_pending": 179,
+    "queue_file": "work/phase_b_queue.txt",
+    "findings_file": "work/sites.jsonl",
+    "website_verification_tally": {
+      "WEBSITE VERIFIED": 12,
+      "NOT YET VERIFIED": 200,
+      "NOT APPLICABLE": 4
+    }
+  },
+  "review_queue": [
+    22,
+    48,
+    172
+  ],
+  "notes_characters_total": 1479746,
+  "notes_cells_truncated_for_excel": [],
+  "outputs": {
+    "xlsx": "output/Super_Lawyers_IP_Verification.xlsx",
+    "csv": "output/Super_Lawyers_IP_Verification.csv",
+    "summary": "output/Summary.txt",
+    "checkpoint": "output/Checkpoint.json",
+    "error_log": "output/Error_Log.txt"
+  },
+  "rebuild_command": "python3 scripts/build_outputs.py"
+}

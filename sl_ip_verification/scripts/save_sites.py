@@ -23,7 +23,8 @@ def norm(d):
     return d[4:] if d.startswith('www.') else d
 
 def main():
-    incoming = json.load(sys.stdin)
+    raw = sys.stdin.read().strip()
+    incoming = json.loads(raw) if raw else []
     if not isinstance(incoming, list):
         sys.exit('stdin must be a JSON array')
     existing = {}
@@ -59,6 +60,18 @@ def main():
             f.write(json.dumps(existing[k], ensure_ascii=False) + '\n')
     print('sites saved:', saved, '| total domains:', len(order))
     todo = int(os.environ.get('NEXT_N', '12'))
-    print('PENDING domains:', 216 and max(0, todo))
+    queue = os.path.join(HERE, 'work', 'phase_b_queue.txt')
+    pending = []
+    if os.path.exists(queue):
+        for line in open(queue, encoding='utf-8'):
+            line = line.strip()
+            if not line:
+                continue
+            parts = line.split('|')
+            if norm(parts[0]) not in existing:
+                pending.append(line)
+    print('PENDING domains:', len(pending))
+    for line in pending[:todo]:
+        print(line)
 if __name__ == '__main__':
     main()

@@ -6,7 +6,8 @@ recs = []
 if os.path.exists(P):
     recs = [json.loads(l) for l in open(P, encoding='utf-8')]
 by = {r['sn']: i for i, r in enumerate(recs)}
-new = json.load(sys.stdin)
+raw = sys.stdin.read().strip()
+new = json.loads(raw) if raw else []
 for r in new:
     if r['sn'] in by:
         recs[by[r['sn']]] = r
