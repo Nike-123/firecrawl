@@ -65,4 +65,4 @@ apps/api/src/lib/scrape-interact/*.md
 # stray test runner logs
 vitest.out
 
-tmp/
+tmp/sl_ip_verification/work/batch_*.json
