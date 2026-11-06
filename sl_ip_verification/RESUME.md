@@ -230,3 +230,35 @@ Fix now committed: two negation rules in .gitignore —
 RULE: after any new CSV deliverable or upload is written, confirm with `git ls-files` that it is
 tracked. A file that is not in git does not survive a restart. openpyxl does not survive either;
 reinstall with pip3 install --break-system-packages openpyxl before running build_outputs.py.
+
+
+## Just Great Lawyers Excel deliverable (added 2026-11-06)
+
+The user then asked for this dataset on its own as an Excel file, not only as a Google Sheet tab.
+
+  output/Just_Great_Lawyers_Verification.xlsx   51,999 bytes
+  built by scripts/build_jgl_xlsx.py from input_original/just_great_lawyers_original.csv
+  (source sha256 2a4e8ffbdf287610e86b582f57f02c9752e409b7b2cf59ae0e3c087f14a6e733, 65,659 bytes)
+
+Three sheets:
+  1. Just Great Lawyers   A1:I177 - all 9 source columns, freeze A2, filter A1:I177, tab 1F3864
+                          widths 9/30/50/40/34/19/21/58/92, Notes + Evidence + firm name wrapped
+  2. Firm + Website Only  A1:D177 - Serial Number, Person Name, Law Firm Name, Official Firm Website URL
+                          freeze A2, filter A1:D177, tab 59699E, widths 9/32/46/38
+  3. Read Me              45 rows - provenance, blank-cell census with serial numbers, status tallies,
+                          source defects, colour key, tab 2D8C3D
+
+295 live hyperlinks (176 profile URLs + 119 website URLs on sheet 1, 119 on sheet 2). Evidence URL is
+plain text on purpose: that cell often holds several semicolon-separated URLs.
+
+Status cells are colour-coded exactly as published: Firm VERIFIED 132, AMBIGUOUS 29, NOT FOUND 13,
+SOLO PRACTICE 2. Website VERIFIED 119, WEBSITE NOT VERIFIED 42, NOT FOUND 14, NOT APPLICABLE 1.
+Empty cells are tinted pale amber FFF2CC and left EMPTY - blanks are the source's own and are never
+filled in from memory.
+
+The builder verifies itself: it reloads the saved workbook and compares all 176 x 9 plus 176 x 4 cells
+against the CSV. It reports RESULT: WORKBOOK MATCHES THE SOURCE CELL FOR CELL only when there are zero
+differences, and asserts the blank census equals the source's (30 firm names, 57 websites, 9 evidence).
+Gotcha worth remembering: openpyxl writes "" but reads it back as None, so the comparison must treat
+those as equal - the first run reported 96 and 87 false mismatches for exactly that reason
+(96 = 30 + 57 + 9, 87 = 30 + 57).
