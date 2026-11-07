@@ -66,3 +66,5 @@ apps/api/src/lib/scrape-interact/*.md
 vitest.out
 
 tmp/
+# data-cleaning deliverables used as a public data source for Google Sheets
+!data-cleaning/sheet-data/*.csv

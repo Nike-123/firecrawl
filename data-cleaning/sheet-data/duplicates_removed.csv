@@ -1,0 +1,476 @@
+Source Line,Dropped Firm Name,Dropped Website,Domain,Reason,Kept Firm Name,Kept Website
+52,Akin,https://akingump.com,akingump.com,name variant of another firm (same verified website),"Akin, Gump, Strauss, Hauer & Feld, LLP",https://akingump.com
+122,APEX LEGAL PLLC,https://apex-legal.com,apex-legal.com,duplicate firm name (source websites differ),Apex Law Group LLP,https://apexlg.com
+175,Axinn LLP,https://axinn.com,axinn.com,name variant of another firm (same verified website),"Axinn, Veltrop & Harkrider LLP",https://axinn.com
+215,Bardacke Allison LLP,https://bardackeallison.com,bardackeallison.com,name variant of another firm (same verified website),Bardacke Allison Miller LLP,https://bardackeallison.com
+260,Bell Nunnally LLP,https://bellnunnally.com,bellnunnally.com,name variant of another firm (same verified website),Bell Nunnally & Martin LLP,https://bellnunnally.com
+593,Clifford Chance,https://cliffordchance.com,cliffordchance.com,name variant of another firm (same verified website),Clifford Chance US LLP,https://cliffordchance.com
+644,"Conwell Business Law, LLLP",https://conwellbusinesslaw.com,conwellbusinesslaw.com,duplicate firm name (same website),Conwell Business Law,https://conwellbusinesslaw.com
+778,Dentons,https://dentons.com,dentons.com,name variant of another firm (same verified website),Dentons Bingham Greenebaum,https://dentons.com
+816,Dobrusin Law Firm,https://patentco.com,patentco.com,name variant of another firm (same verified website),Dobrusin IP Law,https://patentco.com
+929,Eversheds Sutherland LLP,https://eversheds-sutherland.com,eversheds-sutherland.com,name variant of another firm (same verified website),Eversheds Sutherland (US) LLP,https://eversheds-sutherland.com
+960,Fellers Snider,https://fellerssnider.com,fellerssnider.com,name variant of another firm (same verified website),Fellers Snider Blankenship Bailey & Tippens PC,https://fellerssnider.com
+965,Fennemore PC,https://fennemorelaw.com,fennemorelaw.com,name variant of another firm (same verified website),Fennemore Craig PC,https://fennemorelaw.com
+1071,GableGotwals,https://gablelaw.com,gablelaw.com,"name variant of another firm (same firm, different spelling)","Gable & Gotwals, Inc.",https://gablelaw.com
+1181,Grant & Shenon,https://grantshenon.com,grantshenon.com,name variant of another firm (same verified website),"Grant | Shenon | Almaraz, APLC",https://grantshenon.com
+1199,Greene Espel P.L.L.P.,https://greeneespel.com,greeneespel.com,name variant of another firm (same verified website),Greene Espel PLLP,https://greeneespel.com
+1337,Hillary Johns,https://hillarytriallawyers.com,hillarytriallawyers.com,name variant of another firm (same verified website),"Hillary Johns, Trial Lawyer",https://hillarytriallawyers.com
+1342,Hinckley Allen LLP,https://hinckleyallen.com,hinckleyallen.com,name variant of another firm (same verified website),Hinckley Allen & Snyder LLP,https://hinckleyallen.com
+1346,Hirschler PC,https://hirschlerlaw.com,hirschlerlaw.com,name variant of another firm (same verified website),Hirschler Fleischer PC,https://hirschlerlaw.com
+1358,Honigman LLP,https://honigman.com,honigman.com,name variant of another firm (same verified website),Honigman LLP Attorneys & Counselors,https://honigman.com
+1555,Karolyn Knaack,http://knaacklaw.com,knaacklaw.com,name variant of another firm (same verified website),"Karolyn A. Knaack, P.C.",http://knaacklaw.com
+1647,Knobbe Martens,https://knobbe.com,knobbe.com,name variant of another firm (same verified website),Knobbe Martens Olson Bear LLP,https://knobbe.com
+1652,Koley Jessen,https://koleyjessen.com,koleyjessen.com,name variant of another firm (same verified website),Koley Jessen PC LLO,https://koleyjessen.com
+1798,Law Offices of Lloyd S. Mann,https://themannlaw.com,themannlaw.com,name variant of another firm (same verified website),Law Offices of Lloyd S. Mann a Professional Law Cooperation,https://themannlaw.com
+1840,Leech Tishman LLC,https://leechtishman.com,leechtishman.com,name variant of another firm (same verified website),Leech Tishman (Westwood),https://leechtishman.com
+1908,Loftin Holt LLP,https://loftinholt.com,loftinholt.com,name variant of another firm (same verified website),Loftin Holt Hall & Hargett LLP,https://loftinholt.com
+1922,Lowndes,https://lowndes-law.com,lowndes-law.com,name variant of another firm (same verified website),"Lowndes, Drosdick, Doster, Kantor & Reed PA",https://lowndes-law.com
+1966,Magleby Cataxinos,https://mcg.law,mcg.law,name variant of another firm (same verified website),Magleby Cataxinos & Greenwood,https://mcg.law
+2005,Marquis Aurbach,https://maclaw.com,maclaw.com,name variant of another firm (same verified website),Marquis Aurbach Chtd.,https://maclaw.com
+2017,Maschoff Brennan Gilmore & Israelsen LLP,https://mabr.com,mabr.com,name variant of another firm (same verified website),Maschoff Brennan Gilmore Israelsen & Mauriel LLP,https://mabr.com
+2051,"McAfee & Taft, PC",https://mcafeetaft.com,mcafeetaft.com,duplicate firm name (same website),McAfee & Taft A Professional Corporation,https://mcafeetaft.com
+2064,"McCathern, PLLC",https://mccathernlaw.com,mccathernlaw.com,name variant of another firm (same verified website),"McCathern, Shokouhi, Evans",https://mccathernlaw.com
+2167,"Miller, Canfield, Paddock and Stone PLC",https://millercanfield.com,millercanfield.com,name variant of another firm (same verified website),"Miller, Canfield, Paddock and Stone, P.L.C.",https://millercanfield.com
+2313,Oblon LLP,https://oblon.com,oblon.com,name variant of another firm (same verified website),"Oblon, McClelland, Maier & Neustadt, L.L.P.",https://oblon.com
+2330,Olshan Frome Wolosky LLP,https://olshanlaw.com,olshanlaw.com,name variant of another firm (same verified website),"Olshan Frome Wolosky LLP: Advertising, Marketing & Promotions Group",https://olshanlaw.com
+2513,Quinn Law Group PLLC,https://quinniplaw.com,quinniplaw.com,name variant of another firm (same verified website),Quinn IP Law PLLC,https://quinniplaw.com
+2639,Rose Legal Services,https://roselegalservices.com,roselegalservices.com,duplicate firm name (source websites differ),Rose Law Firm,https://joeroselaw.com
+2682,Ryan Whaley,https://ryanwhaley.com,ryanwhaley.com,name variant of another firm (same verified website),Ryan Whaley Coldiron Jantzen Peters & Webber PLLC,https://ryanwhaley.com
+2860,Snell & Wilmer LLP,https://swlaw.com,swlaw.com,name variant of another firm (same verified website),Snell & Wilmer L.L.P.,https://swlaw.com
+2932,"Stokes Lawrence, P.S.",https://stokeslaw.com,stokeslaw.com,name variant of another firm (same verified website),Stokes Lawrence PS,https://stokeslaw.com
+2996,Taylor Duma LLP,https://sgrlaw.com,sgrlaw.com,"name variant of another firm (same firm, different spelling)",Taylor English Duma LLP,https://egannelson.com
+3013,The Alderman Law Office,https://thecontentlawyer.com,thecontentlawyer.com,name variant of another firm (same verified website),Alderman IP,https://thecontentlawyer.com
+3152,Thomas & LoCicero PL,https://tlolawfirm.com,tlolawfirm.com,duplicate firm name (same website),Thomas & LoCicero,https://tlolawfirm.com
+3279,Wagner & Associates - The Law Firm,https://danielwagnerlaw.com,danielwagnerlaw.com,duplicate firm name (source websites differ),The Wagner Law Group,https://wagnerlawgroup.com
+3323,Weintraub Tobin Law Corporation,https://weintraub.com,weintraub.com,name variant of another firm (same verified website),Weintraub Tobin Chediak Coleman Grodin Law Corporation,https://weintraub.com
+3415,"Wright Law Office, PLLC",https://wright.law,wright.law,duplicate firm name (source websites differ),Wright Law Corporation,https://wrightlawcorp.com
+3424,Xu Law Group PLLC,https://xulawgroup.com,xulawgroup.com,name variant of another firm (same verified website),Toni Xu,https://xulawgroup.com
+3454,"Zeldes, Needle & Cooper PC",https://znclaw.com,znclaw.com,duplicate firm name (same website),"Zeldes, Needle & Cooper A Professional Corporation",https://znclaw.com
+3466,Akin Gump Strauss Hauer & Feld LLP,https://agmblaw.com,agmblaw.com,duplicate firm name (source websites differ),"Akin, Gump, Strauss, Hauer & Feld, LLP",https://akingump.com
+3474,"Bernstein Shur Sawyer & Nelson, PA",https://agdglaw.com,agdglaw.com,duplicate firm name (source websites differ),"Bernstein, Shur, Sawyer & Nelson PA",https://bernsteinshur.com
+3475,"Birch Stewart Kolasch & Birch, LLP",https://ashurstperkinscoie.com,ashurstperkinscoie.com,duplicate firm name (source websites differ),"Birch, Stewart, Kolasch & Birch LLP",https://bskb.com
+3476,Bird Marella Rhow Lincenberg Drooks & Nessim LLP,https://avilalaw.com,avilalaw.com,duplicate firm name (source websites differ),"Bird, Marella, Rhow, Lincenberg, Drooks & Nessim LLP",https://birdmarella.com
+3479,Brown & Streza LLP,https://ballardspahr.com,ballardspahr.com,duplicate firm name (source websites differ),"Brown & Streza, LLP",https://brownandstreza.com
+3480,Bryan Cave Leighton Paisner,https://bannerwitcoff.com,bannerwitcoff.com,duplicate firm name (source websites differ),Bryan Cave Leighton Paisner LLP,https://bclplaw.com/en-US
+3481,"Buckingham, Doolittle & Burroughs",https://bfkn.com,bfkn.com,duplicate firm name (source websites differ),"Buckingham, Doolittle & Burroughs LLC",https://bdblaw.com
+3483,Carlton Fields,https://barrettlaw.com,barrettlaw.com,duplicate firm name (source websites differ),Carlton Fields PA,https://carltonfields.com
+3484,Carrington Coleman Sloman & Blumenthal LLP,https://bartkopavia.com/en,bartkopavia.com,duplicate firm name (source websites differ),"Carrington, Coleman, Sloman & Blumenthal LLP",https://ccsb.com
+3485,"Chambliss Bahner & Stophel, PC",https://bartonesq.com,bartonesq.com,duplicate firm name (source websites differ),"Chambliss, Bahner & Stophel PC",https://chamblisslaw.com
+3486,Christensen O Connor Johnson Kindness PLLC,https://bassberry.com,bassberry.com,duplicate firm name (source websites differ),Christensen O'Connor Johnson Kindness PLLC,https://cojk.com
+3487,CM Law PLLC,https://batescarey.com,batescarey.com,duplicate firm name (source websites differ),"CM Law, LLP",https://cm.law
+3489,Cowan Liebowitz & Latman PC,https://phelps.com,phelps.com,duplicate firm name (source websites differ),"Cowan, Liebowitz & Latman PC",https://cll.com
+3491,Dhillon Law Group Inc,https://bhgrlaw.com,bhgrlaw.com,duplicate firm name (source websites differ),Dhillon Law Group,http://dhillonlaw.com
+3492,Downey & Lenkov LLC,https://bergersingerman.com,bergersingerman.com,"name variant of another firm (same firm, different spelling)",Bryce Downey & Lenkov,http://bdlfirm.com
+3493,Driver McAfee Hawthorne & Diebenow PLLC,https://bernsteinshur.com,bernsteinshur.com,duplicate firm name (source websites differ),"Driver, McAfee, Hawthorne & Diebenow, PLLC",https://drivermcafee.com
+3498,Faegre Drinker LLP,https://boardmanclark.com,boardmanclark.com,"name variant of another firm (same firm, different spelling)",Faegre Drinker Biddle & Reath LLP,https://faegredrinker.com
+3499,Falcon Rappaport & Berkman PLLC,https://bodmanlaw.com,bodmanlaw.com,duplicate firm name (source websites differ),Falcon Rappaport & Berkman LLP,https://frblaw.com
+3500,Farella Braun & Martel LLP,https://bomcip.com,bomcip.com,duplicate firm name (source websites differ),Farella Braun + Martel LLP,https://fbm.com
+3501,FBT Gibbons,https://boselaw.com,boselaw.com,duplicate firm name (source websites differ),FBT Gibbons LLP,https://fbtgibbons.com
+3502,"Finnegan, Henderson, Farabow, Garrett & Dunner",https://bowditch.com,bowditch.com,duplicate firm name (source websites differ),"Finnegan, Henderson, Farabow, Garrett & Dunner LLP",https://finnegan.com
+3503,Fish & Richardson P.C.,https://bracewell.com,bracewell.com,"name variant of another firm (same firm, different spelling)",Fish & Richardson,https://fr.com
+3504,Flaster Greenberg,https://bracheichler.com,bracheichler.com,duplicate firm name (source websites differ),Flaster Greenberg PC,https://flastergreenberg.com
+3505,"Foulston Siefkin, LLP",https://belaw.com,belaw.com,duplicate firm name (source websites differ),Foulston Siefkin LLP,https://foulston.com
+3509,"Fredrikson & Byron, P.A.",https://bricker.com,bricker.com,"name variant of another firm (same firm, different spelling)",Fredrikson & Byron PA,https://fredlaw.com
+3513,Gordon Feinblatt,https://bhfs.com,bhfs.com,duplicate firm name (source websites differ),Gordon Feinblatt LLC,https://gfrlaw.com
+3514,Gunderson Dettmer,https://brownwinick.com,brownwinick.com,"name variant of another firm (same firm, different spelling)",Gunderson Dettmer Stough Villeneuve Franklin & Hachigian LLP,https://gunder.com
+3515,Halloran & Sage LLP,https://bclplaw.com,bclplaw.com,duplicate firm name (source websites differ),Halloran Sage,https://halloransage.com
+3516,"Hamilton Brook Smith & Reynolds, PC",https://bipc.com,bipc.com,duplicate firm name (source websites differ),"Hamilton, Brook, Smith & Reynolds PC",https://hbsr.com
+3517,Hanson Bridgett,https://bdblaw.com,bdblaw.com,duplicate firm name (source websites differ),Hanson Bridgett LLP,https://hansonbridgett.com
+3518,Harness Dickey & Pierce PLC,https://bulkley.com,bulkley.com,duplicate firm name (source websites differ),"Harness, Dickey & Pierce PLC",https://harnessip.com
+3519,"Haynes and Boone, LLP",https://bullivant.com,bullivant.com,duplicate firm name (source websites differ),Haynes and Boone LLP,https://haynesboone.com
+3520,"Hertz Schram, PC",https://butzel.com,butzel.com,"name variant of another firm (same firm, different spelling)","Hertz Schram, P.C.",http://hertzschram.com
+3522,Hinman Howard & Kattell LLP,https://cairncross.com,cairncross.com,duplicate firm name (source websites differ),"Hinman, Howard & Kattell, LLP",http://hhk.com
+3523,Houston Harbaugh,https://calfee.com,calfee.com,"name variant of another firm (same firm, different spelling)","Houston Harbaugh, P.C.",https://hh-law.com/practice-areas/intellectual-property-litigation-and-prosecution/
+3524,Hughes Socol Piers Resnick & Dym Ltd,https://cantorcolburn.com,cantorcolburn.com,duplicate firm name (source websites differ),"Hughes Socol Piers Resnick & Dym, Ltd.",https://hsplegal.com
+3527,Husch Blackwell,https://cpmlaw.com,cpmlaw.com,duplicate firm name (source websites differ),Husch Blackwell LLP,https://huschblackwell.com
+3528,"Jaburg & Wilk, P.C.",https://carlsoncaspers.com,carlsoncaspers.com,"name variant of another firm (same firm, different spelling)",Jaburg Wilk PC,https://jaburgwilk.com
+3529,Johnson Pope Bokor Ruppel & Burns LLP,https://carltonfields.com,carltonfields.com,duplicate firm name (source websites differ),"Johnson, Pope, Bokor, Ruppel & Burns LLP",https://jpfirm.com
+3531,Keker Van Nest & Peters LLP,https://carmodylaw.com,carmodylaw.com,duplicate firm name (source websites differ),"Keker, Van Nest & Peters LLP",https://keker.com
+3532,Keller & Heckman,https://ccsb.com,ccsb.com,duplicate firm name (source websites differ),Keller and Heckman LLP,http://khlaw.com
+3535,Krieg DeVault,https://casneredwards.com,casneredwards.com,duplicate firm name (source websites differ),Krieg DeVault LLP,https://kriegdevault.com
+3537,Larkin Hoffman Daly & Lindgren,https://chamblisslaw.com,chamblisslaw.com,duplicate firm name (source websites differ),Larkin Hoffman Daly & Lindgren Ltd.,https://larkinhoffman.com
+3538,Lauletta Birnbaum LLC,https://choate.com,choate.com,duplicate firm name (source websites differ),Lauletta Birnbaum,https://lauletta.com/our-lawyers/gregory-lomax/
+3539,Leech Tishman,https://cojk.com,cojk.com,duplicate firm name (source websites differ),Leech Tishman LLC,https://leechtishman.com
+3542,Lewis Thomason,https://clinewilliams.com,clinewilliams.com,"name variant of another firm (same firm, different spelling)","Lewis, Thomason, King, Krieg & Waldrop, P.C.",https://lewisthomason.com
+3549,McLaughlin & Stern LLP,https://cooperlevenson.com,cooperlevenson.com,duplicate firm name (source websites differ),"McLaughlin & Stern, LLP",https://mclaughlinstern.com/attorneys/ryan-m-tarnow/
+3551,Metz Lewis Brodman Must O Keefe LLC,https://cov.com,cov.com,duplicate firm name (source websites differ),Metz Lewis Brodman Must O'Keefe LLC,https://metzlewis.com
+3552,Miller Johnson,https://cll.com,cll.com,"name variant of another firm (same firm, different spelling)",Miller Johnson Snell & Cummiskey PLC,https://millerjohnson.com
+3554,Morrison & Foerster LLP,https://craincaton.com,craincaton.com,duplicate firm name (source websites differ),Morrison Foerster,https://morrisonfoerster.com
+3557,Murtha Cullina,https://crowedunlevy.com,crowedunlevy.com,"name variant of another firm (same firm, different spelling)",Harris Beach Murtha Cullina PLLC,https://harrisbeachmurtha.com
+3561,O'Melveny & Myers LLP,https://dhclegal.com,dhclegal.com,duplicate firm name (source websites differ),O'Melveny & Myers,https://omm.com
+3562,Patzik Frank & Samotny Ltd,https://davisgraham.com,davisgraham.com,duplicate firm name (source websites differ),"Patzik, Frank & Samotny Ltd.",http://pfs-law.com
+3564,Polsinelli,https://dwt.com,dwt.com,duplicate firm name (source websites differ),Polsinelli PC,https://polsinelli.com
+3566,Potomac Law Group,https://debevoise.com,debevoise.com,duplicate firm name (source websites differ),Potomac Law Group PLLC,https://potomaclaw.com
+3571,Reitler Kailas & Rosenblatt LLC,https://diazreus.com,diazreus.com,duplicate firm name (source websites differ),Reitler Kailas & Rosenblatt LLP,https://reitlerlaw.com
+3572,Riley Safer Holmes & Cancila,https://dwlaw.com,dwlaw.com,duplicate firm name (source websites differ),Riley Safer Holmes & Cancila LLP,https://rshc-law.com
+3573,Robinson Bradshaw,https://diseriomartin.com,diseriomartin.com,"name variant of another firm (same firm, different spelling)","Robinson, Bradshaw & Hinson, P.A.",https://robinsonbradshaw.com
+3574,"Robinson Waters & O Dorisio, P.C.",https://donahue.com,donahue.com,duplicate firm name (source websites differ),"Robinson Waters & O'Dorisio, P.C.",http://rwolaw.com
+3575,Rose Law Group,https://dorflaw.com,dorflaw.com,duplicate firm name (source websites differ),Rose Law Firm,https://joeroselaw.com
+3583,Sheehan Phinney Bass & Green,https://dbcllp.com,dbcllp.com,duplicate firm name (source websites differ),Sheehan Phinney Bass & Green PA,https://sheehan.com
+3585,"Shuttleworth & Ingersoll, PC",https://ddwklaw.com,ddwklaw.com,"name variant of another firm (same firm, different spelling)",Shuttleworth & Ingersoll P.L.C.,https://shuttleworthlaw.com
+3586,Simmons Hanly Conroy LLC,https://dykema.com,dykema.com,duplicate firm name (source websites differ),Simmons Hanly Conroy LLP,http://simmonsfirm.com
+3587,"Spotts Fain, PC",https://eastmansmith.com,eastmansmith.com,duplicate firm name (source websites differ),Spotts Fain PC,https://spottsfain.com
+3588,Stradling Yocca Carlson & Rauth,https://eatonpeabody.com,eatonpeabody.com,duplicate firm name (source websites differ),Stradling Yocca Carlson & Rauth LLP,https://stradlinglaw.com
+3589,Swanson Martin & Bell LLP,https://esfip.com,esfip.com,duplicate firm name (source websites differ),"Swanson, Martin & Bell LLP",https://smbtrials.com
+3591,The Webb Law Firm,https://emlaw.com,emlaw.com,duplicate firm name (source websites differ),The Webb Law Firm PC,https://webblaw.com
+3592,Tonkon Torp,https://eimerstahl.com,eimerstahl.com,duplicate firm name (source websites differ),Tonkon Torp LLP,https://tonkon.com
+3594,Vedder,https://egsllp.com,egsllp.com,duplicate firm name (source websites differ),Vedder PC,https://vedderprice.com
+3596,"Vorys, Sater, Seymour and Pease LLP",https://ecjlaw.com,ecjlaw.com,duplicate firm name (source websites differ),"Vorys, Sater, Seymour and Pease, LLP",https://vorys.com
+3600,Wick Phillips,https://faegredrinker.com,faegredrinker.com,duplicate firm name (source websites differ),Wick Phillips LLP,https://wickphillips.com
+3602,WilmerHale,https://fsbrlaw.com,fsbrlaw.com,"name variant of another firm (same firm, different spelling)",Wilmer Cutler Pickering Hale and Dorr LLP,https://wilmerhale.com
+3605,"Wolf, Rifkin, Shapiro & Schulman & Rabkin, LLP",https://fbtgibbons.com,fbtgibbons.com,duplicate firm name (source websites differ),"Wolf, Rifkin, Shapiro, Schulman & Rabkin, LLP",https://wrslawyers.com
+3607,Shook Hardy & Bacon LLP,https://fkmlaw.com,fkmlaw.com,duplicate firm name (source websites differ),"Shook, Hardy & Bacon LLP",https://shb.com
+3608,Finnegan Henderson Farabow Garrett & Dunner LLP,https://fbfk.law,fbfk.law,duplicate firm name (source websites differ),"Finnegan, Henderson, Farabow, Garrett & Dunner LLP",https://finnegan.com
+3609,Cozen O'Connor PC,https://fcoplaw.com,fcoplaw.com,duplicate firm name (source websites differ),Cozen O'Connor,https://cozen.com
+3610,Hunton Andrews Kurth LLP,https://finnegan.com,finnegan.com,duplicate firm name (source websites differ),Hunton Andrews Kurth,https://hunton.com
+3612,Willcox & Savage PC,https://fitcheven.com,fitcheven.com,duplicate firm name (source websites differ),"Willcox & Savage, PC",https://willcoxsavage.com
+3614,Wilson Sonsini Goodrich & Rosati PC,https://fplegal.com,fplegal.com,duplicate firm name (source websites differ),Wilson Sonsini Goodrich & Rosati,https://wsgr.com
+3616,Quinn Emanuel Urquhart & Sullivan LLP,https://foster.com,foster.com,duplicate firm name (source websites differ),Quinn Emanuel Urquhart Sullivan LLP,https://quinnemanuel.com
+3619,Wilmer Cutler Pickering Hale and Dorr LLP,https://fowlerwhite.com,fowlerwhite.com,duplicate firm name (source websites differ),Wilmer Cutler Pickering Hale and Dorr LLP,https://wilmerhale.com
+3620,Cleary Gottlieb Steen & Hamilton LLP,https://foxrothschild.com,foxrothschild.com,duplicate firm name (source websites differ),"Cleary, Gottlieb, Steen & Hamilton",https://clearygottlieb.com
+3621,Norton Rose Fulbright LLP,https://foxswibel.com,foxswibel.com,duplicate firm name (source websites differ),Norton Rose Fulbright,https://nortonrose.com
+3622,"Weil, Gotshal & Manges LLP",https://fkks.com,fkks.com,duplicate firm name (source websites differ),Weil Gotshal & Manges,https://weil.com
+3623,"Sheppard, Mullin, Richter & Hampton LLP",https://fraserstryker.com,fraserstryker.com,duplicate firm name (source websites differ),Sheppard Mullin Richter & Hampton,https://sheppardmullin.com
+3625,McConnell Valdés LLC,https://fredlaw.com,fredlaw.com,duplicate firm name (source websites differ),McConnell Valdes LLC,https://mcvpr.com
+3634,"Shumaker, Loop & Kendrick LLP",https://gilbertlegal.com,gilbertlegal.com,duplicate firm name (source websites differ),"Shumaker, Loop & Kendrick, LLP",https://shumaker.com
+3642,Cunningham Swaim LLP,https://gfrlaw.com,gfrlaw.com,duplicate firm name (source websites differ),"Cunningham Swaim, LLP",https://cunninghamswaim.com
+3644,Jones Day,https://grayreed.com,grayreed.com,duplicate firm name (source websites differ),Jones Day,https://jonesday.com
+3662,Weil Gotshal & Manges LLP,https://hsb.com,hsb.com,duplicate firm name (source websites differ),Weil Gotshal & Manges,https://weil.com
+3667,Morgan & Morgan PA,https://hrfmlaw.com,hrfmlaw.com,duplicate firm name (source websites differ),Morgan & Morgan,https://forthepeople.com/office-locations/west-virginia/charleston/
+3668,Skadden Arps Slate Meagher Flom LLP,https://skadden.com,skadden.com,name variant of another firm (same verified website),"Skadden, Arps, Slate, Meagher & Flom LLP and Affiliates",https://skadden.com
+3671,FisherBroyles LLP,https://hinmanhoward.com,hinmanhoward.com,duplicate firm name (source websites differ),FisherBroyles: Law Firm,https://fisherbroyles.com
+3672,Baker & McKenzie LLP,https://hirschler.com,hirschler.com,duplicate firm name (source websites differ),Baker McKenzie,https://bakermckenzie.com
+3674,Steptoe & Johnson LLP,https://hogefenton.com,hogefenton.com,duplicate firm name (source websites differ),Steptoe & Johnson PLLC,https://foulston.com
+3679,Offit Kurman Attorneys At Law,https://hughes-socol.com,hughes-socol.com,duplicate firm name (source websites differ),Offit Kurman,https://offitkurman.com
+3680,DLA Piper LLP,https://hullbarrett.com,hullbarrett.com,duplicate firm name (source websites differ),DLA Piper,https://dlapis.com
+3683,Lommen Abdo Law Firm,https://huschblackwell.com,huschblackwell.com,duplicate firm name (source websites differ),Lommen Abdo PA,https://lommen.com
+3707,Randazza Legal Group PLLC,https://klinedinst.com,klinedinst.com,duplicate firm name (source websites differ),Randazza Legal Group,https://randazza.com
+3715,"FisherBroyles, LLP",https://ladas.com,ladas.com,duplicate firm name (source websites differ),FisherBroyles: Law Firm,https://fisherbroyles.com
+3718,Frost Brown Todd LLC,https://larkinhoffman.com,larkinhoffman.com,duplicate firm name (source websites differ),Frost Brown Todd LLP,https://frostbrowntodd.com
+3719,"Vorys, Sater, Seymour & Pease LLP",https://lathropgpm.com,lathropgpm.com,duplicate firm name (source websites differ),"Vorys, Sater, Seymour and Pease, LLP",https://vorys.com
+3722,Traverse Legal PLC,https://leasonellis.com,leasonellis.com,duplicate firm name (source websites differ),"Traverse Legal, PLC",https://traverselegal.com
+3725,Ichter Davis LLC,https://leechlaw.com,leechlaw.com,duplicate firm name (source websites differ),"Ichter Davis, LLC",https://ichterdavis.com
+3726,Fenno Law Firm LLC,https://lerchearly.com,lerchearly.com,duplicate firm name (source websites differ),"Fenno Law Firm, LLC",https://fennolaw.com
+3735,Gleam Law PLLC,https://lwprh.com,lwprh.com,duplicate firm name (source websites differ),Gleam Law,https://gleamlaw.com
+3737,Matesky Law,https://manningllp.com,manningllp.com,duplicate firm name (source websites differ),Matesky Law PLLC,http://mateskylaw.com
+3739,Klemchuk LLP,https://mgblaw.com,mgblaw.com,duplicate firm name (source websites differ),Klemchuk PLLC,https://klemchuk.com
+3741,"Goldberg Segalla, LLP",https://masudafunai.com,masudafunai.com,duplicate firm name (source websites differ),Goldberg Segalla LLP,https://goldbergsegalla.com
+3743,Goldberg Segalla,https://mcbrayer.com,mcbrayer.com,duplicate firm name (source websites differ),Goldberg Segalla LLP,https://goldbergsegalla.com
+3744,Dale Jensen PLC,https://mlclaw.com,mlclaw.com,duplicate firm name (source websites differ),"Dale Jensen, PLC",http://dalejensenlaw.com
+3745,Diserio Martin O'Connor & Castiglioni LLP,https://mccormickbarstow.com,mccormickbarstow.com,duplicate firm name (source websites differ),Diserio Martin O Connor & Castiglioni LLP,https://diseriomartin.com
+3747,McClanahan Powers PLLC,https://mnmklaw.com,mnmklaw.com,duplicate firm name (source websites differ),"McClanahan Powers, PLLC",http://mcplegal.com
+3748,Woods Rogers PLC,https://mckoolsmith.com,mckoolsmith.com,"name variant of another firm (same firm, different spelling)",Woods Rogers Vandeventer Black PLC,https://woodsrogers.com
+3749,Woods Rogers PLC.,https://mclane.com,mclane.com,duplicate firm name (source websites differ),Woods Rogers PLC,https://mckoolsmith.com
+3752,Higgs Fletcher & Mack LLP,https://msflaw.com,msflaw.com,duplicate firm name (source websites differ),"Higgs Fletcher & Mack, LLP",https://higgslaw.com
+3755,Clyde Snow Sessions,https://metzlewis.com,metzlewis.com,duplicate firm name (source websites differ),Clyde Snow & Sessions PC,https://clydesnow.com
+3776,Kronenberger Rosenfeld LLP,https://muchshelist.com,muchshelist.com,duplicate firm name (source websites differ),"Kronenberger Rosenfeld, LLP",http://krinternetlaw.com
+3788,"Sanchelima & Associates, P.A.",https://sanchelima.com,sanchelima.com,name variant of another firm (same verified website),Christian J. Sanchelima,https://sanchelima.com
+3798,"The Kelly Legal Group, PLLC",https://kellylegalgroup.com,kellylegalgroup.com,duplicate firm name (source websites differ),"The Kelly Law Firm, LLC",http://aaronkellylaw.com
+3801,Lynch Law Group,https://lynchlawrealestategroup.com,lynchlawrealestategroup.com,duplicate firm name (source websites differ),"The Lynch Law Group, LLC",https://lynchllp.com
+3813,Law Office of Tom James,https://tomjameslaw.com,tomjameslaw.com,duplicate firm name (same website),Tom James Law Office,https://tomjameslaw.com
+3835,"Whitaker Chalk Swindle & Schwartz, PLLC",https://whitakerchalk.com,whitakerchalk.com,duplicate firm name (same website),"Whitaker Chalk Swindle & Schwartz, PLLC",https://whitakerchalk.com
+3838,Sandberg Phoenix,https://sandbergphoenix.com,sandbergphoenix.com,name variant of another firm (same verified website),Sandberg Phoenix & von Gontard PC,https://sandbergphoenix.com
+3844,Intellectual Property Group,https://artlaws.com,artlaws.com,duplicate firm name (source websites differ),Intellectual Property Law Group LLP,http://iplg.com
+3957,Quinn Emanuel Urquhart Sullivan LLP,https://quinnemanuel.com,quinnemanuel.com,duplicate firm name (same website),Quinn Emanuel Urquhart Sullivan LLP,https://quinnemanuel.com
+3959,Winston Taylor,https://winstontaylor.com,winstontaylor.com,duplicate firm name (same website),Winston Taylor,https://winstontaylor.com
+3963,Mcdermott Will Schulte,https://mcdermottlaw.com,mcdermottlaw.com,duplicate firm name (same website),Mcdermott Will Schulte,https://mcdermottlaw.com
+3964,Skadden Arps Slate Meagher Flom LLP,https://skadden.com,skadden.com,duplicate firm name (same website),Skadden Arps Slate Meagher Flom LLP,https://skadden.com
+3967,"Merolla & Gold, LLP",https://merollagoldllp.com,merollagoldllp.com,duplicate firm name (same website),"Merolla & Gold, LLP",https://merollagoldllp.com
+3974,"Cotchett, Pitre & McCarthy, LLP",https://cpmlegal.com,cpmlegal.com,duplicate firm name (same website),"Cotchett, Pitre & McCarthy, LLP",https://cpmlegal.com
+3996,Simon Law,https://hpl.law,hpl.law,duplicate firm name (source websites differ),The Simon Law Firm PC,https://simonlawpc.com
+3998,Coast Law Group LLP,https://aharwoodlaw.com,aharwoodlaw.com,duplicate firm name (source websites differ),"Coast Law Group, LLP",https://coastlawgroup.com
+3999,"MacElree Harvey, Ltd.",https://coastlawgroup.com,coastlawgroup.com,duplicate firm name (source websites differ),"MacElree Harvey, Ltd.",https://macelree.com
+4001,"Bogin, Munns & Munns, P.A.",https://bentonlawfirm.com,bentonlawfirm.com,duplicate firm name (source websites differ),"Bogin, Munns & Munns, P.A.",https://boginmunns.com
+4002,NovoTech Patent Firm,https://boginmunns.com,boginmunns.com,duplicate firm name (source websites differ),NovoTech Patent Firm,http://novotechip.com
+4004,Law Office of Barbara J. Gislason,https://kramerandkramer.com,kramerandkramer.com,duplicate firm name (source websites differ),Law Office of Barbara J. Gislason,https://gislason-law.com
+4006,Mandour & Associates,https://hoffmanlawfirm.org,hoffmanlawfirm.org,duplicate firm name (source websites differ),"Mandour & Associates, APC",https://mandourlaw.com
+4007,Kesselman Brantly Stockinger LLP,https://mandourlaw.com,mandourlaw.com,duplicate firm name (source websites differ),Kesselman Brantly Stockinger LLP,https://kbslaw.com
+4009,Chenoweth Law Group LLC,https://daughtryfarine.com,daughtryfarine.com,duplicate firm name (source websites differ),Chenoweth Law Group PC,https://chenowethlaw.com
+4012,Klein & Wilson LLP,https://pvuslaw.com,pvuslaw.com,duplicate firm name (source websites differ),Klein & Wilson,https://kleinandwilson.com
+4019,Singer Weinsten Wolf & Jonelis LLP,https://schroederpatlaw.com,schroederpatlaw.com,duplicate firm name (source websites differ),Singer Weinsten Wolf & Jonelis LLP,https://singerlaw.com
+4021,Marquis Aurbach,https://tessergrossman.com,tessergrossman.com,duplicate firm name (source websites differ),Marquis Aurbach,https://maclaw.com
+4023,"King, Holmes, Paterno & Soriano, LLP",https://axslawgroup.com,axslawgroup.com,duplicate firm name (source websites differ),King Holmes Paterno & Soriano LLP,https://khpslaw.com
+4024,"Padmanabhan & Dawson, PLLC",https://khpslaw.com,khpslaw.com,duplicate firm name (source websites differ),"Padmanabhan & Dawson, PLLC",https://paddalawgroup.com
+4025,Odin Feldman Pittleman,https://paddalawgroup.com,paddalawgroup.com,duplicate firm name (same website),Odin Feldman Pittleman,https://paddalawgroup.com
+4026,"Codispoti & Associates, P.C.",https://ofplaw.com,ofplaw.com,duplicate firm name (source websites differ),"Codispoti & Associates, P.C.",https://codispotilaw.com
+4029,Christensen Law PLLC,https://k2legal.com,k2legal.com,duplicate firm name (source websites differ),Christensen Law PLLC,https://christensensampsel.com
+4030,Davis & Carter LLC,https://christensensampsel.com,christensensampsel.com,duplicate firm name (source websites differ),"Davis & Carter, LLC",http://daviscarterlaw.com
+4033,Mudd Law,https://mhlawyers.com,mhlawyers.com,duplicate firm name (source websites differ),Mudd Law Offices,http://muddlawoffices.com
+4036,Morgan Williamson LLP,https://pj-iplaw.com,pj-iplaw.com,duplicate firm name (source websites differ),Morgan Williamson LLP,https://mw-law.com/attorney/stewart-chris/
+4038,Redfield IP PC,https://fblawplc.com,fblawplc.com,duplicate firm name (source websites differ),Redfield IP PC,https://redfieldip.com
+4042,Wood Herron & Evans LLP,https://yourbeverlyhillslawyer.com,yourbeverlyhillslawyer.com,duplicate firm name (source websites differ),"Wood Herron & Evans, LLP",https://whe-law.com
+4045,"Pike & Lustig, LLP",https://girolaw.com,girolaw.com,duplicate firm name (source websites differ),"Pike & Lustig, LLP",https://pikelustig.com
+4048,Berstein Law,https://thesmithfirmpc.com,thesmithfirmpc.com,duplicate firm name (source websites differ),"Berstein Law, PC",https://bersteinlaw.com
+4050,"Carrithers Law Office, PLLC",https://dwlawfirm.com,dwlawfirm.com,duplicate firm name (source websites differ),"Carrithers Law Office, PLLC",https://carritherslaw.com
+4051,Dunham LLP,https://carritherslaw.com,carritherslaw.com,duplicate firm name (source websites differ),Dunham LLP,http://dunhamllp.com
+4057,Morgan & Morgan,https://lawrencebartels.com,lawrencebartels.com,duplicate firm name (source websites differ),Morgan & Morgan,https://forthepeople.com/office-locations/west-virginia/charleston/
+4059,"Fisher Rushmer, PA",https://ribakoff-law.com,ribakoff-law.com,duplicate firm name (source websites differ),"Fisher Rushmer, PA",https://fisherlawfirm.com
+4062,Monroe Moxness Berg,https://finnerannicholson.com,finnerannicholson.com,duplicate firm name (source websites differ),Monroe Moxness Berg,http://mmblawfirm.com
+4064,Makridis Law Firm,https://makridislaw.com,makridislaw.com,name variant of another firm (same verified website),Irene Makridis,https://makridislaw.com
+4065,"Arvanitakis Law Group, LLC",https://makridislaw.com,makridislaw.com,duplicate firm name (source websites differ),"Arvanitakis Law Group, LLC",https://alg-legal.com
+4066,"Law Offices of Dominick A. Pilli, P.C.",https://alg-legal.com,alg-legal.com,duplicate firm name (source websites differ),"The Law Offices of Dominick A. Pilli, P.C.",https://dapillilaw.com
+4068,Silverline Legal,https://bealhebert.com,bealhebert.com,duplicate firm name (source websites differ),Silverline Legal,https://silverline.legal
+4071,"Foley Law, LLC",https://im-iplaw.com,im-iplaw.com,duplicate firm name (source websites differ),"Foley Law, LLC",https://foleylawohio.com
+4074,"Simpson & Simpson, PLLC",https://wdpalaw.com,wdpalaw.com,duplicate firm name (source websites differ),"Simpson & Simpson, PLLC",https://idealawyers.com
+4075,Flagel & Papakirk LLC,https://idealawyers.com,idealawyers.com,duplicate firm name (source websites differ),Flagel & Papakirk LLC,https://fp-legal.com
+4076,Spizzirri Law LLC,https://fp-legal.com,fp-legal.com,duplicate firm name (source websites differ),Spizzirri Law LLC,https://spizzirri.law
+4077,Fogarty IP,https://spizzirri.law,spizzirri.law,duplicate firm name (source websites differ),Fogarty IP,https://fogartyip.com
+4078,"Kashfian & Kashfian, LLP",https://fogartyip.com,fogartyip.com,duplicate firm name (source websites differ),Kashfian & Kashfian LLP,http://kashfianlaw.com
+4082,"Conwell Business Law, LLLP",https://lawofficeoffltjr.com,lawofficeoffltjr.com,duplicate firm name (source websites differ),Conwell Business Law,https://conwellbusinesslaw.com
+4083,Baxter Bruce & Sullivan P.C.,https://conwellbusinesslaw.com,conwellbusinesslaw.com,duplicate firm name (source websites differ),Baxter Bruce & Sullivan P.C.,http://baxterbrucelaw.com
+4086,"Fergus, A Law Office",https://greatlawyers.com,greatlawyers.com,duplicate firm name (source websites differ),"Fergus, A Law Office",http://ferguslegalip.com
+4091,"Tilford Dobbins & Schmidt, PLLC",https://pendercoward.com,pendercoward.com,duplicate firm name (source websites differ),"Tilford Dobbins & Schmidt, PLLC",https://tilfordlaw.com
+4093,Cobb Cole,https://linkedin.com/ppl/webprofile?id=36051583&pvs=pp&authToken=I60N&authType=name&locale=e,linkedin.com,duplicate firm name (source websites differ),Cobb Cole,http://cobbcole.com
+4099,LiLaw Inc.,https://ccbattorneys.com,ccbattorneys.com,duplicate firm name (source websites differ),LiLaw Inc.,http://lilaw.us
+4100,"Amer Cunningham Co., L.P.A.",https://lilaw.us,lilaw.us,duplicate firm name (source websites differ),"Amer Cunningham Co., L.P.A.",https://amer-law.com
+4101,Computerlaw Group LLP,https://amer-law.com,amer-law.com,duplicate firm name (source websites differ),"ComputerLaw Group, LLP",http://computerlaw.com
+4107,Coughlin & Gerhart LLP,https://campionelawpa.com,campionelawpa.com,duplicate firm name (source websites differ),"Coughlin & Gerhart, LLP",http://cglawoffices.com
+4110,"Advocate, LLP",https://edmondsiplaw.com,edmondsiplaw.com,duplicate firm name (source websites differ),"Law Advocate Group, LLP",http://lawadvocategroup.com
+4114,"Schwartz Law Firm, P.C.",https://avvo.com/attorneys/97239-or-jeffrey-bodie-18526.html,avvo.com,duplicate firm name (source websites differ),"Schwartz Law Firm, P.C.",http://schwartz-iplaw.com
+4115,Jennifer Silverman PLLC,https://mksr.law,mksr.law,duplicate firm name (source websites differ),Jennifer Silverman PLLC,http://silverman.legal
+4119,"Booth Albanesi Schroeder, PLLC",https://hagnerzohlman.com,hagnerzohlman.com,duplicate firm name (source websites differ),"Booth Albanesi Schroeder, PLLC",https://ipoftexas.com
+4121,"Rosenberg, Giger and Perala P.C.",https://ipoftexas.com,ipoftexas.com,duplicate firm name (source websites differ),"Rosenberg, Giger and Perala P.C.",https://rglawpc.com
+4122,McKasson & Klein LLP,https://gallant-ervin.com,gallant-ervin.com,duplicate firm name (source websites differ),McKasson & Klein LLP,https://mckassonklein.com
+4127,O'Connor & Associates Attorneys at Law,http://joclaw.com,joclaw.com,name variant of another firm (same verified website),John D. O'Connor,http://joclaw.com
+4135,"Zarco Einhorn Salkowski, P.A.",https://greensteinsellers.com,greensteinsellers.com,duplicate firm name (source websites differ),"Zarco Einhorn Salkowski, P.A.",https://zarcolaw.com
+4137,Belzer PC,https://zarcolaw.com,zarcolaw.com,duplicate firm name (source websites differ),Belzer PC,https://belzerlaw.com
+4140,Sterling Media Law,https://thevalleylawgroup.com,thevalleylawgroup.com,duplicate firm name (source websites differ),Sterling Media Law,https://sterlingmedialaw.com
+4145,Hunter Law Firm,https://maximlawfirm.com/attorney-profile,maximlawfirm.com,duplicate firm name (source websites differ),The Hunter Law Group,https://hunterlg.com
+4146,"Leyendecker & Lemire, LLC",https://walkerrobertsllp.com,walkerrobertsllp.com,duplicate firm name (same website),"Leyendecker & Lemire, LLC",https://walkerrobertsllp.com
+4147,"Israel & Gerity, PLLC",https://hunterlawfirm.com,hunterlawfirm.com,duplicate firm name (source websites differ),"Israel & Gerity, PLLC",https://ig-law.com
+4150,"James Dodge Russell & Stephens, P.C.",https://brandprotection.law,brandprotection.law,duplicate firm name (source websites differ),"James Dodge Russell & Stephens, P.C.",https://jdrslaw.com
+4151,Lawrence G. Townsend,https://schmittschneck.com/timothy-casey/,schmittschneck.com,duplicate firm name (source websites differ),Lawrence G. Townsend,http://lgt-law.com
+4152,"Koch Law, PLLC",https://nydefensecounsel.com,nydefensecounsel.com,name variant of another firm (same verified website),Lee A. Koch,https://nydefensecounsel.com
+4153,Lee Palmateer Law Office,https://lgt-law.com,lgt-law.com,duplicate firm name (source websites differ),Lee Palmateer Law Office,http://albanyiplaw.com
+4156,"The Levey Law Firm, P.A.",https://leveylaw.com,leveylaw.com,name variant of another firm (same verified website),Lewis Levey,https://leveylaw.com
+4158,Denlea & Carton LLP,https://leveylaw.com,leveylaw.com,duplicate firm name (source websites differ),Denlea & Carton LLP,https://denleacarton.com
+4159,"The Lomnitzer Law Firm, P.A.",https://newmanlickstein.com,newmanlickstein.com,duplicate firm name (source websites differ),"The Lomnitzer Law Firm, P.A.",https://lomnitzerlaw.com
+4161,Parjus Law,https://parjuslaw.com,parjuslaw.com,name variant of another firm (same verified website),Maria Parjus,https://parjuslaw.com
+4167,Sease & Wadding,https://holmespeters.com,holmespeters.com,duplicate firm name (source websites differ),Sease & Wadding,http://seasewadding.com
+4170,Saunders | Walsh,https://seasewadding.com,seasewadding.com,duplicate firm name (source websites differ),Saunders \| Walsh,http://saunderswalsh.com
+4173,"Raggio & Dinnin, P.C.",https://avvo.com/attorneys/97204-or-merrill-baumann-1488760.html,avvo.com,"name variant of another firm (same firm, different spelling)","Raggio & Dinnin, PC",http://raggiodinnin.com
+4175,Law Offices Of Michael R. Blaha,https://saunderswalsh.com,saunderswalsh.com,duplicate firm name (source websites differ),Law Offices of Michael R. Blaha,https://blahalaw.com
+4177,Cea Legal P.C.,https://cealegal.com,cealegal.com,name variant of another firm (same verified website),Michele Cea,https://cealegal.com
+4181,"Business Law Southwest, LLC",https://blahalaw.com,blahalaw.com,duplicate firm name (source websites differ),Business Law Southwest LLC,http://businesslawsw.com
+4183,"Johnson Law Group, LLC",https://cealegal.com,cealegal.com,duplicate firm name (source websites differ),Johnson Law Office,https://johnsonlawoffice.us
+4187,Law Offices of Nate Kelly,https://businesslawsw.com,businesslawsw.com,duplicate firm name (source websites differ),Law Offices of Nate Kelly,https://natekelly.com
+4197,Law Offices of Peter R. Bornstein,https://sargonlawgroup.com,sargonlawgroup.com,duplicate firm name (source websites differ),Law Offices of Peter R. Bornstein,https://prblegal.com
+4199,The Ransom Firm,https://patenthorizon.com,patenthorizon.com,duplicate firm name (source websites differ),The Ransom Firm,https://theransomfirm.com
+4203,Cox Padmore Skolnik & Shakarchy LLP,https://tilemlawfirm.com,tilemlawfirm.com,duplicate firm name (source websites differ),"Cox Padmore Skolnik & Shakarchy, LLP",https://cpsslaw.com
+4207,Knellinger & Associates,https://zieglerlawgroupllc.com,zieglerlawgroupllc.com,duplicate firm name (source websites differ),Law Office of Knellinger & Associates,https://lawyergainesville.com
+4213,"Allan Law Group, P.C.",https://carlahartleylaw.com,carlahartleylaw.com,duplicate firm name (source websites differ),"Allan Law Group, P.C.",http://allanlawgrouppc.com
+4214,Murphy Desmond S.C.,https://lawyergainesville.com,lawyergainesville.com,duplicate firm name (source websites differ),Murphy Desmond S.C.,http://murphydesmond.com
+4215,"Sher Garner Cahill Richter Klein & Hilbert, L.L.C.",https://goingslawfirm.com,goingslawfirm.com,duplicate firm name (source websites differ),"Sher Garner Cahill Richter Klein & Hilbert, L.L.C.",http://shergarner.com
+4219,Law Office of Sam J. Saad III,https://dlkny.com,dlkny.com,duplicate firm name (source websites differ),Law Office of Sam J. Saad III,https://saadlegal.com
+4221,Simmons Hanly Conroy LLP,https://murphydesmond.com,murphydesmond.com,duplicate firm name (source websites differ),Simmons Hanly Conroy LLP,http://simmonsfirm.com
+4222,"Kerrick Bachert, PSC",https://shergarner.com,shergarner.com,duplicate firm name (source websites differ),"Kerrick Bachert, PSC",https://kerrickbachertlaw.com
+4225,Perry & Perry PLLP,https://koeniglawla.com,koeniglawla.com,duplicate firm name (source websites differ),"Perry & Perry, PLLP",https://pppllp.com
+4231,Ashley Law Firm P.C.,https://inlandempirelawyers.com/sergio-rodriguez.html,inlandempirelawyers.com,duplicate firm name (source websites differ),Ashley Law Firm P.C.,http://ashleypatentlaw.com
+4232,Gravis Law PLLC,https://pppllp.com,pppllp.com,duplicate firm name (source websites differ),"Gravis Law, LLC",https://gravislaw.com
+4233,The Weisblatt Law Firm PLLC,https://spaglaw.com,spaglaw.com,duplicate firm name (source websites differ),The Weisblatt Law Firm PLLC,https://weisblattlaw.com
+4234,Tully Rinckey PLLC,https://ghma.law,ghma.law,duplicate firm name (source websites differ),Tully Rinckey PLLC,https://tullylegal.com
+4235,"TK Law, Inc.",https://saileackerman.com,saileackerman.com,duplicate firm name (source websites differ),TK Law,https://onefirmforlife.com
+4238,"Clark Law Firm, PLLC",https://ashleypatentlaw.com,ashleypatentlaw.com,duplicate firm name (source websites differ),"Clark Law Firm, PLLC",https://clark-firm.com
+4240,Williams LLP,https://weisblattlaw.com,weisblattlaw.com,duplicate firm name (source websites differ),Williams LLP,https://williamsllp.com
+4245,"Wright & Greenhill, P.C.",https://clark-firm.com,clark-firm.com,duplicate firm name (source websites differ),"Wright & Greenhill, P.C.",https://wrightgreenhill.com
+4246,The Lovell Firm,https://smoorelaw.com,smoorelaw.com,duplicate firm name (source websites differ),The Lovell Firm,https://lovellfirm.com
+4252,Bailey Law Corporation,https://wrightgreenhill.com,wrightgreenhill.com,duplicate firm name (source websites differ),Bailey Law,https://bailey.law
+4253,Davis McGrath LLC,https://lovellfirm.com,lovellfirm.com,duplicate firm name (source websites differ),Davis McGrath LLC,https://davismcgrath.com
+4256,Zoe Bernstein Law PLLC,https://ehlerslawcorp.com,ehlerslawcorp.com,duplicate firm name (source websites differ),Zoe Bernstein Law PLLC,https://zoebernsteinlaw.com
+4259,"Ad Astra Law Group, P.C.",https://astralegal.com,astralegal.com,duplicate firm name (same website),"Ad Astra Law Group, P.C.",https://astralegal.com
+4262,"Advocate, LLP",https://advocatellp.com,advocatellp.com,duplicate firm name (source websites differ),"Law Advocate Group, LLP",http://lawadvocategroup.com
+4263,"Aitkens & Aitkens, P.C.",https://aitkenslawfirm.com,aitkenslawfirm.com,duplicate firm name (same website),"Aitkens & Aitkens, P.C.",https://aitkenslawfirm.com
+4265,"Akridge & Balch, P.C.",https://akridgebalch.com,akridgebalch.com,duplicate firm name (same website),"Akridge & Balch, P.C.",https://akridgebalch.com
+4266,"Albert Buzzetti & Associates, L.L.C.",https://tristatelaw.com,tristatelaw.com,duplicate firm name (same website),"Albert Buzzetti & Associates, L.L.C.",https://tristatelaw.com
+4267,"Anchor Legal Group, PLLC",https://anchorlegalgroup.com,anchorlegalgroup.com,duplicate firm name (same website),"Anchor Legal Group, PLLC",https://anchorlegalgroup.com
+4268,"ANTHONY, LINDER & CACOMANOLIS, PLLC",https://legalandcompliance.com,legalandcompliance.com,duplicate firm name (same website),"ANTHONY, LINDER & CACOMANOLIS, PLLC",https://legalandcompliance.com
+4270,"Ashman Law Offices, LLC",http://ashmanlawoffices.com,ashmanlawoffices.com,duplicate firm name (source websites differ),"Ashman Law Offices, LLC",http://ashman.law
+4271,Ausley McMullen,https://ausley.com,ausley.com,duplicate firm name (same website),Ausley McMullen,https://ausley.com
+4272,AXS LAW Group,https://axslawgroup.com,axslawgroup.com,duplicate firm name (same website),AXS LAW Group,https://axslawgroup.com
+4275,Barron Peck Bennie & Schlemmer,https://davidlefton.com,davidlefton.com,duplicate firm name (same website),Barron Peck Bennie & Schlemmer,https://davidlefton.com
+4277,Beal & Hebert,https://bealhebert.com,bealhebert.com,duplicate firm name (same website),Beal & Hebert,https://bealhebert.com
+4278,"Bend Law Group, PC",https://bendlawoffice.com,bendlawoffice.com,name variant of another firm (same verified website),Doug Bend,https://bendlawoffice.com
+4280,"Benton, Benton & Benton LLC",https://bentonlawfirm.com,bentonlawfirm.com,duplicate firm name (same website),"Benton, Benton & Benton LLC",https://bentonlawfirm.com
+4282,Bernstein Litowitz Berger & Grossmann LLP,https://blbglaw.com,blbglaw.com,duplicate firm name (same website),Bernstein Litowitz Berger & Grossmann LLP,https://blbglaw.com
+4286,"Boyer Law Firm, P.L.",https://boyerlawfirm.com,boyerlawfirm.com,name variant of another firm (same verified website),Francis Boyer Esq.,https://boyerlawfirm.com
+4291,Burke Bogdanowicz PLLC,https://burkebog.com,burkebog.com,duplicate firm name (same website),Burke Bogdanowicz PLLC,https://burkebog.com
+4295,Campione Law,https://campionelawpa.com,campionelawpa.com,duplicate firm name (same website),Campione Law,https://campionelawpa.com
+4298,Casey On Your Side - Schmitt Schneck Even & Williams,https://schmittschneck.com/timothy-casey/,schmittschneck.com,duplicate firm name (same website),Casey On Your Side - Schmitt Schneck Even & Williams,https://schmittschneck.com/timothy-casey/
+4299,Cashe Coudrain & Bass,https://ccbattorneys.com,ccbattorneys.com,duplicate firm name (same website),Cashe Coudrain & Bass,https://ccbattorneys.com
+4300,Cea Legal P.C.,https://cealegal.com,cealegal.com,duplicate firm name (same website),Cea Legal P.C.,https://cealegal.com
+4301,"Century Law Group, LLP",http://license-defense.com,license-defense.com,duplicate firm name (source websites differ),"Century Law Group, LLP",https://centurylawgroup.com
+4303,Chenoweth Law Group LLC,https://avvo.com/attorneys/98660-wa-blake-vanzile-4874238.html,avvo.com,duplicate firm name (source websites differ),Chenoweth Law Group PC,https://chenowethlaw.com
+4304,"Chipperson Law Group, P.C.",https://chippersonlaw.com,chippersonlaw.com,name variant of another firm (same verified website),Rita C. Chipperson,https://chippersonlaw.com
+4305,Christiansen Legal,https://brett.law,brett.law,duplicate firm name (same website),Christiansen Legal,https://brett.law
+4306,"Clark Law Firm, PLLC",https://clark-firm.com,clark-firm.com,duplicate firm name (same website),"Clark Law Firm, PLLC",https://clark-firm.com
+4307,Cobb Law Group,https://cobblawgroup.net,cobblawgroup.net,duplicate firm name (same website),Cobb Law Group,https://cobblawgroup.net
+4308,"Cobert, Haber & Haber Attorneys at Law",https://coberthaber.com,coberthaber.com,duplicate firm name (same website),"Cobert, Haber & Haber Attorneys at Law",https://coberthaber.com
+4309,Cohan & Levy,https://cohanlevy.com,cohanlevy.com,duplicate firm name (same website),Cohan & Levy,https://cohanlevy.com
+4311,ComputerLaw Group LLP,http://computerlaw.law,computerlaw.law,duplicate firm name (source websites differ),"ComputerLaw Group, LLP",http://computerlaw.com
+4312,"Conn Kavanaugh Rosenthal Peisch & Ford, LLP",http://connkavanaugh.com,connkavanaugh.com,duplicate firm name (same website),"Conn Kavanaugh Rosenthal Peisch & Ford, LLP",http://connkavanaugh.com
+4313,"Conrad & Scherer, L.L.P.",https://conradscherer.com,conradscherer.com,duplicate firm name (same website),"Conrad & Scherer, L.L.P.",https://conradscherer.com
+4316,Cuomo LLC,http://cuomollc.com,cuomollc.com,duplicate firm name (same website),Cuomo LLC,http://cuomollc.com
+4318,Damian & Valori LLP | Culmo Trial Attorneys,https://dvllp.com,dvllp.com,duplicate firm name (same website),Damian & Valori LLP | Culmo Trial Attorneys,https://dvllp.com
+4319,"Darling & Wilson, PC",https://dwlawfirm.com,dwlawfirm.com,duplicate firm name (same website),"Darling & Wilson, PC",https://dwlawfirm.com
+4321,"Daughtry & Farine, P.C.",https://daughtryfarine.com,daughtryfarine.com,duplicate firm name (same website),"Daughtry & Farine, P.C.",https://daughtryfarine.com
+4323,Dennehy Law,https://dennehylaw.com,dennehylaw.com,duplicate firm name (same website),Dennehy Law,https://dennehylaw.com
+4324,"Dillon, Miller, Ahuja & Boss, LLP",https://dmablaw.com,dmablaw.com,duplicate firm name (same website),"Dillon, Miller, Ahuja & Boss, LLP",https://dmablaw.com
+4325,"Dinn, Hochman + Potter LLC",https://dhplaw.com,dhplaw.com,duplicate firm name (same website),"Dinn, Hochman + Potter LLC",https://dhplaw.com
+4326,"Downs Law, LLC",https://downslawllc.com,downslawllc.com,duplicate firm name (same website),"Downs Law, LLC",https://downslawllc.com
+4327,Drohan Lee LLP,https://dlkny.com,dlkny.com,duplicate firm name (same website),Drohan Lee LLP,https://dlkny.com
+4328,"Edmonds & Cmaidalka, P.C.",https://edmondsiplaw.com,edmondsiplaw.com,duplicate firm name (same website),"Edmonds & Cmaidalka, P.C.",https://edmondsiplaw.com
+4329,Ehlers Law Corporation,https://ehlerslawcorp.com,ehlerslawcorp.com,duplicate firm name (same website),Ehlers Law Corporation,https://ehlerslawcorp.com
+4331,"Enenstein, Pham, Glass, Gutenplan & Bolling, LLP",https://epgrlawyers.com,epgrlawyers.com,duplicate firm name (same website),"Enenstein, Pham, Glass, Gutenplan & Bolling, LLP",https://epgrlawyers.com
+4332,"Evergreen Law Group, LLC",https://evergreenlawgroup.net,evergreenlawgroup.net,duplicate firm name (same website),"Evergreen Law Group, LLC",https://evergreenlawgroup.net
+4333,Farhang & Medcoff,https://farhangmedcoff.com,farhangmedcoff.com,duplicate firm name (same website),Farhang & Medcoff,https://farhangmedcoff.com
+4334,"Fetky & Petty, LLC",https://fetkyandpetty.com,fetkyandpetty.com,duplicate firm name (same website),"Fetky & Petty, LLC",https://fetkyandpetty.com
+4337,"Finneran & Nicholson, P.C.",https://finnerannicholson.com,finnerannicholson.com,duplicate firm name (same website),"Finneran & Nicholson, P.C.",https://finnerannicholson.com
+4338,"Fisher Rushmer, PA",https://fisherlawfirm.com,fisherlawfirm.com,duplicate firm name (same website),"Fisher Rushmer, PA",https://fisherlawfirm.com
+4339,FL Turner Law,https://lawofficeoffltjr.com,lawofficeoffltjr.com,duplicate firm name (same website),FL Turner Law,https://lawofficeoffltjr.com
+4340,Fleming & Borowicz PLC,https://fblawplc.com,fblawplc.com,duplicate firm name (same website),Fleming & Borowicz PLC,https://fblawplc.com
+4341,Fowler Doyle Spiess PLLC,https://fowlerlawoffice.com,fowlerlawoffice.com,duplicate firm name (same website),Fowler Doyle Spiess PLLC,https://fowlerlawoffice.com
+4343,Fukunaga Matayoshi Ching & Kon-Herrera,https://fmhc-law.com,fmhc-law.com,duplicate firm name (same website),Fukunaga Matayoshi Ching & Kon-Herrera,https://fmhc-law.com
+4344,Gabor & Marotta LLC,https://marottalaw.com,marottalaw.com,duplicate firm name (same website),Gabor & Marotta LLC,https://marottalaw.com
+4345,"Gagen, McCoy, McMahon, Koss, Markowitz & Fanucci",https://gagenmccoy.com,gagenmccoy.com,duplicate firm name (same website),"Gagen, McCoy, McMahon, Koss, Markowitz & Fanucci",https://gagenmccoy.com
+4346,"Gallant & Ervin, L.L.C.",https://gallant-ervin.com,gallant-ervin.com,duplicate firm name (same website),"Gallant & Ervin, L.L.C.",https://gallant-ervin.com
+4347,GDH Law,https://gdhlawfirm.com,gdhlawfirm.com,duplicate firm name (same website),GDH Law,https://gdhlawfirm.com
+4348,Gerdes Law,http://gerdeslaw.com,gerdeslaw.com,duplicate firm name (same website),Gerdes Law,http://gerdeslaw.com
+4350,GHMA LAW,https://ghma.law,ghma.law,duplicate firm name (same website),GHMA LAW,https://ghma.law
+4351,"Gibson Kohl, P.L.",https://sarasotaclosings.com,sarasotaclosings.com,duplicate firm name (same website),"Gibson Kohl, P.L.",https://sarasotaclosings.com
+4353,"Giro & Associates, LLC",https://girolaw.com,girolaw.com,duplicate firm name (same website),"Giro & Associates, LLC",https://girolaw.com
+4354,Gislason & Hunter Attorneys At Law,https://gislason.com,gislason.com,duplicate firm name (same website),Gislason & Hunter Attorneys At Law,https://gislason.com
+4355,Goe Forsythe & Hodges LLP,https://goeforlaw.com,goeforlaw.com,duplicate firm name (same website),Goe Forsythe & Hodges LLP,https://goeforlaw.com
+4356,"Goings Law Firm, LLC",https://goingslawfirm.com,goingslawfirm.com,duplicate firm name (same website),"Goings Law Firm, LLC",https://goingslawfirm.com
+4357,Goodsill Anderson Quinn & Stifel A Limited Liability Law Partnership LLP,https://goodsill.com,goodsill.com,duplicate firm name (same website),Goodsill Anderson Quinn & Stifel A Limited Liability Law Partnership LLP,https://goodsill.com
+4358,"Grant | Shenon | Almaraz, APLC",https://grantshenon.com,grantshenon.com,duplicate firm name (same website),"Grant | Shenon | Almaraz, APLC",https://grantshenon.com
+4360,Graubard Miller,https://graubard.com,graubard.com,duplicate firm name (same website),Graubard Miller,https://graubard.com
+4361,"Greenstein Sellers, PLLC",https://greensteinsellers.com,greensteinsellers.com,duplicate firm name (same website),"Greenstein Sellers, PLLC",https://greensteinsellers.com
+4362,"Greer Injury Lawyers, PLLC",https://baileygreer.com,baileygreer.com,duplicate firm name (same website),"Greer Injury Lawyers, PLLC",https://baileygreer.com
+4363,"Hagner & Zohlman, LLC",https://hagnerzohlman.com,hagnerzohlman.com,duplicate firm name (same website),"Hagner & Zohlman, LLC",https://hagnerzohlman.com
+4365,Harmon Sieff A Law Corporation,https://linkedin.com/ppl/webprofile?id=36051583&pvs=pp&authToken=I60N&authType=name&locale=e,linkedin.com,duplicate firm name (same website),Harmon Sieff A Law Corporation,https://linkedin.com/ppl/webprofile?id=36051583&pvs=pp&authToken=I60N&authType=name&locale=e
+4367,Hartley Vojtik Law Group,https://carlahartleylaw.com,carlahartleylaw.com,duplicate firm name (same website),Hartley Vojtik Law Group,https://carlahartleylaw.com
+4368,Harwood Law PLLC,https://aharwoodlaw.com,aharwoodlaw.com,duplicate firm name (same website),Harwood Law PLLC,https://aharwoodlaw.com
+4369,"Hawkes Law, APLC",https://hawkestrademarklaw.com,hawkestrademarklaw.com,duplicate firm name (same website),"Hawkes Law, APLC",https://hawkestrademarklaw.com
+4370,Heideman & Associates,https://heidlaw.com,heidlaw.com,duplicate firm name (same website),Heideman & Associates,https://heidlaw.com
+4372,Hendershot Cowart P.C.,https://hchlawyers.com,hchlawyers.com,duplicate firm name (same website),Hendershot Cowart P.C.,https://hchlawyers.com
+4376,Holmes & Peters LLC,https://holmespeters.com,holmespeters.com,duplicate firm name (same website),Holmes & Peters LLC,https://holmespeters.com
+4378,"Houston Harbaugh, P.C.",https://hh-law.com/practice-areas/intellectual-property-litigation-and-prosecution/,hh-law.com,duplicate firm name (same website),"Houston Harbaugh, P.C.",https://hh-law.com/practice-areas/intellectual-property-litigation-and-prosecution/
+4380,Hunter Law Firm,https://hunterlawfirm.com,hunterlawfirm.com,duplicate firm name (source websites differ),The Hunter Law Group,https://hunterlg.com
+4381,"Indiano Law Group, LLC",https://im-iplaw.com,im-iplaw.com,duplicate firm name (same website),"Indiano Law Group, LLC",https://im-iplaw.com
+4382,IP Works Law,https://ipworkslaw.com,ipworkslaw.com,duplicate firm name (same website),IP Works Law,https://ipworkslaw.com
+4383,"Isenberg & Hewitt, PC",https://isenberg-hewitt.com,isenberg-hewitt.com,duplicate firm name (same website),"Isenberg & Hewitt, PC",https://isenberg-hewitt.com
+4384,"James Runzheimer, Attorney",https://runzheimerlaw.com,runzheimerlaw.com,duplicate firm name (same website),"James Runzheimer, Attorney",https://runzheimerlaw.com
+4385,"John E. Kieffer, Attorney at Law, PLLC",https://johnkieffervatnlaw.com,johnkieffervatnlaw.com,duplicate firm name (same website),"John E. Kieffer, Attorney at Law, PLLC",https://johnkieffervatnlaw.com
+4386,"Johnson Law Group, LLC",https://johnsonlgroup.com,johnsonlgroup.com,duplicate firm name (source websites differ),Johnson Law Office,https://johnsonlawoffice.us
+4387,"Johnston IP Law, PLLC",https://johnstonip.com,johnstonip.com,duplicate firm name (same website),"Johnston IP Law, PLLC",https://johnstonip.com
+4388,"Juhasz Law Firm, PC",https://patenthorizon.com,patenthorizon.com,duplicate firm name (same website),"Juhasz Law Firm, PC",https://patenthorizon.com
+4389,"Kaplan Rothstein Prüss Peraza, P.A.",http://dkrpa.com,dkrpa.com,duplicate firm name (source websites differ),"Kaplan Rothstein Prüss Peraza, P.A.",https://krp2.com
+4390,"Kaplin Stewart Meloff Reiter & Stein, P.C.",https://kaplaw.com,kaplaw.com,duplicate firm name (same website),"Kaplin Stewart Meloff Reiter & Stein, P.C.",https://kaplaw.com
+4393,Kenneth Jack,https://davisandjack.com,davisandjack.com,duplicate firm name (same website),Kenneth Jack,https://davisandjack.com
+4394,Kennyhertz Perry,https://kennyhertzperry.com,kennyhertzperry.com,duplicate firm name (same website),Kennyhertz Perry,https://kennyhertzperry.com
+4395,Kerr Simpson Attorneys at Law,https://sterlingkerrlaw.com,sterlingkerrlaw.com,duplicate firm name (same website),Kerr Simpson Attorneys at Law,https://sterlingkerrlaw.com
+4397,"Kim, Lim & Partners",https://klplawyers.com,klplawyers.com,duplicate firm name (same website),"Kim, Lim & Partners",https://klplawyers.com
+4398,Klehr Harrison Harvey Branzburg LLP,http://klehr.com,klehr.com,duplicate firm name (same website),Klehr Harrison Harvey Branzburg LLP,http://klehr.com
+4400,Knellinger & Associates,https://lawyergainesville.com,lawyergainesville.com,duplicate firm name (same website),Law Office of Knellinger & Associates,https://lawyergainesville.com
+4401,"Koch Law, PLLC",https://nydefensecounsel.com,nydefensecounsel.com,duplicate firm name (same website),"Koch Law, PLLC",https://nydefensecounsel.com
+4402,Koenig Law Offices,https://koeniglawla.com,koeniglawla.com,duplicate firm name (same website),Koenig Law Offices,https://koeniglawla.com
+4403,Kolman Law P.C.,https://kolmanlaw.com,kolmanlaw.com,name variant of another firm (same verified website),Timothy Kolman,https://kolmanlaw.com
+4404,"Kramer & Kramer, PLC",https://kramerandkramer.com,kramerandkramer.com,duplicate firm name (same website),"Kramer & Kramer, PLC",https://kramerandkramer.com
+4405,Krieg DeVault LLP,https://fuchsandroselli.com,fuchsandroselli.com,duplicate firm name (source websites differ),Krieg DeVault LLP,https://kriegdevault.com
+4406,Kuiper Kraemer PC,https://k2legal.com,k2legal.com,duplicate firm name (same website),Kuiper Kraemer PC,https://k2legal.com
+4407,Landay Roberts LLP,https://landayroberts.com,landayroberts.com,duplicate firm name (same website),Landay Roberts LLP,https://landayroberts.com
+4410,Law Office of Danny Cochetas,http://cochetaslaw.com,cochetaslaw.com,duplicate firm name (same website),Danny Cochetas,http://cochetaslaw.com
+4412,Law Office of Henry B. LaTorraca,https://latorraca.com,latorraca.com,duplicate firm name (same website),Law Office of Henry B. LaTorraca,https://latorraca.com
+4414,Law Office of Joseph Abrams,https://josephabramslaw.com,josephabramslaw.com,duplicate firm name (same website),Joseph Abrams,https://josephabramslaw.com
+4415,Law Office of Matt Catlett,https://catlettlaw.com,catlettlaw.com,duplicate firm name (same website),Law Office of Matt Catlett,https://catlettlaw.com
+4418,Law Offices Of Christopher R. Mallicoat,https://yourbeverlyhillslawyer.com,yourbeverlyhillslawyer.com,duplicate firm name (same website),Law Offices Of Christopher R. Mallicoat,https://yourbeverlyhillslawyer.com
+4420,"Law Offices of James R. Ackley, P.A.",https://ackleylegal.com,ackleylegal.com,duplicate firm name (same website),"Law Offices of James R. Ackley, P.A.",https://ackleylegal.com
+4422,Law Offices of Joseph Y. Avrahamy,https://jyalaw.com,jyalaw.com,duplicate firm name (same website),Law Offices of Joseph Y. Avrahamy,https://jyalaw.com
+4426,Law Offices of Richard C. Spencer,http://rspencerlaw.com,rspencerlaw.com,duplicate firm name (same website),Richard C. Spencer,http://rspencerlaw.com
+4427,Lawrence Bartels LLP,https://lawrencebartels.com,lawrencebartels.com,duplicate firm name (same website),Lawrence Bartels LLP,https://lawrencebartels.com
+4430,"Lewis Reed & Allen, PC",https://lewisreedallen.com,lewisreedallen.com,duplicate firm name (same website),"Lewis Reed & Allen, PC",https://lewisreedallen.com
+4433,Lipsitz Green Scime Cambria LLP,http://lipsitzgreen.com,lipsitzgreen.com,duplicate firm name (same website),Lipsitz Green Scime Cambria LLP,http://lipsitzgreen.com
+4435,Lodestar IP & Patent Law,https://lodestar.law,lodestar.law,duplicate firm name (same website),Lodestar IP & Patent Law,https://lodestar.law
+4438,"Luebeck, Hammar, McCarty & Goldwarg",https://lhmglaw.com,lhmglaw.com,duplicate firm name (same website),"Luebeck, Hammar, McCarty & Goldwarg",https://lhmglaw.com
+4439,"Makoui Law, PC",https://makouilaw.com,makouilaw.com,name variant of another firm (same verified website),Ali Makoui,https://makouilaw.com
+4440,Makridis Law Firm,https://makridislaw.com,makridislaw.com,duplicate firm name (same website),Makridis Law Firm,https://makridislaw.com
+4441,"Malkin Law, P.A.",https://malkinlawfirm.com,malkinlawfirm.com,duplicate firm name (same website),"Malkin Law, P.A.",https://malkinlawfirm.com
+4443,"Marsh, Rickard & Bryan",https://mrblaw.com,mrblaw.com,duplicate firm name (same website),"Marsh, Rickard & Bryan",https://mrblaw.com
+4444,"Martin, Leyhe, Stuckmeyer & Associates LLC",https://mlslawmo.com,mlslawmo.com,duplicate firm name (same website),"Martin, Leyhe, Stuckmeyer & Associates LLC",https://mlslawmo.com
+4445,Masatani Soroy Law,https://soroy.com,soroy.com,duplicate firm name (same website),Masatani Soroy Law,https://soroy.com
+4446,Mavrick Law Firm,https://mavricklaw.com,mavricklaw.com,duplicate firm name (same website),Mavrick Law Firm,https://mavricklaw.com
+4448,McClaren & Slates,https://rslateslaw.com,rslateslaw.com,duplicate firm name (same website),McClaren & Slates,https://rslateslaw.com
+4449,"McKinley, Conger, Jolley & Galarneau, LLP",https://lawyers.com/stockton/california/mckinley-conger-jolley-galarneau-llp-272335-f/,lawyers.com,duplicate firm name (source websites differ),"McKinley, Conger, Jolley & Galarneau, LLP",https://mcjglaw.com
+4450,McMullan & Brown,https://m-b.law,m-b.law,duplicate firm name (same website),McMullan & Brown,https://m-b.law
+4451,"McNamee Hosea, P.A.",https://mhlawyers.com,mhlawyers.com,duplicate firm name (same website),"McNamee Hosea, P.A.",https://mhlawyers.com
+4452,Michael P. Ring & Associates,https://ringlaw.net,ringlaw.net,duplicate firm name (same website),Michael P. Ring & Associates,https://ringlaw.net
+4453,Miller Korzenik Sommers Rayman LLP,https://mksr.law,mksr.law,duplicate firm name (same website),Miller Korzenik Sommers Rayman LLP,https://mksr.law
+4455,Morgan & Jones,https://work-lawyers.com,work-lawyers.com,duplicate firm name (same website),Morgan & Jones,https://work-lawyers.com
+4456,"Mullin Hoard & Brown, LLP",https://mullinhoard.com,mullinhoard.com,duplicate firm name (same website),"Mullin Hoard & Brown, LLP",https://mullinhoard.com
+4457,"Murrah & Killough, PLLC",https://mktxlaw.com,mktxlaw.com,duplicate firm name (same website),"Murrah & Killough, PLLC",https://mktxlaw.com
+4458,"Newman & Lickstein, LLP",https://newmanlickstein.com,newmanlickstein.com,duplicate firm name (same website),"Newman & Lickstein, LLP",https://newmanlickstein.com
+4459,O'Connor & Associates Attorneys at Law,http://joclaw.com,joclaw.com,duplicate firm name (same website),O'Connor & Associates Attorneys at Law,http://joclaw.com
+4461,Parjus Law,https://parjuslaw.com,parjuslaw.com,duplicate firm name (same website),Parjus Law,https://parjuslaw.com
+4462,"Parker Justiss, P.C.",https://pj-iplaw.com,pj-iplaw.com,duplicate firm name (same website),"Parker Justiss, P.C.",https://pj-iplaw.com
+4464,"Pender & Coward, P.C.",https://pendercoward.com,pendercoward.com,duplicate firm name (same website),"Pender & Coward, P.C.",https://pendercoward.com
+4465,"Perez Mayoral, P.A.",https://pmlawfla.com,pmlawfla.com,duplicate firm name (same website),"Perez Mayoral, P.A.",https://pmlawfla.com
+4466,Perkins Law - Brand Protection,https://brandprotection.law,brandprotection.law,duplicate firm name (same website),Perkins Law - Brand Protection,https://brandprotection.law
+4469,"Pike & Lustig, LLP",https://pikelustig.com,pikelustig.com,duplicate firm name (same website),"Pike & Lustig, LLP",https://pikelustig.com
+4470,Poniatowski Leding Parikh Law Corporation,https://lawyers.com/oakland/california/poniatowski-leding-parikh-law-corporation-172106-f/,lawyers.com,duplicate firm name (source websites differ),Poniatowski Leding Parikh Law Corporation,http://ponlaw.com
+4472,PV Law LLP,https://pvuslaw.com,pvuslaw.com,duplicate firm name (same website),PV Law LLP,https://pvuslaw.com
+4473,"Rachel Schulman, Esq. PLLC",https://schulmanpllc.com,schulmanpllc.com,duplicate firm name (same website),"Rachel Schulman, Esq. PLLC",https://schulmanpllc.com
+4476,"Reynolds Law Group, LLC",https://thomasreynoldslaw.com,thomasreynoldslaw.com,duplicate firm name (same website),"Reynolds Law Group, LLC",https://thomasreynoldslaw.com
+4477,Ribakoff Law Firm,https://ribakoff-law.com,ribakoff-law.com,duplicate firm name (same website),Ribakoff Law Firm,https://ribakoff-law.com
+4479,"Rosen Karol Salis, PLLC",https://richardrosenlaw.com,richardrosenlaw.com,duplicate firm name (same website),"Rosen Karol Salis, PLLC",https://richardrosenlaw.com
+4480,"Rosenberg & Estis, P.C.",https://rosenbergestis.com,rosenbergestis.com,duplicate firm name (same website),"Rosenberg & Estis, P.C.",https://rosenbergestis.com
+4482,"Rowe Law Office, LLC",https://snrowelaw.com,snrowelaw.com,duplicate firm name (same website),"Rowe Law Office, LLC",https://snrowelaw.com
+4483,"Roy Kiesel Ford Doody Thurmon, APLC",https://roykiesel.com,roykiesel.com,duplicate firm name (same website),"Roy Kiesel Ford Doody Thurmon, APLC",https://roykiesel.com
+4485,S. Moore Law PLLC,https://smoorelaw.com,smoorelaw.com,duplicate firm name (same website),S. Moore Law PLLC,https://smoorelaw.com
+4486,SAC Attorneys LLP,https://lawyers.com/san-francisco/california/sac-attorneys-llp-300016885-f/,lawyers.com,duplicate firm name (source websites differ),SAC Attorneys LLP,https://sacattorneys.com
+4487,Saile Ackerman LLC,https://saileackerman.com,saileackerman.com,duplicate firm name (same website),Saile Ackerman LLC,https://saileackerman.com
+4488,Sargon Law Group,https://sargonlawgroup.com,sargonlawgroup.com,duplicate firm name (same website),Sargon Law Group,https://sargonlawgroup.com
+4490,"Schroeder & Siegfried, P.A.",https://schroederpatlaw.com,schroederpatlaw.com,duplicate firm name (same website),"Schroeder & Siegfried, P.A.",https://schroederpatlaw.com
+4491,Schwartz Law Firm,https://schwartzlawfirmpa.com,schwartzlawfirmpa.com,duplicate firm name (same website),Schwartz Law Firm,https://schwartzlawfirmpa.com
+4495,Sidkoff Pincus & Green,https://greatlawyers.com,greatlawyers.com,duplicate firm name (same website),Sidkoff Pincus & Green,https://greatlawyers.com
+4500,Spagnoletti Law Firm,https://spaglaw.com,spaglaw.com,duplicate firm name (same website),Spagnoletti Law Firm,https://spaglaw.com
+4502,Spiller Law,https://lawyers.com/san-francisco/california/spiller-law-158090999-f/,lawyers.com,duplicate firm name (source websites differ),Spiller Law,http://spillerlaw.com
+4504,SRG Law Group,https://inlandempirelawyers.com/sergio-rodriguez.html,inlandempirelawyers.com,duplicate firm name (same website),SRG Law Group,https://inlandempirelawyers.com/sergio-rodriguez.html
+4507,Steve Harvey Law LLC,https://steveharveylaw.com,steveharveylaw.com,duplicate firm name (same website),Steve Harvey Law LLC,https://steveharveylaw.com
+4508,Stitz Law,https://stitzlaw.com,stitzlaw.com,name variant of another firm (same verified website),Leonard W. Stitz P.C.,https://stitzlaw.com
+4511,Tajima LLP,https://trepaniertajima.com,trepaniertajima.com,duplicate firm name (same website),Tajima LLP,https://trepaniertajima.com
+4513,"TDW Patents & Consulting, LLC",https://tdwpatents.com,tdwpatents.com,duplicate firm name (same website),"TDW Patents & Consulting, LLC",https://tdwpatents.com
+4514,Tesser | Grossman LLP,https://tessergrossman.com,tessergrossman.com,duplicate firm name (same website),Tesser | Grossman LLP,https://tessergrossman.com
+4516,Tharrington Smith LLP,https://tharringtonsmith.com,tharringtonsmith.com,duplicate firm name (same website),Tharrington Smith LLP,https://tharringtonsmith.com
+4518,"The Catafago Law Firm, P.C.",https://jacquescatafagolaw.com,jacquescatafagolaw.com,duplicate firm name (same website),"The Catafago Law Firm, P.C.",https://jacquescatafagolaw.com
+4519,"The Gonzalez Law Group, PLLC",https://gonzalezlawgroup.net,gonzalezlawgroup.net,duplicate firm name (same website),"The Gonzalez Law Group, PLLC",https://gonzalezlawgroup.net
+4521,The Hoffman Law Firm,https://hoffmanlawfirm.org,hoffmanlawfirm.org,duplicate firm name (same website),The Hoffman Law Firm,https://hoffmanlawfirm.org
+4523,The Kruckemeyer Law Firm,https://kruckemeyerlaw.com,kruckemeyerlaw.com,duplicate firm name (same website),The Kruckemeyer Law Firm,https://kruckemeyerlaw.com
+4524,The Law Office of Brian Crone,https://cronelawoffice.com,cronelawoffice.com,duplicate firm name (same website),The Law Office of Brian Crone,https://cronelawoffice.com
+4526,The Law Office of Geralyn F. Noonan,https://noonanlaw.com,noonanlaw.com,duplicate firm name (same website),The Law Office of Geralyn F. Noonan,https://noonanlaw.com
+4527,The Law Offices of Carl Lippenberger,http://lippenbergerlaw.com,lippenbergerlaw.com,name variant of another firm (same verified website),"Lippenberger, Carl, The Law Offices of",http://lippenbergerlaw.com
+4528,"The Levey Law Firm, P.A.",https://leveylaw.com,leveylaw.com,duplicate firm name (same website),"The Levey Law Firm, P.A.",https://leveylaw.com
+4529,"The Maxim Law Firm, P.C.",https://maximlawfirm.com/attorney-profile,maximlawfirm.com,duplicate firm name (same website),"The Maxim Law Firm, P.C.",https://maximlawfirm.com/attorney-profile
+4530,The Minor Firm,https://minorfirm.com,minorfirm.com,duplicate firm name (same website),The Minor Firm,https://minorfirm.com
+4532,"The Smith Firm, P.C.",https://thesmithfirmpc.com,thesmithfirmpc.com,duplicate firm name (same website),"The Smith Firm, P.C.",https://thesmithfirmpc.com
+4533,"The Valley Law Group, LLC",https://thevalleylawgroup.com,thevalleylawgroup.com,duplicate firm name (same website),"The Valley Law Group, LLC",https://thevalleylawgroup.com
+4534,"The Wendt Firm, P.C.",https://wendtfirm.com,wendtfirm.com,duplicate firm name (same website),"The Wendt Firm, P.C.",https://wendtfirm.com
+4536,The Zoppoth Law Firm,https://kentuckyemploymentlawyer.com,kentuckyemploymentlawyer.com,duplicate firm name (same website),The Zoppoth Law Firm,https://kentuckyemploymentlawyer.com
+4537,"Tilem & Associates, PC",https://tilemlawfirm.com,tilemlawfirm.com,duplicate firm name (same website),"Tilem & Associates, PC",https://tilemlawfirm.com
+4538,"Tomlinson & Shapiro, P.C.",https://tomlinsonshapiro.com,tomlinsonshapiro.com,duplicate firm name (same website),"Tomlinson & Shapiro, P.C.",https://tomlinsonshapiro.com
+4541,Tully Rinckey PLLC,https://tullylegal.com,tullylegal.com,duplicate firm name (same website),Tully Rinckey PLLC,https://tullylegal.com
+4542,Valenti Hanley PLLC,https://vhrlaw.com,vhrlaw.com,duplicate firm name (same website),Valenti Hanley PLLC,https://vhrlaw.com
+4544,Walker Roberts LLP,https://walkerrobertsllp.com,walkerrobertsllp.com,duplicate firm name (same website),Walker Roberts LLP,https://walkerrobertsllp.com
+4545,"Walters Gilbreath, PLLC",http://nems-law.com,nems-law.com,duplicate firm name (source websites differ),"Walters Gilbreath, PLLC",https://waltersgilbreath.com
+4546,Warren & Kazen Law,https://warrenkazen.com,warrenkazen.com,duplicate firm name (same website),Warren & Kazen Law,https://warrenkazen.com
+4547,"Warren Gammill & Associates, P.L.",https://gammilllaw.com,gammilllaw.com,duplicate firm name (same website),"Warren Gammill & Associates, P.L.",https://gammilllaw.com
+4548,"Warren Moore Rutherford, LLP",https://niwotlaw.com,niwotlaw.com,duplicate firm name (same website),"Warren Moore Rutherford, LLP",https://niwotlaw.com
+4549,"Watkins & Letofsky, LLP",https://wl-llp.com,wl-llp.com,duplicate firm name (same website),"Watkins & Letofsky, LLP",https://wl-llp.com
+4550,"Weinberger Divorce & Family Law Group, LLC",https://weinbergerlawgroup.com,weinbergerlawgroup.com,duplicate firm name (same website),"Weinberger Divorce & Family Law Group, LLC",https://weinbergerlawgroup.com
+4551,"Weissman & Dervishi, P.A.",https://wdpalaw.com,wdpalaw.com,duplicate firm name (same website),"Weissman & Dervishi, P.A.",https://wdpalaw.com
+4552,Whiteman Osterman & Hanna LLP,http://woh.com,woh.com,duplicate firm name (same website),Whiteman Osterman & Hanna LLP,http://woh.com
+4553,Wilshire Law Firm,https://wilshirelawfirm.com,wilshirelawfirm.com,duplicate firm name (same website),Wilshire Law Firm,https://wilshirelawfirm.com
+4554,"Wimberly Lawson Wright Daves & Jones, PLLC",https://wimberlylawson.com,wimberlylawson.com,duplicate firm name (same website),"Wimberly Lawson Wright Daves & Jones, PLLC",https://wimberlylawson.com
+4555,"Winslow Law, LLC",https://winslowlawyers.com,winslowlawyers.com,duplicate firm name (same website),"Winslow Law, LLC",https://winslowlawyers.com
+4556,Winter & Grossman PLLC,https://wintergrossman.com,wintergrossman.com,duplicate firm name (same website),Winter & Grossman PLLC,https://wintergrossman.com
+4559,Your Family Law Center,https://yourfamilylawcenter.com,yourfamilylawcenter.com,duplicate firm name (same website),Your Family Law Center,https://yourfamilylawcenter.com
+4561,Ziegler Law Group LLC,https://zieglerlawgroupllc.com,zieglerlawgroupllc.com,duplicate firm name (same website),Ziegler Law Group LLC,https://zieglerlawgroupllc.com

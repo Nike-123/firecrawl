@@ -1,0 +1,738 @@
+ID,Firm Name,Data Status,Source URL (as scraped),Domain,QA Notes,Source Line
+LF-0006,A. Danos & Associates LLC,Kept - website not verifiable,https://cypruslegalservices.eu,cypruslegalservices.eu,,7
+LF-0025,Adam J. Bruno,Review - website belongs to another firm,http://baystatepatent.com,baystatepatent.com,"source website baystatepatent.com matches 'Bay State IP, LLC'",22
+LF-0043,ADLI Law Group,Kept - website not verifiable,https://hahnloeser.com,hahnloeser.com,,3650
+LF-0054,"Ahmad, Zavitsanos & Mensing",Kept - website not verifiable,https://azalaw.com,azalaw.com,,48
+LF-0055,"Ahr Law Offices, P.C.",Kept - website not verifiable,http://aqtaxlaw.com,aqtaxlaw.com,,49
+LF-0063,Alagood Cartwright Burke PC,Kept - website not verifiable,http://dentonlaw.com,dentonlaw.com,,55
+LF-0065,Alan Harrison,Kept - website not verifiable,https://sandollar-law.net,sandollar-law.net,,57
+LF-0069,"Albert Buzzetti & Associates, L.L.C.",Kept - website not verifiable,https://tristatelaw.com,tristatelaw.com,"2 source rows merged; conflicting websites in source (denleacarton.com, tristatelaw.com)",4160
+LF-0071,Alcyone Levy,Review - website belongs to another firm,http://wshblaw.com,wshblaw.com,"source website wshblaw.com matches 'Wood, Smith, Henning & Berman LLP'",62
+LF-0073,Alderman IP,Kept - website not verifiable,https://thecontentlawyer.com,thecontentlawyer.com,,3854
+LF-0074,"Aleshire & Wynder, LLP",Review - website belongs to another firm,https://akingump.com,akingump.com,source website akingump.com matches 'Akin',3467
+LF-0076,Alexander R. DiDonato,Review - website belongs to another firm,http://lipsitzgreen.com,lipsitzgreen.com,source website lipsitzgreen.com matches 'Lipsitz Green Scime Cambria LLP',65
+LF-0077,Alexandra Devine,Kept - website not verifiable,https://fortheinjured.com,fortheinjured.com,,66
+LF-0081,"Alix, Yale & Ristas LLP",Kept - website not verifiable,https://pctlaw.com,pctlaw.com,,70
+LF-0086,Allen Gardner Law PLLC,Review - website belongs to another firm,https://keglerbrown.com,keglerbrown.com,source website keglerbrown.com matches 'Kegler Brown Hill & Ritter LPA',3701
+LF-0094,"Allred, Bacon, Halfhill & Young PC.",Kept - website not verifiable,https://mcneillbaur.com,mcneillbaur.com,,3751
+LF-0101,Altman & Martin,Kept - website not verifiable,http://altmartlaw.com,altmartlaw.com,,88
+LF-0103,Amburn Law PLLC,Kept - website not verifiable,https://pure.law,pure.law,,90
+LF-0106,American Intellectual Property Law Association,Kept - website not verifiable,http://aipla.org,aipla.org,,93
+LF-0109,Amin Talati Wasserman LLP,Kept - website not verifiable,https://awglaw.com,awglaw.com,,96
+LF-0110,Amin Turocy & Watson LLP,Kept - website not verifiable,https://thepatentattorneys.com,thepatentattorneys.com,,97
+LF-0117,Anastassiou & Associates,Kept - website not verifiable,http://salinasaglaw.com,salinasaglaw.com,,104
+LF-0120,"Anderson & Associates, PC",Kept - website not verifiable,http://virginialawoffice.com,virginialawoffice.com,,106
+LF-0122,Andrew 'Drew' Schwartz,Kept - website not verifiable,https://cainlaw-okc.com/edmond/,cainlaw-okc.com,"deep link / profile page, not a homepage",108
+LF-0130,Anooj Patel,Kept - website not verifiable,https://hpl.law,hpl.law,,116
+LF-0131,Anthony Morano,Review - website belongs to another firm,https://ezrasutton.net,ezrasutton.net,source website ezrasutton.net matches 'Sutton IP Associates PA',117
+LF-0132,"ANTHONY, LINDER & CACOMANOLIS, PLLC",Kept - website not verifiable,https://legalandcompliance.com,legalandcompliance.com,"2 source rows merged; conflicting websites in source (avvo.com, legalandcompliance.com)",4174
+LF-0133,Antonoplos & Associates Attorneys at Law,Kept - website not verifiable,https://antonlegal.com,antonlegal.com,,118
+LF-0145,Ardent Law Group PC,Review - website belongs to another firm,https://millerjohnson.com,millerjohnson.com,source website millerjohnson.com matches 'Miller Johnson Snell & Cummiskey PLC',3760
+LF-0147,ArentFox Schiff LLP,Kept - website not verifiable,https://afslaw.com,afslaw.com,,130
+LF-0156,Arnold & Clifford LLC,Kept - website not verifiable,https://arnlaw.com,arnlaw.com,,139
+LF-0158,Arnold & Porter Kaye Scholer LLP,Kept - website not verifiable,https://awattorneys.com,awattorneys.com,,3468
+LF-0164,"Arvanitakis Law Group, LLC",Kept - website not verifiable,https://alg-legal.com,alg-legal.com,"2 source rows merged; conflicting websites in source (alg-legal.com, makridislaw.com)",146
+LF-0171,Ashurst Perkins Coie US LLP,Review - website belongs to another firm,https://alston.com,alston.com,source website alston.com matches 'Alston & Bird LLP',3469
+LF-0172,"Asiatico Law, PLLC",Kept - website not verifiable,http://baalegal.com,baalegal.com,,153
+LF-0179,Ater Wynne LLP,Kept - website not verifiable,https://maschoff.com,maschoff.com,,3740
+LF-0180,Athanasios Basagiannis - B & M Law,Kept - website not verifiable,http://bmlaw.gr,bmlaw.gr,,159
+LF-0183,"Atkinson, Baker & Rodriguez, P.C.",Kept - website not verifiable,http://atb-law.com,atb-law.com,,162
+LF-0185,Attorney / Mediator / Arbitrator,Review - directory profile only,http://linktr.ee/nicholasjackmarino,linktr.ee,,163
+LF-0188,AU LLC,Kept - website not verifiable,https://au-llc.com,au-llc.com,,3972
+LF-0208,"Babcock & Jensen, PC",Kept - website not verifiable,http://willtrustestate.com,willtrustestate.com,,181
+LF-0210,Bacal & Garrison Law Group,Kept - website not verifiable,https://ipdepartment.com,ipdepartment.com,,183
+LF-0213,Bailey & Galyen Attorneys at Law,Kept - website not verifiable,https://thetexasattorney.com,thetexasattorney.com,,186
+LF-0223,Baker & Rannells PA,Kept - website not verifiable,https://tmlawworldwide.com,tmlawworldwide.com,,196
+LF-0233,Ballard Law Office LLC,Kept - website not verifiable,http://fayettelawyer.com,fayettelawyer.com,,206
+LF-0241,"Baranov & Wittenberg, LLP",Kept - website not verifiable,http://mbgwlaw.com,mbgwlaw.com,,213
+LF-0254,Barron Peck Bennie & Schlemmer,Kept - website not verifiable,https://davidlefton.com,davidlefton.com,"2 source rows merged; conflicting websites in source (davidlefton.com, fetkyandpetty.com)",4126
+LF-0255,"Barron, Peck, Bennie & Schlemmer Co., L.P.A.",Kept - website not verifiable,http://bpbattorneys.com,bpbattorneys.com,,226
+LF-0257,Barry M. Bordetsky,Review - website belongs to another firm,http://littmankrooks.com,littmankrooks.com,source website littmankrooks.com matches 'Littman Krooks LLP',228
+LF-0258,Barry Marks,Review - website belongs to another firm,https://messerlikramer.com,messerlikramer.com,source website messerlikramer.com matches 'Messerli | Kramer',229
+LF-0260,Bartko LLP,Kept - website not verifiable,https://awglaw.com,awglaw.com,,3470
+LF-0271,"Bates Carey, LLP",Review - website belongs to another firm,https://arelaw.com,arelaw.com,source website arelaw.com matches 'Amster Rothstein & Ebenstein LLP',3471
+LF-0273,"Battaglia, Ross, Dicus & McQuaid, P.A.",Kept - website not verifiable,http://brdwlaw.com,brdwlaw.com,,241
+LF-0279,Bayard PA,Review - website belongs to another firm,https://jacksonkelly.com,jacksonkelly.com,source website jacksonkelly.com matches 'Jackson Kelly PLLC',3688
+LF-0283,"BD&J, PC",Kept - website not verifiable,https://bdj.com,bdj.com,,3833
+LF-0293,Beggs & Lane,Review - website belongs to another firm,https://armstrongteasdale.com,armstrongteasdale.com,source website armstrongteasdale.com matches 'Armstrong Teasdale LLP',3472
+LF-0302,Benesch,Review - website belongs to another firm,https://arnoldporter.com,arnoldporter.com,source website arnoldporter.com matches 'Arnold & Porter',3473
+LF-0305,Benjamin M. Lopatin,Review - website belongs to another firm,https://cordellcordell.com,cordellcordell.com,source website cordellcordell.com matches 'Cordell & Cordell',264
+LF-0306,"Benjamin, Vana, Martinez & Biggs LLP",Kept - website not verifiable,https://benlawsa.com,benlawsa.com,,265
+LF-0307,"Benjamin, Vana, Martinez & Cano LLP",Kept - website not verifiable,https://benlawsa.com,benlawsa.com,,4279
+LF-0315,Bergeson LLP,Kept - website not verifiable,https://be-law.com,be-law.com,,272
+LF-0317,Berkeley Law & Technology Group,Kept - website not verifiable,https://bltg-ip.com,bltg-ip.com,,274
+LF-0318,Berkeley Technology Law Journal,Kept - website not verifiable,http://btlj.org,btlj.org,,275
+LF-0319,Berkowitz & Associates PA,Kept - website not verifiable,http://businesscounselor.com,businesscounselor.com,,276
+LF-0323,"Berman, Berman, Berman, Schneider & Lowary, LLP",Kept - website not verifiable,http://b3law.com,b3law.com,,4281
+LF-0325,Bernheim Kelley Injury Lawyers,Kept - website not verifiable,https://realjustice.com,realjustice.com,,281
+LF-0335,Best Property Lawyer Gurgaon,Kept - website not verifiable,https://vipinraina.com,vipinraina.com,,290
+LF-0336,"Beusse Sanks, PLLC",Kept - website not verifiable,https://firstiniplaw.com,firstiniplaw.com,,291
+LF-0340,BG Law,Kept - website not verifiable,https://bg.law,bg.law,,295
+LF-0341,"BHW IP Law, Barceló, Harrison & Walker, LLP",Kept - website not verifiable,https://patentlaw.us,patentlaw.us,,4283
+LF-0346,Billings & Barrett LLC,Kept - website not verifiable,https://meuniercarlin.com,meuniercarlin.com,,3756
+LF-0358,BLAKE & WANG P.A.,Kept - website not verifiable,https://filmtvlaw.com,filmtvlaw.com,,311
+LF-0361,Blakely Sokoloff Taylor & Zafman,Kept - website not verifiable,https://womblebonddickinson.com,womblebonddickinson.com,,314
+LF-0362,Blanchard Krasner & French APC,Kept - website not verifiable,https://bkflaw.com,bkflaw.com,,315
+LF-0383,Bojorquez Law Firm PC,Kept - website not verifiable,https://texasmunicipallawyers.com,texasmunicipallawyers.com,,333
+LF-0386,"Bolender & Associates, A Professional Law Corporation",Review - website belongs to another firm,https://mitchellwilliamslaw.com,mitchellwilliamslaw.com,source website mitchellwilliamslaw.com matches 'Mitchell Williams Selig Gates & Woodyard PLLC',3763
+LF-0388,Boodell & Domanskis LLC,Kept - website not verifiable,https://boodlaw.com,boodlaw.com,,336
+LF-0390,Bookoff McAndrews PLLC,Kept - website not verifiable,https://bomcip.com,bomcip.com,,338
+LF-0392,"Booth Albanesi Schroeder, PLLC",Kept - website not verifiable,https://ipoftexas.com,ipoftexas.com,"2 source rows merged; conflicting websites in source (hagnerzohlman.com, ipoftexas.com)",339
+LF-0398,"Boston Law Collaborative, LLC",Kept - website not verifiable,http://blc.law,blc.law,,344
+LF-0410,Bowles & Verna LLP,Review - website belongs to another firm,https://kanekessler.com,kanekessler.com,"source website kanekessler.com matches 'Kane Kessler, P.C.'",3693
+LF-0416,"Boyette, Cummins & Nailos PLLC",Review - website belongs to another firm,https://harnessip.com,harnessip.com,"source website harnessip.com matches 'Harness, Dickey & Pierce PLC'",3657
+LF-0424,Bradford F. Ginder,Review - website belongs to another firm,http://hbsb.com,hbsb.com,source website hbsb.com matches 'Hollister & Brace A Professional Corporation',367
+LF-0428,Bradley Jubber,Review - website belongs to another firm,https://lodestar.law,lodestar.law,source website lodestar.law matches 'Lodestar IP & Patent Law',371
+LF-0438,"Breazeale, Sachse & Wilson, L.L.P.",Review - website belongs to another firm,https://bairdholm.com,bairdholm.com,"source website bairdholm.com matches 'Baird Holm, LLP'",3477
+LF-0441,Brent Ruther,Kept - website not verifiable,https://seialaw.com,seialaw.com,,382
+LF-0442,Brett T. Perala,Kept - website not verifiable,http://rglawpc.com,rglawpc.com,,383
+LF-0448,Brice Wilkerson,Kept - website not verifiable,https://northcitylaw.com,northcitylaw.com,,389
+LF-0452,Bridget Sciamanna,Kept - website not verifiable,https://invista.com,invista.com,,393
+LF-0465,Brooks & Distler,Review - directory profile only,https://lawyers.com/new-york/new-york/brooks-and-distler-460798-f/,lawyers.com,,4288
+LF-0468,"Brooks Pierce McLendon Humphrey & Leonard, LLP",Review - website belongs to another firm,https://bakerlaw.com,bakerlaw.com,source website bakerlaw.com matches 'Baker & Hostetler LLP',3478
+LF-0470,BrooksGroup PLC,Kept - website not verifiable,https://brooks.pro,brooks.pro,,408
+LF-0481,Brown Law Offices,Kept - website not verifiable,https://thelasvegasdefender.com,thelasvegasdefender.com,,4289
+LF-0486,Browne Law,Kept - website not verifiable,https://lawwhereyouare.com,lawwhereyouare.com,,422
+LF-0490,Bruce Colfin Law PC,Review - website belongs to another firm,https://loevy.com,loevy.com,source website loevy.com matches 'Loevy & Loevy',3730
+LF-0491,Bruce W. McRoy,Review - website belongs to another firm,http://reickerpfau.com,reickerpfau.com,"source website reickerpfau.com matches 'Reicker, Pfau, Pyle & McRoy LLP'",426
+LF-0494,Brutzkus Gubner Rozansky Seror Weber LLP,Kept - website not verifiable,https://htflaw.com,htflaw.com,,3681
+LF-0499,Buchanan Ingersoll & Rooney PC,Kept - website not verifiable,https://bipc.com,bipc.com,,433
+LF-0510,Bunsow De Mory LLP,Kept - website not verifiable,https://bdiplaw.com,bdiplaw.com,,442
+LF-0515,Burg Simpson Eldredge Hersh & Jardine PC,Review - website belongs to another firm,https://haynesboone.com,haynesboone.com,source website haynesboone.com matches 'Haynes and Boone LLP',3661
+LF-0537,Butzel,Review - website belongs to another firm,https://barley.com,barley.com,source website barley.com matches 'Barley Snyder',3482
+LF-0541,"C&K Law Group, APC",Kept - website not verifiable,https://jafarilaw.net,jafarilaw.net,,3898
+LF-0544,"Cadwalader, Wickersham & Taft LLP",Review - website belongs to another firm,https://hlc.com,hlc.com,source website hlc.com matches 'Hogan Lovells Cadwalader',471
+LF-0551,Caiola & Rose,Kept - website not verifiable,https://fzlz.com,fzlz.com,,3627
+LF-0558,"Caldwell Bridgers Benjamin, LLC",Kept - website not verifiable,https://appliedlegalinsight.com,appliedlegalinsight.com,,483
+LF-0573,Caplan and Earnest LLC,Review - website belongs to another firm,https://fosterswift.com,fosterswift.com,source website fosterswift.com matches 'Foster Swift Collins & Smith PC',3617
+LF-0577,"Capstone Law, LLC",Kept - website not verifiable,https://caplawllc.com,caplawllc.com,,497
+LF-0582,Carli Clarkson,Review - website belongs to another firm,https://ebdlawyers.com,ebdlawyers.com,"source website ebdlawyers.com matches 'Ernst, Brown & Draper'",502
+LF-0587,"Carlton Fields Jorden, Burt PA",Kept - website not verifiable,https://hillward.com,hillward.com,,3670
+LF-0590,Carmel & Naccasha LLP,Kept - website not verifiable,https://carnaclaw.com,carnaclaw.com,,509
+LF-0607,Cartwright Law Firm,Review - website belongs to another firm,https://glaserweil.com,glaserweil.com,source website glaserweil.com matches 'Glaser Weil Fink Howard Jordan & Shapiro LLP',3636
+LF-0623,Cetrulo LLP,Kept - website not verifiable,https://cetllp.com,cetllp.com,,537
+LF-0624,Chad Timmons,Review - website belongs to another firm,http://abernathy-law.com,abernathy-law.com,"source website abernathy-law.com matches 'Abernathy, Roeder, Boyd & Hullett, P.C'",538
+LF-0643,Cherian LLP,Kept - website not verifiable,https://chdlaw.com,chdlaw.com,,557
+LF-0645,"Chhabra Law Firm, PC",Kept - website not verifiable,https://clfip.com,clfip.com,,558
+LF-0647,Chipman Mazzucco Emerson LLC,Kept - website not verifiable,https://danburylaw.com,danburylaw.com,,560
+LF-0649,Christensen & Jensen A Professional Corporation,Kept - website not verifiable,http://chrisjen.com,chrisjen.com,,562
+LF-0650,Christensen Fonder Dardi Busse,Kept - website not verifiable,https://cfd-ip.com,cfd-ip.com,,3792
+LF-0652,Christensen O'Connor Johnson Kindness PLLC,Kept - website not verifiable,https://cojk.com,cojk.com,"2 source rows merged; conflicting websites in source (bassberry.com, cojk.com); name variants: Christensen O Connor Johnson Kindness PLLC | Christensen O'Connor Johnson Kindness PLLC",563
+LF-0656,Christiansen Legal,Kept - website not verifiable,https://brett.law,brett.law,"2 source rows merged; conflicting websites in source (brett.law, isenberg-hewitt.com)",4016
+LF-0657,Christina Borowicz,Review - website belongs to another firm,https://fblawplc.com,fblawplc.com,source website fblawplc.com matches 'Fleming & Borowicz PLC',567
+LF-0660,"Ciancio Ciancio Brown, P.C.",Kept - website not verifiable,http://colo-law.com,colo-law.com,,569
+LF-0666,Citadel Law,Kept - website not verifiable,https://clfusa.com,clfusa.com,,575
+LF-0668,CKR Law,Review - website belongs to another firm,https://mololamken.com,mololamken.com,source website mololamken.com matches 'MoloLamken LLP',3764
+LF-0678,"Clayton Howarth, P.C.",Kept - website not verifiable,http://clayhow.com,clayhow.com,,585
+LF-0692,Cloward Trial Lawyers,Kept - website not verifiable,https://thefiercefirm.com,thefiercefirm.com,,599
+LF-0695,"CM Law, LLP",Kept - website not verifiable,https://cm.law,cm.law,"2 source rows merged; conflicting websites in source (batescarey.com, cm.law); name variants: CM Law PLLC | CM Law, LLP",602
+LF-0706,Cochran Freund & Young LLC,Kept - website not verifiable,https://patentlegal.com,patentlegal.com,,610
+LF-0720,"Cohen IP Law Group, P.C.",Kept - website not verifiable,https://patentlawip.com,patentlawip.com,,621
+LF-0737,Conaway & Strickler PC,Review - website belongs to another firm,https://garfunkelwild.com,garfunkelwild.com,source website garfunkelwild.com matches 'Garfunkel Wild PC',3630
+LF-0743,"Connor Lee & Schumaker, PLLC",Kept - website not verifiable,https://clands.com,clands.com,,639
+LF-0744,Connor Lee & Shumaker PLLC,Kept - website not verifiable,https://clands.com,clands.com,,3872
+LF-0753,Cooley LLP and Cooley (UK) LLP,Kept - website not verifiable,https://murthalaw.com,murthalaw.com,,3781
+LF-0758,"Copeland Law Firm, LLC",Kept - website not verifiable,https://contractdisputeslaw.com,contractdisputeslaw.com,,652
+LF-0762,Cordero Law LLC,Kept - website not verifiable,https://ldlkm.com,ldlkm.com,,3727
+LF-0763,CoreX Legal,Kept - website not verifiable,https://brentbritton.com,brentbritton.com,,655
+LF-0766,Costello Law Corporation,Kept - website not verifiable,http://sacramentopatentattorney.com,sacramentopatentattorney.com,,658
+LF-0770,Courtney Scobie,Review - website belongs to another firm,https://ajamie.com,ajamie.com,source website ajamie.com matches 'Ajamie LLP',661
+LF-0788,Creative Industry Law,Kept - website not verifiable,https://mofo.com,mofo.com,,3771
+LF-0806,"CSG, Inc.",Kept - website not verifiable,http://alaskalaw.com,alaskalaw.com,,693
+LF-0807,Culhane Meadows Haughian & Walsh PLLC,Review - website belongs to another firm,https://gibney.com,gibney.com,source website gibney.com matches 'Gibney Anthony & Flaherty LLP',3633
+LF-0833,Damian & Valori LLP | Culmo Trial Attorneys,Kept - website not verifiable,https://dvllp.com,dvllp.com,"2 source rows merged; conflicting websites in source (dvllp.com, farhangmedcoff.com)",4195
+LF-0835,"Dan Ducote, Jr. Attorney at Law",Kept - website not verifiable,https://moorelandrey.com/attorney/ducote-dan-jr/,moorelandrey.com,"deep link / profile page, not a homepage",718
+LF-0837,Daniel Goodwin LLC,Kept - website not verifiable,https://morningstarlaw.com,morningstarlaw.com,,3768
+LF-0853,David B. Tongg,Kept - website not verifiable,http://ksglaw.com,ksglaw.com,,731
+LF-0854,"David Charles Masselli, P.C.",Kept - website not verifiable,https://mllaw.com,mllaw.com,,732
+LF-0857,David J. Berardinelli,Kept - website not verifiable,https://deforestlawfirm.com,deforestlawfirm.com,,735
+LF-0858,"David J. Kreher, Attorney at Law",Kept - website not verifiable,http://resolvinglegalissues.com,resolvinglegalissues.com,,736
+LF-0859,David Levaton,Kept - website not verifiable,http://franchiselegalsupport.com,franchiselegalsupport.com,,737
+LF-0860,David Robinson Partner at Holland & Knight LLP,Kept - website not verifiable,https://hklaw.com,hklaw.com,,738
+LF-0862,David Spence Cox,Review - website belongs to another firm,http://barnwell-whaley.com,barnwell-whaley.com,source website barnwell-whaley.com matches 'Barnwell Whaley Patterson & Helms LLC',740
+LF-0875,Davis Miles McGuire Gardner PLLC,Review - website belongs to another firm,https://kerr-russell.com,kerr-russell.com,source website kerr-russell.com matches 'Kerr Russell and Weber PLC',3705
+LF-0884,"de la Parte, Gilbert, McNamara & Caldevilla, P.A.",Kept - website not verifiable,http://dgfirm.com,dgfirm.com,,760
+LF-0889,DeBlasio Law Group LLC,Kept - website not verifiable,http://dgllc.net,dgllc.net,,764
+LF-0893,Del Casino LAW,Review - website belongs to another firm,https://lowndes-law.com,lowndes-law.com,source website lowndes-law.com matches 'Lowndes',3733
+LF-0894,DelMar Law Offices,Kept - website not verifiable,http://contactmylawyer.com,contactmylawyer.com,,768
+LF-0895,Delvin Law Firm LLC,Review - website belongs to another firm,https://beneschlaw.com,beneschlaw.com,source website beneschlaw.com matches 'Benesch Friedlander Coplan & Aronoff LLP',3490
+LF-0897,"Demorest Law Firm, PLLC",Kept - website not verifiable,https://demolaw.com,demolaw.com,,770
+LF-0903,Dennis Monaco,Review - website belongs to another firm,https://molodspitz.com,molodspitz.com,"source website molodspitz.com matches 'Molod Spitz & DeSantis, P.C.'",775
+LF-0905,"Denton Peterson Dunn, PLLC",Kept - website not verifiable,https://arizonabusinesslawyeraz.com,arizonabusinesslawyeraz.com,,777
+LF-0907,Dentons US LLP,Review - website belongs to another firm,https://gbc.law,gbc.law,"source website gbc.law matches 'Greer Burns & Crain, Ltd.'",3647
+LF-0908,Denver Patent Attorneys,Kept - website not verifiable,http://mfblaw.com,mfblaw.com,,780
+LF-0910,Derick J. Rodgers,Review - website belongs to another firm,http://lawdcm.com,lawdcm.com,"source website lawdcm.com matches 'Davis, Cedillo & Mendoza, Inc.'",782
+LF-0911,DerOhannesian & DerOhannesian,Kept - website not verifiable,https://derolaw.com,derolaw.com,,783
+LF-0918,"Di Pietro Partners, LLP",Kept - website not verifiable,https://ddpalaw.com,ddpalaw.com,,790
+LF-0928,"Dierker & Kavanaugh, P.C.",Kept - website not verifiable,http://troypatent.com,troypatent.com,,800
+LF-0933,DiMuroGinsberg P.C.,Kept - website not verifiable,https://dimuro.com,dimuro.com,,804
+LF-0939,"Ditthavong, Steiner, & Mlotkowski",Kept - website not verifiable,https://dcpatent.com,dcpatent.com,,809
+LF-0946,Dobrusin IP Law,Kept - website not verifiable,https://patentco.com,patentco.com,,815
+LF-0950,Doland & Fraade,Kept - website not verifiable,https://moritt.com,moritt.com,,3767
+LF-0951,Dom Law PA,Kept - website not verifiable,https://hamiltonbrook.com,hamiltonbrook.com,,3654
+LF-0955,Donald Knecht Jr,Review - website belongs to another firm,https://bealhebert.com,bealhebert.com,source website bealhebert.com matches 'Beal & Hebert',823
+LF-0968,Douglas Carson,Kept - website not verifiable,http://dailywoods.com/attorneys/douglas-carson/,dailywoods.com,"deep link / profile page, not a homepage",835
+LF-0973,DPW Legal,Kept - website not verifiable,https://ip-appeals.com,ip-appeals.com,,839
+LF-0977,Drinker Biddle & Reath LLP,Review - website belongs to another firm,https://fr.com,fr.com,source website fr.com matches 'Fish & Richardson',3611
+LF-0986,"Duckor Metzger & Wynne, A Professional Law Corporation",Kept - website not verifiable,http://dsmw.com,dsmw.com,,850
+LF-1003,"Dyer, Garofalo, Mann & Schultz L.P.A.",Kept - website not verifiable,http://ohiotiger.com,ohiotiger.com,,867
+LF-1006,"Eaglemark, Inc.",Kept - website not verifiable,http://eng.auburn.edu/aero/staff/cochran/index.html,auburn.edu,"deep link / profile page, not a homepage",870
+LF-1011,"Eaton Peabody, PA",Review - website belongs to another firm,https://bestlaw.com,bestlaw.com,source website bestlaw.com matches 'Best & Flanagan LLP',3494
+LF-1021,Edwin Schklar,Kept - website not verifiable,https://atlantalawfirm.net,atlantalawfirm.net,,883
+LF-1023,Egan Nelson LLP,Review - website belongs to another firm,https://bskb.com,bskb.com,"source website bskb.com matches 'Birch, Stewart, Kolasch & Birch LLP'",3495
+LF-1024,Egerton McAfee Armistead & Davis PC,Kept - website not verifiable,https://emlaw.com,emlaw.com,,885
+LF-1026,Eimer Stahl LLP,Review - website belongs to another firm,https://birdmarella.com,birdmarella.com,"source website birdmarella.com matches 'Bird, Marella, Rhow, Lincenberg, Drooks & Nessim LLP'",3496
+LF-1028,"Ekker, Kuster, McCall & Epstein LLP",Kept - website not verifiable,https://houstonharbaugh.com,houstonharbaugh.com,,3676
+LF-1032,Elissa Tisdahl,Review - website belongs to another firm,https://weisbergiplaw.com,weisbergiplaw.com,source website weisbergiplaw.com matches 'Weisberg I.P. Law PA',890
+LF-1039,Elman Technology Law PC,Review - website belongs to another firm,https://lanierford.com,lanierford.com,"source website lanierford.com matches 'Lanier Ford Shaver & Payne, PC'",3717
+LF-1046,Encore Law Group,Review - website belongs to another firm,https://mikameyers.com,mikameyers.com,source website mikameyers.com matches 'Mika Meyers PLC',3759
+LF-1048,"Enenstein, Pham, Glass, Gutenplan & Bolling, LLP",Kept - website not verifiable,https://epgrlawyers.com,epgrlawyers.com,"2 source rows merged; conflicting websites in source (epgrlawyers.com, pikelustig.com)",4046
+LF-1053,EPGR Lawyers,Kept - website not verifiable,https://epggblaw.com,epggblaw.com,,907
+LF-1055,Eric D. Isicoff,Review - website belongs to another firm,http://irlaw.com,irlaw.com,source website irlaw.com matches 'Isicoff Ragatz',909
+LF-1057,"Eric T. Johnson, P.C. Attorney at Law",Kept - website not verifiable,http://etj-law.com,etj-law.com,,911
+LF-1068,Essex Richards PA,Review - website belongs to another firm,https://hansonbridgett.com,hansonbridgett.com,source website hansonbridgett.com matches 'Hanson Bridgett LLP',3656
+LF-1071,Ethos Family Law,Kept - website not verifiable,http://saalawoffice.com,saalawoffice.com,,922
+LF-1082,F. Donald Paris,Kept - website not verifiable,http://patentusa.com,patentusa.com,,933
+LF-1083,Faber Daeufer & Itrato PC,Review - website belongs to another firm,https://blankrome.com,blankrome.com,source website blankrome.com matches 'Blank Rome LLP',3497
+LF-1085,Fabricant LLP,Kept - website not verifiable,https://frlip.com,frlip.com,,935
+LF-1086,Faegre Baker Daniels LLP,Review - website belongs to another firm,https://foley.com,foley.com,source website foley.com matches 'Foley & Lardner LLP',3615
+LF-1099,Faruki PLL,Kept - website not verifiable,https://ficlaw.com,ficlaw.com,,946
+LF-1107,Feder Kaszovitz LLP,Kept - website not verifiable,http://fedkas.com,fedkas.com,,954
+LF-1111,"Feldman Golinski Reedy & Ben-Zvi, PLLC",Kept - website not verifiable,http://fgrslaw.com,fgrslaw.com,,958
+LF-1114,Fellows LaBriola LLP,Kept - website not verifiable,http://fellab.com,fellab.com,,962
+LF-1135,Finch & Maloney PLLC,Kept - website not verifiable,https://secantip.com,secantip.com,,981
+LF-1153,"Fitzpatrick Lentz & Bubba, P.C.",Review - website belongs to another firm,https://fowlerlawoffice.com,fowlerlawoffice.com,source website fowlerlawoffice.com matches 'Fowler Doyle Spiess PLLC',4131
+LF-1154,FL Turner Law,Kept - website not verifiable,https://lawofficeoffltjr.com,lawofficeoffltjr.com,"2 source rows merged; conflicting websites in source (lawofficeoffltjr.com, tharringtonsmith.com)",4081
+LF-1181,For Purpose Law Group,Review - website belongs to another firm,https://millernash.com,millernash.com,source website millernash.com matches 'Miller Nash LLP',3761
+LF-1187,Foster Pepper PLLC,Review - website belongs to another firm,https://hueston.com,hueston.com,source website hueston.com matches 'Hueston Hennigan LLP',3678
+LF-1196,Fowler White Burnett PA,Review - website belongs to another firm,https://braunhagey.com,braunhagey.com,source website braunhagey.com matches 'BraunHagey & Borden LLP',3506
+LF-1200,"Frame, Wills, Zeller & Green, LLC",Kept - website not verifiable,http://lawyer-chicago.com,lawyer-chicago.com,,1035
+LF-1201,Franchise Foundations APC,Kept - website not verifiable,https://kunzler.com,kunzler.com,,3713
+LF-1210,Frasco Caponigro Wineman Scheible Hauser Luttmann,Kept - website not verifiable,https://frascap.com,frascap.com,,1044
+LF-1211,Fraser Stryker,Review - website belongs to another firm,https://bmdllc.com,bmdllc.com,"source website bmdllc.com matches 'Brennan, Manna & Diamond, LLC'",3507
+LF-1212,Fraser Trebilcock Davis & Dunlap PC,Review - website belongs to another firm,https://brickgentrylaw.com,brickgentrylaw.com,"source website brickgentrylaw.com matches 'Brick Gentry, PC'",3508
+LF-1214,"Frederick & Berler, LLC",Kept - website not verifiable,https://clevelandconsumerlaw.com,clevelandconsumerlaw.com,,1046
+LF-1215,Fredrikson & Byron PA,Kept - website not verifiable,https://fredlaw.com,fredlaw.com,,1047
+LF-1220,Freshfields US LLP,Review - website belongs to another firm,https://brookskushman.com,brookskushman.com,source website brookskushman.com matches 'Brooks Kushman PC',3510
+LF-1223,Friedemann Goldberg Wargo Hess LLP,Kept - website not verifiable,https://frigolaw.com,frigolaw.com,,1053
+LF-1228,Friend Hudak & Harris LLP,Kept - website not verifiable,https://fh2.com,fh2.com,,1058
+LF-1233,Fuchs Law Group,Review - directory profile only,https://avvo.com/attorneys/90025-ca-john-fuchs-677859.html,avvo.com,,1062
+LF-1235,Fukunaga Matayoshi Ching & Kon-Herrera,Kept - website not verifiable,https://fmhc-law.com,fmhc-law.com,"2 source rows merged; conflicting websites in source (fmhc-law.com, tdwpatents.com)",4250
+LF-1239,Fulwider Patton LLP,Kept - website not verifiable,https://fulpat.com,fulpat.com,,1066
+LF-1241,Futhey Law Firm PLC,Kept - website not verifiable,https://lozaloza.com,lozaloza.com,,3734
+LF-1242,"G. Keith Alley, P.C.",Kept - website not verifiable,https://tnlitigator.com,tnlitigator.com,,1068
+LF-1248,"Gagnon, Peacock & Vereeke, P.C.",Kept - website not verifiable,http://gapslegal.com,gapslegal.com,,1073
+LF-1262,Gardella Grace PA,Review - website belongs to another firm,https://ga-iplaw.com,ga-iplaw.com,source website ga-iplaw.com matches 'Gardella Alciati',1085
+LF-1271,Garvey Schubert Barer PC,Review - website belongs to another firm,https://lowenstein.com,lowenstein.com,source website lowenstein.com matches 'Lowenstein Sandler LLP',3731
+LF-1273,Gary Tannenbaum,Kept - website not verifiable,http://ttlawgroup.com,ttlawgroup.com,,1094
+LF-1284,"Gentry Locke Rakes & Moore, LLP",Review - website belongs to another firm,https://brookspierce.com,brookspierce.com,"source website brookspierce.com matches 'Brooks, Pierce, McLendon, Humphrey & Leonard, L.L.P.'",3511
+LF-1286,Geoffrey Wiszneauckas,Kept - website not verifiable,https://wiszlaw.com,wiszlaw.com,,1104
+LF-1289,"George C. Rudolph, A Professional Corporation",Review - website belongs to another firm,https://morrisjames.com,morrisjames.com,source website morrisjames.com matches 'Morris James LLP',3769
+LF-1291,Georgia Center for Arbitration & Mediation,Kept - website not verifiable,https://gcaam.com,gcaam.com,,1108
+LF-1301,Ghantous Law Corporation,Kept - website not verifiable,http://glawcorp.com,glawcorp.com,,1116
+LF-1303,Gibbons PC,Kept - website not verifiable,https://frostlaw.com,frostlaw.com,,3628
+LF-1305,"Gibson Kohl, P.L.",Kept - website not verifiable,https://sarasotaclosings.com,sarasotaclosings.com,"2 source rows merged; conflicting websites in source (runzheimerlaw.com, sarasotaclosings.com)",4105
+LF-1317,Gina M. Zippilli-Matero,Review - website belongs to another firm,http://capehart.com,capehart.com,"source website capehart.com matches 'Capehart & Scatchard, P.A.'",1127
+LF-1321,Girardi & Keese,Review - website belongs to another firm,https://halloransage.com,halloransage.com,source website halloransage.com matches 'Halloran Sage',3653
+LF-1331,Godfrey & Kahn SC,Kept - website not verifiable,https://gklaw.com,gklaw.com,,1138
+LF-1348,Goldstein & McClintock LLLP,Kept - website not verifiable,http://goldmclaw.com,goldmclaw.com,,1153
+LF-1351,"Golenbock, Eiseman, Assor, Bell & Peskoe",Review - website belongs to another firm,https://brownrudnick.com,brownrudnick.com,source website brownrudnick.com matches 'Brown Rudnick LLP',3512
+LF-1362,"Gordon & Partners, P.A.",Kept - website not verifiable,https://fortheinjured.com,fortheinjured.com,,3981
+LF-1363,Gordon E. R. Troy,Kept - website not verifiable,https://webtm.com,webtm.com,,1164
+LF-1371,"Gould & Pakter Associates, LLC",Kept - website not verifiable,https://litcpa.com,litcpa.com,,1172
+LF-1376,Grace Fishel,Kept - website not verifiable,https://theapplicant.com,theapplicant.com,,1177
+LF-1380,Grant Attorneys at Law PLLC,Kept - website not verifiable,https://johnsonpope.com,johnsonpope.com,,3690
+LF-1382,Grant's Law Firm,Kept - website not verifiable,https://grantslaw2.wpengine.com,wpengine.com,,4359
+LF-1393,"Green Legal Group, P.C.",Kept - website not verifiable,http://utah-divorce-attorney.com,utah-divorce-attorney.com,,1191
+LF-1396,Greenberg & Lieberman,Kept - website not verifiable,http://aplegal.com,aplegal.com,,1194
+LF-1410,"Greg Freeze, Attorney-at-Law",Kept - website not verifiable,http://rhodylaw.com,rhodylaw.com,,1207
+LF-1411,"Gressley, Kaplin & Parker, LLP",Kept - website not verifiable,https://gkandp.com,gkandp.com,,1208
+LF-1415,Grimland Law PLLC,Kept - website not verifiable,https://kdwfirm.com,kdwfirm.com,,3699
+LF-1417,"Grossman Tucker Perreault & Pfleger, PLLC",Kept - website not verifiable,https://secantip.com,secantip.com,,1213
+LF-1420,"Grua, Freeman, Tupper & Young, PLC",Kept - website not verifiable,http://wedolawinlansing.com,wedolawinlansing.com,,1215
+LF-1426,Gunderson Dettmer Stough Villeneuve Franklin & Hachigian LLP,Kept - website not verifiable,https://gunder.com,gunder.com,,1221
+LF-1440,Hajjar Peters LLP,Kept - website not verifiable,https://legalstrategy.com,legalstrategy.com,,1233
+LF-1457,"Handley Law Firm, PLLC",Kept - website not verifiable,http://txip.com,txip.com,,1250
+LF-1461,Hansen Jacobson Teller Hoberman Newman Warren Richman Rush Kaller Gellman Meigs & Fox LLP,Kept - website not verifiable,https://hjth.com,hjth.com,,1254
+LF-1468,Harmon Sieff A Law Corporation,Review - directory profile only,https://linkedin.com/ppl/webprofile?id=36051583&pvs=pp&authToken=I60N&authType=name&locale=e,linkedin.com,"2 source rows merged; conflicting websites in source (linkedin.com, tilfordlaw.com)",4092
+LF-1484,"Hartman & Winnicki, PC",Kept - website not verifiable,http://ravin.com,ravin.com,,3930
+LF-1496,Hauptman Ham LLP,Kept - website not verifiable,https://ipfirm.com,ipfirm.com,,1282
+LF-1501,Hayden Holbrook,Review - website belongs to another firm,http://vhrlaw.com,vhrlaw.com,source website vhrlaw.com matches 'Valenti Hanley PLLC',1286
+LF-1510,Heideman & Associates,Kept - website not verifiable,https://heidlaw.com,heidlaw.com,"2 source rows merged; conflicting websites in source (heidlaw.com, pmlawfla.com)",4134
+LF-1516,"Helgesen, Houtz & Jones",Kept - website not verifiable,http://utahattorneys.com,utahattorneys.com,,1299
+LF-1527,"Henningson & Snoxell, Ltd.",Kept - website not verifiable,https://hennsnoxlaw.com,hennsnoxlaw.com,,1309
+LF-1529,"Henry Sneath - Partner at Houston Harbaugh, P.C.",Review - website belongs to another firm,https://hh-law.com,hh-law.com,"source website hh-law.com matches 'Houston Harbaugh, P.C.'",1311
+LF-1534,"Herman Legal Group, LLC",Kept - website not verifiable,https://lawfirm4immigrants.com,lawfirm4immigrants.com,,1316
+LF-1540,HG Law LLP,Review - website belongs to another firm,https://hglaw.com,hglaw.com,source website hglaw.com matches 'Haley Guiliano LLP',1322
+LF-1547,High Tech Group of Allen Dyer,Kept - website not verifiable,https://cuttingedgeip.com,cuttingedgeip.com,,1329
+LF-1549,Hilgers Graben PLLC,Review - website belongs to another firm,https://cades.com,cades.com,source website cades.com matches 'Cades Schutte LLP',3521
+LF-1555,"Hill, Rugh, Keller & Main",Kept - website not verifiable,https://hrmlegal.com,hrmlegal.com,,1336
+LF-1558,Hillis Clark Martin & Peterson PS,Kept - website not verifiable,https://hcmp.com,hcmp.com,,1339
+LF-1561,Hinds and Hinds Family Law P.C.,Review - website belongs to another firm,https://kmm.com,kmm.com,source website kmm.com matches 'Kauff McGuire & Margolis LLP',3697
+LF-1576,Holland & Knight LLP,Review - website belongs to another firm,https://irell.com,irell.com,source website irell.com matches 'Irell & Manella LLP',3687
+LF-1577,Hollifield Legal Centre,Kept - website not verifiable,https://trhlaw.com,trhlaw.com,,3890
+LF-1601,"Hoy Chrissinger Vallas, PC",Kept - website not verifiable,http://nevadalaw.com,nevadalaw.com,,1373
+LF-1608,Hudnell Law Group,Kept - website not verifiable,https://albanyiplaw.com,albanyiplaw.com,,4155
+LF-1615,"Hughes Socol Piers Resnick & Dym, Ltd.",Kept - website not verifiable,https://hsplegal.com,hsplegal.com,"2 source rows merged; conflicting websites in source (cantorcolburn.com, hsplegal.com); name variants: Hughes Socol Piers Resnick & Dym Ltd | Hughes Socol Piers Resnick & Dym, Ltd.",1383
+LF-1616,Hull Barrett PC,Review - website belongs to another firm,https://capessokol.com,capessokol.com,"source website capessokol.com matches 'Capes, Sokol, Goodman & Sarachan, PC'",3525
+LF-1621,HunterMaclean,Review - website belongs to another firm,https://carellabyrne.com,carellabyrne.com,source website carellabyrne.com matches 'Carella Byrne Cecchi Brody & Agnello PC',3526
+LF-1627,Hutchison PLLC,Kept - website not verifiable,http://hutchlaw.com,hutchlaw.com,,1390
+LF-1640,Independent mediator,Review - directory profile only,http://linkedin.com/in/sangeetamehrotradelhi,linkedin.com,,1403
+LF-1641,"Indiano Law Group, LLC",Kept - website not verifiable,https://im-iplaw.com,im-iplaw.com,"2 source rows merged; conflicting websites in source (im-iplaw.com, vhrlaw.com)",4070
+LF-1642,Infinity Patent Services,Kept - website not verifiable,http://saenzlawoffice.com,saenzlawoffice.com,,1404
+LF-1656,Intellectual Property Law Grp,Review - website belongs to another firm,https://iplg.com,iplg.com,source website iplg.com matches 'Intellectual Property Law Group LLP',3845
+LF-1657,Intellectual Property Law Server,Kept - website not verifiable,http://intelproplaw.com,intelproplaw.com,,1417
+LF-1658,Intellectual Property Tech Law,Kept - website not verifiable,https://hultquistip.com,hultquistip.com,,3846
+LF-1663,Internet Law Center,Review - website belongs to another firm,https://mto.com,mto.com,"source website mto.com matches 'Munger, Tolles & Olson LLP'",3780
+LF-1678,Ivie McNeill Wyatt Purcell & Diggs,Kept - website not verifiable,https://imwlaw.com,imwlaw.com,,1431
+LF-1683,J. Brian King,Kept - website not verifiable,https://businessattorneylaw.com,businessattorneylaw.com,,1436
+LF-1687,"JA, LLC",Review - no usable website,https://Not Available,,not a usable URL,1439
+LF-1690,Jack Russo,Review - website belongs to another firm,http://computerlaw.law,computerlaw.law,source website computerlaw.law matches 'ComputerLaw Group LLP',1442
+LF-1697,Jacobson Law P.A.,Kept - website not verifiable,http://jlpa.com,jlpa.com,,1449
+LF-1704,James Hastings,Kept - website not verifiable,https://trademarklitigationguide.com,trademarklitigationguide.com,,1455
+LF-1706,"James Oberholtzer, Chtd",Kept - website not verifiable,http://oberholtz.com,oberholtz.com,,1456
+LF-1711,Jane Mauzy,Review - website belongs to another firm,https://mrblaw.com,mrblaw.com,"source website mrblaw.com matches 'Marsh, Rickard & Bryan'",1460
+LF-1716,JC Law Offices,Kept - website not verifiable,https://jc-law.com,jc-law.com,,1465
+LF-1723,Jeffrey Kobulnick,Review - website belongs to another firm,https://lewitthackman.com,lewitthackman.com,source website lewitthackman.com matches 'Lewitt Hackman',1471
+LF-1724,Jeffrey R. Parsons,Review - website belongs to another firm,https://pmmlaw.com,pmmlaw.com,source website pmmlaw.com matches 'Parsons McEntire McCleary PLLC',1472
+LF-1727,Jennifer B. Treadway,Review - website belongs to another firm,http://gentrylocke.com,gentrylocke.com,source website gentrylocke.com matches 'Gentry Locke Attorneys',1475
+LF-1730,"Jennings Teague, P.C.",Kept - website not verifiable,http://jctokc.com,jctokc.com,,1477
+LF-1733,Jerry C. Alexander,Review - website belongs to another firm,http://passmanjones.com,passmanjones.com,source website passmanjones.com matches 'Passman & Jones A Professional Corporation',1480
+LF-1736,Jessica Duran,Kept - website not verifiable,https://sandiegobizlaw.com,sandiegobizlaw.com,,1483
+LF-1737,Jessica R. Friedman,Kept - website not verifiable,http://literarypropertylaw.com,literarypropertylaw.com,,1484
+LF-1739,JH Legal LLC,Kept - website not verifiable,https://jhlegalohio.com,jhlegalohio.com,,3896
+LF-1741,"Joe Guerrero Law Firm, PLLC.",Kept - website not verifiable,http://hurtintexas.com,hurtintexas.com,,1487
+LF-1742,Joe Nascimento - Partner at Ross Amsel Raben Nascimento,Kept - website not verifiable,https://crimlawfirm.com/joseph-nascimento,crimlawfirm.com,"deep link / profile page, not a homepage",1488
+LF-1744,John A. Taylor,Review - website belongs to another firm,https://adamsblinn.com,adamsblinn.com,"source website adamsblinn.com matches 'Adams & Blinn Counsellors At Law, P.C.'",1490
+LF-1746,John D. O'Connor,Kept - website not verifiable,http://joclaw.com,joclaw.com,,1492
+LF-1747,John Dagley,Review - website belongs to another firm,http://buckkeenan.com,buckkeenan.com,source website buckkeenan.com matches 'Buck Keenan LLP',1493
+LF-1748,John Dugger Esq.,Kept - website not verifiable,https://brandingironlegal.com,brandingironlegal.com,,1494
+LF-1751,John J. Henry,Review - website belongs to another firm,http://woh.com,woh.com,source website woh.com matches 'Whiteman Osterman & Hanna LLP',1496
+LF-1752,"John J. Zidziunas & Associates, LLC",Kept - website not verifiable,https://employmentdiscrimination.com,employmentdiscrimination.com,,1497
+LF-1757,John W. Hazard Jr.,Kept - website not verifiable,http://wc-b.com,wc-b.com,,1502
+LF-1760,Johnson and Phung PLLC,Kept - website not verifiable,https://mnpatentlaw.com,mnpatentlaw.com,,1504
+LF-1767,"Johnson, Pope, Bokor, Ruppel & Burns LLP",Kept - website not verifiable,https://jpfirm.com,jpfirm.com,"2 source rows merged; conflicting websites in source (carltonfields.com, jpfirm.com); name variants: Johnson Pope Bokor Ruppel & Burns LLP | Johnson, Pope, Bokor, Ruppel & Burns LLP",1511
+LF-1775,"Jones & Haley, P.C.",Kept - website not verifiable,http://corplaw.net,corplaw.net,,1517
+LF-1785,Jordan Schlinger,Review - website belongs to another firm,https://ds-law.com,ds-law.com,source website ds-law.com matches 'Deans Stepp Law',1527
+LF-1788,Joseph Lipari,Review - website belongs to another firm,http://thesultzerlawgroup.com,thesultzerlawgroup.com,"source website thesultzerlawgroup.com matches 'Sultzer & Lipari, PLLC'",1529
+LF-1791,Juan A. Cuyar-Cobb,Kept - website not verifiable,http://fclawpr.com,fclawpr.com,,1532
+LF-1793,"Juhasz Law Firm, PC",Kept - website not verifiable,https://patenthorizon.com,patenthorizon.com,"2 source rows merged; conflicting websites in source (natekelly.com, patenthorizon.com)",4193
+LF-1801,K & G Law LLC,Kept - website not verifiable,https://kassgen.com,kassgen.com,,1540
+LF-1812,"Kantrowitz, Goldhamer & Graifman PC",Review - website belongs to another firm,https://kjk.com,kjk.com,source website kjk.com matches 'Kohrman Jackson & Krantz LLP',3710
+LF-1815,"Kaplan Rothstein Prüss Peraza, P.A.",Kept - website not verifiable,https://krp2.com,krp2.com,"2 source rows merged; conflicting websites in source (dkrpa.com, krp2.com)",1553
+LF-1816,"Kaplin Stewart Meloff Reiter & Stein, P.C.",Kept - website not verifiable,https://kaplaw.com,kaplaw.com,"2 source rows merged; conflicting websites in source (kaplaw.com, sterlingmedialaw.com)",4142
+LF-1819,Karr Tuttle Campbell,Review - website belongs to another firm,https://carmodymacdonald.com,carmodymacdonald.com,"source website carmodymacdonald.com matches 'Carmody MacDonald, PC'",3530
+LF-1831,"Katzman, Wasserman, Bennardini & Rubinstein, P.A.",Kept - website not verifiable,http://kwblaw.com,kwblaw.com,,1566
+LF-1834,Kaufman & Canoles PC,Kept - website not verifiable,https://kaufcan.com,kaufcan.com,,1569
+LF-1835,Kaufman & Forman PC,Review - website belongs to another firm,https://hertzschram.com,hertzschram.com,"source website hertzschram.com matches 'Hertz Schram, P.C.'",3666
+LF-1837,Kaufman Abdel-Aal LLP,Kept - website not verifiable,http://ebizlegal.com,ebizlegal.com,,1571
+LF-1839,Kavon Adli,Kept - website not verifiable,https://internetlawgroup.com,internetlawgroup.com,,1573
+LF-1840,"Kay, Griffin, Enkema & Colbert PLLC",Kept - website not verifiable,https://lowey.com,lowey.com,,3732
+LF-1842,KAZANAS LC Law Firm,Kept - website not verifiable,http://global-lawfirm.com,global-lawfirm.com,,1575
+LF-1848,Keating Muething & Klekamp PLL,Kept - website not verifiable,https://kmklaw.com,kmklaw.com,,1581
+LF-1849,Keesling Law Group PLLC,Kept - website not verifiable,https://klgattorneys.com,klgattorneys.com,,1582
+LF-1851,Keith Black,Kept - website not verifiable,http://nba.com,nba.com,,1584
+LF-1853,"Kell, Alterman & Runstein, L.L.P.",Kept - website not verifiable,https://kelrun.com,kelrun.com,,1586
+LF-1859,"Kellogg, Hansen, Todd, Figel & Frederick P.L.L.C.",Review - website belongs to another firm,https://morganlewis.com,morganlewis.com,"source website morganlewis.com matches 'Morgan, Lewis & Bockius LLP'",3766
+LF-1863,Kelsey T. Pierce,Kept - website not verifiable,http://barberbartz.com,barberbartz.com,,1594
+LF-1866,"Kennedy Law, PC",Kept - website not verifiable,https://saklaw.net,saklaw.net,,1597
+LF-1873,Kercsmar & O'Hara PLLC,Kept - website not verifiable,https://kandolaw.com,kandolaw.com,,1602
+LF-1883,KHIKS Kinsella Holley Iser Kump Steinsapir Attorneys,Review - website belongs to another firm,http://kwikalaw.com,kwikalaw.com,source website kwikalaw.com matches 'Kinsella Weitzman Iser Kump & Aldisert LLP (KWIKA)',4396
+LF-1896,"King & Schickli, PLLC",Kept - website not verifiable,http://iplaw1.net,iplaw1.net,,1620
+LF-1901,Kinnally Flaherty Krentz Loran Hodge & Masur PC,Review - website belongs to another firm,https://freshfields.com,freshfields.com,source website freshfields.com matches 'Freshfields LLP',3626
+LF-1920,Klintworth & Rozenblat LLP,Kept - website not verifiable,https://knrllp.com,knrllp.com,,1643
+LF-1924,Knights & Co.,Kept - website not verifiable,http://svglaws.com,svglaws.com,,1646
+LF-1926,KO Law PC,Kept - website not verifiable,https://kofirm.com,kofirm.com,,1648
+LF-1928,"Koenig, Oelsner, Taylor, Schoenfeld & Gaddis PC",Review - website belongs to another firm,https://clm.com,clm.com,source website clm.com matches 'Carter Ledyard & Milburn LLP',3533
+LF-1929,Koernke & Crampton PC,Review - website belongs to another firm,https://grandlaw.com,grandlaw.com,source website grandlaw.com matches 'Grand Law PC',1649
+LF-1931,Kohrman Jackson & Krantz PLL,Review - website belongs to another firm,http://kjk.com,kjk.com,source website kjk.com matches 'Kohrman Jackson & Krantz LLP',1651
+LF-1936,Kotchen & Low LLP,Review - website belongs to another firm,https://hodgsonruss.com,hodgsonruss.com,source website hodgsonruss.com matches 'Hodgson Russ LLP',3673
+LF-1939,Kowert Hood Munyon Rankin & Goetzel,Kept - website not verifiable,https://intprop.com,intprop.com,,1659
+LF-1943,Kramer Levin Naftalis & Frankel LLP,Kept - website not verifiable,https://hensonlaw.com,hensonlaw.com,,3664
+LF-1950,Kreindler & Kreindler LLP,Kept - website not verifiable,https://haleyguiliano.com,haleyguiliano.com,,3651
+LF-1951,Kreis Enderle Hudgins & Borsos PC,Review - website belongs to another firm,https://carverdarden.com,carverdarden.com,"source website carverdarden.com matches 'Carver, Darden, Koretzky, Tessier, Finn, Blossman & Areaux, LLC'",3534
+LF-1954,Kristof Koletar,Review - website belongs to another firm,https://hunterlawfirm.com,hunterlawfirm.com,source website hunterlawfirm.com matches 'Hunter Law Firm',1669
+LF-1957,Kuiper Kraemer PC,Kept - website not verifiable,https://k2legal.com,k2legal.com,"2 source rows merged; conflicting websites in source (cobblawgroup.net, k2legal.com)",4028
+LF-1961,KW Law,Kept - website not verifiable,https://kwlaw.co,kwlaw.co,,1675
+LF-1964,Labaton Sucharow LLP,Kept - website not verifiable,https://cetllp.com,cetllp.com,,3536
+LF-1970,LaFleur & Laborde,Kept - website not verifiable,https://lalalawfirm.com,lalalawfirm.com,,1683
+LF-1973,Lakshmikumaran & Sridharan,Kept - website not verifiable,https://lakshmisri.com,lakshmisri.com,,1685
+LF-1977,LambZankel LLP,Kept - website not verifiable,https://lambbarnosky.com,lambbarnosky.com,,1688
+LF-1987,Lannom & Haight Attorneys At Law,Kept - website not verifiable,https://lch.law,lch.law,,1697
+LF-1993,"Laraja and Kanaga, P.C.",Kept - website not verifiable,http://capelaw.com,capelaw.com,,1703
+LF-2004,Lathrop Gage LLP,Kept - website not verifiable,https://huntermaclean.com,huntermaclean.com,,3682
+LF-2013,"Law 4 Small Business, P.C.",Review - website belongs to another firm,https://conradscherer.com,conradscherer.com,"source website conradscherer.com matches 'Conrad & Scherer, L.L.P.'",4182
+LF-2019,Law Office of Adam S. Lambert,Kept - website not verifiable,https://labaton.com,labaton.com,,3714
+LF-2021,Law Office of Alan Tysinger,Kept - website not verifiable,http://texasinjurylaw.org,texasinjurylaw.org,,1724
+LF-2027,"Law Office Of Barry Oliver Chase, PA",Kept - website not verifiable,https://entertainmentlawyermiami.com,entertainmentlawyermiami.com,,1728
+LF-2031,"Law Office of Daniel S. Willard, P.C.",Kept - website not verifiable,https://marylandconstructionlawfirm.com,marylandconstructionlawfirm.com,,1730
+LF-2042,"Law Office of Ian E. Bjorkman, LLC",Kept - website not verifiable,https://workplacelawyer.com/copy-of-william-a-ryan-1,workplacelawyer.com,"deep link / profile page, not a homepage",1739
+LF-2050,Law Office of Karthikeyan,Kept - website not verifiable,http://lawk.in,lawk.in,,1746
+LF-2052,Law Office of Knellinger & Associates,Kept - website not verifiable,https://lawyergainesville.com,lawyergainesville.com,"3 source rows merged; conflicting websites in source (lawyergainesville.com, zieglerlawgroupllc.com); name variants: Knellinger & Associates | Law Office of Knellinger & Associates",1748
+LF-2055,Law Office of Lydia Gala Liberio,Kept - website not verifiable,https://frazeelawgroup.com/legal-team/lydia-liberio/,frazeelawgroup.com,"deep link / profile page, not a homepage",1751
+LF-2056,Law Office Of Mario Herman,Kept - website not verifiable,https://franchise-law.com,franchise-law.com,,1752
+LF-2060,"Law Office of Massey & Duffy, PLLC",Kept - website not verifiable,https://352law.com,352law.com,,1756
+LF-2063,Law Office Of Michael E. Kondoudis,Kept - website not verifiable,https://mekiplaw.com,mekiplaw.com,,1758
+LF-2067,Law Office of Peter Ordower,Kept - website not verifiable,http://chicagolawsuits.com,chicagolawsuits.com,,1760
+LF-2071,Law Office of Steven Malin PLLC,Kept - website not verifiable,https://malinlawfirm-splash.mocha.themodernfirm.com,themodernfirm.com,,1763
+LF-2072,Law Office of Thomas J. Germinario,Kept - website not verifiable,http://chesterintellectualproperty.com,chesterintellectualproperty.com,,1764
+LF-2078,"Law Office of Walter Tencza, Jr.",Kept - website not verifiable,https://patentnow.com,patentnow.com,,1769
+LF-2089,Law Offices Of Christopher R. Mallicoat,Kept - website not verifiable,https://yourbeverlyhillslawyer.com,yourbeverlyhillslawyer.com,"2 source rows merged; conflicting websites in source (gislason.com, yourbeverlyhillslawyer.com)",4041
+LF-2092,"Law Offices of Damon L. Boyd, PLLC",Kept - website not verifiable,https://dlbiplaw.com,dlbiplaw.com,,1781
+LF-2098,Law Offices of Donald L. Zachary,Kept - website not verifiable,https://dlzlaw.com,dlzlaw.com,,1787
+LF-2099,"Law Offices of Donald W. Hudspeth, P.C.",Kept - website not verifiable,https://azbuslaw.com,azbuslaw.com,,1788
+LF-2101,Law Offices of Edward R. Hearn,Kept - website not verifiable,https://internetmedialaw.com,internetmedialaw.com,,4419
+LF-2102,Law Offices of Gary Marshall,Kept - website not verifiable,https://mandelbaumbarrett.com,mandelbaumbarrett.com,,3736
+LF-2106,Law Offices of Joanna R. Mendoza P.C.,Kept - website not verifiable,https://moses-singer.com,moses-singer.com,,3774
+LF-2112,Law Offices of Joseph Y. Avrahamy,Kept - website not verifiable,https://jyalaw.com,jyalaw.com,"2 source rows merged; conflicting websites in source (graubard.com, jyalaw.com)",4130
+LF-2121,"Law Offices of Michael A. Haber, P.A.",Kept - website not verifiable,https://criminallaw.com/lawyer/michael-a-haber,criminallaw.com,"deep link / profile page, not a homepage",1802
+LF-2122,Law Offices of Michael C. Murphy,Kept - website not verifiable,http://murphlaw.net,murphlaw.net,,1803
+LF-2131,Law Offices of Peter R. Bornstein,Kept - website not verifiable,https://prblegal.com,prblegal.com,"2 source rows merged; conflicting websites in source (prblegal.com, sargonlawgroup.com)",1809
+LF-2133,Law Offices of Raymond N. Stella Erlach,Review - directory profile only,http://lawyers.com/erlach/jsp2220611.jsp,lawyers.com,,4425
+LF-2135,"Law Offices of Robert L. Hill, APC",Kept - website not verifiable,https://rlhfirm.com,rlhfirm.com,,1812
+LF-2140,"Law Offices of Susan A. Rodriguez, APC",Kept - website not verifiable,https://caemployerattorney.com,caemployerattorney.com,,1817
+LF-2141,Law Offices of Tristan C. Robinson PLLC,Kept - website not verifiable,https://marshallandmelhorn.com,marshallandmelhorn.com,,3738
+LF-2146,Lawrence G. Townsend,Kept - website not verifiable,http://lgt-law.com,lgt-law.com,"2 source rows merged; conflicting websites in source (lgt-law.com, schmittschneck.com)",1821
+LF-2147,Lawrence Johnson,Review - website belongs to another firm,https://gravislaw.com,gravislaw.com,"source website gravislaw.com matches 'Gravis Law, LLC'",3643
+LF-2152,"Lawyer Referral Service of Central Texas, Inc.",Kept - website not verifiable,https://austinlrs.com,austinlrs.com,,1826
+LF-2158,Leavitt & Eldredge Law Firm,Kept - website not verifiable,https://uslawpros.com,uslawpros.com,,1832
+LF-2161,Lee A. Koch,Kept - website not verifiable,https://nydefensecounsel.com,nydefensecounsel.com,,1835
+LF-2163,Lee Hong Degerman Kang & Waimey,Kept - website not verifiable,https://lhlaw.com,lhlaw.com,,1837
+LF-2164,Lee Palmateer Law Office,Kept - website not verifiable,http://albanyiplaw.com,albanyiplaw.com,"2 source rows merged; conflicting websites in source (albanyiplaw.com, lgt-law.com)",1838
+LF-2165,Lee Sullivan Shea & Smith LLP,Kept - website not verifiable,https://ls3ip.com,ls3ip.com,,1839
+LF-2170,LeGrand Law PLLC,Review - website belongs to another firm,https://khlaw.com,khlaw.com,source website khlaw.com matches 'Keller and Heckman LLP',3703
+LF-2172,Lehner Law LLC,Kept - website not verifiable,https://lehnerlaw.wordpress.com,wordpress.com,,3817
+LF-2174,Leigh B. Meineke Law Firm,Kept - website not verifiable,https://yourtexasattorney.com,yourtexasattorney.com,,1845
+LF-2176,"Leland, Parachini, Steinberg, Matzger & Melnick, LLP",Kept - website not verifiable,http://lpslaw.com,lpslaw.com,,1847
+LF-2178,Lenczner Slaght LLP,Kept - website not verifiable,https://litigate.com,litigate.com,,1849
+LF-2183,Lerch Early & Brewer Chtd,Review - website belongs to another firm,https://cblaw.com,cblaw.com,"source website cblaw.com matches 'Christian & Barton, LLP'",3540
+LF-2185,Lerner David Littenberg Krumholz & Mentlik,Review - website belongs to another firm,https://cchalaw.com,cchalaw.com,source website cchalaw.com matches 'Church Church Hittle & Antrim',3541
+LF-2189,Lev Intellectual Property,Kept - website not verifiable,https://harvestiplaw.com,harvestiplaw.com,,3847
+LF-2192,Leventhal Law Group,Kept - website not verifiable,https://llg-dc.com,llg-dc.com,,1859
+LF-2193,Leventhal Lewis Kuhn Taylor Swan PC,Kept - website not verifiable,http://ll.law,ll.law,,1860
+LF-2197,Levine Blaszak Block & Boothby LLP,Kept - website not verifiable,https://lb3law.com,lb3law.com,,1863
+LF-2207,"Lewitt, Hackman, Shapiro, Marshall & Harlan",Kept - website not verifiable,https://cm.law,cm.law,,3543
+LF-2213,Libenzon & Associates,Kept - website not verifiable,http://timetopatent.com,timetopatent.com,,1875
+LF-2214,Lichter Grossman Nichols Feldman Rogal Shikora & Clark,Kept - website not verifiable,https://lgnlaw.com,lgnlaw.com,,1876
+LF-2224,Lincoln Law,Kept - website not verifiable,https://karrtuttle.com,karrtuttle.com,,3695
+LF-2227,Liner Freedman Taitelman Cooley LLP,Kept - website not verifiable,https://ftllp.com,ftllp.com,,1886
+LF-2235,"Lipton, Weinberger & Husick",Kept - website not verifiable,https://garson-law.com,garson-law.com,,1892
+LF-2238,Littler Mendelson PC,Kept - website not verifiable,https://frasertrebilcock.com,frasertrebilcock.com,,3624
+LF-2241,"Litvak Beasley Wilson & Ball, LLP",Kept - website not verifiable,https://lawpensacola.com,lawpensacola.com,,1895
+LF-2246,LK GLobal,Review - website belongs to another firm,https://cohengresser.com,cohengresser.com,source website cohengresser.com matches 'Cohen & Gresser LLP',3544
+LF-2260,Long and Associates,Kept - website not verifiable,https://aexius.com,aexius.com,,1913
+LF-2269,Lowe & Associates P.C.,Kept - website not verifiable,https://mullencoughlin.com,mullencoughlin.com,,3777
+LF-2273,"Lowey Dannenberg Cohen & Hart, PC",Review - website belongs to another firm,https://conleyrose.com,conleyrose.com,source website conleyrose.com matches 'Conley Rose',3545
+LF-2275,Lowry Blixseth APC,Kept - website not verifiable,https://lawlb.com,lawlb.com,,3837
+LF-2279,Luckenbill Law Firm LLC,Kept - website not verifiable,http://missourilegacy.com,missourilegacy.com,,1927
+LF-2284,Lugenbuhl Wheaton Peck Rankin & Hubbard,Review - website belongs to another firm,https://connkavanaugh.com,connkavanaugh.com,source website connkavanaugh.com matches 'Russell F. Conn Ret.',3546
+LF-2302,"Lysandrou & Thoma, LLC",Kept - website not verifiable,http://lythomlaw.com,lythomlaw.com,,1946
+LF-2303,M&H LLP,Kept - website not verifiable,https://mh-llp.com,mh-llp.com,,1947
+LF-2305,MacDonald Illig Jones & Britton LLP,Review - website belongs to another firm,https://hollandhart.com,hollandhart.com,source website hollandhart.com matches 'Holland & Hart LLP',3675
+LF-2308,Mack Ed Swindle,Review - website belongs to another firm,http://whitakerchalk.com,whitakerchalk.com,"source website whitakerchalk.com matches 'Whitaker Chalk Swindle & Schwartz, PLLC'",1951
+LF-2310,"MacLean Holloway Doherty & Sheehan, P.C.",Kept - website not verifiable,http://mhdpc.com,mhdpc.com,,1953
+LF-2315,Maddrey PLLC,Review - website belongs to another firm,https://howardandhoward.com,howardandhoward.com,source website howardandhoward.com matches 'Howard & Howard Attorneys PLLC',3677
+LF-2322,"Magincalda Attorney at Law, PLLC",Kept - website not verifiable,https://marshalllawtexas.com,marshalllawtexas.com,,1964
+LF-2334,"Malhotra Law Firm, PLLC",Kept - website not verifiable,https://patentsusa.com,patentsusa.com,,1975
+LF-2335,Malin Haley DiMaggio & Bowen PA,Kept - website not verifiable,https://mhdpatents.com,mhdpatents.com,,1976
+LF-2338,Maloney Firm APC,Review - website belongs to another firm,https://morrisoncohen.com,morrisoncohen.com,source website morrisoncohen.com matches 'Morrison Cohen LLP',3772
+LF-2341,Mandelbaum Salsburg,Kept - website not verifiable,https://lawfirm.ms,lawfirm.ms,,1980
+LF-2346,Mann Tindel Thompson,Kept - website not verifiable,https://mt2lawgroup.com,mt2lawgroup.com,,1985
+LF-2349,Manning Curtis Bradshaw & Bednar PLLC,Kept - website not verifiable,https://mc2b.com,mc2b.com,,1988
+LF-2354,Marashlian & Donahue PLLC,Kept - website not verifiable,https://commlawgroup.com,commlawgroup.com,,1992
+LF-2362,Mark D. Hobson PA,Kept - website not verifiable,https://kdglaw.com,kdglaw.com,,3706
+LF-2363,Mark Kurz,Review - website belongs to another firm,https://holmespeters.com,holmespeters.com,source website holmespeters.com matches 'Holmes & Peters LLC',2000
+LF-2373,Marshall Dennehey Warner Coleman & Goggin PC,Kept - website not verifiable,https://kaufmancanoles.com,kaufmancanoles.com,,3698
+LF-2385,Maschoff Brennan Gilmore Israelsen & Mauriel LLP,Kept - website not verifiable,https://mabr.com,mabr.com,,2018
+LF-2399,Matthew Aaron Leish,Review - website belongs to another firm,https://mksr.law,mksr.law,source website mksr.law matches 'Miller Korzenik Sommers Rayman LLP',2032
+LF-2401,Matthew H. Sorensen,Review - website belongs to another firm,https://cirlaw.com,cirlaw.com,source website cirlaw.com matches 'Cameron Ingersoll Roche PLLC',2034
+LF-2402,Matthew N. Morrow,Kept - website not verifiable,https://bbmlawpc.com,bbmlawpc.com,,2035
+LF-2403,Matthew Schulze,Kept - website not verifiable,https://78andsunnylegal.com,78andsunnylegal.com,,2036
+LF-2410,Mavrides Moyal Packman Sadkin,Review - website belongs to another firm,https://connollygallagher.com,connollygallagher.com,source website connollygallagher.com matches 'Connolly Gallagher LLP',3547
+LF-2412,Maxson Mago & Macaulay LLP,Kept - website not verifiable,https://em3law.com,em3law.com,,2043
+LF-2422,"McAnany, Van Cleave & Phillips, P.A.",Kept - website not verifiable,http://mvplaw.com,mvplaw.com,,2054
+LF-2427,McCandlish Holton PC,Kept - website not verifiable,https://mavrideslaw.com,mavrideslaw.com,,3742
+LF-2429,McCarter \| East PLLC,Kept - website not verifiable,https://mcelaw.com,mcelaw.com,,2060
+LF-2435,"McClanahan Powers, PLLC",Kept - website not verifiable,http://mcplegal.com,mcplegal.com,"2 source rows merged; conflicting websites in source (mcplegal.com, mnmklaw.com); name variants: McClanahan Powers PLLC | McClanahan Powers, PLLC",2065
+LF-2438,McConnell Valdes LLC,Kept - website not verifiable,https://mcvpr.com,mcvpr.com,"2 source rows merged; conflicting websites in source (fredlaw.com, mcvpr.com); name variants: McConnell Valdes LLC | McConnell Valdés LLC",2067
+LF-2442,McCormick Paulding & Huber PLLC,Kept - website not verifiable,https://ip-lawyers.com,ip-lawyers.com,,2071
+LF-2443,McCoy Russell LLP,Kept - website not verifiable,https://mccrus.com,mccrus.com,,2072
+LF-2448,"McDonald Fleming, LLP",Kept - website not verifiable,http://pensacolalaw.com,pensacolalaw.com,,2077
+LF-2455,McGrath North Mullin & Kratz PC,Review - website belongs to another firm,https://constantinellp.com,constantinellp.com,source website constantinellp.com matches 'Constantine Cannon LLP',3548
+LF-2459,McInteer & O'Rear PLC,Kept - website not verifiable,https://mcolawfirm.com,mcolawfirm.com,,2086
+LF-2487,Megan F. Sadler,Review - website belongs to another firm,https://brgslaw.com,brgslaw.com,source website brgslaw.com matches 'Ballard Rosenberg Golper & Savitt LLP',2110
+LF-2490,"Meister Seelig & Fein, LLP",Review - website belongs to another firm,https://corrcronin.com,corrcronin.com,source website corrcronin.com matches 'Corr Cronin LLP',3550
+LF-2495,"Mendelsohn Dunleavy, P.C.",Kept - website not verifiable,https://mendelip.com,mendelip.com,,2116
+LF-2503,"MerrittHill, PLLC",Review - website belongs to another firm,https://merrittfirm.com,merrittfirm.com,source website merrittfirm.com matches 'Merritt Law PLLC',2122
+LF-2510,Metrowest Mediation Services / Rottenstreich Farley Bronstein Fisher Potter Hodas LLP,Kept - website not verifiable,https://rfbllp.com/team-michael-smith,rfbllp.com,"deep link / profile page, not a homepage",2128
+LF-2518,"Michael Ahmadshahi, PhD, Law Offices",Kept - website not verifiable,https://mmaiplaw.com,mmaiplaw.com,,2136
+LF-2522,Michael E. Gerity,Kept - website not verifiable,http://bankruptcylawyerinaz.com,bankruptcylawyerinaz.com,,2140
+LF-2528,"Michael S. Baker, P.C.",Kept - website not verifiable,https://nybusiness.law,nybusiness.law,,2144
+LF-2529,Michael T. Whittington,Kept - website not verifiable,https://mtwlawyer.com,mtwlawyer.com,,2145
+LF-2530,Michael Woolf,Review - website belongs to another firm,https://boonlegal.com,boonlegal.com,source website boonlegal.com matches 'Boon Legal',2146
+LF-2536,Mikael Hirsch,Kept - website not verifiable,https://newlinlaw.com,newlinlaw.com,,2152
+LF-2537,Mike Belleville,Review - website belongs to another firm,https://mktxlaw.com,mktxlaw.com,"source website mktxlaw.com matches 'Murrah & Killough, PLLC'",2153
+LF-2573,Mohammad Abdallah,Kept - website not verifiable,https://ceolawyer.com,ceolawyer.com,,2189
+LF-2574,"Mohr Intellectual Property Law Solutions, P.C.",Kept - website not verifiable,http://coloradoipattorneys.com,coloradoipattorneys.com,,2190
+LF-2578,Momkus LLC,Kept - website not verifiable,https://gctllp.com,gctllp.com,,3637
+LF-2580,Monroe Mann Law,Review - website belongs to another firm,https://merchantgould.com,merchantgould.com,source website merchantgould.com matches 'Merchant & Gould PC',3753
+LF-2590,Moreira IP Law PA,Kept - website not verifiable,https://kmdlaw.com,kmdlaw.com,,3700
+LF-2592,Morgan & Jones,Kept - website not verifiable,https://work-lawyers.com,work-lawyers.com,"2 source rows merged; conflicting websites in source (allanlawgrouppc.com, work-lawyers.com)",4220
+LF-2593,Morgan & Morgan,Kept - website not verifiable,https://forthepeople.com/office-locations/west-virginia/charleston/,forthepeople.com,"3 source rows merged; conflicting websites in source (forthepeople.com, hrfmlaw.com, lawrencebartels.com); name variants: Morgan & Morgan | Morgan & Morgan PA; deep link / profile page, not a homepage",2202
+LF-2601,Morris Laing Evans Brock & Kennedy Chartered,Review - website belongs to another firm,https://cozen.com,cozen.com,source website cozen.com matches 'Cozen O'Connor',3553
+LF-2607,"Morrison, Sherwood, Wilson, & Deola, PLLP",Kept - website not verifiable,https://mswdlaw.com,mswdlaw.com,,2215
+LF-2608,"Morriss O'Bryant Compagni Cannon, PLLC",Kept - website not verifiable,http://utiplaw.com,utiplaw.com,,2216
+LF-2615,"Moss & Barnett, P.A.",Review - website belongs to another firm,https://cshlaw.com,cshlaw.com,source website cshlaw.com matches 'Cranfill Sumner LLP',3555
+LF-2624,Mullen Coughlin LLC,Review - website belongs to another firm,https://crokefairchild.com,crokefairchild.com,source website crokefairchild.com matches 'Croke Fairchild Duarte & Beres LLC',3556
+LF-2630,Muncy Geissler Olds & Lowe PC,Kept - website not verifiable,https://mg-ip.com,mg-ip.com,,2232
+LF-2636,"Murphy & Ellis, PLLC",Kept - website not verifiable,https://businesslawjax.com,businesslawjax.com,,2238
+LF-2652,"Najafi Law, P.A.",Kept - website not verifiable,https://patent-usa.com,patent-usa.com,,2253
+LF-2653,Nakia Gray Legal PC,Review - website belongs to another firm,https://kriegdevault.com,kriegdevault.com,source website kriegdevault.com matches 'Krieg DeVault LLP',3712
+LF-2656,Narek Mnatsakanian,Review - website belongs to another firm,https://calltheaccidentguys.com,calltheaccidentguys.com,source website calltheaccidentguys.com matches 'The Accident Guys',2256
+LF-2669,Nelson Bumgardner Conroy P.C.,Kept - website not verifiable,http://nelbum.com,nelbum.com,,2269
+LF-2670,Nelson Cyber Law PLLC,Review - website belongs to another firm,https://lauletta.com,lauletta.com,source website lauletta.com matches 'Lauletta Birnbaum',3721
+LF-2677,Niall Andrew Fordyce,Review - website belongs to another firm,https://ccllp.law,ccllp.law,source website ccllp.law matches 'Collins + Collins LLP',2275
+LF-2680,Nicolai Law Group,Kept - website not verifiable,http://niclawgrp.com,niclawgrp.com,,2278
+LF-2681,Nicolas Misuraca,Review - website belongs to another firm,https://farhangmedcoff.com,farhangmedcoff.com,source website farhangmedcoff.com matches 'Farhang & Medcoff',2279
+LF-2682,Nilan Johnson Lewis PA,Review - website belongs to another firm,https://crowell.com,crowell.com,source website crowell.com matches 'Crowell & Moring LLP',3558
+LF-2689,"Nolan Barton Olmos & Luciano, LLP",Kept - website not verifiable,https://nbo.law,nbo.law,,2286
+LF-2696,Northwest Corporate Law LLC,Kept - website not verifiable,https://khh.com,khh.com,,3704
+LF-2706,Nussbaum Gleason PLLC,Kept - website not verifiable,https://first-fourteenth.com,first-fourteenth.com,,2299
+LF-2709,"Nye, Stirling, Hale Miller & Sweet, LLP",Kept - website not verifiable,https://nshmlaw.com,nshmlaw.com,,2302
+LF-2717,"Oberheiden, P.C.",Kept - website not verifiable,http://federal-lawyer.com,federal-lawyer.com,,2310
+LF-2720,Oblon McClelland Maier & Neustadt LLP,Review - website belongs to another firm,https://cmdalaw.com,cmdalaw.com,source website cmdalaw.com matches 'CMDA Law',3559
+LF-2722,Odin Feldman Pittleman,Kept - website not verifiable,https://paddalawgroup.com,paddalawgroup.com,"2 source rows merged; conflicting websites in source (curtis.com, paddalawgroup.com); name variants: Odin Feldman & Pittleman PC | Odin Feldman Pittleman",3560
+LF-2732,Ojas Patil,Review - website belongs to another firm,https://phillipslaw.com,phillipslaw.com,source website phillipslaw.com matches 'Phillips Law Group - Injury Lawyers',2323
+LF-2738,Oliver S. Lemke,Review - website belongs to another firm,https://sargonlawgroup.com,sargonlawgroup.com,source website sargonlawgroup.com matches 'Sargon Law Group',2329
+LF-2742,OM Services Employment Practice Group,Kept - website not verifiable,https://mediate.com/ombuds,mediate.com,"deep link / profile page, not a homepage",2333
+LF-2747,Omni Trademark - San Francisco,Kept - website not verifiable,https://gtclawgroup.com,gtclawgroup.com,,3648
+LF-2751,Oppenheim + Zebrak LLP,Kept - website not verifiable,https://oandz.com,oandz.com,,2341
+LF-2776,"Owen, Gleaton, Egan, Jones & Sweeney LLP",Review - website belongs to another firm,https://gablelaw.com,gablelaw.com,"source website gablelaw.com matches 'Gable & Gotwals, Inc.'",3629
+LF-2778,Oyen Wiggs,Kept - website not verifiable,https://patentable.com,patentable.com,,2362
+LF-2781,"Padmanabhan & Dawson, PLLC",Kept - website not verifiable,https://paddalawgroup.com,paddalawgroup.com,"2 source rows merged; conflicting websites in source (khpslaw.com, paddalawgroup.com)",2365
+LF-2787,Pam Baker Esq.,Kept - website not verifiable,https://safeharborlawfirm.com,safeharborlawfirm.com,,2370
+LF-2788,Panagos Kennedy PLLC,Kept - website not verifiable,https://paniplaw.com,paniplaw.com,,2371
+LF-2802,Parker Stanbury LLP,Kept - website not verifiable,https://parkstan.com,parkstan.com,,2383
+LF-2816,Pathways Property Lawyers,Kept - website not verifiable,https://realestateattorneyshouston.com,realestateattorneyshouston.com,,2396
+LF-2820,"Patterson Intellectual Property Law, P.C.",Kept - website not verifiable,https://iplawgroup.com,iplawgroup.com,,2399
+LF-2825,"Patton, Tidwell & Culbertson, L.L.P.",Kept - website not verifiable,http://texarkanalaw.com,texarkanalaw.com,,2404
+LF-2829,Paul C. Cox,Review - website belongs to another firm,http://fslaw.com,fslaw.com,"source website fslaw.com matches 'Fillmore Spencer, LLC'",2408
+LF-2838,"Pearson & Paris, P.C.",Kept - website not verifiable,http://rockymountain-law.com,rockymountain-law.com,,2416
+LF-2840,Pedersen & Houpt,Review - website belongs to another firm,https://davismalm.com,davismalm.com,source website davismalm.com matches 'Davis Malm & D Agostine PC',3563
+LF-2848,"Peocock, Myers And Adams",Review - website belongs to another firm,https://peacocklaw.com,peacocklaw.com,source website peacocklaw.com matches 'Peacock Law P.C.',2424
+LF-2860,Peter Lamont,Kept - website not verifiable,http://pjlesq.com,pjlesq.com,,2433
+LF-2866,pH IP Law PLLC,Kept - website not verifiable,https://phiplaw.com,phiplaw.com,,2437
+LF-2869,Phillip Free Law PLLC,Kept - website not verifiable,https://okciplaw.com,okciplaw.com,,2440
+LF-2875,"Phillips, Erlewine, Given & Carlin LLP",Kept - website not verifiable,https://phillaw.com,phillaw.com,,2445
+LF-2879,PIB Law,Review - website belongs to another firm,https://piblaw.com,piblaw.com,"source website piblaw.com matches 'Parker Ibrahim & Berg, LC'",3839
+LF-2881,Pierce H. Stanley,Review - website belongs to another firm,https://cpmlegal.com,cpmlegal.com,"source website cpmlegal.com matches 'Cotchett, Pitre & McCarthy, LLP'",2450
+LF-2883,Pierson Ferdinand LLP,Kept - website not verifiable,https://pierferd.com,pierferd.com,,2452
+LF-2902,Pollock & Cohen LLP,Review - website belongs to another firm,https://goldbergkohn.com,goldbergkohn.com,source website goldbergkohn.com matches 'Goldberg Kohn',3638
+LF-2905,Poniatowski Leding Parikh Law Corporation,Kept - website not verifiable,http://ponlaw.com,ponlaw.com,"2 source rows merged; conflicting websites in source (lawyers.com, ponlaw.com)",2472
+LF-2909,Post & Schell,Review - website belongs to another firm,https://dglaw.com,dglaw.com,source website dglaw.com matches 'Davis+Gilbert LLP',3565
+LF-2921,Preti Flaherty Beliveau & Pachios Chartered LLP,Review - website belongs to another firm,https://devlinlawfirm.com,devlinlawfirm.com,source website devlinlawfirm.com matches 'Devlin Law Firm LLC',3567
+LF-2938,PROXARIO,Review - website belongs to another firm,https://feinsuch.com,feinsuch.com,source website feinsuch.com matches 'Fein Such Kahn & Shepard PC',3606
+LF-2942,Pullman & Comley LLC,Kept - website not verifiable,https://pullcom.com,pullcom.com,,2504
+LF-2944,Pusateri Johnston Guillot & Greenbaum,Kept - website not verifiable,http://pbgglaw.com,pbgglaw.com,,2506
+LF-2945,Putterman Yu Wang LLP,Kept - website not verifiable,https://plylaw.com,plylaw.com,,2507
+LF-2946,PV Law LLP,Kept - website not verifiable,https://pvuslaw.com,pvuslaw.com,"2 source rows merged; conflicting websites in source (lodestar.law, pvuslaw.com)",4011
+LF-2948,"Quattlebaum, Grooms & Tull, PLLC",Review - website belongs to another firm,https://desmaraisllp.com,desmaraisllp.com,source website desmaraisllp.com matches 'Desmarais LLP',3568
+LF-2950,Quine Intellectual Property Law Group,Kept - website not verifiable,http://biopatent.com,biopatent.com,,2510
+LF-2955,R. Bennett Ford Jr.,Review - website belongs to another firm,http://roykiesel.com,roykiesel.com,"source website roykiesel.com matches 'Roy Kiesel Ford Doody Thurmon, APLC'",2516
+LF-2957,"Rader, Fishman, Grauer",Kept - website not verifiable,https://fishstewip.com,fishstewip.com,,2517
+LF-2960,Radulescu LLP,Kept - website not verifiable,https://radip.com,radip.com,,2520
+LF-2961,"Rafferty & Redlisky, LLP",Kept - website not verifiable,https://randrlegal.com,randrlegal.com,,2521
+LF-2969,"Ramsden, Marfice, Ealy & De Smet, LLP",Kept - website not verifiable,http://rmedlaw.com,rmedlaw.com,,2529
+LF-2971,Rand Zumwalt,Review - website belongs to another firm,http://lieffcabraser.com,lieffcabraser.com,"source website lieffcabraser.com matches 'Lieff, Cabraser, Heimann & Bernstein, LLP'",2531
+LF-2973,Randall G. Vaughan,Kept - website not verifiable,http://davisandthompsonlaw.com,davisandthompsonlaw.com,,2533
+LF-2975,Randy K. Sterns,Kept - website not verifiable,http://bushross.com,bushross.com,,2535
+LF-2985,Redgrave LLP,Review - website belongs to another firm,https://dewittllp.com,dewittllp.com,source website dewittllp.com matches 'DeWitt LLP',3569
+LF-2991,Regas & Dallas P.C.,Kept - website not verifiable,https://rfd-law.com,rfd-law.com,,2547
+LF-2998,Reilly Intellectual Property Law,Kept - website not verifiable,https://patentattorneysdenver.com,patentattorneysdenver.com,,2553
+LF-3000,Reinhart Boerner Van Deuren s.c.,Review - website belongs to another firm,https://dhillonlaw.com,dhillonlaw.com,source website dhillonlaw.com matches 'Dhillon Law Group',3570
+LF-3021,RFZ Law LLP,Kept - website not verifiable,http://zfclaw.com,zfclaw.com,,2574
+LF-3024,"Ricci Tyrrell Johnson & Grey, PLLC, Suite 1800",Kept - website not verifiable,http://rtjglaw.com,rtjglaw.com,,2576
+LF-3028,Richard F. Markert,Kept - website not verifiable,http://bpslaw.com,bpslaw.com,,2580
+LF-3029,Richard J. Greenstone,Kept - website not verifiable,http://rjg.com,rjg.com,,2581
+LF-3031,Richards Brandt Miller Nelson,Review - website belongs to another firm,https://meyercapel.com,meyercapel.com,source website meyercapel.com matches 'Meyer Capel',3757
+LF-3039,Rifkind Patrick LLC,Review - website belongs to another firm,https://klgates.com,klgates.com,source website klgates.com matches 'K&L Gates LLP',3692
+LF-3044,Rinaldo Law Group,Review - website belongs to another firm,https://gdldlaw.com,gdldlaw.com,"source website gdldlaw.com matches 'Goodell, DeVries, Leech & Dann, LLP'",3640
+LF-3062,Robert Bogdanowicz III,Review - website belongs to another firm,https://burkebog.com,burkebog.com,source website burkebog.com matches 'Burke Bogdanowicz PLLC',2610
+LF-3065,"Robert H. \Bob\"" Nunnally Jr.""",Kept - website not verifiable,http://wnrlaw.com,wnrlaw.com,,2613
+LF-3067,Robert Keating Law P.C.,Review - website belongs to another firm,https://morrislaing.com,morrislaing.com,source website morrislaing.com matches 'Morris Laing Law Firm',3770
+LF-3075,Robinson Calcagnie Inc,Review - website belongs to another firm,https://hallestill.com,hallestill.com,source website hallestill.com matches 'Hall Estill',3652
+LF-3079,"Robinson Waters & O'Dorisio, P.C.",Kept - website not verifiable,http://rwolaw.com,rwolaw.com,"2 source rows merged; conflicting websites in source (donahue.com, rwolaw.com); name variants: Robinson Waters & O Dorisio, P.C. | Robinson Waters & O'Dorisio, P.C.",2624
+LF-3081,Robison Curphey & O'Connell LLC,Kept - website not verifiable,https://rcolaw.com,rcolaw.com,,2626
+LF-3082,Rodney E. Gould,Review - website belongs to another firm,http://smithduggan.com,smithduggan.com,source website smithduggan.com matches 'Smith Duggan Cornell & Gollub LLP',2627
+LF-3100,"Rosenberg, Giger and Perala P.C.",Kept - website not verifiable,https://rglawpc.com,rglawpc.com,"2 source rows merged; conflicting websites in source (ipoftexas.com, rglawpc.com)",3882
+LF-3112,"Rothwell, Figg, Ernst & Manbeck, P.C.",Review - website belongs to another firm,https://dority-manning.com,dority-manning.com,source website dority-manning.com matches 'Dority & Manning PA',3576
+LF-3121,"Ruberry, Stalmack & Garvey, LLC",Kept - website not verifiable,http://malpracticeteam.com,malpracticeteam.com,,4484
+LF-3131,Rusing Lopez & Lizardi PLLC,Review - website belongs to another firm,https://dorsey.com,dorsey.com,source website dorsey.com matches 'Dorsey & Whitney LLP',3577
+LF-3136,"Russell, Krafft & Gruber LLP",Kept - website not verifiable,https://lanewaterman.com,lanewaterman.com,,3716
+LF-3142,Rutten Law Group,Kept - website not verifiable,https://californialegaladvocates.com,californialegaladvocates.com,,2676
+LF-3143,Ryan Kromholz & Manion SC,Review - website belongs to another firm,https://rkmiplaw.com,rkmiplaw.com,"source website rkmiplaw.com matches 'Ryan Kromholz & Manion, S.C.'",2677
+LF-3145,Ryan McDevitt,Review - website belongs to another firm,http://kellerrohrback.com,kellerrohrback.com,source website kellerrohrback.com matches 'Keller Rohrback L.L.P.',2679
+LF-3146,Ryan Ryan Deluca LLP,Review - website belongs to another firm,https://mclaughlinstern.com,mclaughlinstern.com,"source website mclaughlinstern.com matches 'McLaughlin & Stern, LLP'",3750
+LF-3154,S. McCorquodale P.C.,Review - website belongs to another firm,http://smqlaw.com,smqlaw.com,"source website smqlaw.com matches 'Law Office of Sandy McCorquodale, P.C.'",2688
+LF-3158,SACK IP Law PC,Kept - website not verifiable,https://lkglobal.com,lkglobal.com,,3729
+LF-3160,SADEGHI LEGAL FIRM,Kept - website not verifiable,https://mgolfirm.com,mgolfirm.com,,3779
+LF-3167,"Saliwanchik, Lloyd & Eisenschenk A Professional Association",Review - website belongs to another firm,https://slepatents.com,slepatents.com,"source website slepatents.com matches 'Saliwanchik, Lloyd & Eisenschenk'",2696
+LF-3168,Salmon and Dulberg Dispute Resolution,Kept - website not verifiable,http://diamondmediations.com,diamondmediations.com,,2697
+LF-3174,Samuel Joseph Najim,Review - website belongs to another firm,http://kentrisley.com,kentrisley.com,source website kentrisley.com matches 'Kent & Risley LLC',2703
+LF-3175,Samuel Phillips,Review - website belongs to another firm,http://bortonpetrini.com,bortonpetrini.com,"source website bortonpetrini.com matches 'Borton Petrini, LLP'",2704
+LF-3177,Sanchez-Medina Gonzalez Lage Gomez & Machado LLP,Kept - website not verifiable,https://smgqlaw.com,smgqlaw.com,,2706
+LF-3178,"Sand, Sebolt & Wernow Co., LPA",Kept - website not verifiable,https://sswip.com,sswip.com,,2707
+LF-3181,Sanders Pianowski LLP,Kept - website not verifiable,https://riverwalklaw.com,riverwalklaw.com,,2710
+LF-3182,Sanders Roberts LLP,Kept - website not verifiable,https://dl-firm.com,dl-firm.com,,3578
+LF-3184,Sands Anderson PC,Review - website belongs to another firm,https://downeybrand.com,downeybrand.com,source website downeybrand.com matches 'Downey Brand',3579
+LF-3186,Santomassimo Davis LLP,Kept - website not verifiable,https://ogcsolutions.com,ogcsolutions.com,,2713
+LF-3204,Scheef & Stone LLP,Kept - website not verifiable,https://solidcounsel.com,solidcounsel.com,,2728
+LF-3207,Schiff Hardin LLP,Review - website belongs to another firm,https://gesmer.com,gesmer.com,source website gesmer.com matches 'Gesmer Updegrove LLP',3632
+LF-3209,Schilling & Silvers Property and Accident Attorneys,Kept - website not verifiable,https://thebaldinjurylawyers.com,thebaldinjurylawyers.com,,2732
+LF-3210,"Schklar & Heim, LLC",Kept - website not verifiable,https://atlantalawfirm.com,atlantalawfirm.com,,2733
+LF-3213,"Schmeiser, Olsen & Watts LLP",Kept - website not verifiable,http://iplawusa.com,iplawusa.com,,2735
+LF-3214,"Schmitt Schneck Even & Williams, P.C.",Kept - website not verifiable,http://azbarristers.com,azbarristers.com,,2736
+LF-3216,Schneider Rothman IP Law Group,Review - website belongs to another firm,https://krcl.com,krcl.com,source website krcl.com matches 'Kane Russell Coleman & Logan PC',3694
+LF-3223,Schultis Law Group PLLC,Review - website belongs to another firm,https://jw.com,jw.com,source website jw.com matches 'Jackson Walker L.L.P.',3689
+LF-3224,"Schwabe, Williamson & Wyatt",Review - website belongs to another firm,https://drm.com,drm.com,"source website drm.com matches 'Downs Rachlin Martin, PLLC'",3580
+LF-3248,"Seigman, Sinkfield & Libersky, PLLC",Kept - website not verifiable,https://killeenattorneys.com,killeenattorneys.com,,2763
+LF-3249,Seiller Waterman LC,Kept - website not verifiable,https://derbycitylaw.com,derbycitylaw.com,,2764
+LF-3252,"Seitz, Van Ogtrop & Green PA",Kept - website not verifiable,https://svglaw.com,svglaw.com,,2766
+LF-3255,Sentry Financial Corporation,Review - website belongs to another firm,https://messner.com,messner.com,source website messner.com matches 'Messner Reeves LLP',3754
+LF-3258,Setter Roche Smith & Shellenberger LLP,Review - website belongs to another firm,https://dwmlaw.com,dwmlaw.com,source website dwmlaw.com matches 'Drummond Woodsum',3581
+LF-3262,Severson & Werson,Review - website belongs to another firm,https://duanemorris.com,duanemorris.com,source website duanemorris.com matches 'Duane Morris LLP',3582
+LF-3263,Seward & Kissel LLP,Kept - website not verifiable,https://sewkis.com,sewkis.com,,2772
+LF-3269,Shakespeare Martineau LLP,Kept - website not verifiable,https://shma.co.uk,shma.co.uk,,2778
+LF-3279,"Shepherd Smith Edwards & Kantas, LLP",Kept - website not verifiable,https://investorlawyers.com,investorlawyers.com,,4494
+LF-3285,Sherman Law Group,Kept - website not verifiable,https://gunder.com,gunder.com,,3649
+LF-3292,Shipe Dosik Law LLC,Kept - website not verifiable,https://leeandhayes.com,leeandhayes.com,,3723
+LF-3295,"Shook, Hardy & Bacon L.L.P",Review - website belongs to another firm,https://dbllawyers.com,dbllawyers.com,source website dbllawyers.com matches 'Dunlap Bennett & Ludwig PLLC',3584
+LF-3308,Sidkoff Pincus & Green,Review - directory profile only,https://greatlawyers.com,greatlawyers.com,"2 source rows merged; conflicting websites in source (greatlawyers.com, thomasreynoldslaw.com)",4085
+LF-3310,"Sidney P. Blum, CPA",Kept - website not verifiable,http://royaltyaudit.info,royaltyaudit.info,,2812
+LF-3312,Silberman Law Firm PLLC,Kept - website not verifiable,https://silblawfirm.com,silblawfirm.com,,2814
+LF-3314,Silicon Valley Intellectual,Kept - website not verifiable,https://zilkakotab.com,zilkakotab.com,,3852
+LF-3315,"Silicon Valley Technology Law Advisors, PC",Kept - website not verifiable,https://svtechlaws.com,svtechlaws.com,,3917
+LF-3319,"Silverman, Thompson, Slutkin & White, LLC",Kept - website not verifiable,http://mdattorney.com,mdattorney.com,,2819
+LF-3320,Simantob Law Group,Kept - website not verifiable,https://business-attorney.com,business-attorney.com,,2820
+LF-3321,"Simburg, Ketter, Sheppard & Purdy LLP",Kept - website not verifiable,https://llfpc.com,llfpc.com,,3720
+LF-3328,"Simpson & Simpson, PLLC",Kept - website not verifiable,https://idealawyers.com,idealawyers.com,"2 source rows merged; conflicting websites in source (idealawyers.com, wdpalaw.com)",3862
+LF-3338,SK&S Law Group,Kept - website not verifiable,https://skandslegal.com,skandslegal.com,,2832
+LF-3361,Smith O'Callaghan & White,Kept - website not verifiable,http://socw.com,socw.com,,4499
+LF-3362,Smith Welch Webb & White,Review - website belongs to another firm,https://herrick.com,herrick.com,"source website herrick.com matches 'Herrick, Feinstein LLP'",3665
+LF-3380,SouthBank Legal,Kept - website not verifiable,http://lck-law.com,lck-law.com,,2867
+LF-3382,Spagnoletti Law Firm,Kept - website not verifiable,https://spaglaw.com,spaglaw.com,"2 source rows merged; conflicting websites in source (saadlegal.com, spaglaw.com)",4226
+LF-3385,Spartan Law,Kept - website not verifiable,https://lawyerconsults.com,lawyerconsults.com,,4501
+LF-3387,"Spaulding McCullough & Tansil, LLP",Kept - website not verifiable,https://smlaw.com,smlaw.com,,2872
+LF-3392,"Sperling Kenny Nachwalter, LLC",Kept - website not verifiable,http://knpa.com,knpa.com,,2877
+LF-3403,SRG Law Group,Kept - website not verifiable,https://inlandempirelawyers.com/sergio-rodriguez.html,inlandempirelawyers.com,"2 source rows merged; conflicting websites in source (baileygreer.com, inlandempirelawyers.com); deep link / profile page, not a homepage",4224
+LF-3405,St. Denis & Davey PA,Kept - website not verifiable,https://hansenjacobson.com,hansenjacobson.com,,3655
+LF-3426,Stephen Danz & Associates,Kept - website not verifiable,https://jsafirm.com,jsafirm.com,,2906
+LF-3430,"Stephen P. Brunner, Attorney at Law",Review - directory profile only,https://lawyers.com/san-francisco/california/stephen-p-brunner-attorney-at-law-225719-f/,lawyers.com,,4506
+LF-3432,Steptoe & Johnson PLLC,Review - website belongs to another firm,https://foulston.com,foulston.com,"2 source rows merged; conflicting websites in source (foulston.com, hogefenton.com); source website foulston.com matches 'Foulston Siefkin LLP'; name variants: Steptoe & Johnson LLP | Steptoe & Johnson PLLC",3618
+LF-3440,Steven A. Certilman PC,Kept - website not verifiable,https://mdmclaw.com,mdmclaw.com,,3746
+LF-3453,"Stockard, Johnston, Brown, Netardus & Doyle, P.C.",Kept - website not verifiable,https://sjblawfirm.com,sjblawfirm.com,,2928
+LF-3463,Storey Law Group PA,Review - website belongs to another firm,https://haugpartners.com,haugpartners.com,source website haugpartners.com matches 'Haug Partners',3659
+LF-3482,Sullivan & Cromwell LLP,Kept - website not verifiable,https://sullcrom.com,sullcrom.com,,2957
+LF-3488,Sunjina K. Ahuja,Review - website belongs to another firm,https://dmablaw.com,dmablaw.com,"source website dmablaw.com matches 'Dillon, Miller, Ahuja & Boss, LLP'",2961
+LF-3491,Surowitz Immigration PC,Review - website belongs to another firm,https://jonesday.com,jonesday.com,source website jonesday.com matches 'Jones Day',3691
+LF-3497,Sutton Law Center,Kept - website not verifiable,https://sutlaw.com,sutlaw.com,,2968
+LF-3500,Suzanne Eschrich,Kept - website not verifiable,https://hinesnormanhines.com,hinesnormanhines.com,,2971
+LF-3520,Tanya Graham,Kept - website not verifiable,https://tmgesq.com,tmgesq.com,,2989
+LF-3527,"Taylor & Taylor, Attorneys at Law, PLLC",Kept - website not verifiable,https://t2legal.com,t2legal.com,,2995
+LF-3528,Taylor Dunham LLP,Review - website belongs to another firm,https://greenbergglusker.com,greenbergglusker.com,source website greenbergglusker.com matches 'Greenberg Glusker Fields Claman & Machtinger LLP',3645
+LF-3529,Taylor English Duma LLP,Kept - website not verifiable,https://egannelson.com,egannelson.com,,3590
+LF-3533,"Taylor, Warren, Weidner, Hancock & Barnes, P.A.",Kept - website not verifiable,https://twwlawfirm.com,twwlawfirm.com,,3000
+LF-3539,Telecommunications Law Professionals PLLC,Kept - website not verifiable,https://tlp.law,tlp.law,,3005
+LF-3544,Terry J. Smith,Kept - website not verifiable,http://socw.com,socw.com,,3010
+LF-3557,The Benson Firm PLLC,Review - website belongs to another firm,https://katten.com,katten.com,source website katten.com matches 'Katten Muchin Rosenman LLP',3696
+LF-3558,The Boen Law Office,Kept - website not verifiable,https://leehong.com,leehong.com,,3724
+LF-3578,The Federal Practice Group,Review - website belongs to another firm,https://hpm.com,hpm.com,"source website hpm.com matches 'Hyman, Phelps & McNamara P.C.'",3685
+LF-3582,The Gold Law Firm P.C.,Kept - website not verifiable,http://discrimlaw.net,discrimlaw.net,,3040
+LF-3597,The Hustead Law Firm A Professional Corporation,Kept - website not verifiable,http://thlf.com,thlf.com,,3049
+LF-3600,"The Internicola Law Firm, P.C.",Kept - website not verifiable,https://franchiselawsolutions.com,franchiselawsolutions.com,,3052
+LF-3602,The Jorgensen Law Firm PLLC,Kept - website not verifiable,https://kreisenderle.com,kreisenderle.com,,3711
+LF-3603,The Kassab Law Firm,Kept - website not verifiable,http://texaslegalmalpractice.com,texaslegalmalpractice.com,,3054
+LF-3606,"The Killian Firm, P.C.",Kept - website not verifiable,http://tkfpc.com,tkfpc.com,,3057
+LF-3607,"The Kinder Law Group, APC",Kept - website not verifiable,https://tklglaw.com,tklglaw.com,,3058
+LF-3612,"The Law Firm of Aaron A. Herbert, P.C.",Kept - website not verifiable,https://injuryattorneyofdallas.com,injuryattorneyofdallas.com,,3062
+LF-3631,The Law Office of Steven C. Girsky,Kept - website not verifiable,http://queencitylaw.com,queencitylaw.com,,3077
+LF-3632,"The Law Office of Steven D. Zansberg, LLC",Kept - website not verifiable,https://zblegal.com,zblegal.com,,3078
+LF-3633,"The Law Offices of Adam L. Hebbard, LLC",Kept - website not verifiable,https://hylawga.com,hylawga.com,,3079
+LF-3635,"The Law Offices of David H. Schwartz, Inc.",Kept - website not verifiable,http://lodhs.com,lodhs.com,,3081
+LF-3639,"The Law Offices of Doroshow, Pasquale, Krawitz & Bhaya",Kept - website not verifiable,https://dplaw.com,dplaw.com,,3085
+LF-3642,The Law Offices of Kavon Adli P.C.,Kept - website not verifiable,https://mitchellsilberberg.com,mitchellsilberberg.com,,3762
+LF-3647,"The Law Offices of Megha D. Bhouraskar, P.C",Kept - website not verifiable,https://mdblawoffices.com,mdblawoffices.com,,3091
+LF-3662,The Lovell Firm P.C.,Review - website belongs to another firm,https://munckwilson.com,munckwilson.com,"source website munckwilson.com matches 'Munck Wilson Mandala, LLP'",3778
+LF-3671,"The McDaniel Law Firm, PC",Kept - website not verifiable,http://mcdlaw.us,mcdlaw.us,,3112
+LF-3678,The Morales Law Firm,Kept - website not verifiable,https://sfcriminallawspecialist.com,sfcriminallawspecialist.com,,3118
+LF-3679,The Morten Law Group PC,Review - website belongs to another firm,https://muslaw.com,muslaw.com,"source website muslaw.com matches 'Meyer, Unkovic & Scott LLP'",3758
+LF-3680,The Myers Law Group,Kept - website not verifiable,https://mlawga.com,mlawga.com,,3119
+LF-3684,The Pendas Law Firm,Review - website belongs to another firm,https://hawleytroxell.com,hawleytroxell.com,source website hawleytroxell.com matches 'Hawley Troxell',3660
+LF-3687,The Reape-Rickett Law Firm,Kept - website not verifiable,https://divorcedigest.com,divorcedigest.com,,3125
+LF-3690,The Rothenberg Law Firm LLP,Review - website belongs to another firm,https://goosmannlaw.com,goosmannlaw.com,source website goosmannlaw.com matches 'Goosmann Law Firm',3641
+LF-3695,"The Schachter Law Firm, LLC",Kept - website not verifiable,http://divorcelawyersinsavannahga.com,divorcelawyersinsavannahga.com,,3131
+LF-3706,The Ticktin Law Group PA,Kept - website not verifiable,https://legalbrains.com,legalbrains.com,,3140
+LF-3717,"The Wilson Law Firm, P.C.",Kept - website not verifiable,http://willaw.com,willaw.com,,3149
+LF-3719,The Zoppoth Law Firm,Kept - website not verifiable,https://kentuckyemploymentlawyer.com,kentuckyemploymentlawyer.com,"2 source rows merged; conflicting websites in source (kentuckyemploymentlawyer.com, malkinlawfirm.com)",4223
+LF-3720,Therrien Couture Joli-Coeur L.L.P.,Kept - website not verifiable,https://groupetcj.ca,groupetcj.ca,,3150
+LF-3726,Thomas L. McCally,Review - website belongs to another firm,http://carrmaloney.com,carrmaloney.com,source website carrmaloney.com matches 'Carr Maloney P.C.',3157
+LF-3728,Thomas Lemens,Review - website belongs to another firm,http://germer.com,germer.com,source website germer.com matches 'Germer PLLC',3158
+LF-3732,Thomas Wagner,Kept - website not verifiable,https://anderson-lg.com,anderson-lg.com,,3162
+LF-3734,Thompson Bukher LLP,Kept - website not verifiable,https://kotsg.com,kotsg.com,,3709
+LF-3740,"Thompson-Hall, P.A.",Kept - website not verifiable,https://333legal.com,333legal.com,,3169
+LF-3743,Thrasher Associates,Kept - website not verifiable,https://thrashlaw.com,thrashlaw.com,,3172
+LF-3744,"Thrasher, Dinsmore & Dolan A Legal Professional Association",Kept - website not verifiable,http://tddlaw.com,tddlaw.com,,3173
+LF-3751,Timothy O'Neill,Kept - website not verifiable,https://turnpikelaw.com,turnpikelaw.com,,3179
+LF-3752,Tishkoff,Kept - website not verifiable,http://tish.law,tish.law,,3180
+LF-3754,TK Law,Kept - website not verifiable,https://onefirmforlife.com,onefirmforlife.com,"2 source rows merged; conflicting websites in source (onefirmforlife.com, saileackerman.com); name variants: TK Law | TK Law, Inc.",3182
+LF-3762,Toni Xu,Kept - website not verifiable,https://xulawgroup.com,xulawgroup.com,,4539
+LF-3780,Trevor Theilen Law Office,Kept - website not verifiable,https://trevlaw.com,trevlaw.com,,3205
+LF-3785,Troutman Sanders LLP,Review - website belongs to another firm,https://flastergreenberg.com,flastergreenberg.com,source website flastergreenberg.com matches 'Flaster Greenberg PC',3613
+LF-3790,Tsao-Wu & Yee LLP,Review - website belongs to another firm,https://ghclaw.com,ghclaw.com,source website ghclaw.com matches 'Giordano Halleran & Ciesla PC',3635
+LF-3804,"Twomey, Latham, Shea, Kelley, Dubin & Quartararo, LLP",Kept - website not verifiable,http://suffolklaw.com,suffolklaw.com,,3222
+LF-3805,Tyler Benson,Kept - website not verifiable,https://iticket.law,iticket.law,,3223
+LF-3809,UB Greensfelder LLP,Kept - website not verifiable,https://ubglaw.com,ubglaw.com,,3227
+LF-3818,Van Kampen & Crowe PLLC,Review - website belongs to another firm,https://keker.com,keker.com,"source website keker.com matches 'Keker, Van Nest & Peters LLP'",3702
+LF-3819,"Van Pelt, Yi & James LLP",Kept - website not verifiable,https://ip-patent.com,ip-patent.com,,3235
+LF-3820,Van Winkle Law Firm,Review - website belongs to another firm,https://eisnerlaw.com,eisnerlaw.com,source website eisnerlaw.com matches 'Eisner LLP',3593
+LF-3829,Vela Wood,Kept - website not verifiable,https://epggblaw.com,epggblaw.com,,3595
+LF-3836,Vernis & Bowling,Kept - website not verifiable,http://florida-law.com,florida-law.com,,3250
+LF-3863,"Waddell Serafino Geary Rechner Jenevein, PC",Kept - website not verifiable,http://vinlaw.com,vinlaw.com,,3276
+LF-3867,"Wagstaffe, von Loewenfeldt, Busch & Radwick, LLP",Kept - website not verifiable,https://wvbrlaw.com,wvbrlaw.com,,3280
+LF-3875,"Wallace Jordan Ratliff & Brandt, LC",Review - website belongs to another firm,https://evans-dixon.com,evans-dixon.com,source website evans-dixon.com matches 'Evans & Dixon LLC',3597
+LF-3879,Walter Bissex,Review - website belongs to another firm,http://selmanmunson.com,selmanmunson.com,"source website selmanmunson.com matches 'Selman Munson & Lerner, P.C.'",3289
+LF-3880,Walter R. Hudgens,Kept - website not verifiable,http://spain-gillon.com,spain-gillon.com,,3290
+LF-3882,Walters Law Group,Kept - website not verifiable,http://firstamendment.com,firstamendment.com,,3292
+LF-3883,"Wandres Law, PC",Kept - website not verifiable,https://injurylawyertulsa.com,injurylawyertulsa.com,,3293
+LF-3884,"Wang & Associates, P.C.",Kept - website not verifiable,https://welkinlaw.com,welkinlaw.com,,3294
+LF-3897,"Warren Moore Rutherford, LLP",Kept - website not verifiable,https://niwotlaw.com,niwotlaw.com,"2 source rows merged; conflicting websites in source (niwotlaw.com, schwartzlawfirmpa.com)",4014
+LF-3898,"Warren, Carlson & Moore, LLP",Kept - website not verifiable,https://niwotlaw.com,niwotlaw.com,,3303
+LF-3901,Washington Aviation Group P.C.,Kept - website not verifiable,https://mossbarnett.com,mossbarnett.com,,3775
+LF-3908,Watts Guerra LLP,Kept - website not verifiable,https://gb-law.com,gb-law.com,,3646
+LF-3912,Webb & Bordson APC,Kept - website not verifiable,https://mbbp.com,mbbp.com,,3773
+LF-3928,Weiss Serota Helfman Cole & Bierman PL,Kept - website not verifiable,https://hilgersgraben.com,hilgersgraben.com,,3669
+LF-3947,Wheeler Trigg O'Donnell LLP,Kept - website not verifiable,https://wtod.com,wtod.com,,3343
+LF-3948,"WHGC, P.L.C.",Kept - website not verifiable,https://whglawfirm.com,whglawfirm.com,,3344
+LF-3960,Widerman Malek PL,Kept - website not verifiable,https://legalteamusa.net,legalteamusa.net,,3354
+LF-3964,Wiley,Review - website belongs to another firm,https://fmjlaw.com,fmjlaw.com,"source website fmjlaw.com matches 'Fafinski Mark & Johnson, P.A.'",3601
+LF-3976,Williams McCarthy LLP,Kept - website not verifiable,http://wilmac.com,wilmac.com,,3368
+LF-3977,Williams Montgomery & John Ltd.,Kept - website not verifiable,http://willmont.com,willmont.com,,3369
+LF-4003,"Wisener Nunnally Roth & Higgins, LLP",Kept - website not verifiable,http://wnrlaw.com,wnrlaw.com,,4557
+LF-4006,Withers Bergman LLP,Review - website belongs to another firm,https://fbm.com,fbm.com,source website fbm.com matches 'Farella Braun + Martel LLP',3604
+LF-4009,Wittenberg Law,Kept - website not verifiable,https://kma-zuckert.com,kma-zuckert.com,,3708
+LF-4012,"Wolf, Rifkin, Shapiro, Schulman & Rabkin, LLP",Kept - website not verifiable,https://wrslawyers.com,wrslawyers.com,"2 source rows merged; conflicting websites in source (fbtgibbons.com, wrslawyers.com); name variants: Wolf, Rifkin, Shapiro & Schulman & Rabkin, LLP | Wolf, Rifkin, Shapiro, Schulman & Rabkin, LLP",3396
+LF-4014,Wolter Van Dyke Davis,Kept - website not verifiable,https://savvyiplaw.com,savvyiplaw.com,,3397
+LF-4015,Wolter VanDyke Davis,Kept - website not verifiable,https://savvyiplaw.com,savvyiplaw.com,,3398
+LF-4020,"Woodard, Emhardt, Henry, Reeves & Wagner LLP",Kept - website not verifiable,https://uspatent.com,uspatent.com,,3402
+LF-4026,"Woods, Weidenmiller, Michetti & Rudnick, LLP",Kept - website not verifiable,http://lawfirmnaples.com,lawfirmnaples.com,,3408
+LF-4035,"Wu & Reddy, Professional Corporation",Kept - website not verifiable,https://wclawyers.com,wclawyers.com,,3820
+LF-4047,YEVRAS LAW,Review - website belongs to another firm,https://mvalaw.com,mvalaw.com,source website mvalaw.com matches 'Moore & Van Allen PLLC',3765
+LF-4048,YK Law LLP,Kept - website not verifiable,https://yklaw.us,yklaw.us,,3430
+LF-4050,"Yoder, Ainlay, Ulmer & Buckingham, LLP",Kept - website not verifiable,https://ya.law,ya.law,,3432
+LF-4053,"Younce, Vtipil, Baznik & Banks, P.A.",Kept - website not verifiable,https://attorneync.com,attorneync.com,,3435
+LF-4057,Young Williams & Theiss Attorneys at Law,Kept - website not verifiable,http://ywlawfirm.com,ywlawfirm.com,,3439
+LF-4059,"Young, Reverman & Bolotin",Kept - website not verifiable,https://yrmlaw.com,yrmlaw.com,,3441
+LF-4062,Yukevich | Cavanaugh,Kept - website not verifiable,https://yukelaw.com,yukelaw.com,,4560
+LF-4075,Zetlin & De Chiara LLP,Kept - website not verifiable,https://zdlaw.com,zdlaw.com,,3456
+LF-4079,Zinda Law Group,Kept - website not verifiable,http://zdfirm.com,zdfirm.com,,3459
+LF-4080,"Zipperer, Lorberbaum, Beauvais & Gotwalt",Kept - website not verifiable,http://zlblaw.com,zlblaw.com,,3460
