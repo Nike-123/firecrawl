@@ -1,0 +1,43 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/lawyer/firm/patents/madison/wisconsin",
+  "https://lawyers.findlaw.com/patents/wisconsin/merrill/",
+  "https://lawyers.findlaw.com/patents/wisconsin/mayville/"
+ ],
+ "listings_reviewed": 7,
+ "pagination_pages": 0,
+ "limitations": "Wisconsin pages report 'Results 1 to 7 of 7' in Mayville and repeat the same Madison/Milwaukee firms. O'Flaherty Law (general practice, no demonstrable patent service) was excluded; The Russell Firm and Merchant & Gould are national IP firms with Wisconsin offices.",
+ "firms": [
+  {
+   "firm": "Merchant & Gould",
+   "website": "https://www.merchantgould.com/",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listings, Madison WI office - IP boutique"
+  },
+  {
+   "firm": "Murphy Desmond S.C.",
+   "website": "https://www.murphydesmond.com/",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listings, Madison/Appleton WI"
+  },
+  {
+   "firm": "The Russell Firm",
+   "website": "https://www.russellfirmip.com",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listings, Milwaukee WI office"
+  },
+  {
+   "firm": "Attolles Law, S.C.",
+   "website": "https://www.attolles.com",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listings, Milwaukee WI",
+   "verification": "FindLaw/Super Lawyers and Chambers records list attolles.com; Milwaukee IP and business law firm."
+  }
+ ],
+ "state": "Wisconsin"
+}

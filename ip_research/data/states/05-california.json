@@ -1,0 +1,68 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/patents/california/los-angeles/",
+  "https://lawyers.findlaw.com/patents/california/san-francisco/",
+  "https://lawyers.findlaw.com/patents/california/san-francisco-county/",
+  "https://lawyers.findlaw.com/patents/california/san-diego/"
+ ],
+ "listings_reviewed": 25,
+ "pagination_pages": 2,
+ "limitations": "California is the largest FindLaw patents market (Los Angeles, San Francisco and San Diego pages show 10+ firms each and are paginated). Listing capture is limited to the first result page of each reviewed city; remaining pagination pages were not enumerated, so this state is marked partial rather than complete. Entertainment/litigation generalists surfaced by the category (Sterling Media Law, The McClellan Law Firm, Harris & Hayden, Hymes Schreiber & Walden, McCathern Shokouhi Evans, Delcin Consulting Group) were excluded for lack of demonstrable IP practice.",
+ "firms": [
+  {
+   "firm": "HPL Intellectual Property Law",
+   "website": "https://www.hpl.law/",
+   "website_verified": true,
+   "attorneys": [
+    "Marc Hankin",
+    "Kevin Schraven",
+    "Alice Denenberg"
+   ],
+   "ev": "FindLaw patents listing, Los Angeles; Visit Website -> hpl.law",
+   "verification": "hpl.law verified live (Hankin Patent Law, Los Angeles IP firm; patents, trademarks, copyrights, trade secrets, IP litigation)."
+  },
+  {
+   "firm": "Law Offices of Robert L. Hill, APC",
+   "website": "https://rlhfirm.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Robert L. Hill"
+   ],
+   "ev": "FindLaw patents listing, Carlsbad CA"
+  },
+  {
+   "firm": "Wang IP Law Group, P.C.",
+   "website": "https://www.thewangiplaw.com",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listing, Los Angeles; official URL not captured from listing - left blank",
+   "verification": "FindLaw firm profile (Los Angeles) lists thewangiplaw.com; firm describes IP/patent/trademark/IP-litigation practice."
+  },
+  {
+   "firm": "Mandour & Associates",
+   "website": "https://www.mandourlaw.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Joseph A. Mandour"
+   ],
+   "ev": "FindLaw patents listing, Los Angeles (IP boutique); official URL not captured - left blank",
+   "verification": "Firm site mandourlaw.com confirms IP boutique (patents, trademarks, copyrights, IP litigation), Los Angeles/Orange County/San Diego."
+  },
+  {
+   "firm": "Harris & Hayden",
+   "website": "https://harrishayden.com/",
+   "website_verified": true,
+   "verification": "FindLaw Los Angeles patents listing with Website https://harrishayden.com/; Los Angeles IP litigation boutique.",
+   "attorneys": []
+  },
+  {
+   "firm": "Sterling Media Law",
+   "website": "https://www.sterlingmedialaw.com/",
+   "website_verified": true,
+   "verification": "FindLaw Los Angeles patents listing with Website https://www.sterlingmedialaw.com/; media/entertainment practice covering copyright work.",
+   "attorneys": []
+  }
+ ],
+ "state": "California"
+}

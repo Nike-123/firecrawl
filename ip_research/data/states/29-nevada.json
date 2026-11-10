@@ -1,0 +1,21 @@
+{
+ "status": "completed",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/lawyer/firm/patents/las-vegas/nevada",
+  "https://lawyers.findlaw.com/lawyer/firm/patents/henderson/nevada",
+  "https://lawyers.findlaw.com/patents/nevada/reno/"
+ ],
+ "listings_reviewed": 3,
+ "pagination_pages": 0,
+ "limitations": "Nevada's patents pages report 'Results 1 to 1 of 1' in Las Vegas, Henderson and Reno; the only Nevada-based patent firm in the directory is Jones & LoBello.",
+ "firms": [
+  {
+   "firm": "Jones & LoBello",
+   "website": "https://joneslobello.com/",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listings, Las Vegas/Henderson NV"
+  }
+ ],
+ "state": "Nevada"
+}

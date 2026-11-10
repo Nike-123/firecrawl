@@ -1,0 +1,23 @@
+{
+ "status": "completed",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/oklahoma/tulsa/hulsey-pc-NTM2NzYyN18x/",
+  "https://lawyers.findlaw.com/patents/oklahoma/wanette/",
+  "https://lawyers.findlaw.com/patents/oklahoma/claremore/"
+ ],
+ "listings_reviewed": 4,
+ "pagination_pages": 0,
+ "limitations": "Oklahoma's patents pages report 'Results 1 to 2 of 2' and repeat Hulsey PC's Tulsa office plus Stange Law Firm (family law, excluded) and nationwide placements.",
+ "firms": [
+  {
+   "firm": "Hulsey PC",
+   "website": "https://hulseyiplaw.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Bill Hulsey"
+   ],
+   "ev": "FindLaw firm profile, Tulsa OK - IP, patents, trademarks, TTAB"
+  }
+ ],
+ "state": "Oklahoma"
+}

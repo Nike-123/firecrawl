@@ -1,0 +1,94 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/patents/new-york/new-york/",
+  "https://lawyers.findlaw.com/patents/new-york/new-york-county/",
+  "https://lawyers.findlaw.com/lawyer/firm/patents/brooklyn/new-york",
+  "https://lawyers.findlaw.com/patents/new-york/buffalo/"
+ ],
+ "listings_reviewed": 18,
+ "pagination_pages": 1,
+ "limitations": "New York City's patents listing is large and paginated; only the first result page of the NYC, Manhattan and Brooklyn views was enumerated, so New York is marked partial. Bernstein Litowitz Berger & Grossmann LLP was excluded (securities litigation, no IP practice shown).",
+ "firms": [
+  {
+   "firm": "Jennifer Silverman PLLC",
+   "website": "https://www.silverman.legal",
+   "website_verified": true,
+   "attorneys": [
+    "Jennifer D. Silverman"
+   ],
+   "ev": "FindLaw patents listings, New York NY; official URL not captured",
+   "verification": "FindLaw firm profile (New York) lists silverman.legal; trademarks, copyrights and IP agreements practice."
+  },
+  {
+   "firm": "Miller Korzenik Sommers Rayman LLP",
+   "website": "https://mksr.law/",
+   "website_verified": true,
+   "attorneys": [
+    "David S Korzenik",
+    "Eric Rayman"
+   ],
+   "ev": "FindLaw patents listing, New York NY",
+   "verification": "FindLaw firm profile (New York) lists mksr.law; firm handles IP litigation, copyright, trademark, trade secrets and media law."
+  },
+  {
+   "firm": "Olshan Frome Wolosky LLP",
+   "website": "https://www.olshanlaw.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Lee S. Sporn"
+   ],
+   "ev": "FindLaw patents listing, New York NY (advertising/marketing/IP group)"
+  },
+  {
+   "firm": "Sisun Law",
+   "website": "https://www.sisunlaw.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Scott M. Sisun"
+   ],
+   "ev": "FindLaw patents/trademarks listing, New York NY - trademark practice"
+  },
+  {
+   "firm": "Cunningham Swaim, LLP",
+   "website": "https://www.cunninghamswaim.com",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listing, Melville NY (also has a Colorado office)",
+   "verification": "Firm site confirms Melville NY office and IP litigation practice."
+  },
+  {
+   "firm": "Saile Ackerman LLC",
+   "website": "https://www.saileackerman.com/",
+   "website_verified": true,
+   "verification": "FindLaw patents listing for New York (Poughkeepsie office) with Website https://www.saileackerman.com/.",
+   "attorneys": []
+  },
+  {
+   "firm": "Lee Palmateer Law Office",
+   "website": "https://www.albanyiplaw.com/",
+   "website_verified": true,
+   "verification": "FindLaw patents listing for New York (Albany office) with Website https://www.albanyiplaw.com/.",
+   "attorneys": [
+    "Lee Palmateer"
+   ]
+  },
+  {
+   "firm": "Cox Padmore Skolnik & Shakarchy LLP",
+   "website": "https://www.cpsslaw.com/",
+   "website_verified": true,
+   "verification": "FindLaw New York patents listing with Website https://www.cpsslaw.com/; firm site lists an Intellectual Property practice (license agreements, trademark/copyright infringement and litigation, patents) and partner Steven D. Skolnik lists Patents/Trademarks.",
+   "attorneys": [
+    "Steven D. Skolnik"
+   ]
+  },
+  {
+   "firm": "Simpson & Simpson, PLLC",
+   "website": "https://www.idealawyers.com/",
+   "website_verified": true,
+   "verification": "FindLaw patents listings for Buffalo NY and Palm Beach Gardens FL with Website https://www.idealawyers.com/; multi-state firm recorded under both states.",
+   "attorneys": []
+  }
+ ],
+ "state": "New York"
+}

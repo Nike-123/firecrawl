@@ -1,0 +1,38 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/patents/oregon/portland/",
+  "https://lawyers.findlaw.com/oregon/portland/5026483_1/",
+  "https://lawyers.findlaw.com/oregon/portland/3654051_1/"
+ ],
+ "listings_reviewed": 5,
+ "pagination_pages": 0,
+ "limitations": "Portland's patents page renders only one Oregon firm plus the nationwide NovoTech placement; the other two Oregon patent firms were captured from their FindLaw Portland firm profiles. Pagination beyond the first page was not available.",
+ "firms": [
+  {
+   "firm": "The Smith Firm, P.C.",
+   "website": "https://www.thesmithfirmpc.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Dave Smith"
+   ],
+   "ev": "FindLaw patents listing, West Linn OR",
+   "verification": "FindLaw West Linn profile lists Website: https://www.thesmithfirmpc.com."
+  },
+  {
+   "firm": "Bold Patents Law Firm",
+   "website": "https://boldip.com/",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw firm profile, Portland OR - patents, trademarks, copyrights, trade secrets, IP licensing"
+  },
+  {
+   "firm": "McCoy Russell LLP",
+   "website": "https://www.mccrus.com",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw firm profile, Portland OR - utility and design patents"
+  }
+ ],
+ "state": "Oregon"
+}

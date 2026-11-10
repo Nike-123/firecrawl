@@ -1,0 +1,52 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/lawyer/firm/patents/lafayette/louisiana",
+  "https://lawyers.findlaw.com/patents/louisiana/maurice/",
+  "https://lawyers.findlaw.com/louisiana/new-orleans/4931504_1/"
+ ],
+ "listings_reviewed": 7,
+ "pagination_pages": 0,
+ "limitations": "Louisiana city pages report 'Results 1 to 4 of 4' and are dominated by Baton Rouge/Shreveport firms plus nationwide placements. Bernstein Litowitz Berger & Grossmann LLP was excluded (securities litigation).",
+ "firms": [
+  {
+   "firm": "Roy Kiesel Ford Doody Thurmon, APLC",
+   "website": "http://www.roykiesel.com",
+   "website_verified": true,
+   "attorneys": [
+    "R. Bennett Ford Jr.",
+    "William David Kiesel"
+   ],
+   "ev": "FindLaw patents listing, Baton Rouge LA; official URL not captured",
+   "verification": "FindLaw firm profile (Baton Rouge) lists roykiesel.com; full-service IP practice, all lawyers USPTO-registered patent attorneys."
+  },
+  {
+   "firm": "Hulsey PC",
+   "website": "https://hulseyiplaw.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Bill Hulsey"
+   ],
+   "ev": "FindLaw patents listing, Shreveport LA office"
+  },
+  {
+   "firm": "Vickers Law, LLC",
+   "website": "https://www.vickerslawllc.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Adam V. Vickers"
+   ],
+   "ev": "FindLaw firm profile, New Orleans LA - patent law, trademarks, IP",
+   "verification": "FindLaw firm profile (New Orleans) lists vickerslawllc.com; patent, trademark and IP practice."
+  },
+  {
+   "firm": "Flowers Davis, P.L.L.C.",
+   "website": "https://flowersdavis.com/",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listing, Shreveport LA; official URL not captured",
+   "verification": "Firm domain flowersdavis.com for the Tyler TX office listed on the FindLaw Louisiana record; firm practice list includes Intellectual Property and Patent Prosecution."
+  }
+ ],
+ "state": "Louisiana"
+}

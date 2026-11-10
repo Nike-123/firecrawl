@@ -1,0 +1,27 @@
+{
+ "pass": "missing-website cleanup and NJ expansion (phase 4)",
+ "websites_verified_added": [
+  "Pender & Coward, P.C. (VA) pendercoward.com",
+  "Juhasz Law Firm, PC (TX) patenthorizon.com",
+  "Jennifer Silverman PLLC (NY) silverman.legal",
+  "Kennyhertz Perry (KS) kennyhertzperry.com",
+  "Alderman & Alderman, LLC (CT) alderman.com",
+  "Caseiro Burke LLC (ME) caseiroburke.com",
+  "Bourque & Associates, P.A. (NH) nhpatlaw.com"
+ ],
+ "firms_added": [
+  "COFFYLAW, LLC (NJ) coffylaw.com",
+  "Smith + Schwartzstein LLC (NJ) sslawfirmllc.com"
+ ],
+ "firms_dropped_non_ip_or_unverifiable": [
+  "Fleming & Borowicz PLC (MI) - profile lists business/corporate, estate and family law, no IP area",
+  "Becker Law Group, P.C. (PA) - general practice (criminal/family/bankruptcy) with only incidental trademark filing",
+  "Hickman Goza & Spragins, PLLC (MS) - insurance-defence litigation firm, no IP practice",
+  "Jones Law Partners (ID) - FindLaw profile lists family law; only incidental trademark filings"
+ ],
+ "notes": [
+  "Schoendorf Law, LLC and Sleem Law (NJ) and Frank Tolin & Associates (NJ) still have no firm-controlled domain in any record reviewed - left blank and flagged.",
+  "Drew Cooper & Anding (MI) has attorneys with patent-category placements but no domain was captured; left blank and flagged."
+ ],
+ "remaining_work": "28 firm-state entries still lack a verifiable official domain; large-state pagination remains partial (CA, NY, TX, IL, PA, MA, OH, NJ, MD, VA, TN, WA)."
+}

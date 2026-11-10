@@ -1,0 +1,22 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/patents/mississippi/jackson/",
+  "https://www.lawyers.com/patents/all-cities/mississippi/law-firms/"
+ ],
+ "listings_reviewed": 6,
+ "pagination_pages": 0,
+ "limitations": "The Jackson, MS patents page lists only Hulsey PC's Ridgeland office plus the nationwide NovoTech placement; Hickman Goza & Spragins came from the same FindLaw listing record. The broader Lawyers.com Mississippi index is almost entirely general-practice firms (e.g. Phelps Dunbar, Adams and Reese, Brunini) whose directory entries carry no verifiable IP practice area, so they were not admitted.",
+ "firms": [
+  {
+   "firm": "Hulsey PC",
+   "website": "https://hulseyiplaw.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Bill Hulsey"
+   ],
+   "ev": "FindLaw patents listing, Ridgeland MS office"
+  }
+ ],
+ "state": "Mississippi"
+}

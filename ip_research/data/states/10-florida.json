@@ -1,0 +1,48 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/patents/florida/tampa/",
+  "https://lawyers.findlaw.com/patents/florida/hollywood/",
+  "https://lawyers.findlaw.com/patents/florida/north-miami/",
+  "https://lawyers.findlaw.com/patents/florida/miami/"
+ ],
+ "listings_reviewed": 16,
+ "pagination_pages": 0,
+ "limitations": "Florida city pages are paginated and largely client-rendered; capture is limited to the reviewed city pages. Morgan & Morgan (personal injury) was excluded despite a patents-category attorney placement.",
+ "firms": [
+  {
+   "firm": "Allen, Dyer, Doppelt + Gilchrist, P.A.",
+   "website": "https://allendyer.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Robert H. Thornburg",
+    "Christopher F. Regan",
+    "Jack G. Abid",
+    "David S. Carus",
+    "James Leahy",
+    "Ava Doppelt",
+    "Brian Gilchrist",
+    "Allison Imber"
+   ],
+   "ev": "FindLaw patents listings, Orlando FL (multiple city pages) - IP boutique",
+   "verification": "FindLaw firm profile (Orlando) lists allendyer.com; firm site confirms patent/trademark/copyright/IP litigation practice. addg.com is not the firm domain."
+  },
+  {
+   "firm": "Simpson & Simpson, PLLC",
+   "website": "https://www.idealawyers.com/",
+   "website_verified": true,
+   "verification": "FindLaw patents listing for Miami (Palm Beach Gardens office) with Website https://www.idealawyers.com/.",
+   "attorneys": []
+  },
+  {
+   "firm": "The Law Office of Geralyn F. Noonan",
+   "website": "https://www.noonanlaw.com/",
+   "website_verified": true,
+   "verification": "FindLaw patents listing for Miami (Fort Myers office) with Website https://www.noonanlaw.com/.",
+   "attorneys": [
+    "Geralyn F. Noonan"
+   ]
+  }
+ ],
+ "state": "Florida"
+}

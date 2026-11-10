@@ -1,0 +1,23 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/delaware/wilmington/4665995_1/",
+  "https://lawyers.findlaw.com/patents/delaware/bethany-beach/",
+  "https://lawyers.findlaw.com/patents/delaware/millsboro/"
+ ],
+ "listings_reviewed": 4,
+ "pagination_pages": 0,
+ "limitations": "Delaware patents city pages are dominated by nationwide sponsored placements; Delaware-based capture relies on FindLaw Wilmington attorney profiles. Bernstein Litowitz Berger & Grossmann LLP was excluded (securities litigation, no IP practice shown).",
+ "firms": [
+  {
+   "firm": "DLA Piper LLP (US)",
+   "website": "https://www.dlapiper.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Brian Biggs"
+   ],
+   "ev": "FindLaw attorney profile, Wilmington DE - patent litigation practice"
+  }
+ ],
+ "state": "Delaware"
+}

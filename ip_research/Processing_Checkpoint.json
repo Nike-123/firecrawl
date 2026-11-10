@@ -1,0 +1,731 @@
+{
+  "project": "US IP Law Firms - state-wise FindLaw research",
+  "primary_source": "https://lawyers.findlaw.com/patents/",
+  "last_updated_utc": "2026-11-10",
+  "states_completed": [
+    "Alabama",
+    "Alaska",
+    "Arizona",
+    "Arkansas",
+    "Nevada",
+    "New Hampshire",
+    "New Mexico",
+    "North Carolina",
+    "North Dakota",
+    "Oklahoma",
+    "South Dakota",
+    "Utah",
+    "Vermont",
+    "West Virginia"
+  ],
+  "current_state": "n/a - all 51 jurisdictions processed",
+  "states_in_progress": [],
+  "states_partial": [
+    "California",
+    "Colorado",
+    "Connecticut",
+    "Delaware",
+    "District of Columbia",
+    "Florida",
+    "Georgia",
+    "Hawaii",
+    "Idaho",
+    "Illinois",
+    "Indiana",
+    "Iowa",
+    "Kansas",
+    "Kentucky",
+    "Louisiana",
+    "Maine",
+    "Maryland",
+    "Massachusetts",
+    "Michigan",
+    "Minnesota",
+    "Mississippi",
+    "Missouri",
+    "Montana",
+    "Nebraska",
+    "New Jersey",
+    "New York",
+    "Ohio",
+    "Oregon",
+    "Pennsylvania",
+    "Rhode Island",
+    "South Carolina",
+    "Tennessee",
+    "Texas",
+    "Virginia",
+    "Washington",
+    "Wisconsin",
+    "Wyoming"
+  ],
+  "states_with_no_findlaw_listings": [
+    "Idaho"
+  ],
+  "states_remaining": [],
+  "states_total": 51,
+  "total_records": 216,
+  "unique_law_firms": 149,
+  "verified_official_websites": 144,
+  "missing_official_websites": 5,
+  "verified_official_websites_unique_firms": 133,
+  "missing_official_websites_unique_firms": 5,
+  "attorney_records": 148,
+  "records_requiring_review": 6,
+  "findlaw_listings_reviewed": 411,
+  "pagination_pages_processed": 4,
+  "state_details": {
+    "Alabama": {
+      "status": "completed",
+      "findlaw_listings_reviewed": 7,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 9,
+      "firms_collected": 1,
+      "records": 1,
+      "limitations": "FindLaw's patents directory returns a single Alabama-based firm (Hulsey PC, Birmingham) across the state's city and county pages; every reviewed page reported 'Results 1 to 1 of 1'. The remaining patents-category entries were nationwide sponsored placements with no Alabama office and were excluded. Trademarks/IP-law category pages for Birmingham contained only nationwide sponsored firms plus non-IP practices (e.g. a personal-injury firm tagged for copyrights), which were excluded."
+    },
+    "Alaska": {
+      "status": "completed",
+      "findlaw_listings_reviewed": 6,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 3,
+      "firms_collected": 3,
+      "records": 3,
+      "limitations": "lawyers.findlaw.com has no state-specific patents listings for Alaska: the Anchorage page returns no results and the only legacy entry in the patents category (Arco Alaska, Inc.) is an in-house corporate legal department last updated in 2008, so it was not treated as a law firm. Firms listed here come from the FindLaw network (Lawyers.com) Alaska patents/IP listing and were verified to have an Anchorage office and an IP practice."
+    },
+    "Arizona": {
+      "status": "completed",
+      "findlaw_listings_reviewed": 12,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 8,
+      "firms_collected": 2,
+      "records": 2,
+      "limitations": "Phoenix and Tucson each report 'Results 1 to 1 of 1'. Excluded after profile review: Law Offices of Roger H. Sigal, L.L.C. (Oro Valley) - findlaw profile practice areas are criminal law, federal white-collar crime, DUI and immigration, not IP; Roland Tong entry is captioned as attorney for Manning & Kass, Ellrod, Ramirez, Trester LLP with an unrelated firm domain, so it was left out rather than guessed. Ream Law Firm (Ottawa, KS) and NovoTech Patent Firm are nationwide placements without an Arizona office."
+    },
+    "Arkansas": {
+      "status": "completed",
+      "findlaw_listings_reviewed": 1,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 2,
+      "firms_collected": 1,
+      "records": 1,
+      "limitations": "Only one Arkansas-based firm appears in the FindLaw patents directory for Little Rock ('Results 1 to 1 of 1'); no pagination was present. The firm profile does not name individual attorneys, so the attorney field is left blank rather than inferred."
+    },
+    "California": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 25,
+      "pagination_pages_processed": 2,
+      "pages_reviewed": 4,
+      "firms_collected": 6,
+      "records": 8,
+      "limitations": "California is the largest FindLaw patents market (Los Angeles, San Francisco and San Diego pages show 10+ firms each and are paginated). Listing capture is limited to the first result page of each reviewed city; remaining pagination pages were not enumerated, so this state is marked partial rather than complete. Entertainment/litigation generalists surfaced by the category (Sterling Media Law, The McClellan Law Firm, Harris & Hayden, Hymes Schreiber & Walden, McCathern Shokouhi Evans, Delcin Consulting Group) were excluded for lack of demonstrable IP practice."
+    },
+    "Colorado": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 6,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 3,
+      "firms_collected": 3,
+      "records": 5,
+      "limitations": "Colorado city pages are mostly client-rendered; the Boulder page (3 results) and FindLaw Denver firm profiles were readable. Littman Family Law (Denver) appears in the patents category but is a family-law practice and was excluded."
+    },
+    "Connecticut": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 3,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 2,
+      "firms_collected": 2,
+      "records": 3,
+      "limitations": "Connecticut patents city pages largely return an empty shell to the fetcher; firms were captured from FindLaw firm profiles (Hartford) and the West Hartford listing page. Ream Law Firm (KS) is a nationwide placement."
+    },
+    "Delaware": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 4,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 3,
+      "firms_collected": 1,
+      "records": 1,
+      "limitations": "Delaware patents city pages are dominated by nationwide sponsored placements; Delaware-based capture relies on FindLaw Wilmington attorney profiles. Bernstein Litowitz Berger & Grossmann LLP was excluded (securities litigation, no IP practice shown)."
+    },
+    "District of Columbia": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 3,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 3,
+      "firms_collected": 3,
+      "records": 12,
+      "limitations": "DC has a very large IP bar; only FindLaw Washington DC firm profiles surfaced through the fetch layer were reviewed, so the state is marked partial."
+    },
+    "Florida": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 16,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 4,
+      "firms_collected": 3,
+      "records": 10,
+      "limitations": "Florida city pages are paginated and largely client-rendered; capture is limited to the reviewed city pages. Morgan & Morgan (personal injury) was excluded despite a patents-category attorney placement."
+    },
+    "Georgia": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 11,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 4,
+      "firms_collected": 7,
+      "records": 8,
+      "limitations": "Atlanta patents pages are paginated and largely client-rendered; capture relies on FindLaw Atlanta firm profiles and Georgia city listing pages. The Simon Law Firm (MO) is a nationwide placement. The Atlanta patents page returns \"Results 1 to 2 of 2\" for Atlanta itself plus outlying-city firms; nearby-city links (Decatur, Stone Mountain, Lithonia, Marietta, Norcross) remain queued."
+    },
+    "Hawaii": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 5,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 2,
+      "firms_collected": 2,
+      "records": 2,
+      "limitations": "Hawaii has no readable patents city listing pages; capture comes from the Hawaii IP & copyright category page. Ream Law Firm (KS) and Dale Jensen, PLC are nationwide placements without a Hawaii office shown. David J. Hoftiezer appears in FindLaw as a standalone \"Law Office of\" record; independent verification places him at Goodsill Anderson Quinn & Stifel, so the standalone record was merged rather than kept as a separate firm."
+    },
+    "Idaho": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 4,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 2,
+      "firms_collected": 0,
+      "records": 0,
+      "limitations": "Idaho has no Idaho-based entries in FindLaw's patents directory: every reviewed Idaho city page returns only nationwide placements (NovoTech Patent Firm, Ream Law Firm, Goldstein Law Offices, Dale Jensen PLC, Zoe Bernstein Law PLLC). The one Idaho firm surfaced through a FindLaw trademarks listing (Jones Law Partners, Boise) was reviewed and excluded: its FindLaw profile lists Family Law as its practice, and its own site documents only trademark filings inside a general business/family practice. Idaho is recorded as having no eligible verified IP firm rather than padded with a general practice."
+    },
+    "Illinois": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 14,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 4,
+      "firms_collected": 5,
+      "records": 5,
+      "limitations": "Chicago patents pages are paginated; capture limited to the Illinois county/neighbourhood listing pages reviewed. Bernstein Litowitz Berger & Grossmann LLP was excluded (securities litigation, not IP)."
+    },
+    "Indiana": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 9,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 3,
+      "firms_collected": 3,
+      "records": 5,
+      "limitations": "Indianapolis patents listing reports 'Results 1 to 5 of 5'. Stange Law Firm, PC (family law) was excluded. Ream Law Firm (KS) and NovoTech (DC) are nationwide placements. Adam D. Decker (Crown Point, IN) keeps a blank website: FindLaw/Justia print no firm URL and no firm-controlled domain was verified; a standalone attorney record is retained."
+    },
+    "Iowa": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 8,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 5,
+      "firms_collected": 2,
+      "records": 2,
+      "limitations": "Iowa's FindLaw patents city pages list only nationwide placements (NovoTech, Ream Law Firm) plus Stange Law Firm (family law) and O'Flaherty Law (general practice) - all excluded. Iowa IP firms were instead captured from FindLaw's intellectual-property-law and copyrights category pages (Des Moines, Iowa City) with verified practice and websites."
+    },
+    "Kansas": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 10,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 3,
+      "firms_collected": 4,
+      "records": 5,
+      "limitations": "Kansas city pages report 'Results 1 to 4 of 4' and list mostly nationwide placements (Goldstein Law Offices, Dale Jensen PLC, Intellectual Property Center LLC) plus Stange Law Firm (family law, excluded). Kansas-based IP firms were captured from the Wichita/Overland Park listings."
+    },
+    "Kentucky": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 6,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 3,
+      "firms_collected": 3,
+      "records": 8,
+      "limitations": "Kentucky patents pages report 'Results 1 to 2 of 2' per city with heavy repetition of the same Louisville firms; Stange Law Firm (family law) was excluded."
+    },
+    "Louisiana": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 7,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 3,
+      "firms_collected": 4,
+      "records": 5,
+      "limitations": "Louisiana city pages report 'Results 1 to 4 of 4' and are dominated by Baton Rouge/Shreveport firms plus nationwide placements. Bernstein Litowitz Berger & Grossmann LLP was excluded (securities litigation)."
+    },
+    "Maine": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 1,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 1,
+      "firms_collected": 2,
+      "records": 3,
+      "limitations": "FindLaw's Portland, ME patents page returns no Maine-based firm, only the nationwide NovoTech placement. Maine firms below were identified through supplementary patent-directory verification (Lawyers.com national patents index lists 22 Maine patent lawyers) and are marked for manual website verification."
+    },
+    "Maryland": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 11,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 5,
+      "firms_collected": 1,
+      "records": 1,
+      "limitations": "FindLaw's Baltimore patents page lists only Washington DC firms serving Baltimore; Maryland-based firms were captured from the FindLaw network (Lawyers.com) Baltimore patents listing. Tully Rinckey PLLC, McConnell Valdes PLLC, Frommer Lawrence & Haug LLP and NovoTech are DC-based placements and were not attributed to Maryland. Re-checked 2026-11: the Baltimore and Rockville patents pages contain no Maryland-based firms (only DC/PA nationwide placements), which is why Maryland carries a single verified firm. State-level and trademark/copyright category pages remain the route for further Maryland coverage."
+    },
+    "Massachusetts": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 6,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 5,
+      "firms_collected": 3,
+      "records": 3,
+      "limitations": "Boston's FindLaw patents listing is client-rendered and surfaced only a single Boston firm (later dropped - its practice is M&A/technology transactions, not patent/IP). Massachusetts IP firms were captured from FindLaw's Boston intellectual-property-and-copyright category page, which does render, and each firm's own site was verified. Re-checked 2026-11: the Boston patents page returns \"We did not find any Patents lawyers in Boston, MA\"; Massachusetts coverage therefore relies on state-level patents/IP pages and indexed profiles."
+    },
+    "Michigan": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 18,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 4,
+      "firms_collected": 4,
+      "records": 8,
+      "limitations": "Michigan city/county pages repeat a small set of firms with no pagination shown beyond the first page. Goldman & Associates Law Firm (Southfield) was excluded - its listing advertises family law/divorce and no IP practice was verified. Raggio & Dinnin, P.C. (Troy, MI) is listed in the FindLaw patents directory without a website link; no firm-controlled domain was verified, so the URL is blank."
+    },
+    "Minnesota": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 10,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 3,
+      "firms_collected": 7,
+      "records": 14,
+      "limitations": "Minnesota city pages list a compact set of Minneapolis-area IP boutiques. The Simon Law Firm PC (St. Louis, MO) and NovoTech (DC) are nationwide placements and were not attributed to Minnesota."
+    },
+    "Mississippi": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 6,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 2,
+      "firms_collected": 1,
+      "records": 1,
+      "limitations": "The Jackson, MS patents page lists only Hulsey PC's Ridgeland office plus the nationwide NovoTech placement; Hickman Goza & Spragins came from the same FindLaw listing record. The broader Lawyers.com Mississippi index is almost entirely general-practice firms (e.g. Phelps Dunbar, Adams and Reese, Brunini) whose directory entries carry no verifiable IP practice area, so they were not admitted."
+    },
+    "Missouri": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 10,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 5,
+      "firms_collected": 2,
+      "records": 2,
+      "limitations": "Missouri city pages are dominated by Stange Law Firm (family law, excluded), NovoTech (DC, nationwide), and Paule Camazine & Blumenthal (family/general practice, excluded). The Simon Law Firm is the only Missouri IP firm surfaced."
+    },
+    "Montana": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 6,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 4,
+      "firms_collected": 3,
+      "records": 3,
+      "limitations": "Montana has almost no Montana-based entries in FindLaw's patents directory: city pages list the nationwide placements (Ream Law Firm, Goldstein Law Offices, Dale Jensen PLC) plus Calton Hamman & Wolff in Billings. Additional Montana IP attorneys were verified through supplementary patent-directory profiles."
+    },
+    "Nebraska": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 4,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 3,
+      "firms_collected": 1,
+      "records": 1,
+      "limitations": "Every Nebraska city page reviewed reports 'Results 1 to 1 of 1' and contains Stange Law Firm (family law, excluded) plus one Lincoln patent solo. No Nebraska IP boutique appears in FindLaw's patents directory."
+    },
+    "Nevada": {
+      "status": "completed",
+      "findlaw_listings_reviewed": 3,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 3,
+      "firms_collected": 1,
+      "records": 1,
+      "limitations": "Nevada's patents pages report 'Results 1 to 1 of 1' in Las Vegas, Henderson and Reno; the only Nevada-based patent firm in the directory is Jones & LoBello."
+    },
+    "New Hampshire": {
+      "status": "completed",
+      "findlaw_listings_reviewed": 3,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 3,
+      "firms_collected": 3,
+      "records": 3,
+      "limitations": "New Hampshire's patents city pages are client-rendered; the firms below come from FindLaw Manchester firm profiles (two profiles are older records)."
+    },
+    "New Jersey": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 14,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 4,
+      "firms_collected": 5,
+      "records": 5,
+      "limitations": "Newark's own FindLaw patents page was not readable through the fetch layer; capture uses FindLaw Newark firm profiles plus the FindLaw network (Lawyers.com) Newark patents listing, which reports 12 New Jersey firms. Only firms with a stated patent/IP practice were admitted; Newark's personal-injury/labour-heavy listings (e.g. Brach Eichler, Carella Byrne) were left out where IP practice could not be confirmed from the record. Sleem Law and Frank Tolin & Associates remain without an official website: FindLaw prints no URL, and repeated searches returned only directory profiles (no firm-controlled domain). URLs left blank rather than guessed."
+    },
+    "New Mexico": {
+      "status": "completed",
+      "findlaw_listings_reviewed": 4,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 3,
+      "firms_collected": 2,
+      "records": 2,
+      "limitations": "New Mexico's patents pages consistently return the same two Albuquerque business-law firms with patent practices plus nationwide placements; no pagination was present."
+    },
+    "New York": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 18,
+      "pagination_pages_processed": 1,
+      "pages_reviewed": 4,
+      "firms_collected": 9,
+      "records": 10,
+      "limitations": "New York City's patents listing is large and paginated; only the first result page of the NYC, Manhattan and Brooklyn views was enumerated, so New York is marked partial. Bernstein Litowitz Berger & Grossmann LLP was excluded (securities litigation, no IP practice shown)."
+    },
+    "North Carolina": {
+      "status": "completed",
+      "findlaw_listings_reviewed": 4,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 3,
+      "firms_collected": 2,
+      "records": 2,
+      "limitations": "North Carolina city and county pages consistently report 'Results 1 to 2 of 2' - the two Charlotte IP boutiques below plus the nationwide NovoTech placement."
+    },
+    "North Dakota": {
+      "status": "completed",
+      "findlaw_listings_reviewed": 5,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 2,
+      "firms_collected": 4,
+      "records": 4,
+      "limitations": "Fargo reports 'Results 1 to 1 of 1' (Adkins Law PLLC in Bismarck) plus the nationwide Simon Law Firm placement; the additional Fargo IP firms below were verified through supplementary patent-directory records. Atlas Legal Services, PLLC (3933 4th St E, West Fargo; Bart Robert McIlonie) has no verifiable public website — the only domain seen is an email domain (atlasesop.com) that does not resolve to a firm site — and its FindLaw-adjacent listings describe a general practice with trademark filings. Record retained but flagged for manual review; URL left blank."
+    },
+    "Ohio": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 19,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 3,
+      "firms_collected": 3,
+      "records": 8,
+      "limitations": "Ohio city pages are paginated attorney lists dominated by Cincinnati's Wood Herron & Evans and Columbus's Wesp Barwell; the numbered attorney entries exceed one page, so only the first page was enumerated and Ohio is marked partial."
+    },
+    "Oklahoma": {
+      "status": "completed",
+      "findlaw_listings_reviewed": 4,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 3,
+      "firms_collected": 1,
+      "records": 1,
+      "limitations": "Oklahoma's patents pages report 'Results 1 to 2 of 2' and repeat Hulsey PC's Tulsa office plus Stange Law Firm (family law, excluded) and nationwide placements."
+    },
+    "Oregon": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 5,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 3,
+      "firms_collected": 3,
+      "records": 3,
+      "limitations": "Portland's patents page renders only one Oregon firm plus the nationwide NovoTech placement; the other two Oregon patent firms were captured from their FindLaw Portland firm profiles. Pagination beyond the first page was not available."
+    },
+    "Pennsylvania": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 11,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 3,
+      "firms_collected": 2,
+      "records": 4,
+      "limitations": "Philadelphia County and Pittsburgh report 'Results 1 to 3 of 3' with heavy repetition of the same two firms; Philadelphia's own city page was not readable through the fetch layer, so Pennsylvania's large IP bar is under-represented and the state is marked partial. Pittsburgh and Philadelphia patents pages were both re-reviewed: each returns only Houston Harbaugh and IP Works Law (plus the removed Becker Law Group), so Pennsylvania coverage is directory-limited rather than research-limited."
+    },
+    "Rhode Island": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 15,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 2,
+      "firms_collected": 2,
+      "records": 4,
+      "limitations": "FindLaw's Providence IP page returns a single firm (Fitch Law Partners LLP). The FindLaw network (Lawyers.com) Providence patents listing reports 15 Rhode Island firms; only those with a confirmed IP/patent practice were admitted, and general practices (Barton Gilman, Adler Pollock & Sheehan, Feeney Law Group) were left out."
+    },
+    "South Carolina": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 10,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 4,
+      "firms_collected": 3,
+      "records": 5,
+      "limitations": "South Carolina's FindLaw patents city pages returned no readable listing records; South Carolina IP firms were captured from the FindLaw trademarks category page (Greenville) and verified firm websites, and from FindLaw IP attorney listings where an affiliation was explicit (e.g. Killough at Kim, Lahey & Killough). Patent-only solos without an identifiable firm were not admitted."
+    },
+    "South Dakota": {
+      "status": "completed",
+      "findlaw_listings_reviewed": 6,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 3,
+      "firms_collected": 2,
+      "records": 2,
+      "limitations": "South Dakota's patents pages are dominated by nationwide placements (Ream Law Firm, Dale Jensen PLC, Goldstein Law Offices); two Sioux Falls firms with stated patent/IP practices were admitted."
+    },
+    "Tennessee": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 5,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 3,
+      "firms_collected": 2,
+      "records": 2,
+      "limitations": "Tennessee pages report 'Results 1 to 2 of 2' and are dominated by Stange Law Firm (family law, excluded) plus nationwide placements. Memphis/Nashville IP boutiques are under-represented; state marked partial."
+    },
+    "Texas": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 18,
+      "pagination_pages_processed": 1,
+      "pages_reviewed": 4,
+      "firms_collected": 7,
+      "records": 7,
+      "limitations": "Texas is one of the largest FindLaw patent markets; Houston, Dallas and Austin listings are paginated and only the first page of each reviewed view was enumerated, so Texas is marked partial. Personal-injury/mass-tort firms surfacing in the category (Abraham, Watkins; Sorrels Law; The Sher Law Firm; McCathern Shokouhi Evans) were excluded for lack of IP practice."
+    },
+    "Utah": {
+      "status": "completed",
+      "findlaw_listings_reviewed": 10,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 3,
+      "firms_collected": 2,
+      "records": 5,
+      "limitations": "Utah city/county pages repeat the same two Salt Lake City firms; no pagination beyond the first page was present."
+    },
+    "Vermont": {
+      "status": "completed",
+      "findlaw_listings_reviewed": 6,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 2,
+      "firms_collected": 3,
+      "records": 4,
+      "limitations": "lawyers.findlaw.com's Vermont city pages return an empty shell; the FindLaw network (Lawyers.com) Burlington patents listing reports 3 Vermont firms and is the source used here. Solo practitioners without an identifiable firm (e.g. Milton M. Oliver, Malashaan Kind) were not admitted as firms."
+    },
+    "Virginia": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 5,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 3,
+      "firms_collected": 4,
+      "records": 11,
+      "limitations": "Alexandria's patents page lists mostly Washington DC firms serving Alexandria plus Pender & Coward (Virginia Beach); the two Alexandria IP boutiques below were captured from their FindLaw firm profiles. Symbus Law Group PLLC and NovoTech are DC-based and were not attributed to Virginia."
+    },
+    "Washington": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 4,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 3,
+      "firms_collected": 2,
+      "records": 2,
+      "limitations": "Seattle reports 'Results 1 to 1 of 1'; Washington's larger IP bar (Seattle patent boutiques and the IP groups of regional firms) is not represented in FindLaw's readable listings, so the state is marked partial."
+    },
+    "West Virginia": {
+      "status": "completed",
+      "findlaw_listings_reviewed": 4,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 2,
+      "firms_collected": 1,
+      "records": 2,
+      "limitations": "FindLaw's Charleston, WV patents page explicitly reports 'No law firm results found for Charleston WV Patents' and returns only two attorney placements (Wheeling). Those attorneys' firms are recorded below; no Charleston-based IP firm appears in the directory. Phillips, Gardill, Kaiser & Altmeyer was removed: its own firm profile (pgka.com) lists banking, corporate, real estate, estates, employment, civil litigation, tax and family law with no intellectual property practice. Schrader Duff Law & Lowe is retained because its Super Lawyers profile lists John Porco with intellectual property litigation, and its URL is now verified."
+    },
+    "Wisconsin": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 7,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 3,
+      "firms_collected": 4,
+      "records": 4,
+      "limitations": "Wisconsin pages report 'Results 1 to 7 of 7' in Mayville and repeat the same Madison/Milwaukee firms. O'Flaherty Law (general practice, no demonstrable patent service) was excluded; The Russell Firm and Merchant & Gould are national IP firms with Wisconsin offices."
+    },
+    "Wyoming": {
+      "status": "partial",
+      "findlaw_listings_reviewed": 2,
+      "pagination_pages_processed": 0,
+      "pages_reviewed": 2,
+      "firms_collected": 3,
+      "records": 3,
+      "limitations": "FindLaw's Casper, WY patents page returns only nationwide sponsored placements (NovoTech Patent Firm, The Simon Law Firm) - no Wyoming-based firm appears. Wyoming firms below were verified from supplementary patent-directory records showing a Wyoming office and patent practice."
+    }
+  },
+  "access_notes": "FindLaw directory pages reviewed through an HTTP render/fetch layer plus indexed FindLaw profile pages. Many FindLaw patents city pages are client-rendered and return an empty shell to the fetcher; those were cross-checked against FindLaw network listing data and individual FindLaw firm/attorney profile pages before a firm was admitted. Nationwide sponsored placements with no office in the state were not attributed to that state.",
+  "phase2_log": {
+    "pass": "verification-and-expansion (phase 2)",
+    "firms_added": [
+      "Nesenoff & Miltenberg LLP (MA)",
+      "Neelon International Law, LLC (MA)",
+      "Gallant & Ervin, L.L.C. (MA)"
+    ],
+    "firms_dropped_non_ip_or_unverifiable": [
+      "Barney & Karamanis, LLP (IL) - predominant personal-injury/medical-malpractice practice",
+      "Resnick & Schwartzman, L.L.C. (MD) - FindLaw profile lists family law",
+      "Thomsen and Burke, LLP (MD) - FindLaw profile lists estate planning/federal tax",
+      "August Law Group, LLC (MD) - no verifiable Maryland IP practice or domain",
+      "Fitch Law Partners LLP (RI) - general business/real-estate litigation",
+      "TCF Law Group, PLLC (MA) - FindLaw profile lists M&A/securities, not patent work",
+      "Murphy & Spagnuolo PC (MI) - full-service firm, no patent/IP area on profile"
+    ],
+    "websites_verified_added": [
+      "Mudd Law (IL) muddlawoffices.com",
+      "Davis & Carter LLC (IL) daviscarterlaw.com",
+      "Davis McGrath LLC (IL) davismcgrath.com",
+      "Hovey Williams LLP (KS) hoveywilliams.com",
+      "Valenti Hanley PLLC (KY) vhrlaw.com",
+      "Salter & Michaelson (RI) saltermichaelson.com",
+      "Barlow, Josephs & Holmes, Ltd. (RI) barjos.com",
+      "Wang IP Law Group, P.C. (CA) thewangiplaw.com",
+      "Mandour & Associates (CA) mandourlaw.com",
+      "Leyendecker & Lemire, LLC (CO) coloradoiplaw.com",
+      "Magleby Cataxinos (UT) mcg.law",
+      "Padmanabhan & Dawson, PLLC (MN) paddalawgroup.com",
+      "Johnston IP Law, PLLC (TX) johnstonip.com",
+      "Fogarty IP (TX) fogartyip.com",
+      "IP Works Law (PA) ipworkslaw.com",
+      "HPL Intellectual Property Law (CA) hpl.law - live-verified, attorneys added",
+      "Allen, Dyer, Doppelt + Gilchrist (FL) corrected from addg.com to allendyer.com"
+    ],
+    "attorney_names_added": 34,
+    "remaining_work": "54 firm-state entries still lack a verifiable official website and 52 records remain flagged for manual review; large-state pagination (CA, NY, TX, IL, PA, MA, OH, NJ, MD, VA, TN, WA) remains partial."
+  },
+  "phase3_log": {
+    "pass": "deep-research-and-verification (phase 3)",
+    "websites_verified_added": [
+      "Cunningham Swaim, LLP (CO/NY/TX) cunninghamswaim.com",
+      "Schroeder & Siegfried, P.A. (MN) schroederpatlaw.com",
+      "Kaufhold & Dix Patent Law (MN) kaufholdpatentgroup.com",
+      "Mueting Raasch Group (MN) mrgiplaw.com",
+      "Christensen, Fonder, Dardi (MN) cfd-ip.com",
+      "Indiano Law Group, LLC (IN) indyiplaw.com",
+      "Vickers Law, LLC (LA) vickerslawllc.com",
+      "Roy Kiesel Ford Doody Thurmon, APLC (LA) roykiesel.com",
+      "Miller Korzenik Sommers Rayman LLP (NY) mksr.law",
+      "Attolles Law, S.C. (WI) attolles.com"
+    ],
+    "firms_added": [
+      "Gohn Hankey & Berlage LLP (MD) ghbllp.com",
+      "Law Offices of Dominick A. Pilli, P.C. (VA) dapillilaw.com"
+    ],
+    "firms_dropped_non_ip_or_unverifiable": [
+      "Thornhill Law Firm, APLC (LA) - personal injury/environmental litigation practice",
+      "Semmes, Bowen & Semmes (MD) - full-service litigation/maritime firm, no IP area on record",
+      "Halloin Law Group, S.C. (WI) - business/construction/insurance litigation boutique"
+    ],
+    "notes": [
+      "Frank Tolin & Associates, LLC (NJ) remains blank and flagged: no firm-controlled domain found; the attorney now appears as Of Counsel at Patterson + Sheridan, so affiliation needs manual confirmation rather than a guessed URL.",
+      "Every website accepted in this pass was either printed on the firm's FindLaw/Lawyers.com profile ('Website:' field) or confirmed on the firm's own domain."
+    ],
+    "remaining_work": "41 firm-state entries still lack a verifiable official domain; large-state pagination (CA, NY, TX, IL, PA, MA, OH, NJ, MD, VA, TN, WA) remains partial."
+  },
+  "phase4_log": {
+    "pass": "missing-website cleanup and NJ expansion (phase 4)",
+    "websites_verified_added": [
+      "Pender & Coward, P.C. (VA) pendercoward.com",
+      "Juhasz Law Firm, PC (TX) patenthorizon.com",
+      "Jennifer Silverman PLLC (NY) silverman.legal",
+      "Kennyhertz Perry (KS) kennyhertzperry.com",
+      "Alderman & Alderman, LLC (CT) alderman.com",
+      "Caseiro Burke LLC (ME) caseiroburke.com",
+      "Bourque & Associates, P.A. (NH) nhpatlaw.com"
+    ],
+    "firms_added": [
+      "COFFYLAW, LLC (NJ) coffylaw.com",
+      "Smith + Schwartzstein LLC (NJ) sslawfirmllc.com"
+    ],
+    "firms_dropped_non_ip_or_unverifiable": [
+      "Fleming & Borowicz PLC (MI) - profile lists business/corporate, estate and family law, no IP area",
+      "Becker Law Group, P.C. (PA) - general practice (criminal/family/bankruptcy) with only incidental trademark filing",
+      "Hickman Goza & Spragins, PLLC (MS) - insurance-defence litigation firm, no IP practice",
+      "Jones Law Partners (ID) - FindLaw profile lists family law; only incidental trademark filings"
+    ],
+    "notes": [
+      "Schoendorf Law, LLC and Sleem Law (NJ) and Frank Tolin & Associates (NJ) still have no firm-controlled domain in any record reviewed - left blank and flagged.",
+      "Drew Cooper & Anding (MI) has attorneys with patent-category placements but no domain was captured; left blank and flagged."
+    ],
+    "remaining_work": "28 firm-state entries still lack a verifiable official domain; large-state pagination remains partial (CA, NY, TX, IL, PA, MA, OH, NJ, MD, VA, TN, WA)."
+  },
+  "phase5_log": {
+    "phase": "Phase 5 — continuous full-directory pass (2026-11-10)",
+    "objective": "Resolve the 28 missing-website records, clear the 26 review flags, and re-open large-state city directories to add firms/attorneys (no rebuild of prior verified records).",
+    "pages_reviewed": [
+      "https://lawyers.findlaw.com/patents/new-york/new-york/ (2 of 4 render chunks)",
+      "https://lawyers.findlaw.com/patents/california/los-angeles/ (2 of 6)",
+      "https://lawyers.findlaw.com/patents/texas/houston/ (2 of 6)",
+      "https://lawyers.findlaw.com/patents/florida/miami/",
+      "https://lawyers.findlaw.com/patents/pennsylvania/philadelphia/",
+      "https://lawyers.findlaw.com/patents/ohio/cleveland/",
+      "https://lawyers.findlaw.com/patents/michigan/detroit/",
+      "https://lawyers.findlaw.com/patents/maryland/baltimore/",
+      "https://lawyers.findlaw.com/patents/illinois/chicago/",
+      "https://lawyers.findlaw.com/patents/missouri/ and /missouri/saint-louis/",
+      "https://lawyers.findlaw.com/patents/georgia/atlanta/",
+      "https://lawyers.findlaw.com/patents/massachusetts/boston/ (empty result, documented)",
+      "https://lawyers.findlaw.com/montana/billings/2539941_1/",
+      "https://lawyers.findlaw.com/west-virginia/wheeling/schrader-duff-law--lowe-pllc-MTk0Nzk0NF8x/",
+      "https://lawyers.findlaw.com/south-carolina/charleston/henderson--henderson-llc-NTMxNjE2NF8x/",
+      "https://lawyers.findlaw.com/south-carolina/greenville/hurley-law-pa-NTIwMTQ1Nl8x/",
+      "https://lawyers.findlaw.com/utah/salt-lake-city/james-dodge-russell--stephens-pc-MTYzNjIxNV8x/",
+      "https://lawyers.findlaw.com/oregon/west-linn/the-smith-firm-pc-NDIxNzM4MF8x/",
+      "https://lawyers.findlaw.com/indiana/greenwood/tdw-patents--consulting-llc-NDgyODI0MV8x/",
+      "https://lawyers.findlaw.com/patents/new-jersey/salem-county/ and /new-jersey/north-brunswick/ and /new-jersey/browns-mills/",
+      "https://lawyers.findlaw.com/landlord-tenant/new-jersey/bergen-county/"
+    ],
+    "websites_resolved": 20,
+    "websites_still_missing": [
+      "Sleem Law (NJ)",
+      "Frank Tolin & Associates, LLC (NJ)",
+      "Adam D. Decker, Attorney at Law, P.C. (IN)",
+      "Raggio & Dinnin, P.C. (MI)",
+      "Atlas Legal Services, PLLC (ND)"
+    ],
+    "records_added": 19,
+    "attorney_records_added": 12,
+    "records_dropped": [
+      {
+        "state": "West Virginia",
+        "record": "Phillips, Gardill, Kaiser & Altmeyer",
+        "reason": "pgka.com firm profile: banking, corporate, real estate, estates, employment, civil litigation, tax, family — no IP practice."
+      },
+      {
+        "state": "Hawaii",
+        "record": "Law Office of David J. Hoftiezer",
+        "reason": "Duplicate person; independent sources place Hoftiezer at Goodsill Anderson Quinn & Stifel, so he was merged into the existing Goodsill record."
+      }
+    ],
+    "corrections": [
+      {
+        "state": "Michigan",
+        "record": "Fleming & Borowicz PLC",
+        "reason": "Phase-4 exclusion was wrong: FindLaw patents listings for Detroit/Novi/Saginaw show registered patent attorneys Gavin J. Fleming, Christina Borowicz and Francis Way at fblawplc.com. Reinstated with website and three attorneys."
+      },
+      {
+        "state": "Ohio",
+        "record": "Wesp Barwell, LLC -> Wesp Barwell Berardino",
+        "reason": "Firm name normalized to the current FindLaw listing and website wesplaw.com attached."
+      },
+      {
+        "state": "Georgia",
+        "record": "Hollin Law Offices",
+        "reason": "Attorney name normalized to James T. Hollin Jr. (FindLaw attorney profile) and hollinpatent.com attached."
+      }
+    ],
+    "review_queue_after_pass": [
+      "Atlas Legal Services, PLLC (ND) — no verifiable public website; general-practice concern flagged",
+      "Adam D. Decker, Attorney at Law, P.C. (IN) — standalone attorney, no verified domain",
+      "Frank Tolin & Associates, LLC (NJ) — no verified domain",
+      "Sleem Law (NJ) — no verified domain",
+      "Raggio & Dinnin, P.C. (MI) — no website on FindLaw profile"
+    ],
+    "remaining_work": [
+      "New York: chunks 3-4 of /patents/new-york/new-york/ (Albany, Buffalo, Long Island, Westchester city pages)",
+      "California: chunks 3-6 of /patents/california/los-angeles/ plus San Diego, San Francisco, San Jose, Orange County",
+      "Texas: chunks 3-6 of /patents/texas/houston/ plus Austin, Dallas, San Antonio",
+      "Ohio: Columbus, Cincinnati, Dayton, Akron pages; Michigan: Ann Arbor, Troy, Grand Rapids; Pennsylvania: Pittsburgh, Harrisburg",
+      "Maryland: Rockville, Bethesda, Columbia, Towson city pages (Baltimore patents page returns zero MD firms)",
+      "Georgia nearby cities: Decatur, Stone Mountain, Lithonia, Marietta, Norcross",
+      "Missouri: Kansas City, Clayton, Springfield, Columbia",
+      "Trademarks/Copyrights category passes for states whose patents pages are thin (MA, ME, NH, VT, RI, DE, MD)"
+    ],
+    "limitations": [
+      "FindLaw city pages are inconsistent: Boston MA and Baltimore MD patents pages return zero local firms although both states have IP counsel, so those states rely on state-level and alternate-category pages.",
+      "Some directories print no website for very small firms; five records remain intentionally blank rather than guessed.",
+      "Chunked rendering limits how many listings a single fetch returns; pagination continues in the next pass for the queued cities."
+    ],
+    "build_fix": "build.py domain guard used substring matching, which wrongly blanked legitimate firm sites whose domain merely contained a directory name (dca-lawyers.com, idealawyers.com, ip-lawyers.com, us-patentattorney.com, gwpatentattorney.com). Now matched on exact host or subdomain. This restored 7 previously blanked URLs — earlier \"verified 104 / missing 28\" figures were partly an artefact of that bug.",
+    "final_counts_after_phase5": {
+      "total_records": 216,
+      "firm_state_entries": 149,
+      "verified_websites": 144,
+      "missing_websites": 5,
+      "attorney_records": 148,
+      "records_requiring_review": 6,
+      "findlaw_listings_reviewed": 408
+    }
+  }
+}

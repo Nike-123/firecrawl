@@ -1,0 +1,37 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/lawyer/firm/patents/cambridge/massachusetts",
+  "https://lawyers.findlaw.com/lawyer/firm/patents/franklin/massachusetts",
+  "https://lawyers.findlaw.com/lawyer/firm/patents/winchester/massachusetts",
+  "https://lawyers.findlaw.com/intellectual-property-law/massachusetts/boston/",
+  "https://lawyers.findlaw.com/patents/massachusetts/boston/"
+ ],
+ "listings_reviewed": 6,
+ "pagination_pages": 0,
+ "limitations": "Boston's FindLaw patents listing is client-rendered and surfaced only a single Boston firm (later dropped - its practice is M&A/technology transactions, not patent/IP). Massachusetts IP firms were captured from FindLaw's Boston intellectual-property-and-copyright category page, which does render, and each firm's own site was verified. Re-checked 2026-11: the Boston patents page returns \"We did not find any Patents lawyers in Boston, MA\"; Massachusetts coverage therefore relies on state-level patents/IP pages and indexed profiles.",
+ "firms": [
+  {
+   "firm": "Nesenoff & Miltenberg LLP",
+   "website": "https://nmllplaw.com/",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw IP & copyright listing, Boston MA - IP/copyright litigation practice"
+  },
+  {
+   "firm": "Neelon International Law, LLC",
+   "website": "https://www.bostonilg.com/",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw IP & copyright listing, Norwell/Boston MA - IP practice"
+  },
+  {
+   "firm": "Gallant & Ervin, L.L.C.",
+   "website": "https://www.gallant-ervin.com/",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw IP & copyright listing, Chelmsford MA - copyright/trademark practice"
+  }
+ ],
+ "state": "Massachusetts"
+}

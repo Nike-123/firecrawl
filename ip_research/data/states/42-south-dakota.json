@@ -1,0 +1,28 @@
+{
+ "status": "completed",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/south-dakota/sioux-falls/4990024_1/",
+  "https://lawyers.findlaw.com/lawyer/firm/patents/corson-county/south-dakota",
+  "https://lawyers.findlaw.com/lawyer/firm/patents/dell-rapids/south-dakota"
+ ],
+ "listings_reviewed": 6,
+ "pagination_pages": 0,
+ "limitations": "South Dakota's patents pages are dominated by nationwide placements (Ream Law Firm, Dale Jensen PLC, Goldstein Law Offices); two Sioux Falls firms with stated patent/IP practices were admitted.",
+ "firms": [
+  {
+   "firm": "Kaufhold & Dix Patent Law",
+   "website": "http://www.kaufholdpatentgroup.com",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw firm profile, Sioux Falls SD - patent, trademark, copyright"
+  },
+  {
+   "firm": "Woods, Fuller, Shultz & Smith P.C.",
+   "website": "https://www.woodsfuller.com/",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listing, Sioux Falls SD (IP practice)"
+  }
+ ],
+ "state": "South Dakota"
+}

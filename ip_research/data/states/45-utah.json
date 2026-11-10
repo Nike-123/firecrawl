@@ -1,0 +1,37 @@
+{
+ "status": "completed",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/patents/utah/morgan-county/",
+  "https://lawyers.findlaw.com/lawyer/firm/patents/ogden/utah",
+  "https://lawyers.findlaw.com/patents/utah/american-fork/"
+ ],
+ "listings_reviewed": 10,
+ "pagination_pages": 0,
+ "limitations": "Utah city/county pages repeat the same two Salt Lake City firms; no pagination beyond the first page was present.",
+ "firms": [
+  {
+   "firm": "Magleby Cataxinos",
+   "website": "https://www.mcg.law/",
+   "website_verified": true,
+   "attorneys": [
+    "Peggy A. Tomsic",
+    "Edgar R. Cataxinos",
+    "Jennifer Fraser Parrish",
+    "Mark P. Arrington"
+   ],
+   "ev": "FindLaw patents listings, Salt Lake City UT (IP firm)",
+   "verification": "FindLaw patents listings and firm site mcg.law confirm patent prosecution/litigation, IP and trade-secret practice in Salt Lake City."
+  },
+  {
+   "firm": "James Dodge Russell & Stephens, P.C.",
+   "website": "https://www.jdrslaw.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Lara A. Swensen"
+   ],
+   "ev": "FindLaw patents listings, Salt Lake City UT",
+   "verification": "FindLaw Salt Lake City profile lists Website: https://www.jdrslaw.com; practice areas include Intellectual Property Litigation."
+  }
+ ],
+ "state": "Utah"
+}

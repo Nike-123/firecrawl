@@ -1,0 +1,31 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/intellectual-property-law/hawaii/wahiawa/",
+  "https://lawyers.findlaw.com/patents/hawaii/haiku/"
+ ],
+ "listings_reviewed": 5,
+ "pagination_pages": 0,
+ "limitations": "Hawaii has no readable patents city listing pages; capture comes from the Hawaii IP & copyright category page. Ream Law Firm (KS) and Dale Jensen, PLC are nationwide placements without a Hawaii office shown. David J. Hoftiezer appears in FindLaw as a standalone \"Law Office of\" record; independent verification places him at Goodsill Anderson Quinn & Stifel, so the standalone record was merged rather than kept as a separate firm.",
+ "firms": [
+  {
+   "firm": "Goodsill Anderson Quinn & Stifel A Limited Liability Law Partnership LLP",
+   "website": "https://www.goodsill.com/",
+   "website_verified": true,
+   "attorneys": [
+    "David J. Hoftiezer"
+   ],
+   "ev": "FindLaw IP & copyright listing, Honolulu HI",
+   "verification": " David J. Hoftiezer (separately listed by FindLaw as \"Law Office of David J. Hoftiezer\") is documented at Goodsill in independent directory and Honolulu Magazine Best Lawyers data; the standalone record was merged into this firm record to avoid a duplicate person."
+  },
+  {
+   "firm": "Bailey Law Corporation",
+   "website": "https://www.bailey.law/hawaii",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw copyrights listing, Honolulu HI; official URL not captured",
+   "verification": "FindLaw Honolulu profile lists Website: http://www.bailey.law/hawaii."
+  }
+ ],
+ "state": "Hawaii"
+}

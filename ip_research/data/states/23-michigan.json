@@ -1,0 +1,54 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/lawyer/firm/patents/detroit/michigan",
+  "https://lawyers.findlaw.com/lawyer/firm/patents/oakland-county/michigan",
+  "https://lawyers.findlaw.com/patents/michigan/lenawee-county/",
+  "https://lawyers.findlaw.com/patents/michigan/detroit/"
+ ],
+ "listings_reviewed": 18,
+ "pagination_pages": 0,
+ "limitations": "Michigan city/county pages repeat a small set of firms with no pagination shown beyond the first page. Goldman & Associates Law Firm (Southfield) was excluded - its listing advertises family law/divorce and no IP practice was verified. Raggio & Dinnin, P.C. (Troy, MI) is listed in the FindLaw patents directory without a website link; no firm-controlled domain was verified, so the URL is blank.",
+ "firms": [
+  {
+   "firm": "Drew Cooper & Anding",
+   "website": "https://dca-lawyers.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Thomas V. Hubbard",
+    "John E. Anding",
+    "Amanda P. Narvaes"
+   ],
+   "ev": "FindLaw patents listings, Grand Rapids MI (IP litigation practice)",
+   "verification": "FindLaw Grand Rapids profile lists https://dca-lawyers.com/; firm site describes Michigan litigation practice."
+  },
+  {
+   "firm": "Fleming & Borowicz PLC",
+   "website": "https://www.fblawplc.com/",
+   "website_verified": true,
+   "verification": "CORRECTION: reinstated. FindLaw patents listings for Detroit/Novi/Saginaw show a patent practice with Gavin J. Fleming, Christina Borowicz and Francis Way (USPTO-registered); fblawplc.com is the Novi firm site. The phase-4 exclusion was based on a mistaken practice-area read.",
+   "attorneys": [
+    "Gavin J. Fleming",
+    "Christina Borowicz",
+    "Francis Way"
+   ]
+  },
+  {
+   "firm": "Murphy & Spagnuolo PC",
+   "website": "https://www.mbspclaw.com/",
+   "website_verified": true,
+   "verification": "FindLaw Detroit patents listing (Okemos office) with Website https://www.mbspclaw.com/.",
+   "attorneys": []
+  },
+  {
+   "firm": "Raggio & Dinnin, P.C.",
+   "website": "",
+   "website_verified": false,
+   "verification": "FindLaw Detroit patents listing (Troy office). No website is printed on the FindLaw profile and no firm-controlled domain was verified, so the URL is left blank per the no-guessing rule.",
+   "attorneys": [],
+   "needs_review": true,
+   "review_reason": "Official website not verifiable from FindLaw profile; firm domain unconfirmed."
+  }
+ ],
+ "state": "Michigan"
+}

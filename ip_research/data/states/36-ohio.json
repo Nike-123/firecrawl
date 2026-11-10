@@ -1,0 +1,45 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/patents/ohio/cleveland/",
+  "https://lawyers.findlaw.com/lawyer/firm/patents/columbus/ohio",
+  "https://lawyers.findlaw.com/lawyer/firm/patents/grove-city/ohio"
+ ],
+ "listings_reviewed": 19,
+ "pagination_pages": 0,
+ "limitations": "Ohio city pages are paginated attorney lists dominated by Cincinnati's Wood Herron & Evans and Columbus's Wesp Barwell; the numbered attorney entries exceed one page, so only the first page was enumerated and Ohio is marked partial.",
+ "firms": [
+  {
+   "firm": "Wesp Barwell Berardino",
+   "website": "https://www.wesplaw.com/",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listings, Columbus OH",
+   "verification": "FindLaw Cleveland/Dublin listing shows the firm as Wesp Barwell Berardino with Website https://www.wesplaw.com/; firm record renamed accordingly."
+  },
+  {
+   "firm": "Wood Herron & Evans LLP",
+   "website": "https://www.whe-law.com",
+   "website_verified": true,
+   "attorneys": [
+    "Louis H. Sitler",
+    "Wayne L. Jacobs",
+    "Steven W. Benintendi",
+    "David A. Fitzgerald II",
+    "David E. Jefferies",
+    "Gregory F. Ahrens"
+   ],
+   "ev": "FindLaw patents listings, Cincinnati OH - IP boutique"
+  },
+  {
+   "firm": "Krugliak, Wilkins, Griffiths & Dougherty Co., L.P.A.",
+   "website": "https://www.kwgd.com/",
+   "website_verified": true,
+   "verification": "FindLaw Cleveland patents listing (Canton office) names John B. Schomer at kwgd.com; firm maintains an intellectual property practice group.",
+   "attorneys": [
+    "John B. Schomer"
+   ]
+  }
+ ],
+ "state": "Ohio"
+}

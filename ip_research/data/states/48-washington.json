@@ -1,0 +1,30 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/patents/washington/seattle/",
+  "https://lawyers.findlaw.com/lawyer/firm/patents/spokane-valley/washington",
+  "https://lawyers.findlaw.com/patents/washington/startup/"
+ ],
+ "listings_reviewed": 4,
+ "pagination_pages": 0,
+ "limitations": "Seattle reports 'Results 1 to 1 of 1'; Washington's larger IP bar (Seattle patent boutiques and the IP groups of regional firms) is not represented in FindLaw's readable listings, so the state is marked partial.",
+ "firms": [
+  {
+   "firm": "Juhasz Law Firm, PC",
+   "website": "https://www.patenthorizon.com",
+   "website_verified": true,
+   "attorneys": [
+    "Paul R. Juhasz"
+   ],
+   "ev": "FindLaw patents listings, Bellevue WA office (firm also has a Houston office)"
+  },
+  {
+   "firm": "Frommer Lawrence & Haug LLP",
+   "website": "https://www.flhlaw.com",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listings, Seattle WA office"
+  }
+ ],
+ "state": "Washington"
+}

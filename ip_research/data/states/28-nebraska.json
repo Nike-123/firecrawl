@@ -1,0 +1,24 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/lawyer/firm/patents/omaha/nebraska",
+  "https://lawyers.findlaw.com/lawyer/firm/patents/pender/nebraska",
+  "https://lawyers.findlaw.com/lawyer/firm/patents/fremont/nebraska"
+ ],
+ "listings_reviewed": 4,
+ "pagination_pages": 0,
+ "limitations": "Every Nebraska city page reviewed reports 'Results 1 to 1 of 1' and contains Stange Law Firm (family law, excluded) plus one Lincoln patent solo. No Nebraska IP boutique appears in FindLaw's patents directory.",
+ "firms": [
+  {
+   "firm": "Law Office of Matt Catlett",
+   "website": "https://www.catlettlaw.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Matt Catlett"
+   ],
+   "ev": "FindLaw patents listing, Lincoln NE (patent practice); official URL not captured",
+   "verification": "Firm site catlettlaw.com (701 P St, Lincoln NE) states patent and trademark practice; FindLaw Nebraska patents listing."
+  }
+ ],
+ "state": "Nebraska"
+}

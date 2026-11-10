@@ -1,0 +1,52 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/patents/kansas/kansas-city/",
+  "https://lawyers.findlaw.com/patents/kansas/salina/",
+  "https://lawyers.findlaw.com/lawyer/firm/patents/clark-county/kansas"
+ ],
+ "listings_reviewed": 10,
+ "pagination_pages": 0,
+ "limitations": "Kansas city pages report 'Results 1 to 4 of 4' and list mostly nationwide placements (Goldstein Law Offices, Dale Jensen PLC, Intellectual Property Center LLC) plus Stange Law Firm (family law, excluded). Kansas-based IP firms were captured from the Wichita/Overland Park listings.",
+ "firms": [
+  {
+   "firm": "Ream Law Firm",
+   "website": "https://www.reamlawfirm.com",
+   "website_verified": true,
+   "attorneys": [
+    "Dale Ream"
+   ],
+   "ev": "FindLaw patents listing (Ottawa, KS); nationwide placement headquartered in Kansas"
+  },
+  {
+   "firm": "Hovey Williams LLP",
+   "website": "https://www.hoveywilliams.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Tracy L. Bornman",
+    "Scott R. Brown"
+   ],
+   "ev": "FindLaw patents listing, Overland Park KS - IP boutique; official URL not captured",
+   "verification": "FindLaw firm profile (Overland Park) lists hoveywilliams.com; firm site confirms full IP practice (patents, trademarks, copyrights, trade secrets, IP litigation)."
+  },
+  {
+   "firm": "Davis & Jack, L.L.C.",
+   "website": "http://www.davisandjack.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Kenneth H. Jack"
+   ],
+   "ev": "FindLaw patents listing, Wichita KS; official URL not captured",
+   "verification": "FindLaw Wichita profile lists Website: http://www.davisandjack.com; Kenneth H. Jack practices patent, trademark and copyright law at the firm."
+  },
+  {
+   "firm": "Kennyhertz Perry",
+   "website": "https://kennyhertzperry.com",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listing, Mission Woods KS; official URL not captured",
+   "verification": "Firm site has a dedicated Intellectual Property practice (trademark/copyright registration, trade secrets, patent filing, IP licensing and litigation)."
+  }
+ ],
+ "state": "Kansas"
+}

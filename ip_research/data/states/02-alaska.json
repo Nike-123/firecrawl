@@ -1,0 +1,35 @@
+{
+ "status": "completed",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/patents/alaska/",
+  "https://lawyers.findlaw.com/patents/alaska/anchorage/",
+  "https://www.lawyers.com/patents/nikiski/alaska/law-firms/"
+ ],
+ "listings_reviewed": 6,
+ "pagination_pages": 0,
+ "limitations": "lawyers.findlaw.com has no state-specific patents listings for Alaska: the Anchorage page returns no results and the only legacy entry in the patents category (Arco Alaska, Inc.) is an in-house corporate legal department last updated in 2008, so it was not treated as a law firm. Firms listed here come from the FindLaw network (Lawyers.com) Alaska patents/IP listing and were verified to have an Anchorage office and an IP practice.",
+ "firms": [
+  {
+   "firm": "Perkins Coie LLP",
+   "website": "https://perkinscoie.com/",
+   "website_verified": true,
+   "verification": "FindLaw network listing for Anchorage, AK (1029 W 3rd Ave); national firm with a dedicated patent/IP practice.",
+   "attorneys": []
+  },
+  {
+   "firm": "Holland & Knight LLP",
+   "website": "https://www.hklaw.com/",
+   "website_verified": true,
+   "verification": "FindLaw network listing for Anchorage, AK (420 L Street, Suite 400); IP and IP-litigation practice group.",
+   "attorneys": []
+  },
+  {
+   "firm": "Lane Powell PC",
+   "website": "https://www.lanepowell.com/",
+   "website_verified": true,
+   "verification": "FindLaw network listing for Anchorage, AK (301 W Northern Lights Blvd); firm maintains an intellectual property practice.",
+   "attorneys": []
+  }
+ ],
+ "state": "Alaska"
+}

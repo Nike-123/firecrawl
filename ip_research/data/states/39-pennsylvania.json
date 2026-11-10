@@ -1,0 +1,36 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/patents/pennsylvania/philadelphia-county/",
+  "https://lawyers.findlaw.com/patents/pennsylvania/pittsburgh/",
+  "https://lawyers.findlaw.com/patents/pennsylvania/industry/"
+ ],
+ "listings_reviewed": 11,
+ "pagination_pages": 0,
+ "limitations": "Philadelphia County and Pittsburgh report 'Results 1 to 3 of 3' with heavy repetition of the same two firms; Philadelphia's own city page was not readable through the fetch layer, so Pennsylvania's large IP bar is under-represented and the state is marked partial. Pittsburgh and Philadelphia patents pages were both re-reviewed: each returns only Houston Harbaugh and IP Works Law (plus the removed Becker Law Group), so Pennsylvania coverage is directory-limited rather than research-limited.",
+ "firms": [
+  {
+   "firm": "IP Works Law",
+   "website": "https://ipworkslaw.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Kevin Kehrli",
+    "Benjamin Kusiak",
+    "Catherine A. Cavella"
+   ],
+   "ev": "FindLaw patents listings, Doylestown/Chadds Ford PA",
+   "verification": "FindLaw firm profile (Doylestown) lists ipworkslaw.com; firm does patents, trademarks, copyrights and IP contracts (Catherine A. Cavella)."
+  },
+  {
+   "firm": "Houston Harbaugh, P.C.",
+   "website": "https://www.hh-law.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Henry M. Sneath"
+   ],
+   "ev": "FindLaw patents listings, Pittsburgh PA - IP practice",
+   "verification": " FindLaw Pittsburgh patents listing links attorney Henry M. Sneath to the firm at https://www.hh-law.com/."
+  }
+ ],
+ "state": "Pennsylvania"
+}

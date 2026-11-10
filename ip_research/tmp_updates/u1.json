@@ -1,0 +1,6 @@
+[
+ {"state":"Illinois","firm":"Mudd Law","website":"https://www.muddlawoffices.com/","website_verified":true,"verification":"FindLaw firm profile (Chicago) lists muddlawoffices.com; firm and its attorney bio describe IP, Internet and technology practice.","attorneys_add":["Charles Lee Mudd Jr."],"needs_review":false},
+ {"state":"Illinois","firm":"Davis & Carter LLC","website":"https://www.daviscarterlaw.com","website_verified":true,"verification":"FindLaw/Super Lawyers firm record lists daviscarterlaw.com; attorney Carla Carter is USPTO-registered and prosecutes patents and trademarks.","attorneys_add":["Carla Elizabeth Carter"],"needs_review":false},
+ {"state":"Illinois","firm":"Davis McGrath LLC","website":"https://www.davismcgrath.com","website_verified":true,"verification":"Firm description and directory record confirm davismcgrath.com; IP emphasis on trademark, copyright and Internet law.","attorneys_add":["Juris Kins"],"needs_review":false},
+ {"state":"Illinois","firm":"Barney & Karamanis, LLP","drop":true}
+]

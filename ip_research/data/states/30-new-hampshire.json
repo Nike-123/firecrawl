@@ -1,0 +1,40 @@
+{
+ "status": "completed",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/new-hampshire/manchester/5241903_1/",
+  "https://lawyers.findlaw.com/new-hampshire/manchester/5235095_1/",
+  "https://lawyers.findlaw.com/new-hampshire/manchester/2033725_1/"
+ ],
+ "listings_reviewed": 3,
+ "pagination_pages": 0,
+ "limitations": "New Hampshire's patents city pages are client-rendered; the firms below come from FindLaw Manchester firm profiles (two profiles are older records).",
+ "firms": [
+  {
+   "firm": "The Inventor's Friend Patent Law Firm",
+   "website": "https://www.inventorsfriend.law/",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw firm profile, Manchester NH - patent law"
+  },
+  {
+   "firm": "Patent Negotiator, PLLC",
+   "website": "http://patentnegotiator.com",
+   "website_verified": true,
+   "attorneys": [
+    "Sarita Pickett"
+   ],
+   "ev": "FindLaw firm profile, Manchester NH - patent law"
+  },
+  {
+   "firm": "Bourque & Associates, P.A.",
+   "website": "http://www.nhpatlaw.com",
+   "website_verified": true,
+   "attorneys": [
+    "Andrew R. Martin"
+   ],
+   "ev": "FindLaw firm profile, Manchester NH - IP, patents, trademarks (legacy record)",
+   "verification": "FindLaw firm profile (Manchester) lists nhpatlaw.com; firm practices patent, trademark, copyright and trade-secret law."
+  }
+ ],
+ "state": "New Hampshire"
+}

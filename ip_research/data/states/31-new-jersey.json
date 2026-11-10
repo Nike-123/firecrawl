@@ -1,0 +1,57 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://www.lawyers.com/patents/newark/new-jersey/law-firms/",
+  "https://lawyers.findlaw.com/new-jersey/newark/4094905_1/",
+  "https://lawyers.findlaw.com/lawyer/firm/patents/edison/new-jersey",
+  "https://lawyers.findlaw.com/intellectual-property-law/new-jersey/newark/"
+ ],
+ "listings_reviewed": 14,
+ "pagination_pages": 0,
+ "limitations": "Newark's own FindLaw patents page was not readable through the fetch layer; capture uses FindLaw Newark firm profiles plus the FindLaw network (Lawyers.com) Newark patents listing, which reports 12 New Jersey firms. Only firms with a stated patent/IP practice were admitted; Newark's personal-injury/labour-heavy listings (e.g. Brach Eichler, Carella Byrne) were left out where IP practice could not be confirmed from the record. Sleem Law and Frank Tolin & Associates remain without an official website: FindLaw prints no URL, and repeated searches returned only directory profiles (no firm-controlled domain). URLs left blank rather than guessed.",
+ "firms": [
+  {
+   "firm": "Frank Tolin & Associates, LLC",
+   "website": "",
+   "website_verified": false,
+   "attorneys": [
+    "Frank Tolin"
+   ],
+   "ev": "FindLaw firm profile, Newark NJ - patents",
+   "needs_review": true
+  },
+  {
+   "firm": "Sleem Law",
+   "website": "",
+   "website_verified": false,
+   "attorneys": [],
+   "ev": "FindLaw patents listing, Branchburg NJ",
+   "needs_review": true
+  },
+  {
+   "firm": "Schoendorf Law, LLC",
+   "website": "https://www.schoendorflawllc.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Priscilla Schoendorf"
+   ],
+   "ev": "FindLaw patents listing, Branchburg NJ",
+   "verification": "schoendorflawllc.com is the firm site for Schoendorf Law, LLC (971 US Hwy 202N, Branchburg NJ; founder Priscilla Schoendorf, Esq., (609) 250-0020) — matches the FindLaw Branchburg listing exactly."
+  },
+  {
+   "firm": "COFFYLAW, LLC",
+   "website": "https://www.coffylaw.com/",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw Newark IP & copyright listing (Maplewood NJ) - trademark/copyright practice"
+  },
+  {
+   "firm": "Smith + Schwartzstein LLC",
+   "website": "https://sslawfirmllc.com/",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw Newark IP & copyright listing (Summit NJ) - IP/entertainment practice"
+  }
+ ],
+ "state": "New Jersey"
+}

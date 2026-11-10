@@ -1,0 +1,32 @@
+{
+ "status": "completed",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/patents/north-carolina/raleigh/",
+  "https://lawyers.findlaw.com/patents/north-carolina/charlotte/",
+  "https://lawyers.findlaw.com/lawyer/firm/patents/durham-county/north-carolina"
+ ],
+ "listings_reviewed": 4,
+ "pagination_pages": 0,
+ "limitations": "North Carolina city and county pages consistently report 'Results 1 to 2 of 2' - the two Charlotte IP boutiques below plus the nationwide NovoTech placement.",
+ "firms": [
+  {
+   "firm": "Ashley Law Firm P.C.",
+   "website": "https://www.ashleypatentlaw.com",
+   "website_verified": true,
+   "attorneys": [
+    "Stephen S. Ashley Jr."
+   ],
+   "ev": "FindLaw patents listings, Charlotte NC"
+  },
+  {
+   "firm": "Schwartz Law Firm, P.C.",
+   "website": "https://www.schwartz-iplaw.com",
+   "website_verified": true,
+   "attorneys": [
+    "Jeffrey J. Schwartz"
+   ],
+   "ev": "FindLaw patents listings, Charlotte NC"
+  }
+ ],
+ "state": "North Carolina"
+}

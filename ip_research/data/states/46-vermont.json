@@ -1,0 +1,43 @@
+{
+ "status": "completed",
+ "pages_reviewed": [
+  "https://www.lawyers.com/patents/burlington/vermont/law-firms/",
+  "https://www.justia.com/lawyers/patents/vermont/burlington"
+ ],
+ "listings_reviewed": 6,
+ "pagination_pages": 0,
+ "limitations": "lawyers.findlaw.com's Vermont city pages return an empty shell; the FindLaw network (Lawyers.com) Burlington patents listing reports 3 Vermont firms and is the source used here. Solo practitioners without an identifiable firm (e.g. Milton M. Oliver, Malashaan Kind) were not admitted as firms.",
+ "firms": [
+  {
+   "firm": "Downs Rachlin Martin PLLC",
+   "website": "https://www.drm.com/",
+   "website_verified": true,
+   "attorneys": [
+    "William Morris"
+   ],
+   "ev": "FindLaw network patents listing, Burlington VT - patent/IP practice"
+  },
+  {
+   "firm": "Merritt & Merritt",
+   "website": "http://www.merritt-merritt.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Sharon J. Merritt"
+   ],
+   "ev": "FindLaw network patents listing, Burlington VT",
+   "verification": "Firm domain merritt-merritt.com corroborated by two independent business profiles for 60 Lake St, Burlington VT; Sharon J. Merritt (IP/media) is a firm attorney."
+  },
+  {
+   "firm": "Paul Frank + Collins P.C.",
+   "website": "https://www.pfclaw.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Christopher J. Leff",
+    "William D. Riley"
+   ],
+   "ev": "FindLaw network patents listing, Burlington VT",
+   "verification": "FindLaw profile lists http://www.pfclaw.com; pfclaw.com confirms One Church Street, Burlington VT."
+  }
+ ],
+ "state": "Vermont"
+}

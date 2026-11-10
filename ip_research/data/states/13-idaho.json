@@ -1,0 +1,12 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/patents/idaho/",
+  "https://lawyers.findlaw.com/trademarks/idaho/idaho-county/"
+ ],
+ "listings_reviewed": 4,
+ "pagination_pages": 0,
+ "limitations": "Idaho has no Idaho-based entries in FindLaw's patents directory: every reviewed Idaho city page returns only nationwide placements (NovoTech Patent Firm, Ream Law Firm, Goldstein Law Offices, Dale Jensen PLC, Zoe Bernstein Law PLLC). The one Idaho firm surfaced through a FindLaw trademarks listing (Jones Law Partners, Boise) was reviewed and excluded: its FindLaw profile lists Family Law as its practice, and its own site documents only trademark filings inside a general business/family practice. Idaho is recorded as having no eligible verified IP firm rather than padded with a general practice.",
+ "firms": [],
+ "state": "Idaho"
+}

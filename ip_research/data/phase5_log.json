@@ -1,0 +1,98 @@
+{
+ "phase": "Phase 5 — continuous full-directory pass (2026-11-10)",
+ "objective": "Resolve the 28 missing-website records, clear the 26 review flags, and re-open large-state city directories to add firms/attorneys (no rebuild of prior verified records).",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/patents/new-york/new-york/ (2 of 4 render chunks)",
+  "https://lawyers.findlaw.com/patents/california/los-angeles/ (2 of 6)",
+  "https://lawyers.findlaw.com/patents/texas/houston/ (2 of 6)",
+  "https://lawyers.findlaw.com/patents/florida/miami/",
+  "https://lawyers.findlaw.com/patents/pennsylvania/philadelphia/",
+  "https://lawyers.findlaw.com/patents/ohio/cleveland/",
+  "https://lawyers.findlaw.com/patents/michigan/detroit/",
+  "https://lawyers.findlaw.com/patents/maryland/baltimore/",
+  "https://lawyers.findlaw.com/patents/illinois/chicago/",
+  "https://lawyers.findlaw.com/patents/missouri/ and /missouri/saint-louis/",
+  "https://lawyers.findlaw.com/patents/georgia/atlanta/",
+  "https://lawyers.findlaw.com/patents/massachusetts/boston/ (empty result, documented)",
+  "https://lawyers.findlaw.com/montana/billings/2539941_1/",
+  "https://lawyers.findlaw.com/west-virginia/wheeling/schrader-duff-law--lowe-pllc-MTk0Nzk0NF8x/",
+  "https://lawyers.findlaw.com/south-carolina/charleston/henderson--henderson-llc-NTMxNjE2NF8x/",
+  "https://lawyers.findlaw.com/south-carolina/greenville/hurley-law-pa-NTIwMTQ1Nl8x/",
+  "https://lawyers.findlaw.com/utah/salt-lake-city/james-dodge-russell--stephens-pc-MTYzNjIxNV8x/",
+  "https://lawyers.findlaw.com/oregon/west-linn/the-smith-firm-pc-NDIxNzM4MF8x/",
+  "https://lawyers.findlaw.com/indiana/greenwood/tdw-patents--consulting-llc-NDgyODI0MV8x/",
+  "https://lawyers.findlaw.com/patents/new-jersey/salem-county/ and /new-jersey/north-brunswick/ and /new-jersey/browns-mills/",
+  "https://lawyers.findlaw.com/landlord-tenant/new-jersey/bergen-county/"
+ ],
+ "websites_resolved": 20,
+ "websites_still_missing": [
+  "Sleem Law (NJ)",
+  "Frank Tolin & Associates, LLC (NJ)",
+  "Adam D. Decker, Attorney at Law, P.C. (IN)",
+  "Raggio & Dinnin, P.C. (MI)",
+  "Atlas Legal Services, PLLC (ND)"
+ ],
+ "records_added": 19,
+ "attorney_records_added": 12,
+ "records_dropped": [
+  {
+   "state": "West Virginia",
+   "record": "Phillips, Gardill, Kaiser & Altmeyer",
+   "reason": "pgka.com firm profile: banking, corporate, real estate, estates, employment, civil litigation, tax, family — no IP practice."
+  },
+  {
+   "state": "Hawaii",
+   "record": "Law Office of David J. Hoftiezer",
+   "reason": "Duplicate person; independent sources place Hoftiezer at Goodsill Anderson Quinn & Stifel, so he was merged into the existing Goodsill record."
+  }
+ ],
+ "corrections": [
+  {
+   "state": "Michigan",
+   "record": "Fleming & Borowicz PLC",
+   "reason": "Phase-4 exclusion was wrong: FindLaw patents listings for Detroit/Novi/Saginaw show registered patent attorneys Gavin J. Fleming, Christina Borowicz and Francis Way at fblawplc.com. Reinstated with website and three attorneys."
+  },
+  {
+   "state": "Ohio",
+   "record": "Wesp Barwell, LLC -> Wesp Barwell Berardino",
+   "reason": "Firm name normalized to the current FindLaw listing and website wesplaw.com attached."
+  },
+  {
+   "state": "Georgia",
+   "record": "Hollin Law Offices",
+   "reason": "Attorney name normalized to James T. Hollin Jr. (FindLaw attorney profile) and hollinpatent.com attached."
+  }
+ ],
+ "review_queue_after_pass": [
+  "Atlas Legal Services, PLLC (ND) — no verifiable public website; general-practice concern flagged",
+  "Adam D. Decker, Attorney at Law, P.C. (IN) — standalone attorney, no verified domain",
+  "Frank Tolin & Associates, LLC (NJ) — no verified domain",
+  "Sleem Law (NJ) — no verified domain",
+  "Raggio & Dinnin, P.C. (MI) — no website on FindLaw profile"
+ ],
+ "remaining_work": [
+  "New York: chunks 3-4 of /patents/new-york/new-york/ (Albany, Buffalo, Long Island, Westchester city pages)",
+  "California: chunks 3-6 of /patents/california/los-angeles/ plus San Diego, San Francisco, San Jose, Orange County",
+  "Texas: chunks 3-6 of /patents/texas/houston/ plus Austin, Dallas, San Antonio",
+  "Ohio: Columbus, Cincinnati, Dayton, Akron pages; Michigan: Ann Arbor, Troy, Grand Rapids; Pennsylvania: Pittsburgh, Harrisburg",
+  "Maryland: Rockville, Bethesda, Columbia, Towson city pages (Baltimore patents page returns zero MD firms)",
+  "Georgia nearby cities: Decatur, Stone Mountain, Lithonia, Marietta, Norcross",
+  "Missouri: Kansas City, Clayton, Springfield, Columbia",
+  "Trademarks/Copyrights category passes for states whose patents pages are thin (MA, ME, NH, VT, RI, DE, MD)"
+ ],
+ "limitations": [
+  "FindLaw city pages are inconsistent: Boston MA and Baltimore MD patents pages return zero local firms although both states have IP counsel, so those states rely on state-level and alternate-category pages.",
+  "Some directories print no website for very small firms; five records remain intentionally blank rather than guessed.",
+  "Chunked rendering limits how many listings a single fetch returns; pagination continues in the next pass for the queued cities."
+ ],
+ "build_fix": "build.py domain guard used substring matching, which wrongly blanked legitimate firm sites whose domain merely contained a directory name (dca-lawyers.com, idealawyers.com, ip-lawyers.com, us-patentattorney.com, gwpatentattorney.com). Now matched on exact host or subdomain. This restored 7 previously blanked URLs — earlier \"verified 104 / missing 28\" figures were partly an artefact of that bug.",
+ "final_counts_after_phase5": {
+  "total_records": 216,
+  "firm_state_entries": 149,
+  "verified_websites": 144,
+  "missing_websites": 5,
+  "attorney_records": 148,
+  "records_requiring_review": 6,
+  "findlaw_listings_reviewed": 408
+ }
+}

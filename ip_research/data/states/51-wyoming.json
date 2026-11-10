@@ -1,0 +1,35 @@
+{
+ "state": "Wyoming",
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/lawyer/firm/patents/casper/wyoming",
+  "https://www.hg.org/lawyers/usa/wyoming/patents"
+ ],
+ "listings_reviewed": 2,
+ "pagination_pages": 0,
+ "limitations": "FindLaw's Casper, WY patents page returns only nationwide sponsored placements (NovoTech Patent Firm, The Simon Law Firm) - no Wyoming-based firm appears. Wyoming firms below were verified from supplementary patent-directory records showing a Wyoming office and patent practice.",
+ "firms": [
+  {
+   "firm": "Holland & Hart LLP",
+   "website": "https://www.hollandhart.com/",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "Supplementary patent-directory record, Jackson/Cheyenne WY offices"
+  },
+  {
+   "firm": "Crowley Fleck PLLP",
+   "website": "https://www.crowleyfleck.com/",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "Supplementary patent-directory record, Sheridan/Casper/Cheyenne WY"
+  },
+  {
+   "firm": "Schwartz, Bon, Walker & Studer, LLC",
+   "website": "http://www.schwartzbon.com/",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "Supplementary patent-directory record, Casper WY",
+   "verification": "FindLaw Casper profile lists Website: http://www.schwartzbon.com."
+  }
+ ]
+}

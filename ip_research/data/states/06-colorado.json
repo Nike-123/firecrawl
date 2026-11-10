@@ -1,0 +1,41 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/patents/colorado/",
+  "https://lawyers.findlaw.com/patents/colorado/boulder/",
+  "https://lawyers.findlaw.com/colorado/denver/4413090_1/"
+ ],
+ "listings_reviewed": 6,
+ "pagination_pages": 0,
+ "limitations": "Colorado city pages are mostly client-rendered; the Boulder page (3 results) and FindLaw Denver firm profiles were readable. Littman Family Law (Denver) appears in the patents category but is a family-law practice and was excluded.",
+ "firms": [
+  {
+   "firm": "Leyendecker & Lemire, LLC",
+   "website": "https://www.coloradoiplaw.com",
+   "website_verified": true,
+   "attorneys": [
+    "Kurt P. Leyendecker",
+    "Peter C. Lemire",
+    "Andrew Graff"
+   ],
+   "ev": "FindLaw patents listing, Greenwood Village CO; official URL not captured - left blank",
+   "verification": "FindLaw firm profile (Greenwood Village/Castle Rock) lists coloradoiplaw.com; firm is a patent/trademark/copyright boutique."
+  },
+  {
+   "firm": "Trenner Law Firm, LLC",
+   "website": "http://www.us-patentattorney.com",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw firm profile, Denver CO - business & IP law: patents, trademarks, copyrights"
+  },
+  {
+   "firm": "Cunningham Swaim, LLP",
+   "website": "https://www.cunninghamswaim.com",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listing, Pagosa Springs CO; official URL not captured - left blank",
+   "verification": "Firm site cunninghamswaim.com: IP litigation firm with Denver CO, Dallas TX, Pasadena CA and Pagosa Springs CO/Melville NY offices."
+  }
+ ],
+ "state": "Colorado"
+}

@@ -1,0 +1,32 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/lawyer/firm/patents/kansas-city/missouri",
+  "https://lawyers.findlaw.com/lawyer/firm/patents/osborn/missouri",
+  "https://lawyers.findlaw.com/patents/missouri/saint-joseph/",
+  "https://lawyers.findlaw.com/patents/missouri/",
+  "https://lawyers.findlaw.com/patents/missouri/saint-louis/"
+ ],
+ "listings_reviewed": 10,
+ "pagination_pages": 0,
+ "limitations": "Missouri city pages are dominated by Stange Law Firm (family law, excluded), NovoTech (DC, nationwide), and Paule Camazine & Blumenthal (family/general practice, excluded). The Simon Law Firm is the only Missouri IP firm surfaced.",
+ "firms": [
+  {
+   "firm": "The Simon Law Firm, P.C.",
+   "website": "https://www.simonlawstl.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Anthony G. Simon"
+   ],
+   "ev": "FindLaw patents listing, St. Louis MO - IP/patent litigation"
+  },
+  {
+   "firm": "Lodestar IP & Patent Law",
+   "website": "http://www.lodestar.law/",
+   "website_verified": true,
+   "verification": "FindLaw Missouri patents listing (Brentwood office) with Website http://www.lodestar.law/.",
+   "attorneys": []
+  }
+ ],
+ "state": "Missouri"
+}

@@ -1,0 +1,38 @@
+{
+ "pass": "verification-and-expansion (phase 2)",
+ "firms_added": [
+  "Nesenoff & Miltenberg LLP (MA)",
+  "Neelon International Law, LLC (MA)",
+  "Gallant & Ervin, L.L.C. (MA)"
+ ],
+ "firms_dropped_non_ip_or_unverifiable": [
+  "Barney & Karamanis, LLP (IL) - predominant personal-injury/medical-malpractice practice",
+  "Resnick & Schwartzman, L.L.C. (MD) - FindLaw profile lists family law",
+  "Thomsen and Burke, LLP (MD) - FindLaw profile lists estate planning/federal tax",
+  "August Law Group, LLC (MD) - no verifiable Maryland IP practice or domain",
+  "Fitch Law Partners LLP (RI) - general business/real-estate litigation",
+  "TCF Law Group, PLLC (MA) - FindLaw profile lists M&A/securities, not patent work",
+  "Murphy & Spagnuolo PC (MI) - full-service firm, no patent/IP area on profile"
+ ],
+ "websites_verified_added": [
+  "Mudd Law (IL) muddlawoffices.com",
+  "Davis & Carter LLC (IL) daviscarterlaw.com",
+  "Davis McGrath LLC (IL) davismcgrath.com",
+  "Hovey Williams LLP (KS) hoveywilliams.com",
+  "Valenti Hanley PLLC (KY) vhrlaw.com",
+  "Salter & Michaelson (RI) saltermichaelson.com",
+  "Barlow, Josephs & Holmes, Ltd. (RI) barjos.com",
+  "Wang IP Law Group, P.C. (CA) thewangiplaw.com",
+  "Mandour & Associates (CA) mandourlaw.com",
+  "Leyendecker & Lemire, LLC (CO) coloradoiplaw.com",
+  "Magleby Cataxinos (UT) mcg.law",
+  "Padmanabhan & Dawson, PLLC (MN) paddalawgroup.com",
+  "Johnston IP Law, PLLC (TX) johnstonip.com",
+  "Fogarty IP (TX) fogartyip.com",
+  "IP Works Law (PA) ipworkslaw.com",
+  "HPL Intellectual Property Law (CA) hpl.law - live-verified, attorneys added",
+  "Allen, Dyer, Doppelt + Gilchrist (FL) corrected from addg.com to allendyer.com"
+ ],
+ "attorney_names_added": 34,
+ "remaining_work": "54 firm-state entries still lack a verifiable official website and 52 records remain flagged for manual review; large-state pagination (CA, NY, TX, IL, PA, MA, OH, NJ, MD, VA, TN, WA) remains partial."
+}

@@ -1,0 +1,46 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/lawyer/firm/patents/indianapolis/indiana",
+  "https://lawyers.findlaw.com/patents/indiana/howard-county/",
+  "https://lawyers.findlaw.com/lawyer/firm/patents/fishers/indiana"
+ ],
+ "listings_reviewed": 9,
+ "pagination_pages": 0,
+ "limitations": "Indianapolis patents listing reports 'Results 1 to 5 of 5'. Stange Law Firm, PC (family law) was excluded. Ream Law Firm (KS) and NovoTech (DC) are nationwide placements. Adam D. Decker (Crown Point, IN) keeps a blank website: FindLaw/Justia print no firm URL and no firm-controlled domain was verified; a standalone attorney record is retained.",
+ "firms": [
+  {
+   "firm": "Indiano Law Group, LLC",
+   "website": "https://www.indyiplaw.com",
+   "website_verified": true,
+   "attorneys": [
+    "Bruce J. Bowman",
+    "E. Victor Indiano",
+    "John T. (Tommy) Woods"
+   ],
+   "ev": "FindLaw patents listings, Indianapolis IN - patent/IP practice; official URL not captured",
+   "verification": "FindLaw firm profile (Indianapolis) lists indyiplaw.com; boutique IP firm (patents, trademarks, copyrights, trade secrets)."
+  },
+  {
+   "firm": "TDW Patents & Consulting, LLC",
+   "website": "https://www.tdwpatents.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Thomas D. Webster"
+   ],
+   "ev": "FindLaw patents listing, Greenwood IN; official URL not captured",
+   "verification": "FindLaw Greenwood IN profile lists Website: http://www.tdwpatents.com; firm run by Thomas D. Webster, PhD, JD."
+  },
+  {
+   "firm": "Adam D. Decker, Attorney at Law, P.C.",
+   "website": "",
+   "website_verified": false,
+   "attorneys": [
+    "Adam D. Decker"
+   ],
+   "ev": "FindLaw patents listing, Crown Point IN; official URL not captured",
+   "needs_review": true
+  }
+ ],
+ "state": "Indiana"
+}

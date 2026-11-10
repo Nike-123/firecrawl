@@ -1,0 +1,46 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/district-of-columbia/washington/2387505_1/",
+  "https://lawyers.findlaw.com/district-of-columbia/washington/novotech-patent-firm-NDkwOTM4N18x/",
+  "https://lawyers.findlaw.com/district-of-columbia/washington/pv-law-llp-NTI1NTM5MF8x/"
+ ],
+ "listings_reviewed": 3,
+ "pagination_pages": 0,
+ "limitations": "DC has a very large IP bar; only FindLaw Washington DC firm profiles surfaced through the fetch layer were reviewed, so the state is marked partial.",
+ "firms": [
+  {
+   "firm": "Sterne, Kessler, Goldstein & Fox P.L.L.C.",
+   "website": "http://www.sternekessler.com",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw firm profile, Washington DC - patent prosecution"
+  },
+  {
+   "firm": "PV Law LLP",
+   "website": "https://www.pvuslaw.com",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw firm profile, Washington DC - IP litigation, patent litigation, IP licensing"
+  },
+  {
+   "firm": "NovoTech Patent Firm",
+   "website": "https://novotechip.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Jennifer Teng",
+    "Babak Akhlaghi",
+    "Douglas J. Barker",
+    "Stephen Becker",
+    "Wonsuck Choi",
+    "Jeffrey King",
+    "Gregory Montone",
+    "David Moorman",
+    "Steven L. Nichols",
+    "Bret Petersen"
+   ],
+   "ev": "FindLaw firm profile, Washington DC (1717 Pennsylvania Ave NW) - patents"
+  }
+ ],
+ "state": "District of Columbia"
+}
