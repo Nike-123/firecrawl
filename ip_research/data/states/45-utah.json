@@ -3,7 +3,8 @@
  "pages_reviewed": [
   "https://lawyers.findlaw.com/patents/utah/morgan-county/",
   "https://lawyers.findlaw.com/lawyer/firm/patents/ogden/utah",
-  "https://lawyers.findlaw.com/patents/utah/american-fork/"
+  "https://lawyers.findlaw.com/patents/utah/american-fork/",
+  "https://www.mcg.law/attorneys/"
  ],
  "listings_reviewed": 10,
  "pagination_pages": 0,
@@ -17,10 +18,15 @@
     "Peggy A. Tomsic",
     "Edgar R. Cataxinos",
     "Jennifer Fraser Parrish",
-    "Mark P. Arrington"
+    "Mark P. Arrington",
+    "Geoffrey K. Biehn",
+    "Yevgen Kovalov",
+    "James E. Magleby",
+    "Hanna M. Pruetz",
+    "Cody Winchester"
    ],
    "ev": "FindLaw patents listings, Salt Lake City UT (IP firm)",
-   "verification": "FindLaw patents listings and firm site mcg.law confirm patent prosecution/litigation, IP and trade-secret practice in Salt Lake City."
+   "verification": "FindLaw patents listings and firm site mcg.law confirm patent prosecution/litigation, IP and trade-secret practice in Salt Lake City. Attorney roster expanded from the firm's own Attorneys page (mcg.law/attorneys/)."
   },
   {
    "firm": "James Dodge Russell & Stephens, P.C.",

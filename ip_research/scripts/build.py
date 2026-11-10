@@ -112,7 +112,7 @@ def load():
                                          ("listings_reviewed", 0), ("pagination_pages", 0),
                                          ("limitations", "Not yet processed."), ("firms", [])])
     base["states"] = merged
-    for key, name in (("phase2_log", "phase2_log.json"), ("phase3_log", "phase3_log.json"), ("phase4_log", "phase4_log.json"), ("phase5_log", "phase5_log.json")):
+    for key, name in (("phase2_log", "phase2_log.json"), ("phase3_log", "phase3_log.json"), ("phase4_log", "phase4_log.json"), ("phase5_log", "phase5_log.json"), ("phase6_log", "phase6_log.json")):
         log_path = ROOT / "data" / name
         if log_path.exists():
             base[key] = json.loads(log_path.read_text(encoding="utf-8"))
@@ -266,6 +266,7 @@ def write_checkpoint(rows, per_state_stats, data):
             ("phase3_log", data.get("phase3_log", {})),
             ("phase4_log", data.get("phase4_log", {})),
             ("phase5_log", data.get("phase5_log", {})),
+            ("phase6_log", data.get("phase6_log", {})),
         ]
     )
     with open(CKPT_OUT, "w", encoding="utf-8") as fh:
