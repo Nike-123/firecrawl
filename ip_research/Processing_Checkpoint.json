@@ -356,10 +356,10 @@
       "status": "completed",
       "findlaw_listings_reviewed": 4,
       "pagination_pages_processed": 0,
-      "pages_reviewed": 3,
+      "pages_reviewed": 4,
       "firms_collected": 2,
       "records": 2,
-      "limitations": "New Mexico's patents pages consistently return the same two Albuquerque business-law firms with patent practices plus nationwide placements; no pagination was present."
+      "limitations": "New Mexico's patents pages consistently return the same two Albuquerque business-law firms with patent practices plus nationwide placements; no pagination was present. Trademarks pass (Albuquerque): Results 1 to 2 of 2 - Law 4 Small Business and Business Law Southwest, both already on record; no new firm."
     },
     "New York": {
       "status": "partial",
@@ -446,10 +446,10 @@
       "status": "completed",
       "findlaw_listings_reviewed": 6,
       "pagination_pages_processed": 0,
-      "pages_reviewed": 3,
+      "pages_reviewed": 4,
       "firms_collected": 2,
       "records": 2,
-      "limitations": "South Dakota's patents pages are dominated by nationwide placements (Ream Law Firm, Dale Jensen PLC, Goldstein Law Offices); two Sioux Falls firms with stated patent/IP practices were admitted."
+      "limitations": "South Dakota's patents pages are dominated by nationwide placements (Ream Law Firm, Dale Jensen PLC, Goldstein Law Offices); two Sioux Falls firms with stated patent/IP practices were admitted. Trademarks pass (Sioux Falls): no South Dakota firm listed locally - nationwide placements only, so no record added."
     },
     "Tennessee": {
       "status": "partial",
