@@ -120,5 +120,60 @@
    "distinct_firms": 148,
    "people": 159
   }
+ },
+ "phase7c_new_firms": {
+  "date": "2026-11-10",
+  "source": "FindLaw Trademarks directory - city pages for gap states",
+  "added": [
+   {
+    "firm": "Derryberry & Naifeh, LLP",
+    "state": "Oklahoma",
+    "site": "https://www.derryberrylaw.com/",
+    "city": "Oklahoma City"
+   },
+   {
+    "firm": "Joyce & Graddy, PLLC",
+    "state": "Oklahoma",
+    "site": "https://www.joycegraddy.com/",
+    "city": "Tulsa"
+   },
+   {
+    "firm": "Silverline Legal",
+    "state": "Oklahoma",
+    "site": "https://www.silverline.legal/",
+    "city": "Edmond",
+    "person": "Tynia McQuigg"
+   },
+   {
+    "firm": "Hatfield Harris, PLLC",
+    "state": "Arkansas",
+    "site": "https://www.hatfieldharris.com/",
+    "city": "Rogers"
+   },
+   {
+    "firm": "Boon Legal",
+    "state": "Tennessee",
+    "site": "https://www.boonlegal.com/",
+    "city": "Nashville"
+   },
+   {
+    "firm": "The Branding Iron Legal Services",
+    "state": "Tennessee",
+    "site": "https://brandingironlegal.com/",
+    "city": "Franklin"
+   }
+  ],
+  "empty_or_duplicate_checks": [
+   "Las Vegas NV - only Jones & LoBello (already recorded), Results 1 of 1",
+   "Honolulu HI - only Bailey Law Corporation (already recorded), Results 1 of 1",
+   "Little Rock AR - The Smith Firm already recorded",
+   "Fargo ND - no local ND firm, nationwide placements only"
+  ],
+  "counts_after": {
+   "rows": 236,
+   "distinct_firms": 154,
+   "people": 160,
+   "verified_sites": 149
+  }
  }
 }

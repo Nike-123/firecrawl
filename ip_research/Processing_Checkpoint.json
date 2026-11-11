@@ -62,15 +62,15 @@
   "states_with_no_findlaw_listings": [],
   "states_remaining": [],
   "states_total": 51,
-  "total_records": 230,
-  "unique_law_firms": 148,
-  "verified_official_websites": 143,
+  "total_records": 236,
+  "unique_law_firms": 154,
+  "verified_official_websites": 149,
   "missing_official_websites": 5,
-  "verified_official_websites_unique_firms": 143,
+  "verified_official_websites_unique_firms": 149,
   "missing_official_websites_unique_firms": 5,
-  "attorney_records": 159,
+  "attorney_records": 160,
   "records_requiring_review": 6,
-  "findlaw_listings_reviewed": 445,
+  "findlaw_listings_reviewed": 450,
   "pagination_pages_processed": 4,
   "state_details": {
     "Alabama": {
@@ -102,12 +102,12 @@
     },
     "Arkansas": {
       "status": "completed",
-      "findlaw_listings_reviewed": 1,
+      "findlaw_listings_reviewed": 2,
       "pagination_pages_processed": 0,
-      "pages_reviewed": 2,
-      "firms_collected": 1,
-      "records": 1,
-      "limitations": "Only one Arkansas-based firm appears in the FindLaw patents directory for Little Rock ('Results 1 to 1 of 1'); no pagination was present. The firm profile does not name individual attorneys, so the attorney field is left blank rather than inferred."
+      "pages_reviewed": 3,
+      "firms_collected": 2,
+      "records": 2,
+      "limitations": "Only one Arkansas-based firm appears in the FindLaw patents directory for Little Rock ('Results 1 to 1 of 1'); no pagination was present. The firm profile does not name individual attorneys, so the attorney field is left blank rather than inferred. Trademarks pass (Little Rock): The Smith Firm was already recorded; Hatfield Harris (Rogers) added from the additional-results block and attributed to Rogers, not Little Rock."
     },
     "California": {
       "status": "partial",
@@ -176,10 +176,10 @@
       "status": "partial",
       "findlaw_listings_reviewed": 5,
       "pagination_pages_processed": 0,
-      "pages_reviewed": 2,
+      "pages_reviewed": 3,
       "firms_collected": 2,
       "records": 2,
-      "limitations": "Hawaii has no readable patents city listing pages; capture comes from the Hawaii IP & copyright category page. Ream Law Firm (KS) and Dale Jensen, PLC are nationwide placements without a Hawaii office shown. David J. Hoftiezer appears in FindLaw as a standalone \"Law Office of\" record; independent verification places him at Goodsill Anderson Quinn & Stifel, so the standalone record was merged rather than kept as a separate firm."
+      "limitations": "Hawaii has no readable patents city listing pages; capture comes from the Hawaii IP & copyright category page. Ream Law Firm (KS) and Dale Jensen, PLC are nationwide placements without a Hawaii office shown. David J. Hoftiezer appears in FindLaw as a standalone \"Law Office of\" record; independent verification places him at Goodsill Anderson Quinn & Stifel, so the standalone record was merged rather than kept as a separate firm. Trademarks pass checked (honolulu): only firms already on record appeared, no new local IP firm."
     },
     "Idaho": {
       "status": "completed",
@@ -329,10 +329,10 @@
       "status": "completed",
       "findlaw_listings_reviewed": 3,
       "pagination_pages_processed": 0,
-      "pages_reviewed": 3,
+      "pages_reviewed": 4,
       "firms_collected": 1,
       "records": 1,
-      "limitations": "Nevada's patents pages report 'Results 1 to 1 of 1' in Las Vegas, Henderson and Reno; the only Nevada-based patent firm in the directory is Jones & LoBello."
+      "limitations": "Nevada's patents pages report 'Results 1 to 1 of 1' in Las Vegas, Henderson and Reno; the only Nevada-based patent firm in the directory is Jones & LoBello. Trademarks pass checked (las-vegas): only firms already on record appeared, no new local IP firm."
     },
     "New Hampshire": {
       "status": "completed",
@@ -383,10 +383,10 @@
       "status": "completed",
       "findlaw_listings_reviewed": 5,
       "pagination_pages_processed": 0,
-      "pages_reviewed": 2,
+      "pages_reviewed": 3,
       "firms_collected": 4,
       "records": 4,
-      "limitations": "Fargo reports 'Results 1 to 1 of 1' (Adkins Law PLLC in Bismarck) plus the nationwide Simon Law Firm placement; the additional Fargo IP firms below were verified through supplementary patent-directory records. Atlas Legal Services, PLLC (3933 4th St E, West Fargo; Bart Robert McIlonie) has no verifiable public website — the only domain seen is an email domain (atlasesop.com) that does not resolve to a firm site — and its FindLaw-adjacent listings describe a general practice with trademark filings. Record retained but flagged for manual review; URL left blank."
+      "limitations": "Fargo reports 'Results 1 to 1 of 1' (Adkins Law PLLC in Bismarck) plus the nationwide Simon Law Firm placement; the additional Fargo IP firms below were verified through supplementary patent-directory records. Atlas Legal Services, PLLC (3933 4th St E, West Fargo; Bart Robert McIlonie) has no verifiable public website — the only domain seen is an email domain (atlasesop.com) that does not resolve to a firm site — and its FindLaw-adjacent listings describe a general practice with trademark filings. Record retained but flagged for manual review; URL left blank. Trademarks pass (Fargo): no local North Dakota trademark/IP firm appears - only nationwide placements (Sisun Law, AU LLC), so no record was added."
     },
     "Ohio": {
       "status": "partial",
@@ -399,12 +399,12 @@
     },
     "Oklahoma": {
       "status": "completed",
-      "findlaw_listings_reviewed": 4,
+      "findlaw_listings_reviewed": 6,
       "pagination_pages_processed": 0,
-      "pages_reviewed": 3,
-      "firms_collected": 1,
-      "records": 1,
-      "limitations": "Oklahoma's patents pages report 'Results 1 to 2 of 2' and repeat Hulsey PC's Tulsa office plus Stange Law Firm (family law, excluded) and nationwide placements."
+      "pages_reviewed": 5,
+      "firms_collected": 4,
+      "records": 4,
+      "limitations": "Oklahoma's patents pages report 'Results 1 to 2 of 2' and repeat Hulsey PC's Tulsa office plus Stange Law Firm (family law, excluded) and nationwide placements. Trademarks pass (Oklahoma City page): Derryberry & Naifeh (OKC), Joyce & Graddy (Tulsa) and Silverline Legal (Edmond) added. Tynia McQuigg's Silverline card carries the firm site."
     },
     "Oregon": {
       "status": "partial",
@@ -453,12 +453,12 @@
     },
     "Tennessee": {
       "status": "partial",
-      "findlaw_listings_reviewed": 5,
+      "findlaw_listings_reviewed": 7,
       "pagination_pages_processed": 0,
-      "pages_reviewed": 3,
-      "firms_collected": 2,
-      "records": 2,
-      "limitations": "Tennessee pages report 'Results 1 to 2 of 2' and are dominated by Stange Law Firm (family law, excluded) plus nationwide placements. Memphis/Nashville IP boutiques are under-represented; state marked partial."
+      "pages_reviewed": 5,
+      "firms_collected": 4,
+      "records": 4,
+      "limitations": "Tennessee pages report 'Results 1 to 2 of 2' and are dominated by Stange Law Firm (family law, excluded) plus nationwide placements. Memphis/Nashville IP boutiques are under-represented; state marked partial. Trademarks pass (Nashville): Boon Legal (Nashville) and The Branding Iron Legal Services (Franklin) added; Mitchell Ross Rocconi was already recorded."
     },
     "Texas": {
       "status": "partial",

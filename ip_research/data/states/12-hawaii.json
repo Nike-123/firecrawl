@@ -2,11 +2,12 @@
  "status": "partial",
  "pages_reviewed": [
   "https://lawyers.findlaw.com/intellectual-property-law/hawaii/wahiawa/",
-  "https://lawyers.findlaw.com/patents/hawaii/haiku/"
+  "https://lawyers.findlaw.com/patents/hawaii/haiku/",
+  "https://lawyers.findlaw.com/trademarks/hawaii/honolulu/"
  ],
  "listings_reviewed": 5,
  "pagination_pages": 0,
- "limitations": "Hawaii has no readable patents city listing pages; capture comes from the Hawaii IP & copyright category page. Ream Law Firm (KS) and Dale Jensen, PLC are nationwide placements without a Hawaii office shown. David J. Hoftiezer appears in FindLaw as a standalone \"Law Office of\" record; independent verification places him at Goodsill Anderson Quinn & Stifel, so the standalone record was merged rather than kept as a separate firm.",
+ "limitations": "Hawaii has no readable patents city listing pages; capture comes from the Hawaii IP & copyright category page. Ream Law Firm (KS) and Dale Jensen, PLC are nationwide placements without a Hawaii office shown. David J. Hoftiezer appears in FindLaw as a standalone \"Law Office of\" record; independent verification places him at Goodsill Anderson Quinn & Stifel, so the standalone record was merged rather than kept as a separate firm. Trademarks pass checked (honolulu): only firms already on record appeared, no new local IP firm.",
  "firms": [
   {
    "firm": "Goodsill Anderson Quinn & Stifel A Limited Liability Law Partnership LLP",

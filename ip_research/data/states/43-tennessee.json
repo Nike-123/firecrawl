@@ -3,11 +3,13 @@
  "pages_reviewed": [
   "https://lawyers.findlaw.com/patents/tennessee/nashville/",
   "https://lawyers.findlaw.com/lawyer/firm/patents/franklin/tennessee",
-  "https://lawyers.findlaw.com/lawyer/firm/patents/murfreesboro/tennessee"
+  "https://lawyers.findlaw.com/lawyer/firm/patents/murfreesboro/tennessee",
+  "https://lawyers.findlaw.com/trademarks/tennessee/nashville/",
+  "https://lawyers.findlaw.com/trademarks/tennessee/"
  ],
- "listings_reviewed": 5,
+ "listings_reviewed": 7,
  "pagination_pages": 0,
- "limitations": "Tennessee pages report 'Results 1 to 2 of 2' and are dominated by Stange Law Firm (family law, excluded) plus nationwide placements. Memphis/Nashville IP boutiques are under-represented; state marked partial.",
+ "limitations": "Tennessee pages report 'Results 1 to 2 of 2' and are dominated by Stange Law Firm (family law, excluded) plus nationwide placements. Memphis/Nashville IP boutiques are under-represented; state marked partial. Trademarks pass (Nashville): Boon Legal (Nashville) and The Branding Iron Legal Services (Franklin) added; Mitchell Ross Rocconi was already recorded.",
  "firms": [
   {
    "firm": "Mitchell, Ross & Rocconi, PLLC",
@@ -24,6 +26,20 @@
     "Bill Hulsey"
    ],
    "ev": "FindLaw patents listing, Memphis TN office"
+  },
+  {
+   "firm": "Boon Legal",
+   "website": "https://www.boonlegal.com/",
+   "website_verified": true,
+   "verification": "FindLaw Trademarks directory, Nashville (41 Peabody St) with Website https://www.boonlegal.com/; trademark/IP practice.",
+   "attorneys": []
+  },
+  {
+   "firm": "The Branding Iron Legal Services",
+   "website": "https://brandingironlegal.com/",
+   "website_verified": true,
+   "verification": "FindLaw Trademarks directory, Franklin TN (300 Royal Oak) with Website https://brandingironlegal.com/; trademark and brand protection practice.",
+   "attorneys": []
   }
  ],
  "state": "Tennessee"
