@@ -62,15 +62,15 @@
   "states_with_no_findlaw_listings": [],
   "states_remaining": [],
   "states_total": 51,
-  "total_records": 279,
-  "unique_law_firms": 160,
-  "verified_official_websites": 155,
+  "total_records": 290,
+  "unique_law_firms": 162,
+  "verified_official_websites": 157,
   "missing_official_websites": 5,
-  "verified_official_websites_unique_firms": 155,
+  "verified_official_websites_unique_firms": 157,
   "missing_official_websites_unique_firms": 5,
-  "attorney_records": 205,
+  "attorney_records": 216,
   "records_requiring_review": 6,
-  "findlaw_listings_reviewed": 492,
+  "findlaw_listings_reviewed": 499,
   "pagination_pages_processed": 6,
   "state_details": {
     "Alabama": {
@@ -498,12 +498,12 @@
     },
     "Washington": {
       "status": "partial",
-      "findlaw_listings_reviewed": 4,
+      "findlaw_listings_reviewed": 11,
       "pagination_pages_processed": 0,
-      "pages_reviewed": 3,
-      "firms_collected": 2,
-      "records": 2,
-      "limitations": "Seattle reports 'Results 1 to 1 of 1'; Washington's larger IP bar (Seattle patent boutiques and the IP groups of regional firms) is not represented in FindLaw's readable listings, so the state is marked partial."
+      "pages_reviewed": 7,
+      "firms_collected": 4,
+      "records": 13,
+      "limitations": "Seattle reports 'Results 1 to 1 of 1'; Washington's larger IP bar (Seattle patent boutiques and the IP groups of regional firms) is not represented in FindLaw's readable listings, so the state is marked partial. || 2026-11-10 FindLaw Kelso IP/copyright index ('Results 1 to 7 of 7', single page, incl. the 'Additional results over 150 miles away' block) reviewed in full: added Hanis Irvine Prothero (dedicated IP practice page) and The Law Office of Jeff Hamilton (IP/trademark practice page). Not added: Cap City Law PS (business, real estate, estates, family - no IP practice); Cotchett, Pitre & McCarthy (plaintiff/consumer practice); DC Law Group (listed twice in WA - Burien and Spokane - but dclawgroup.com resolves to an unrelated California personal-injury firm, so its own Washington site could not be verified); Juhasz Law Firm already on the master list."
     },
     "West Virginia": {
       "status": "completed",

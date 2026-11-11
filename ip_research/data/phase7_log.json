@@ -296,5 +296,38 @@
    "people": 205,
    "websites": 274
   }
+ },
+ "phase7g_washington_kelso": {
+  "date": "2026-11-10",
+  "source": "FindLaw intellectual-property-law/washington/kelso (7 results, single page)",
+  "firms_added": {
+   "Hanis Irvine Prothero, PLLC": 10,
+   "The Law Office of Jeff Hamilton PLLC": 1
+  },
+  "people_added": 11,
+  "not_added": [
+   {
+    "name": "Cap City Law PS",
+    "reason": "business, real estate, estates, family practice only - no IP practice on own site"
+   },
+   {
+    "name": "Cotchett, Pitre & McCarthy, LLP",
+    "reason": "plaintiff/consumer litigation practice"
+   },
+   {
+    "name": "DC Law Group",
+    "reason": "listed twice (Burien + Spokane) but dclawgroup.com is an unrelated California PI firm - Washington site unverified"
+   },
+   {
+    "name": "Juhasz Law Firm, PC",
+    "reason": "already on master list as Texas; Washington"
+   }
+  ],
+  "counts_after": {
+   "rows": 290,
+   "distinct_firms": 162,
+   "people": 216,
+   "websites": 285
+  }
  }
 }
