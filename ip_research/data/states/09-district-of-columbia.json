@@ -3,9 +3,10 @@
  "pages_reviewed": [
   "https://lawyers.findlaw.com/district-of-columbia/washington/2387505_1/",
   "https://lawyers.findlaw.com/district-of-columbia/washington/novotech-patent-firm-NDkwOTM4N18x/",
-  "https://lawyers.findlaw.com/district-of-columbia/washington/pv-law-llp-NTI1NTM5MF8x/"
+  "https://lawyers.findlaw.com/district-of-columbia/washington/pv-law-llp-NTI1NTM5MF8x/",
+  "https://lawyers.findlaw.com/trademarks/maryland/baltimore/"
  ],
- "listings_reviewed": 3,
+ "listings_reviewed": 4,
  "pagination_pages": 0,
  "limitations": "DC has a very large IP bar; only FindLaw Washington DC firm profiles surfaced through the fetch layer were reviewed, so the state is marked partial.",
  "firms": [
@@ -40,6 +41,13 @@
     "Bret Petersen"
    ],
    "ev": "FindLaw firm profile, Washington DC (1717 Pennsylvania Ave NW) - patents"
+  },
+  {
+   "firm": "Symbus Law Group PLLC",
+   "website": "https://www.symbus.com/",
+   "website_verified": true,
+   "verification": "FindLaw Trademarks directory listing (1750 H Street NW, Suite 360, Washington DC) with Website https://www.symbus.com/; trademark and business law practice.",
+   "attorneys": []
   }
  ],
  "state": "District of Columbia"

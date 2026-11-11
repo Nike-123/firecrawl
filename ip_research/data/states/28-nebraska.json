@@ -3,11 +3,13 @@
  "pages_reviewed": [
   "https://lawyers.findlaw.com/lawyer/firm/patents/omaha/nebraska",
   "https://lawyers.findlaw.com/lawyer/firm/patents/pender/nebraska",
-  "https://lawyers.findlaw.com/lawyer/firm/patents/fremont/nebraska"
+  "https://lawyers.findlaw.com/lawyer/firm/patents/fremont/nebraska",
+  "https://lawyers.findlaw.com/trademarks/nebraska/omaha/",
+  "https://lawyers.findlaw.com/trademarks/nebraska/"
  ],
- "listings_reviewed": 4,
+ "listings_reviewed": 6,
  "pagination_pages": 0,
- "limitations": "Every Nebraska city page reviewed reports 'Results 1 to 1 of 1' and contains Stange Law Firm (family law, excluded) plus one Lincoln patent solo. No Nebraska IP boutique appears in FindLaw's patents directory.",
+ "limitations": "Every Nebraska city page reviewed reports 'Results 1 to 1 of 1' and contains Stange Law Firm (family law, excluded) plus one Lincoln patent solo. No Nebraska IP boutique appears in FindLaw's patents directory. Trademarks directory pass added Brodkey Cuddigan (Omaha).",
  "firms": [
   {
    "firm": "Law Office of Matt Catlett",
@@ -18,6 +20,15 @@
    ],
    "ev": "FindLaw patents listing, Lincoln NE (patent practice); official URL not captured",
    "verification": "Firm site catlettlaw.com (701 P St, Lincoln NE) states patent and trademark practice; FindLaw Nebraska patents listing."
+  },
+  {
+   "firm": "Brodkey, Cuddigan, Peebles, Belmont & Line, LLP",
+   "website": "https://www.bcplaw.com/",
+   "website_verified": true,
+   "verification": "FindLaw Trademarks directory, Omaha NE (Bruce H. Brodkey card, 10855 West Dodge Road) with Website https://www.bcplaw.com/.",
+   "attorneys": [
+    "Bruce H. Brodkey"
+   ]
   }
  ],
  "state": "Nebraska"

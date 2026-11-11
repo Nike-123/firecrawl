@@ -1,12 +1,23 @@
 {
- "status": "partial",
+ "status": "completed",
  "pages_reviewed": [
   "https://lawyers.findlaw.com/patents/idaho/",
-  "https://lawyers.findlaw.com/trademarks/idaho/idaho-county/"
+  "https://lawyers.findlaw.com/trademarks/idaho/idaho-county/",
+  "https://lawyers.findlaw.com/trademarks/idaho/",
+  "https://lawyers.findlaw.com/trademarks/idaho/boise/",
+  "https://lawyers.findlaw.com/intellectual-property-law/idaho/boise/"
  ],
- "listings_reviewed": 4,
+ "listings_reviewed": 8,
  "pagination_pages": 0,
- "limitations": "Idaho has no Idaho-based entries in FindLaw's patents directory: every reviewed Idaho city page returns only nationwide placements (NovoTech Patent Firm, Ream Law Firm, Goldstein Law Offices, Dale Jensen PLC, Zoe Bernstein Law PLLC). The one Idaho firm surfaced through a FindLaw trademarks listing (Jones Law Partners, Boise) was reviewed and excluded: its FindLaw profile lists Family Law as its practice, and its own site documents only trademark filings inside a general business/family practice. Idaho is recorded as having no eligible verified IP firm rather than padded with a general practice.",
- "firms": [],
+ "limitations": "Idaho has no firms advertising in the FindLaw Patents directory (patents page lists cities only, no firm cards), so the jurisdiction was completed through the FindLaw Trademarks and Intellectual Property & Copyright directories instead. Boise returned exactly one local trademark firm (Jones Law Partners); every other card was a nationwide placement (Sisun Law, AU LLC). Idaho Commerce/tech-transfer boutiques outside FindLaw are not covered by this source.",
+ "firms": [
+  {
+   "firm": "Jones Law Partners",
+   "website": "https://joneslawpartners.com/",
+   "website_verified": true,
+   "verification": "FindLaw Trademarks directory, Boise ID (250 S 5th St, Suite 300) - the only local trademark/IP listing for Boise (Results 1 to 1 of 1), with Website https://joneslawpartners.com/.",
+   "attorneys": []
+  }
+ ],
  "state": "Idaho"
 }

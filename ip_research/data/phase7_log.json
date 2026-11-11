@@ -68,5 +68,57 @@
  "roster_attempts_blocked": [
   "hudnelllaw.com/team/ -> 404",
   "mandourlaw.com/attorneys/ -> 404"
- ]
+ ],
+ "phase7b_new_firms": {
+  "date": "2026-11-10",
+  "sources": [
+   "FindLaw Trademarks directory (state + city pages)",
+   "FindLaw Intellectual Property & Copyright directory"
+  ],
+  "added": [
+   {
+    "firm": "Jones Law Partners",
+    "state": "Idaho",
+    "site": "https://joneslawpartners.com/",
+    "why": "Boise's only local trademark/IP firm (Results 1 of 1) - fills the last empty jurisdiction"
+   },
+   {
+    "firm": "Symbus Law Group PLLC",
+    "state": "District of Columbia",
+    "site": "https://www.symbus.com/",
+    "why": "FindLaw trademarks listing, 1750 H Street NW Washington DC"
+   },
+   {
+    "firm": "Brodkey, Cuddigan, Peebles, Belmont & Line, LLP",
+    "state": "Nebraska",
+    "site": "https://www.bcplaw.com/",
+    "person": "Bruce H. Brodkey",
+    "why": "FindLaw trademarks listing, Omaha"
+   },
+   {
+    "firm": "Phillips, Gardill, Kaiser & Altmeyer",
+    "state": "West Virginia",
+    "site": "https://www.pgka.com/",
+    "person": "Joseph M Palmer",
+    "why": "FindLaw trademarks listing, Wheeling WV"
+   }
+  ],
+  "rejected": [
+   "McNamee Hosea, P.A. (MD) - FindLaw card has no Visit Website link, official domain not verifiable from the listing",
+   "Stange Law Firm, PC (TX) - family/divorce practice",
+   "McCathern Shokouhi Evans (TX/CA) - general litigation",
+   "Bernstein Litowitz (CA) - securities litigation"
+  ],
+  "empty_city_checks": [
+   "Jackson, MS trademarks - no local IP firm, nationwide ads only",
+   "Birmingham, AL trademarks - no local IP firm",
+   "Wilmington, DE trademarks - nationwide ads only",
+   "Boise/Wilmington IP & Copyright directory - nationwide ads only"
+  ],
+  "counts_after": {
+   "rows": 230,
+   "distinct_firms": 148,
+   "people": 159
+  }
+ }
 }

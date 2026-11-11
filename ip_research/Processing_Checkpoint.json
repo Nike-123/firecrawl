@@ -7,6 +7,7 @@
     "Alaska",
     "Arizona",
     "Arkansas",
+    "Idaho",
     "Nevada",
     "New Hampshire",
     "New Mexico",
@@ -29,7 +30,6 @@
     "Florida",
     "Georgia",
     "Hawaii",
-    "Idaho",
     "Illinois",
     "Indiana",
     "Iowa",
@@ -59,20 +59,18 @@
     "Wisconsin",
     "Wyoming"
   ],
-  "states_with_no_findlaw_listings": [
-    "Idaho"
-  ],
+  "states_with_no_findlaw_listings": [],
   "states_remaining": [],
   "states_total": 51,
-  "total_records": 226,
-  "unique_law_firms": 144,
-  "verified_official_websites": 139,
+  "total_records": 230,
+  "unique_law_firms": 148,
+  "verified_official_websites": 143,
   "missing_official_websites": 5,
-  "verified_official_websites_unique_firms": 139,
+  "verified_official_websites_unique_firms": 143,
   "missing_official_websites_unique_firms": 5,
-  "attorney_records": 157,
+  "attorney_records": 159,
   "records_requiring_review": 6,
-  "findlaw_listings_reviewed": 434,
+  "findlaw_listings_reviewed": 445,
   "pagination_pages_processed": 4,
   "state_details": {
     "Alabama": {
@@ -149,11 +147,11 @@
     },
     "District of Columbia": {
       "status": "partial",
-      "findlaw_listings_reviewed": 3,
+      "findlaw_listings_reviewed": 4,
       "pagination_pages_processed": 0,
-      "pages_reviewed": 3,
-      "firms_collected": 3,
-      "records": 12,
+      "pages_reviewed": 4,
+      "firms_collected": 4,
+      "records": 13,
       "limitations": "DC has a very large IP bar; only FindLaw Washington DC firm profiles surfaced through the fetch layer were reviewed, so the state is marked partial."
     },
     "Florida": {
@@ -184,13 +182,13 @@
       "limitations": "Hawaii has no readable patents city listing pages; capture comes from the Hawaii IP & copyright category page. Ream Law Firm (KS) and Dale Jensen, PLC are nationwide placements without a Hawaii office shown. David J. Hoftiezer appears in FindLaw as a standalone \"Law Office of\" record; independent verification places him at Goodsill Anderson Quinn & Stifel, so the standalone record was merged rather than kept as a separate firm."
     },
     "Idaho": {
-      "status": "partial",
-      "findlaw_listings_reviewed": 4,
+      "status": "completed",
+      "findlaw_listings_reviewed": 8,
       "pagination_pages_processed": 0,
-      "pages_reviewed": 2,
-      "firms_collected": 0,
-      "records": 0,
-      "limitations": "Idaho has no Idaho-based entries in FindLaw's patents directory: every reviewed Idaho city page returns only nationwide placements (NovoTech Patent Firm, Ream Law Firm, Goldstein Law Offices, Dale Jensen PLC, Zoe Bernstein Law PLLC). The one Idaho firm surfaced through a FindLaw trademarks listing (Jones Law Partners, Boise) was reviewed and excluded: its FindLaw profile lists Family Law as its practice, and its own site documents only trademark filings inside a general business/family practice. Idaho is recorded as having no eligible verified IP firm rather than padded with a general practice."
+      "pages_reviewed": 5,
+      "firms_collected": 1,
+      "records": 1,
+      "limitations": "Idaho has no firms advertising in the FindLaw Patents directory (patents page lists cities only, no firm cards), so the jurisdiction was completed through the FindLaw Trademarks and Intellectual Property & Copyright directories instead. Boise returned exactly one local trademark firm (Jones Law Partners); every other card was a nationwide placement (Sisun Law, AU LLC). Idaho Commerce/tech-transfer boutiques outside FindLaw are not covered by this source."
     },
     "Illinois": {
       "status": "partial",
@@ -257,12 +255,12 @@
     },
     "Maryland": {
       "status": "partial",
-      "findlaw_listings_reviewed": 11,
+      "findlaw_listings_reviewed": 13,
       "pagination_pages_processed": 0,
-      "pages_reviewed": 5,
+      "pages_reviewed": 7,
       "firms_collected": 1,
       "records": 1,
-      "limitations": "FindLaw's Baltimore patents page lists only Washington DC firms serving Baltimore; Maryland-based firms were captured from the FindLaw network (Lawyers.com) Baltimore patents listing. Tully Rinckey PLLC, McConnell Valdes PLLC, Frommer Lawrence & Haug LLP and NovoTech are DC-based placements and were not attributed to Maryland. Re-checked 2026-11: the Baltimore and Rockville patents pages contain no Maryland-based firms (only DC/PA nationwide placements), which is why Maryland carries a single verified firm. State-level and trademark/copyright category pages remain the route for further Maryland coverage."
+      "limitations": "FindLaw's Baltimore patents page lists only Washington DC firms serving Baltimore; Maryland-based firms were captured from the FindLaw network (Lawyers.com) Baltimore patents listing. Tully Rinckey PLLC, McConnell Valdes PLLC, Frommer Lawrence & Haug LLP and NovoTech are DC-based placements and were not attributed to Maryland. Re-checked 2026-11: the Baltimore and Rockville patents pages contain no Maryland-based firms (only DC/PA nationwide placements), which is why Maryland carries a single verified firm. State-level and trademark/copyright category pages remain the route for further Maryland coverage. Trademarks-directory check (Baltimore and state page): McNamee Hosea, P.A. (Annapolis) is the only local trademark listing and its FindLaw card shows no Visit Website link, so no official site could be verified and no record was added rather than guessing the domain."
     },
     "Massachusetts": {
       "status": "partial",
@@ -320,12 +318,12 @@
     },
     "Nebraska": {
       "status": "partial",
-      "findlaw_listings_reviewed": 4,
+      "findlaw_listings_reviewed": 6,
       "pagination_pages_processed": 0,
-      "pages_reviewed": 3,
-      "firms_collected": 1,
-      "records": 1,
-      "limitations": "Every Nebraska city page reviewed reports 'Results 1 to 1 of 1' and contains Stange Law Firm (family law, excluded) plus one Lincoln patent solo. No Nebraska IP boutique appears in FindLaw's patents directory."
+      "pages_reviewed": 5,
+      "firms_collected": 2,
+      "records": 2,
+      "limitations": "Every Nebraska city page reviewed reports 'Results 1 to 1 of 1' and contains Stange Law Firm (family law, excluded) plus one Lincoln patent solo. No Nebraska IP boutique appears in FindLaw's patents directory. Trademarks directory pass added Brodkey Cuddigan (Omaha)."
     },
     "Nevada": {
       "status": "completed",
@@ -509,12 +507,12 @@
     },
     "West Virginia": {
       "status": "completed",
-      "findlaw_listings_reviewed": 4,
+      "findlaw_listings_reviewed": 6,
       "pagination_pages_processed": 0,
-      "pages_reviewed": 2,
-      "firms_collected": 1,
-      "records": 2,
-      "limitations": "FindLaw's Charleston, WV patents page explicitly reports 'No law firm results found for Charleston WV Patents' and returns only two attorney placements (Wheeling). Those attorneys' firms are recorded below; no Charleston-based IP firm appears in the directory. Phillips, Gardill, Kaiser & Altmeyer was removed: its own firm profile (pgka.com) lists banking, corporate, real estate, estates, employment, civil litigation, tax and family law with no intellectual property practice. Schrader Duff Law & Lowe is retained because its Super Lawyers profile lists John Porco with intellectual property litigation, and its URL is now verified."
+      "pages_reviewed": 4,
+      "firms_collected": 2,
+      "records": 3,
+      "limitations": "FindLaw's Charleston, WV patents page explicitly reports 'No law firm results found for Charleston WV Patents' and returns only two attorney placements (Wheeling). Those attorneys' firms are recorded below; no Charleston-based IP firm appears in the directory. Phillips, Gardill, Kaiser & Altmeyer was removed: its own firm profile (pgka.com) lists banking, corporate, real estate, estates, employment, civil litigation, tax and family law with no intellectual property practice. Schrader Duff Law & Lowe is retained because its Super Lawyers profile lists John Porco with intellectual property litigation, and its URL is now verified. Trademarks pass (Charleston/Wheeling): Phillips, Gardill, Kaiser & Altmeyer added; Charleston itself has no local trademark firm outside nationwide placements."
     },
     "Wisconsin": {
       "status": "partial",
