@@ -1,0 +1,29 @@
+{
+ "status": "completed",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/lawyer/firm/patents/springer/new-mexico",
+  "https://lawyers.findlaw.com/lawyer/firm/patents/san-rafael/new-mexico",
+  "https://lawyers.findlaw.com/patents/new-mexico/las-cruces/",
+  "https://lawyers.findlaw.com/trademarks/new-mexico/albuquerque/"
+ ],
+ "listings_reviewed": 4,
+ "pagination_pages": 0,
+ "limitations": "New Mexico's patents pages consistently return the same two Albuquerque business-law firms with patent practices plus nationwide placements; no pagination was present. Trademarks pass (Albuquerque): Results 1 to 2 of 2 - Law 4 Small Business and Business Law Southwest, both already on record; no new firm.",
+ "firms": [
+  {
+   "firm": "Law 4 Small Business, P.C.",
+   "website": "https://www.l4sb.com/",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listings, Albuquerque NM"
+  },
+  {
+   "firm": "Business Law Southwest, LLC",
+   "website": "https://businesslawsw.com",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listings, Albuquerque NM"
+  }
+ ],
+ "state": "New Mexico"
+}

@@ -1,0 +1,56 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/patents/virginia/alexandria-city-county/",
+  "https://lawyers.findlaw.com/profile/view/2049125_1",
+  "https://lawyers.findlaw.com/virginia/alexandria/1173371_1/"
+ ],
+ "listings_reviewed": 5,
+ "pagination_pages": 0,
+ "limitations": "Alexandria's patents page lists mostly Washington DC firms serving Alexandria plus Pender & Coward (Virginia Beach); the two Alexandria IP boutiques below were captured from their FindLaw firm profiles. Symbus Law Group PLLC and NovoTech are DC-based and were not attributed to Virginia.",
+ "firms": [
+  {
+   "firm": "Oliff PLC",
+   "website": "http://www.oliff.com",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw firm profile, Alexandria VA - patent practice"
+  },
+  {
+   "firm": "Young & Thompson",
+   "website": "http://www.young-thompson.com",
+   "website_verified": true,
+   "attorneys": [
+    "Roland E. Long Jr.",
+    "Liam J. McDowell",
+    "Andrew J. Patch",
+    "Robert John Patch",
+    "Thomas W Perkins",
+    "Douglas V. Rigler",
+    "Jeffrey R. Snay",
+    "Jay F. Williams"
+   ],
+   "ev": "FindLaw firm profile, Alexandria VA - patent practice"
+  },
+  {
+   "firm": "Pender & Coward, P.C.",
+   "website": "https://www.pendercoward.com",
+   "website_verified": true,
+   "attorneys": [
+    "H. Alexander Johnson"
+   ],
+   "ev": "FindLaw patents listing, Virginia Beach VA",
+   "verification": "FindLaw firm profile lists pendercoward.com and an Intellectual Property/Patents/Trademarks practice area."
+  },
+  {
+   "firm": "Law Offices of Dominick A. Pilli, P.C.",
+   "website": "https://www.dapillilaw.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Dominick A. Pilli"
+   ],
+   "ev": "FindLaw IP & copyright listing (Fairfax VA) - patents/trademarks/copyright practice"
+  }
+ ],
+ "state": "Virginia"
+}

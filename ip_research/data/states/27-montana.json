@@ -1,0 +1,42 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/lawyer/firm/patents/shepherd/montana",
+  "https://www.lawyers.com/patents/montana/find-law-firms-by-city/",
+  "https://lawyers.findlaw.com/montana/billings/2539941_1/",
+  "https://lawyers.findlaw.com/patents/montana/billings/"
+ ],
+ "listings_reviewed": 6,
+ "pagination_pages": 0,
+ "limitations": "Montana has almost no Montana-based entries in FindLaw's patents directory: city pages list the nationwide placements (Ream Law Firm, Goldstein Law Offices, Dale Jensen PLC) plus Calton Hamman & Wolff in Billings. Additional Montana IP attorneys were verified through supplementary patent-directory profiles.",
+ "firms": [
+  {
+   "firm": "Calton Hamman & Wolff, P.C.",
+   "website": "https://www.caltonhammanandwolff.com/",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listing, Billings MT; official URL not captured",
+   "verification": "FindLaw Billings profile lists Website: https://www.caltonhammanandwolff.com/ (firm site confirms Billings office)."
+  },
+  {
+   "firm": "Antoinette M. Tease, P.L.L.C.",
+   "website": "https://www.teaselaw.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Antoinette Marie Tease"
+   ],
+   "ev": "Supplementary patent-directory profile, Billings MT",
+   "verification": "FindLaw Billings profile lists Website: http://www.teaselaw.com; teaselaw.com is the Billings IP boutique site (patent/trademark/copyright prosecution, litigation, expert witness)."
+  },
+  {
+   "firm": "Holland & Hart LLP",
+   "website": "https://www.hollandhart.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Alice Luttschwager"
+   ],
+   "ev": "Supplementary patent-directory profile, Billings MT office"
+  }
+ ],
+ "state": "Montana"
+}

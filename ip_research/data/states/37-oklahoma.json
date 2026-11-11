@@ -1,0 +1,48 @@
+{
+ "status": "completed",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/oklahoma/tulsa/hulsey-pc-NTM2NzYyN18x/",
+  "https://lawyers.findlaw.com/patents/oklahoma/wanette/",
+  "https://lawyers.findlaw.com/patents/oklahoma/claremore/",
+  "https://lawyers.findlaw.com/trademarks/oklahoma/oklahoma-city/",
+  "https://lawyers.findlaw.com/trademarks/oklahoma/"
+ ],
+ "listings_reviewed": 6,
+ "pagination_pages": 0,
+ "limitations": "Oklahoma's patents pages report 'Results 1 to 2 of 2' and repeat Hulsey PC's Tulsa office plus Stange Law Firm (family law, excluded) and nationwide placements. Trademarks pass (Oklahoma City page): Derryberry & Naifeh (OKC), Joyce & Graddy (Tulsa) and Silverline Legal (Edmond) added. Tynia McQuigg's Silverline card carries the firm site.",
+ "firms": [
+  {
+   "firm": "Hulsey PC",
+   "website": "https://hulseyiplaw.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Bill Hulsey"
+   ],
+   "ev": "FindLaw firm profile, Tulsa OK - IP, patents, trademarks, TTAB"
+  },
+  {
+   "firm": "Derryberry & Naifeh, LLP",
+   "website": "https://www.derryberrylaw.com/",
+   "website_verified": true,
+   "verification": "FindLaw Trademarks directory, Oklahoma City (4800 North Lincoln Blvd) with Website https://www.derryberrylaw.com/.",
+   "attorneys": []
+  },
+  {
+   "firm": "Joyce & Graddy, PLLC",
+   "website": "https://www.joycegraddy.com/",
+   "website_verified": true,
+   "verification": "FindLaw Trademarks directory, Tulsa (515 South Main Street, Suite 300) with Website https://www.joycegraddy.com/; IP boutique.",
+   "attorneys": []
+  },
+  {
+   "firm": "Silverline Legal",
+   "website": "https://www.silverline.legal/",
+   "website_verified": true,
+   "verification": "FindLaw Trademarks directory, Edmond OK (1109 N. Bryant Ave, Suite 100) - Tynia McQuigg card with Website https://www.silverline.legal/.",
+   "attorneys": [
+    "Tynia McQuigg"
+   ]
+  }
+ ],
+ "state": "Oklahoma"
+}

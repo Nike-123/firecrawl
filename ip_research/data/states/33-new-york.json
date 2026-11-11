@@ -1,0 +1,131 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/patents/new-york/new-york/",
+  "https://lawyers.findlaw.com/patents/new-york/new-york-county/",
+  "https://lawyers.findlaw.com/lawyer/firm/patents/brooklyn/new-york",
+  "https://lawyers.findlaw.com/patents/new-york/buffalo/",
+  "https://lawyers.findlaw.com/trademarks/new-york/new-york/",
+  "https://lawyers.findlaw.com/trademarks/new-york/"
+ ],
+ "listings_reviewed": 23,
+ "pagination_pages": 1,
+ "limitations": "New York City's patents listing is large and paginated; only the first result page of the NYC, Manhattan and Brooklyn views was enumerated, so New York is marked partial. Bernstein Litowitz Berger & Grossmann LLP was excluded (securities litigation, no IP practice shown). New York pass completed: patents (New York City) page reviewed to its end (Results 1 to 8 of 8, chunks 0-3) and the Trademarks New York City page reviewed through chunk 4 (Codispoti & Associates, Cea Legal, Rosenberg Giger & Perala added; Nesenoff & Miltenberg re-attributed to New York where it is headquartered; attorneys Stephen Ackerman, Mary L. Grieco, Andrew B. Lustigman and Ralph N. Gaboury added from their firm cards). Tully Rinckey (employment/family), Denlea & Carton (commercial litigation), Law Office of David T. Azrin (franchise law) and Gabor & Marotta (general practice) were excluded as non-IP practices.",
+ "firms": [
+  {
+   "firm": "Jennifer Silverman PLLC",
+   "website": "https://www.silverman.legal",
+   "website_verified": true,
+   "attorneys": [
+    "Jennifer D. Silverman"
+   ],
+   "ev": "FindLaw patents listings, New York NY; official URL not captured",
+   "verification": "FindLaw firm profile (New York) lists silverman.legal; trademarks, copyrights and IP agreements practice."
+  },
+  {
+   "firm": "Miller Korzenik Sommers Rayman LLP",
+   "website": "https://mksr.law/",
+   "website_verified": true,
+   "attorneys": [
+    "David S Korzenik",
+    "Eric Rayman"
+   ],
+   "ev": "FindLaw patents listing, New York NY",
+   "verification": "FindLaw firm profile (New York) lists mksr.law; firm handles IP litigation, copyright, trademark, trade secrets and media law."
+  },
+  {
+   "firm": "Olshan Frome Wolosky LLP",
+   "website": "https://www.olshanlaw.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Lee S. Sporn",
+    "Mary L. Grieco",
+    "Andrew B. Lustigman"
+   ],
+   "ev": "FindLaw patents listing, New York NY (advertising/marketing/IP group)"
+  },
+  {
+   "firm": "Sisun Law",
+   "website": "https://www.sisunlaw.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Scott M. Sisun"
+   ],
+   "ev": "FindLaw patents/trademarks listing, New York NY - trademark practice"
+  },
+  {
+   "firm": "Cunningham Swaim, LLP",
+   "website": "https://www.cunninghamswaim.com",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listing, Melville NY (also has a Colorado office)",
+   "verification": "Firm site confirms Melville NY office and IP litigation practice."
+  },
+  {
+   "firm": "Saile Ackerman LLC",
+   "website": "https://www.saileackerman.com/",
+   "website_verified": true,
+   "verification": "FindLaw patents listing for New York (Poughkeepsie office) with Website https://www.saileackerman.com/.",
+   "attorneys": [
+    "Stephen Ackerman"
+   ]
+  },
+  {
+   "firm": "Lee Palmateer Law Office",
+   "website": "https://www.albanyiplaw.com/",
+   "website_verified": true,
+   "verification": "FindLaw patents listing for New York (Albany office) with Website https://www.albanyiplaw.com/.",
+   "attorneys": [
+    "Lee Palmateer"
+   ]
+  },
+  {
+   "firm": "Cox Padmore Skolnik & Shakarchy LLP",
+   "website": "https://www.cpsslaw.com/",
+   "website_verified": true,
+   "verification": "FindLaw New York patents listing with Website https://www.cpsslaw.com/; firm site lists an Intellectual Property practice (license agreements, trademark/copyright infringement and litigation, patents) and partner Steven D. Skolnik lists Patents/Trademarks.",
+   "attorneys": [
+    "Steven D. Skolnik",
+    "Ralph N. Gaboury"
+   ]
+  },
+  {
+   "firm": "Simpson & Simpson, PLLC",
+   "website": "https://www.idealawyers.com/",
+   "website_verified": true,
+   "verification": "FindLaw patents listings for Buffalo NY and Palm Beach Gardens FL with Website https://www.idealawyers.com/; multi-state firm recorded under both states.",
+   "attorneys": []
+  },
+  {
+   "firm": "Codispoti & Associates, P.C.",
+   "website": "https://www.codispotilaw.com/",
+   "website_verified": true,
+   "verification": "FindLaw Trademarks directory, New York NY (111 John Street, Suite 1100) with Website https://www.codispotilaw.com/.",
+   "attorneys": []
+  },
+  {
+   "firm": "Cea Legal P.C.",
+   "website": "https://www.cealegal.com/",
+   "website_verified": true,
+   "verification": "FindLaw Trademarks directory, New York NY (14 Wall St., 20th Floor) with Website https://www.cealegal.com/.",
+   "attorneys": []
+  },
+  {
+   "firm": "Rosenberg, Giger and Perala P.C.",
+   "website": "https://www.rglawpc.com/",
+   "website_verified": true,
+   "verification": "FindLaw Trademarks directory, New York NY (Carnegie Hall Tower, 152 West 57th Street) - Matthew H. Giger card with Website https://www.rglawpc.com/; IP practice.",
+   "attorneys": [
+    "Matthew H. Giger"
+   ]
+  },
+  {
+   "firm": "Nesenoff & Miltenberg LLP",
+   "website": "https://nmllplaw.com/",
+   "website_verified": true,
+   "verification": "FindLaw Trademarks directory, New York NY (363 Seventh Avenue, 5th Floor) with Website https://nmllplaw.com/ - firm is headquartered in New York, so New York is added to its existing Massachusetts record.",
+   "attorneys": []
+  }
+ ],
+ "state": "New York"
+}

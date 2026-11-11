@@ -1,0 +1,215 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://bersteinlaw.com/",
+  "https://bersteinlaw.com/about/",
+  "https://lawyers.findlaw.com/intellectual-property-law/california/san-diego/",
+  "https://lawyers.findlaw.com/intellectual-property-law/california/san-diego/?page=2",
+  "https://lawyers.findlaw.com/patents/california/all-cities/",
+  "https://lawyers.findlaw.com/patents/california/fresno/",
+  "https://lawyers.findlaw.com/patents/california/irvine/",
+  "https://lawyers.findlaw.com/patents/california/long-beach/",
+  "https://lawyers.findlaw.com/patents/california/los-angeles/",
+  "https://lawyers.findlaw.com/patents/california/newport-beach/",
+  "https://lawyers.findlaw.com/patents/california/oakland/",
+  "https://lawyers.findlaw.com/patents/california/palo-alto/",
+  "https://lawyers.findlaw.com/patents/california/pasadena/",
+  "https://lawyers.findlaw.com/patents/california/riverside/",
+  "https://lawyers.findlaw.com/patents/california/sacramento/",
+  "https://lawyers.findlaw.com/patents/california/san-diego/",
+  "https://lawyers.findlaw.com/patents/california/san-francisco-county/",
+  "https://lawyers.findlaw.com/patents/california/san-francisco/",
+  "https://lawyers.findlaw.com/patents/california/san-jose/",
+  "https://lawyers.findlaw.com/patents/california/santa-monica/",
+  "https://lawyers.findlaw.com/patents/california/sunnyvale/",
+  "https://www.ch-law.com/intellectual-property/",
+  "https://www.ch-law.com/professionals/",
+  "https://www.dwlawfirm.com/about/",
+  "https://www.hpl.law/our-attorneys/",
+  "https://www.hudnelllaw.com/site-map/",
+  "https://www.mandourlaw.com/sitemap/",
+  "https://www.mckassonklein.com/",
+  "https://www.mckassonklein.com/about/",
+  "https://www.mckownbailey.com/",
+  "https://www.thewangiplaw.com/about/meet-our-team/"
+ ],
+ "listings_reviewed": 85,
+ "pagination_pages": 4,
+ "limitations": "California city-by-city pass: reviewed the state all-cities index plus the Los Angeles, San Francisco, San Jose and San Diego patents pages. Los Angeles and San Diego return mostly out-of-area placements, so firms were attributed to their own city. The McClellan Law Firm (San Diego) was excluded as a personal-injury practice with no IP service. Cities still queued: Irvine, Newport Beach, Pasadena, Palo Alto, Santa Monica, Oakland, Long Beach, Riverside, Fresno, Sacramento (city page), Carlsbad, Sunnyvale, Beverly Hills, Torrance. Also reviewed Oakland, Sacramento and Irvine patents pages: no additional IP-only firms found (McCathern, Shokouhi, Evans excluded - general business/civil litigation; Bernstein Litowitz Berger & Grossmann excluded - securities litigation). City-level dedupe by firm profile slug confirmed that each city page repeats the same statewide firm pool. Reviewed Pasadena, Palo Alto, Long Beach, Santa Monica, Fresno, Riverside, Newport Beach and Sunnyvale individually: every one of these city pages draws on the same statewide FindLaw patents firm pool (HPL, Robert L. Hill, Hudnell, LiLaw, Delcin, Olsan, Ehlers, Darling & Wilson, Mandour, Wang IP, Harris & Hayden, Sterling Media Law, Cunningham Swaim), so no new IP firms surfaced and cross-city mention was not counted as new. Non-IP paid placements (McCathern Shokouhi Evans, Bernstein Litowitz Berger & Grossmann) were excluded. Firm-by-firm roster pass: HPL (4 attorneys), Hudnell (3), Wang IP (6) and Mandour (1) verified from their own sites; LiLaw, Robert L. Hill, Ehlers and Olsan roster URLs were not found (/team, /attorneys return 404), so those stay without attorney rows until a correct roster URL is found. Darling & Wilson, PC was REMOVED from the records after its own site (dwlawfirm.com/about) showed only estate planning, business and civil litigation - no IP practice - despite its FindLaw patents card. || 2026-11-10 Firm-by-firm pass on FindLaw San Diego IP/copyright index ('Results 1 to 20 of 37' + 'Results 21 to 37 of 37', both pages reviewed): added only firms whose own website shows an IP practice (Coleman & Horowitt, Berstein Law, McKown Bailey, McKasson & Klein). Not added: PI/consumer/civil-rights/asbestos listings (McClellan, Simmons Hanly Conroy, Fisher & Talwar, Schonbrun Seplow Harris Hoffman & Zeldes, Cotchett Pitre & McCarthy); general business/estate firms with no verifiable IP practice page; Dillon Miller Ahuja & Boss (IP is one of eight practice areas, own website unreachable -> unverified, not added); Klein & Wilson LLP and Hawkes Law APLC own sites returned HTTP 500 -> unverified. Bailey Law Corporation is already listed under Hawaii; the San Diego address is a secondary office of that firm.",
+ "firms": [
+  {
+   "firm": "HPL Intellectual Property Law",
+   "website": "https://www.hpl.law/",
+   "website_verified": true,
+   "attorneys": [
+    "Marc Hankin",
+    "Kevin Schraven",
+    "Alice Denenberg",
+    "Anooj Patel"
+   ],
+   "ev": "FindLaw patents listing, Los Angeles; Visit Website -> hpl.law",
+   "verification": "hpl.law verified live (Hankin Patent Law, Los Angeles IP firm; patents, trademarks, copyrights, trade secrets, IP litigation). Roster verified at https://www.hpl.law/our-attorneys/ (Marc E. Hankin, Kevin E. Schraven, Anooj Patel, Alice Denenberg)."
+  },
+  {
+   "firm": "Law Offices of Robert L. Hill, APC",
+   "website": "https://rlhfirm.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Robert L. Hill"
+   ],
+   "ev": "FindLaw patents listing, Carlsbad CA"
+  },
+  {
+   "firm": "Wang IP Law Group, P.C.",
+   "website": "https://www.thewangiplaw.com",
+   "website_verified": true,
+   "attorneys": [
+    "Tommy SF Wang",
+    "Tom Chen",
+    "Robert Grandon",
+    "Edward Lu",
+    "Tommy Pan",
+    "Ramon Trujillo"
+   ],
+   "ev": "FindLaw patents listing, Los Angeles; official URL not captured from listing - left blank",
+   "verification": "FindLaw firm profile (Los Angeles) lists thewangiplaw.com; firm describes IP/patent/trademark/IP-litigation practice. Roster verified at https://www.thewangiplaw.com/about/meet-our-team/ (Tommy SF Wang, Tom Chen, Robert Grandon, Edward Lu, Tommy Pan, Ramon Trujillo); Alyze Pierce excluded as a compliance/HR advisor, not an attorney."
+  },
+  {
+   "firm": "Mandour & Associates",
+   "website": "https://www.mandourlaw.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Joseph A. Mandour"
+   ],
+   "ev": "FindLaw patents listing, Los Angeles (IP boutique); official URL not captured - left blank",
+   "verification": "Firm site mandourlaw.com confirms IP boutique (patents, trademarks, copyrights, IP litigation), Los Angeles/Orange County/San Diego. Roster verified via https://www.mandourlaw.com/sitemap/: only Joseph A. Mandour is listed under Professionals."
+  },
+  {
+   "firm": "Harris & Hayden",
+   "website": "https://harrishayden.com/",
+   "website_verified": true,
+   "verification": "FindLaw Los Angeles patents listing with Website https://harrishayden.com/; Los Angeles IP litigation boutique.",
+   "attorneys": []
+  },
+  {
+   "firm": "Sterling Media Law",
+   "website": "https://www.sterlingmedialaw.com/",
+   "website_verified": true,
+   "verification": "FindLaw Los Angeles patents listing with Website https://www.sterlingmedialaw.com/; media/entertainment practice covering copyright work.",
+   "attorneys": []
+  },
+  {
+   "firm": "Delcin Consulting Group",
+   "website": "https://delcin.consulting/",
+   "website_verified": true,
+   "verification": "FindLaw patents listings for San Francisco/San Jose (Concord office) with Website https://delcin.consulting/; listed as a patents law firm with rated attorneys.",
+   "attorneys": []
+  },
+  {
+   "firm": "Hudnell Law Group",
+   "website": "https://www.hudnelllaw.com/",
+   "website_verified": true,
+   "verification": "FindLaw patents listings for San Francisco and San Jose (Mountain View office) with Website https://www.hudnelllaw.com/; Mountain View IP boutique. Roster verified at https://www.hudnelllaw.com/site-map/ (Lewis E. Hudnell III, Nicolas S. Gikkas, Stan Thompson).",
+   "attorneys": [
+    "Lewis E. Hudnell III",
+    "Nicolas S. Gikkas",
+    "Stan Thompson"
+   ]
+  },
+  {
+   "firm": "LiLaw Inc.",
+   "website": "https://www.lilaw.us/",
+   "website_verified": true,
+   "verification": "FindLaw San Jose patents listing with Website https://www.lilaw.us/.",
+   "attorneys": []
+  },
+  {
+   "firm": "Olsan Law Inc.",
+   "website": "https://olsanlaw.com/",
+   "website_verified": true,
+   "verification": "FindLaw San Francisco patents listing (Santa Rosa office) with Website https://olsanlaw.com/.",
+   "attorneys": []
+  },
+  {
+   "firm": "Ehlers Law Corporation",
+   "website": "https://www.ehlerslawcorp.com/",
+   "website_verified": true,
+   "verification": "FindLaw San Francisco/San Jose patents listing (Sacramento office) with Website https://www.ehlerslawcorp.com/.",
+   "attorneys": []
+  },
+  {
+   "firm": "Cunningham Swaim, LLP",
+   "website": "https://www.cunninghamswaim.com/",
+   "website_verified": true,
+   "verification": "FindLaw Pasadena patents listing (2 N. Lake Avenue, Suite 550, Pasadena, CA 91101) linking to https://www.cunninghamswaim.com/ - adds the firm's California office alongside its CO/NY/TX records.",
+   "attorneys": []
+  },
+  {
+   "firm": "Coleman & Horowitt, LLP",
+   "website": "https://www.ch-law.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Robert K. Ashley",
+    "Herman S. Chatrath",
+    "Steven C. Clark",
+    "Michael P. Dowling",
+    "Sherrie M. Flynn",
+    "Darryl J. Horowitt",
+    "Jennifer Hughes",
+    "C. Fredrick Meine III",
+    "Eliot S. Nahigian",
+    "Sheryl D. Noel",
+    "Gregory J. Norys",
+    "Aisha O. Otori",
+    "Nicholas F. Phillips",
+    "Jennifer T. Poochigian",
+    "Justin K. Romig",
+    "Daniel L. Rudnick",
+    "Judith M. Sasaki",
+    "Gary S. Shuster",
+    "Rachel M. Sposato",
+    "David J. Weiland"
+   ],
+   "ev": "FindLaw IP/copyright listing, San Diego area (Newport Beach office); Visit Website -> ch-law.com",
+   "verification": "Own site verified live: dedicated Intellectual Property department (patents, trademarks, copyrights, trade secrets, IP litigation, licensing) at https://www.ch-law.com/intellectual-property/. Full roster of 20 professionals confirmed at https://www.ch-law.com/professionals/."
+  },
+  {
+   "firm": "Berstein Law",
+   "website": "https://bersteinlaw.com/",
+   "website_verified": true,
+   "attorneys": [
+    "David A. Berstein",
+    "J. R. Dimuzio"
+   ],
+   "ev": "FindLaw IP/copyright listing, Newport Beach (serving San Diego); Visit Website -> bersteinlaw.com",
+   "verification": "Own site verified live: IP page plus copyright, trademark, trade secret, trade dress, business & IP litigation (https://bersteinlaw.com/intellectual-property/). Team confirmed on https://bersteinlaw.com/about/ (David A. Berstein - Principal; J. R. Dimuzio - Senior Associate)."
+  },
+  {
+   "firm": "McKown Bailey",
+   "website": "https://www.mckownbailey.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Aaron M. McKown",
+    "Jeff Bailey",
+    "Carter Chen",
+    "William P. Cassidy Jr."
+   ],
+   "ev": "FindLaw IP/copyright listing, Newport Beach (serving San Diego); Visit Website -> mckownbailey.com",
+   "verification": "Own site verified live: business/commercial law, business litigation and intellectual property; site title 'Orange County Business Attorneys | Southern CA Trademark Lawyer'. Attorneys on homepage (Aaron M. McKown, Jeff Bailey, Carter Chen, William P. Cassidy Jr.). Giovanna Castro appears on homepage but is not confirmed as an attorney - not added."
+  },
+  {
+   "firm": "McKasson & Klein LLP",
+   "website": "https://www.mckassonklein.com/",
+   "website_verified": true,
+   "attorneys": [
+    "John McKasson",
+    "Neil Klein",
+    "Rocio Ashby",
+    "Marcella Chambers"
+   ],
+   "ev": "FindLaw IP/copyright listing, Irvine (serving San Diego); Visit Website -> mckassonklein.com",
+   "verification": "Own site verified live: practice includes intellectual property alongside business litigation, employment, maritime and international arbitration. Attorneys confirmed on https://www.mckassonklein.com/about/."
+  }
+ ],
+ "state": "California"
+}

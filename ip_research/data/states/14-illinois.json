@@ -1,0 +1,61 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/patents/illinois/will-county/",
+  "https://lawyers.findlaw.com/patents/illinois/woodlawn/",
+  "https://lawyers.findlaw.com/lawyer/firm/patents/joliet/illinois",
+  "https://lawyers.findlaw.com/patents/illinois/chicago/"
+ ],
+ "listings_reviewed": 14,
+ "pagination_pages": 0,
+ "limitations": "Chicago patents pages are paginated; capture limited to the Illinois county/neighbourhood listing pages reviewed. Bernstein Litowitz Berger & Grossmann LLP was excluded (securities litigation, not IP).",
+ "firms": [
+  {
+   "firm": "Mudd Law",
+   "website": "https://www.muddlawoffices.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Charles Lee Mudd Jr."
+   ],
+   "ev": "FindLaw patents listings, Chicago IL - technology/IP law firm; official URL not captured",
+   "verification": "FindLaw firm profile (Chicago) lists muddlawoffices.com; firm and its attorney bio describe IP, Internet and technology practice."
+  },
+  {
+   "firm": "Davis & Carter LLC",
+   "website": "https://www.daviscarterlaw.com",
+   "website_verified": true,
+   "attorneys": [
+    "Carla Elizabeth Carter"
+   ],
+   "ev": "FindLaw patents listings, Chicago IL; official URL not captured",
+   "verification": "FindLaw/Super Lawyers firm record lists daviscarterlaw.com; attorney Carla Carter is USPTO-registered and prosecutes patents and trademarks."
+  },
+  {
+   "firm": "AU LLC",
+   "website": "https://www.au-llc.com/",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listing, Chicago IL - IP/copyright practice"
+  },
+  {
+   "firm": "Davis McGrath LLC",
+   "website": "https://www.davismcgrath.com",
+   "website_verified": true,
+   "attorneys": [
+    "Juris Kins"
+   ],
+   "ev": "FindLaw patents listing, Chicago IL; official URL not captured",
+   "verification": "Firm description and directory record confirm davismcgrath.com; IP emphasis on trademark, copyright and Internet law."
+  },
+  {
+   "firm": "Law Office of Adrienne B. Naumann",
+   "website": "https://www.naumannpatentcopyright.com/",
+   "website_verified": true,
+   "verification": "FindLaw Chicago patents listing (Skokie office) with Website https://www.naumannpatentcopyright.com/; patent and copyright practice.",
+   "attorneys": [
+    "Adrienne B. Naumann"
+   ]
+  }
+ ],
+ "state": "Illinois"
+}

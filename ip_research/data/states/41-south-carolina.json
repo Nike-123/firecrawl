@@ -1,0 +1,44 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/patents/south-carolina/",
+  "https://www.justia.com/lawyers/patents/south-carolina",
+  "https://lawyers.findlaw.com/trademarks/south-carolina/greenville/",
+  "https://lawyers.findlaw.com/lawyer/firm/intellectual-property-law/new-market/iowa"
+ ],
+ "listings_reviewed": 10,
+ "pagination_pages": 0,
+ "limitations": "South Carolina's FindLaw patents city pages returned no readable listing records; South Carolina IP firms were captured from the FindLaw trademarks category page (Greenville) and verified firm websites, and from FindLaw IP attorney listings where an affiliation was explicit (e.g. Killough at Kim, Lahey & Killough). Patent-only solos without an identifiable firm were not admitted.",
+ "firms": [
+  {
+   "firm": "Kim, Lahey & Killough Law Firm",
+   "website": "https://kimandlahey.com/",
+   "website_verified": true,
+   "attorneys": [
+    "B C Killough",
+    "Craig N. Killen"
+   ],
+   "ev": "FindLaw IP/trademarks listings, Greenville & Charleston SC; firm site confirms patent/trademark/copyright/trade-secret practice"
+  },
+  {
+   "firm": "Hurley Law PA",
+   "website": "https://www.hurleylawsc.com/",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw trademarks listing, Greenville SC",
+   "verification": "FindLaw Greenville profile lists https://www.hurleylawsc.com; firm site covers trademark registration and trademark/business litigation."
+  },
+  {
+   "firm": "Henderson & Henderson, LLC",
+   "website": "https://hhlawsc.com/",
+   "website_verified": true,
+   "attorneys": [
+    "John Henderson",
+    "Wesley Henderson"
+   ],
+   "ev": "FindLaw trademarks listing, Charleston SC",
+   "verification": "FindLaw Charleston profile lists https://hhlawsc.com/; the firm site lists a Trademark Law practice area under Business Law."
+  }
+ ],
+ "state": "South Carolina"
+}

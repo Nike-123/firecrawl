@@ -1,0 +1,32 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/patents/iowa/spencer/",
+  "https://lawyers.findlaw.com/patents/iowa/jamaica/",
+  "https://lawyers.findlaw.com/lawyer/firm/patents/breda/iowa",
+  "https://lawyers.findlaw.com/lawyer/firm/intellectual-property-law/new-market/iowa",
+  "https://lawyers.findlaw.com/lawyer/firm/intellectual-property-law/iowa-city/iowa"
+ ],
+ "listings_reviewed": 8,
+ "pagination_pages": 0,
+ "limitations": "Iowa's FindLaw patents city pages list only nationwide placements (NovoTech, Ream Law Firm) plus Stange Law Firm (family law) and O'Flaherty Law (general practice) - all excluded. Iowa IP firms were instead captured from FindLaw's intellectual-property-law and copyrights category pages (Des Moines, Iowa City) with verified practice and websites.",
+ "firms": [
+  {
+   "firm": "Belin McCormick, P.C.",
+   "website": "https://www.belinmccormick.com",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw IP & copyrights listings, Des Moines IA"
+  },
+  {
+   "firm": "Law Offices of Brett J. Trout, P.C.",
+   "website": "https://www.bretttrout.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Brett J. Trout"
+   ],
+   "ev": "Supplementary verification: Iowa patent/trademark/copyright practice, Des Moines IA"
+  }
+ ],
+ "state": "Iowa"
+}

@@ -1,0 +1,74 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/patents/georgia/albany/",
+  "https://lawyers.findlaw.com/georgia/atlanta/5303397_1/",
+  "https://lawyers.findlaw.com/georgia/atlanta/3810981_1/",
+  "https://lawyers.findlaw.com/patents/georgia/atlanta/"
+ ],
+ "listings_reviewed": 11,
+ "pagination_pages": 0,
+ "limitations": "Atlanta patents pages are paginated and largely client-rendered; capture relies on FindLaw Atlanta firm profiles and Georgia city listing pages. The Simon Law Firm (MO) is a nationwide placement. The Atlanta patents page returns \"Results 1 to 2 of 2\" for Atlanta itself plus outlying-city firms; nearby-city links (Decatur, Stone Mountain, Lithonia, Marietta, Norcross) remain queued.",
+ "firms": [
+  {
+   "firm": "Grell & Watson Patent, LLC",
+   "website": "https://gwpatentattorney.com/",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw firm profile, Atlanta GA - patents"
+  },
+  {
+   "firm": "Pabst Patent Group LLP",
+   "website": "http://www.pabstpatent.com",
+   "website_verified": true,
+   "attorneys": [
+    "Patrea L. Pabst",
+    "Rivka Devorah Monheit"
+   ],
+   "ev": "FindLaw firm profile, Atlanta GA - patent law"
+  },
+  {
+   "firm": "The Russell Firm",
+   "website": "https://www.russellfirmip.com",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listing, Atlanta GA"
+  },
+  {
+   "firm": "Boling Rice LLC",
+   "website": "https://www.bolingrice.com",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listing, Cumming GA"
+  },
+  {
+   "firm": "Hollin Law Offices",
+   "website": "https://www.hollinpatent.com/",
+   "website_verified": true,
+   "attorneys": [
+    "James T. Hollin Jr."
+   ],
+   "ev": "FindLaw patents listing, Fayetteville GA; no official site captured",
+   "verification": "hollinpatent.com is the firm site (Fayetteville GA) of registered patent attorney J.T. Hollin; firm name and practice described on FindLaw Atlanta patents listing."
+  },
+  {
+   "firm": "Spizzirri Law LLC",
+   "website": "https://www.spizzirri.law/",
+   "website_verified": true,
+   "verification": "FindLaw Atlanta patents listing (Roswell office) routes Ephraim Andre' Lucas to Spizzirri Law LLC with Website https://www.spizzirri.law/.",
+   "attorneys": [
+    "Ephraim Andre' Lucas"
+   ]
+  },
+  {
+   "firm": "Schulten Ward Turner & Weiss, LLP",
+   "website": "https://swtwlaw.com/",
+   "website_verified": true,
+   "verification": "FindLaw Atlanta patents listing: attorney J. Zachary Zimmerman at Schulten Ward Turner & Weiss LLP, Website https://swtwlaw.com/.",
+   "attorneys": [
+    "J. Zachary Zimmerman"
+   ]
+  }
+ ],
+ "state": "Georgia"
+}

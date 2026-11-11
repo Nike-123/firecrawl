@@ -1,0 +1,63 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/intellectual-property-law/washington/kelso/",
+  "https://lawyers.findlaw.com/lawyer/firm/patents/spokane-valley/washington",
+  "https://lawyers.findlaw.com/patents/washington/seattle/",
+  "https://lawyers.findlaw.com/patents/washington/startup/",
+  "https://www.hiplawfirm.com/business-law-tax-planning/intellectual-property-law/",
+  "https://www.hiplawfirm.com/site-map/",
+  "https://www.jeffhamiltonlaw.com/privacy-technology/"
+ ],
+ "listings_reviewed": 11,
+ "pagination_pages": 0,
+ "limitations": "Seattle reports 'Results 1 to 1 of 1'; Washington's larger IP bar (Seattle patent boutiques and the IP groups of regional firms) is not represented in FindLaw's readable listings, so the state is marked partial. || 2026-11-10 FindLaw Kelso IP/copyright index ('Results 1 to 7 of 7', single page, incl. the 'Additional results over 150 miles away' block) reviewed in full: added Hanis Irvine Prothero (dedicated IP practice page) and The Law Office of Jeff Hamilton (IP/trademark practice page). Not added: Cap City Law PS (business, real estate, estates, family - no IP practice); Cotchett, Pitre & McCarthy (plaintiff/consumer practice); DC Law Group (listed twice in WA - Burien and Spokane - but dclawgroup.com resolves to an unrelated California personal-injury firm, so its own Washington site could not be verified); Juhasz Law Firm already on the master list.",
+ "firms": [
+  {
+   "firm": "Juhasz Law Firm, PC",
+   "website": "https://www.patenthorizon.com",
+   "website_verified": true,
+   "attorneys": [
+    "Paul R. Juhasz"
+   ],
+   "ev": "FindLaw patents listings, Bellevue WA office (firm also has a Houston office)"
+  },
+  {
+   "firm": "Frommer Lawrence & Haug LLP",
+   "website": "https://www.flhlaw.com",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listings, Seattle WA office"
+  },
+  {
+   "firm": "Hanis Irvine Prothero, PLLC",
+   "website": "https://www.hiplawfirm.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Gregory F. Cromwell",
+    "Katerina A. Ehrlich",
+    "Janay L. Farmer",
+    "Joanna Garza",
+    "Gregory L. Girard",
+    "Michael M. Hanis",
+    "Patrick M. Hanis",
+    "Cynthia A. Irvine",
+    "Erik R. Olsen",
+    "Tamara A. Pérez Cantalapiedra"
+   ],
+   "ev": "FindLaw IP/copyright listing, Kelso (serving from Kent office); Visit Website -> hiplawfirm.com",
+   "verification": "Own site verified live with a dedicated Intellectual Property Law practice page (patent, copyright, trademark, trade secret, IP audits) under Business Law & Tax Planning: https://www.hiplawfirm.com/business-law-tax-planning/intellectual-property-law/. Full attorney roster read from https://www.hiplawfirm.com/site-map/ (10 attorneys)."
+  },
+  {
+   "firm": "The Law Office of Jeff Hamilton PLLC",
+   "website": "https://www.jeffhamiltonlaw.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Jeff S. Hamilton"
+   ],
+   "ev": "FindLaw IP/copyright listing, Kelso (serving from Seattle office); Visit Website -> jeffhamiltonlaw.com",
+   "verification": "Own site verified live: Privacy & Technology / IP practice page covering copyrights, trademarks, cease-and-desist, trade secrets, user and privacy agreements (https://www.jeffhamiltonlaw.com/privacy-technology/). Attorney confirmed on the firm's FindLaw profile and its own IP page: Jeff S. Hamilton (J.D., M.B.A.)."
+  }
+ ],
+ "state": "Washington"
+}

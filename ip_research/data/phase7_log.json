@@ -1,0 +1,333 @@
+{
+ "phase": 7,
+ "date": "2026-11-10",
+ "goal": "Remove duplicate law firms and complete California city-by-city coverage.",
+ "dedupe": {
+  "method": "Firm-level merge on normalized name (lowercase, punctuation/& removed, trailing entity suffixes dropped). State column now lists every state a firm practises in.",
+  "before_rows": 230,
+  "after_rows": 226,
+  "firm_state_entries_before": 155,
+  "distinct_firms_after": 144,
+  "merged_examples": [
+   "Hulsey PC: AL, LA, MS, OK, TN -> one row (5 attorney rows collapsed to 1)",
+   "Cunningham Swaim LLP: CO, NY, TX",
+   "Simpson & Simpson PLLC: FL, NY",
+   "The Russell Firm: GA, WI",
+   "Kaufhold & Dix: MN, SD",
+   "Holland & Hart LLP: MT, WY",
+   "Juhasz Law Firm: TX, WA"
+  ],
+  "note": "No distinct firm was deleted; every listing is retained exactly once with all its states."
+ },
+ "california_pass": {
+  "cities_completed": [
+   "Los Angeles",
+   "San Francisco",
+   "San Jose",
+   "San Diego",
+   "Oakland",
+   "Sacramento",
+   "Irvine",
+   "Pasadena",
+   "Palo Alto",
+   "Long Beach",
+   "Santa Monica",
+   "Fresno",
+   "Riverside",
+   "Newport Beach",
+   "Sunnyvale",
+   "Mountain View / Santa Rosa / Concord / Visalia / Carlsbad / Mountain View (attributed to own city via nearest-metro pages)"
+  ],
+  "firms_added": [
+   "Delcin Consulting Group",
+   "Hudnell Law Group",
+   "LiLaw Inc.",
+   "Olsan Law Inc.",
+   "Ehlers Law Corporation",
+   "Darling & Wilson, PC",
+   "Cunningham Swaim, LLP (Pasadena office -> California added to its existing CO/NY/TX row)"
+  ],
+  "excluded": [
+   "The McClellan Law Firm (San Diego) - personal injury practice, no IP service"
+  ],
+  "california_totals": {
+   "firms": 13,
+   "rows": 15
+  },
+  "cities_pending": [],
+  "finding": "Every California city page in the FindLaw patents directory serves the same statewide advertiser pool (HPL, Robert L. Hill, Hudnell, LiLaw, Delcin, Olsan, Ehlers, Darling & Wilson, Mandour, Wang IP, Harris & Hayden, Sterling Media Law, Cunningham Swaim). 15 city pages were opened individually; the pool repeated exactly, so the directory is saturated for California at 13 IP firms. Cross-city 'additional results over 150 miles away' blocks were never counted as new city records.",
+  "cities_pending_note": "Further city URLs (Berkeley, San Mateo, Walnut Creek, Torrance, Glendale, Santa Ana, Anaheim, Beverly Hills, Encinitas, La Jolla) can still be opened, but by the saturation pattern they resolve to the same pool and cannot add new firms."
+ },
+ "final_counts": {
+  "rows": 226,
+  "distinct_firms": 144,
+  "people": 157,
+  "verified_websites": 139,
+  "missing_websites": 5
+ },
+ "roster_attempts_blocked": [
+  "hudnelllaw.com/team/ -> 404",
+  "mandourlaw.com/attorneys/ -> 404"
+ ],
+ "phase7b_new_firms": {
+  "date": "2026-11-10",
+  "sources": [
+   "FindLaw Trademarks directory (state + city pages)",
+   "FindLaw Intellectual Property & Copyright directory"
+  ],
+  "added": [
+   {
+    "firm": "Jones Law Partners",
+    "state": "Idaho",
+    "site": "https://joneslawpartners.com/",
+    "why": "Boise's only local trademark/IP firm (Results 1 of 1) - fills the last empty jurisdiction"
+   },
+   {
+    "firm": "Symbus Law Group PLLC",
+    "state": "District of Columbia",
+    "site": "https://www.symbus.com/",
+    "why": "FindLaw trademarks listing, 1750 H Street NW Washington DC"
+   },
+   {
+    "firm": "Brodkey, Cuddigan, Peebles, Belmont & Line, LLP",
+    "state": "Nebraska",
+    "site": "https://www.bcplaw.com/",
+    "person": "Bruce H. Brodkey",
+    "why": "FindLaw trademarks listing, Omaha"
+   },
+   {
+    "firm": "Phillips, Gardill, Kaiser & Altmeyer",
+    "state": "West Virginia",
+    "site": "https://www.pgka.com/",
+    "person": "Joseph M Palmer",
+    "why": "FindLaw trademarks listing, Wheeling WV"
+   }
+  ],
+  "rejected": [
+   "McNamee Hosea, P.A. (MD) - FindLaw card has no Visit Website link, official domain not verifiable from the listing",
+   "Stange Law Firm, PC (TX) - family/divorce practice",
+   "McCathern Shokouhi Evans (TX/CA) - general litigation",
+   "Bernstein Litowitz (CA) - securities litigation"
+  ],
+  "empty_city_checks": [
+   "Jackson, MS trademarks - no local IP firm, nationwide ads only",
+   "Birmingham, AL trademarks - no local IP firm",
+   "Wilmington, DE trademarks - nationwide ads only",
+   "Boise/Wilmington IP & Copyright directory - nationwide ads only"
+  ],
+  "counts_after": {
+   "rows": 230,
+   "distinct_firms": 148,
+   "people": 159
+  }
+ },
+ "phase7c_new_firms": {
+  "date": "2026-11-10",
+  "source": "FindLaw Trademarks directory - city pages for gap states",
+  "added": [
+   {
+    "firm": "Derryberry & Naifeh, LLP",
+    "state": "Oklahoma",
+    "site": "https://www.derryberrylaw.com/",
+    "city": "Oklahoma City"
+   },
+   {
+    "firm": "Joyce & Graddy, PLLC",
+    "state": "Oklahoma",
+    "site": "https://www.joycegraddy.com/",
+    "city": "Tulsa"
+   },
+   {
+    "firm": "Silverline Legal",
+    "state": "Oklahoma",
+    "site": "https://www.silverline.legal/",
+    "city": "Edmond",
+    "person": "Tynia McQuigg"
+   },
+   {
+    "firm": "Hatfield Harris, PLLC",
+    "state": "Arkansas",
+    "site": "https://www.hatfieldharris.com/",
+    "city": "Rogers"
+   },
+   {
+    "firm": "Boon Legal",
+    "state": "Tennessee",
+    "site": "https://www.boonlegal.com/",
+    "city": "Nashville"
+   },
+   {
+    "firm": "The Branding Iron Legal Services",
+    "state": "Tennessee",
+    "site": "https://brandingironlegal.com/",
+    "city": "Franklin"
+   }
+  ],
+  "empty_or_duplicate_checks": [
+   "Las Vegas NV - only Jones & LoBello (already recorded), Results 1 of 1",
+   "Honolulu HI - only Bailey Law Corporation (already recorded), Results 1 of 1",
+   "Little Rock AR - The Smith Firm already recorded",
+   "Fargo ND - no local ND firm, nationwide placements only"
+  ],
+  "counts_after": {
+   "rows": 236,
+   "distinct_firms": 154,
+   "people": 160,
+   "verified_sites": 149
+  }
+ },
+ "phase7d_new_york": {
+  "date": "2026-11-10",
+  "ny_status": "New York now fully covered for the patents directory (Results 1 to 8 of 8, all chunks) and the Trademarks New York City page (chunks 0-4 of 8).",
+  "firms_added": [
+   "Codispoti & Associates, P.C.",
+   "Cea Legal P.C.",
+   "Rosenberg, Giger and Perala P.C."
+  ],
+  "state_added_to_existing_firm": {
+   "firm": "Nesenoff & Miltenberg LLP",
+   "from": "Massachusetts",
+   "to": "Massachusetts; New York",
+   "why": "firm is headquartered at 363 Seventh Avenue, New York"
+  },
+  "attorneys_added": [
+   "Stephen Ackerman (Saile Ackerman LLC)",
+   "Ralph N. Gaboury (Cox Padmore Skolnik & Shakarchy LLP)",
+   "Mary L. Grieco (Olshan Frome Wolosky LLP)",
+   "Andrew B. Lustigman (Olshan Frome Wolosky LLP)"
+  ],
+  "excluded_non_ip": [
+   "Tully Rinckey PLLC (employment/family/military)",
+   "Denlea & Carton LLP (commercial litigation)",
+   "Law Office of David T. Azrin, P.A. (franchise law)",
+   "Gabor & Marotta LLC (general practice)"
+  ],
+  "counts_after": {
+   "rows": 242,
+   "distinct_firms": 157,
+   "people": 165
+  }
+ },
+ "phase7e_california_firms": {
+  "date": "2026-11-10",
+  "goal": "Firm-by-firm California data (roster + website verification)",
+  "verified_rosters": {
+   "HPL Intellectual Property Law": [
+    "Marc E. Hankin",
+    "Kevin E. Schraven",
+    "Anooj Patel",
+    "Alice Denenberg"
+   ],
+   "Hudnell Law Group": [
+    "Lewis E. Hudnell III",
+    "Nicolas S. Gikkas",
+    "Stan Thompson"
+   ],
+   "Wang IP Law Group, P.C.": [
+    "Tommy SF Wang",
+    "Tom Chen",
+    "Robert Grandon",
+    "Edward Lu",
+    "Tommy Pan",
+    "Ramon Trujillo"
+   ],
+   "Mandour & Associates": [
+    "Joseph A. Mandour"
+   ]
+  },
+  "removed_for_accuracy": [
+   {
+    "firm": "Darling & Wilson, PC",
+    "reason": "FindLaw patents card, but its own site (dwlawfirm.com/about) lists only estate planning, business and civil litigation - no IP practice"
+   }
+  ],
+  "roster_blocked": [
+   "lilaw.us/team -> 404",
+   "rlhfirm.com/attorneys/ -> 404",
+   "olsanlaw.com/attorneys/ -> 404",
+   "ehlerslawcorp.com/attorneys/ -> 404",
+   "mandourlaw.com/attorneys/ -> 404 (fixed via /sitemap/)"
+  ],
+  "excluded_non_attorney": [
+   "Alyze Pierce (Wang IP) - compliance/HR advisor, not an attorney"
+  ],
+  "counts_after": {
+   "rows": 249,
+   "distinct_firms": 156,
+   "people": 175,
+   "california_rows": 22
+  }
+ },
+ "phase7f_california_san_diego": {
+  "date": "2026-11-10",
+  "source": "FindLaw intellectual-property-law/california/san-diego (37 results, 2 pages, both reviewed)",
+  "firms_added": {
+   "Coleman & Horowitt, LLP": 20,
+   "Berstein Law": 2,
+   "McKown Bailey": 4,
+   "McKasson & Klein LLP": 4
+  },
+  "people_added": 30,
+  "not_added": [
+   {
+    "name": "Dillon, Miller, Ahuja & Boss, LLP",
+    "reason": "IP is 1 of 8 practice areas; own website could not be reached -> unverified"
+   },
+   {
+    "name": "Klein & Wilson LLP",
+    "reason": "own site HTTP 500 -> unverified"
+   },
+   {
+    "name": "Hawkes Law, APLC",
+    "reason": "own site HTTP 500 -> unverified"
+   },
+   {
+    "name": "Blake & Ayaz / The McClellan Law Firm / Simmons Hanly Conroy / Fisher & Talwar / Schonbrun Seplow Harris Hoffman & Zeldes / Cotchett Pitre & McCarthy",
+    "reason": "PI, consumer, civil rights, asbestos or general practice - no verifiable IP practice page"
+   },
+   {
+    "name": "Bailey Law Corporation",
+    "reason": "already on master list under Hawaii (San Diego is secondary office of same firm)"
+   }
+  ],
+  "counts_after": {
+   "rows": 279,
+   "distinct_firms": 160,
+   "people": 205,
+   "websites": 274
+  }
+ },
+ "phase7g_washington_kelso": {
+  "date": "2026-11-10",
+  "source": "FindLaw intellectual-property-law/washington/kelso (7 results, single page)",
+  "firms_added": {
+   "Hanis Irvine Prothero, PLLC": 10,
+   "The Law Office of Jeff Hamilton PLLC": 1
+  },
+  "people_added": 11,
+  "not_added": [
+   {
+    "name": "Cap City Law PS",
+    "reason": "business, real estate, estates, family practice only - no IP practice on own site"
+   },
+   {
+    "name": "Cotchett, Pitre & McCarthy, LLP",
+    "reason": "plaintiff/consumer litigation practice"
+   },
+   {
+    "name": "DC Law Group",
+    "reason": "listed twice (Burien + Spokane) but dclawgroup.com is an unrelated California PI firm - Washington site unverified"
+   },
+   {
+    "name": "Juhasz Law Firm, PC",
+    "reason": "already on master list as Texas; Washington"
+   }
+  ],
+  "counts_after": {
+   "rows": 290,
+   "distinct_firms": 162,
+   "people": 216,
+   "websites": 285
+  }
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "fixed": [
+  "NJ: Schoendorf Law -> schoendorflawllc.com"
+ ],
+ "dropped": [
+  "HI: Law Office of David J. Hoftiezer (merged into Goodsill as attorney)"
+ ],
+ "note": [
+  "31-new-jersey.json",
+  "35-north-dakota.json",
+  "15-indiana.json",
+  "23-michigan.json",
+  "49-west-virginia.json"
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "http://lawyers.findlaw.com/lawyer/firm/patents/saint-paul/minnesota",
+  "https://lawyers.findlaw.com/patents/minnesota/victoria/",
+  "https://lawyers.findlaw.com/lawyer/firm/patents/goodview/minnesota"
+ ],
+ "listings_reviewed": 10,
+ "pagination_pages": 0,
+ "limitations": "Minnesota city pages list a compact set of Minneapolis-area IP boutiques. The Simon Law Firm PC (St. Louis, MO) and NovoTech (DC) are nationwide placements and were not attributed to Minnesota.",
+ "firms": [
+  {
+   "firm": "Messerli | Kramer",
+   "website": "https://www.messerlikramer.com/",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listings, Minneapolis MN (IP boutique)"
+  },
+  {
+   "firm": "Padmanabhan & Dawson, PLLC",
+   "website": "https://www.paddalawgroup.com",
+   "website_verified": true,
+   "attorneys": [
+    "Devan V. Padmanabhan",
+    "Michelle Dawson",
+    "Paul Robbennolt",
+    "Britta Loftus",
+    "Sri Sankaran",
+    "Erin Overom Dungan"
+   ],
+   "ev": "FindLaw patents listings, Plymouth MN; official URL not captured",
+   "verification": "FindLaw firm profile (Plymouth) lists paddalawgroup.com; firm is an IP boutique (patents, IP litigation, licensing)."
+  },
+  {
+   "firm": "Schroeder & Siegfried, P.A.",
+   "website": "https://www.schroederpatlaw.com",
+   "website_verified": true,
+   "attorneys": [
+    "Brian Schroeder"
+   ],
+   "ev": "FindLaw patents listings, Wayzata MN; official URL not captured",
+   "verification": "FindLaw firm profile (Wayzata) lists schroederpatlaw.com; firm is an IP firm handling patents, trademarks, copyrights, trade secrets."
+  },
+  {
+   "firm": "Kaufhold & Dix Patent Law",
+   "website": "https://www.kaufholdpatentgroup.com/",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listing, Edina/Minneapolis MN (patent-only practice)",
+   "verification": "FindLaw firm profile (Edina MN) lists kaufholdpatentgroup.com; firm dedicated solely to patent, trademark and copyright law."
+  },
+  {
+   "firm": "Mueting Raasch Group",
+   "website": "https://mrgiplaw.com/",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listing, Minneapolis MN",
+   "verification": "Firm site mrgiplaw.com (Mueting Raasch Group, Minneapolis) - IP firm specialising in patent preparation and prosecution."
+  },
+  {
+   "firm": "Patterson Thuente IP",
+   "website": "https://www.pattersonthuente.com/",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listing, Minneapolis MN (IP boutique)"
+  },
+  {
+   "firm": "Christensen, Fonder, Dardi",
+   "website": "https://www.cfd-ip.com",
+   "website_verified": true,
+   "attorneys": [
+    "Douglas J. Christensen",
+    "John P. Fonder",
+    "Peter S. Dardi"
+   ],
+   "ev": "FindLaw patents listing, Maple Grove MN",
+   "verification": "Firm site cfd-ip.com and FindLaw/Super Lawyers records confirm the Maple Grove/Minneapolis IP firm; full name Christensen, Fonder, Dardi & Herbert/Busse PLLC."
+  }
+ ],
+ "state": "Minnesota"
+}

@@ -1,0 +1,7 @@
+[
+ {"state":"Kansas","firm":"Hovey Williams LLP","website":"https://www.hoveywilliams.com/","website_verified":true,"verification":"FindLaw firm profile (Overland Park) lists hoveywilliams.com; firm site confirms full IP practice (patents, trademarks, copyrights, trade secrets, IP litigation).","attorneys_add":["Tracy L. Bornman","Scott R. Brown"],"needs_review":false},
+ {"state":"Kentucky","firm":"Valenti Hanley PLLC","website":"https://www.vhrlaw.com","website_verified":true,"verification":"FindLaw patents listing (Louisville) and firm site vhrlaw.com confirm intellectual property practice.","attorneys_add":["Michael A. Valenti","John E. Hanley II","James P. McCrocklin","Hayden Holbrook"],"needs_review":false},
+ {"state":"Maryland","firm":"Resnick & Schwartzman, L.L.C.","drop":true},
+ {"state":"Maryland","firm":"Thomsen and Burke, LLP","drop":true},
+ {"state":"Maryland","firm":"August Law Group, LLC","drop":true}
+]

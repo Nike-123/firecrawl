@@ -1,0 +1,5 @@
+[
+ {"state":"Connecticut","firm":"Alderman & Alderman, LLC","website":"https://www.alderman.com","website_verified":true,"verification":"FindLaw firm profile (New Haven) lists alderman.com; firm provides IP counsel covering patents, trademarks and copyrights (Morris I. Pollack, IP).","attorneys_add":["Morris I. Pollack"],"needs_review":false},
+ {"state":"Maine","firm":"Caseiro Burke LLC","website":"https://www.caseiroburke.com/","website_verified":true,"verification":"Firm site caseiroburke.com: Maine IP firm securing patents, trademarks, copyrights and trade secrets; Chris A. Caseiro is a registered patent attorney.","attorneys_add":["Chris A. Caseiro","John M. Burke"],"needs_review":false},
+ {"state":"Pennsylvania","firm":"Becker Law Group, P.C.","drop":true}
+]

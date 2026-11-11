@@ -1,0 +1,28 @@
+{
+ "status": "completed",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/patents/arkansas/",
+  "https://lawyers.findlaw.com/patents/arkansas/little-rock/",
+  "https://lawyers.findlaw.com/trademarks/arkansas/little-rock/"
+ ],
+ "listings_reviewed": 2,
+ "pagination_pages": 0,
+ "limitations": "Only one Arkansas-based firm appears in the FindLaw patents directory for Little Rock ('Results 1 to 1 of 1'); no pagination was present. The firm profile does not name individual attorneys, so the attorney field is left blank rather than inferred. Trademarks pass (Little Rock): The Smith Firm was already recorded; Hatfield Harris (Rogers) added from the additional-results block and attributed to Rogers, not Little Rock.",
+ "firms": [
+  {
+   "firm": "The Smith Firm",
+   "website": "https://www.tonysmithlaw.com/",
+   "website_verified": true,
+   "verification": "FindLaw patents listing, Little Rock AR (400 W Capitol Ave, Suite 1700); FindLaw 'Visit Website' link resolves to tonysmithlaw.com.",
+   "attorneys": []
+  },
+  {
+   "firm": "Hatfield Harris, PLLC",
+   "website": "https://www.hatfieldharris.com/",
+   "website_verified": true,
+   "verification": "FindLaw Trademarks directory, Rogers AR (5208 Village Parkway, Suite 9) with Website https://www.hatfieldharris.com/.",
+   "attorneys": []
+  }
+ ],
+ "state": "Arkansas"
+}

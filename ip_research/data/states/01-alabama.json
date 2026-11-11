@@ -1,0 +1,29 @@
+{
+ "status": "completed",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/patents/alabama/",
+  "https://lawyers.findlaw.com/patents/alabama/birmingham/",
+  "https://lawyers.findlaw.com/patents/alabama/auburn/",
+  "https://lawyers.findlaw.com/patents/alabama/mobile/",
+  "https://lawyers.findlaw.com/patents/alabama/tuscaloosa/",
+  "https://lawyers.findlaw.com/patents/alabama/jefferson-county/",
+  "https://lawyers.findlaw.com/patents/alabama/lee-county/",
+  "https://lawyers.findlaw.com/trademarks/alabama/birmingham/",
+  "https://lawyers.findlaw.com/intellectual-property-law/alabama/birmingham/"
+ ],
+ "listings_reviewed": 7,
+ "pagination_pages": 0,
+ "limitations": "FindLaw's patents directory returns a single Alabama-based firm (Hulsey PC, Birmingham) across the state's city and county pages; every reviewed page reported 'Results 1 to 1 of 1'. The remaining patents-category entries were nationwide sponsored placements with no Alabama office and were excluded. Trademarks/IP-law category pages for Birmingham contained only nationwide sponsored firms plus non-IP practices (e.g. a personal-injury firm tagged for copyrights), which were excluded.",
+ "firms": [
+  {
+   "firm": "Hulsey PC",
+   "website": "https://hulseyiplaw.com/",
+   "website_verified": true,
+   "verification": "FindLaw patents listing (Birmingham, AL) links hulseyiplaw.com; firm site independently confirms the Birmingham office and patent/trademark/copyright/trade-secret practice.",
+   "attorneys": [
+    "Bill Hulsey"
+   ]
+  }
+ ],
+ "state": "Alabama"
+}

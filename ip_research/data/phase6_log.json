@@ -1,0 +1,53 @@
+{
+ "phase": "Phase 6 — attorney-roster expansion toward the 500-person target",
+ "target": {
+  "requested_people": 500,
+  "people_at_phase6_start": 148,
+  "people_now": 162,
+  "remaining_to_target": 338
+ },
+ "method": "Harvest each already-verified firm's own attorney/team page (server-rendered rosters) and attach the named attorneys to that firm's record. No name is added unless it appears on the firm's own roster page or a FindLaw attorney profile.",
+ "added": [
+  {
+   "state": "Florida",
+   "firm": "Allen, Dyer, Doppelt + Gilchrist, P.A.",
+   "source": "https://allendyer.com/attorneys-agents/",
+   "attorneys": [
+    "Herbert L. Allen (Ret.)",
+    "David L. Sigalow",
+    "Richard K. Warther",
+    "John F. Woodson II",
+    "Ryan T. Santurri",
+    "Matthew G. McKinney",
+    "Melissa Dangond",
+    "Trevor F. Ward",
+    "Susan J. Latham"
+   ]
+  },
+  {
+   "state": "Utah",
+   "firm": "Magleby Cataxinos",
+   "source": "https://www.mcg.law/attorneys/",
+   "attorneys": [
+    "Geoffrey K. Biehn",
+    "Yevgen Kovalov",
+    "James E. Magleby",
+    "Hanna M. Pruetz",
+    "Cody Winchester"
+   ]
+  }
+ ],
+ "blocked_rosters": [
+  "sternekessler.com/professionals — roster is JS-paginated; every page URL returns page 1 (16 of ~250 professionals visible).",
+  "oliff.com/people, /attorneys, /professionals — 404 / careers page only.",
+  "whe-law.com/people, hoveywilliams.com/people, hh-law.com/people, pattersonthuente.com/people|attorneys, kimandlahey.com/attorneys, barjos.com/attorneys, flhlaw.com/people — 404, HTTP 500 or fetch refused.",
+  "FindLaw attorney cards per city are individually rendered (~1 card per 700-1000 tokens), so they are not an efficient bulk source."
+ ],
+ "plan_to_reach_500": [
+  "Continue per-firm roster harvesting for the ~140 firm records already verified: expected 5-25 names per firm, roughly 60-80 firm pages still unharvested.",
+  "Add new firms with visible rosters from the remaining city-directory queue (NY, CA, TX, OH, MI, GA, MO), which also lifts firm count.",
+  "Use FindLaw attorney-profile listings city by city where a city page exposes attorney cards, one state per pass.",
+  "Keep the same evidence rule: every person tied to a firm record with a source in the audit log."
+ ],
+ "note": "500 people is a multi-pass target; this pass added 14 verified names and documented exactly which roster sources are blocked, so the next pass does not retry them."
+}

@@ -1,0 +1,29 @@
+{
+ "pass": "deep-research-and-verification (phase 3)",
+ "websites_verified_added": [
+  "Cunningham Swaim, LLP (CO/NY/TX) cunninghamswaim.com",
+  "Schroeder & Siegfried, P.A. (MN) schroederpatlaw.com",
+  "Kaufhold & Dix Patent Law (MN) kaufholdpatentgroup.com",
+  "Mueting Raasch Group (MN) mrgiplaw.com",
+  "Christensen, Fonder, Dardi (MN) cfd-ip.com",
+  "Indiano Law Group, LLC (IN) indyiplaw.com",
+  "Vickers Law, LLC (LA) vickerslawllc.com",
+  "Roy Kiesel Ford Doody Thurmon, APLC (LA) roykiesel.com",
+  "Miller Korzenik Sommers Rayman LLP (NY) mksr.law",
+  "Attolles Law, S.C. (WI) attolles.com"
+ ],
+ "firms_added": [
+  "Gohn Hankey & Berlage LLP (MD) ghbllp.com",
+  "Law Offices of Dominick A. Pilli, P.C. (VA) dapillilaw.com"
+ ],
+ "firms_dropped_non_ip_or_unverifiable": [
+  "Thornhill Law Firm, APLC (LA) - personal injury/environmental litigation practice",
+  "Semmes, Bowen & Semmes (MD) - full-service litigation/maritime firm, no IP area on record",
+  "Halloin Law Group, S.C. (WI) - business/construction/insurance litigation boutique"
+ ],
+ "notes": [
+  "Frank Tolin & Associates, LLC (NJ) remains blank and flagged: no firm-controlled domain found; the attorney now appears as Of Counsel at Patterson + Sheridan, so affiliation needs manual confirmation rather than a guessed URL.",
+  "Every website accepted in this pass was either printed on the firm's FindLaw/Lawyers.com profile ('Website:' field) or confirmed on the firm's own domain."
+ ],
+ "remaining_work": "41 firm-state entries still lack a verifiable official domain; large-state pagination (CA, NY, TX, IL, PA, MA, OH, NJ, MD, VA, TN, WA) remains partial."
+}

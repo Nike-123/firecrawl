@@ -1,0 +1,33 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/connecticut/hartford/2636886_1/",
+  "https://lawyers.findlaw.com/patents/connecticut/west-hartford/"
+ ],
+ "listings_reviewed": 3,
+ "pagination_pages": 0,
+ "limitations": "Connecticut patents city pages largely return an empty shell to the fetcher; firms were captured from FindLaw firm profiles (Hartford) and the West Hartford listing page. Ream Law Firm (KS) is a nationwide placement.",
+ "firms": [
+  {
+   "firm": "McCormick, Paulding & Huber LLP",
+   "website": "http://www.ip-lawyers.com",
+   "website_verified": true,
+   "attorneys": [
+    "Richard J. Twilley",
+    "Daniel George Mackas"
+   ],
+   "ev": "FindLaw firm profile, Hartford CT - patents, trademarks, copyrights"
+  },
+  {
+   "firm": "Alderman & Alderman, LLC",
+   "website": "https://www.alderman.com",
+   "website_verified": true,
+   "attorneys": [
+    "Morris I. Pollack"
+   ],
+   "ev": "FindLaw patents listing, New Haven CT; official URL not captured - left blank",
+   "verification": "FindLaw firm profile (New Haven) lists alderman.com; firm provides IP counsel covering patents, trademarks and copyrights (Morris I. Pollack, IP)."
+  }
+ ],
+ "state": "Connecticut"
+}

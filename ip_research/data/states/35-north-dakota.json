@@ -1,0 +1,46 @@
+{
+ "status": "completed",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/patents/north-dakota/fargo/",
+  "https://www.lawinfo.com/patents/north-dakota/fargo/",
+  "https://lawyers.findlaw.com/trademarks/north-dakota/fargo/"
+ ],
+ "listings_reviewed": 5,
+ "pagination_pages": 0,
+ "limitations": "Fargo reports 'Results 1 to 1 of 1' (Adkins Law PLLC in Bismarck) plus the nationwide Simon Law Firm placement; the additional Fargo IP firms below were verified through supplementary patent-directory records. Atlas Legal Services, PLLC (3933 4th St E, West Fargo; Bart Robert McIlonie) has no verifiable public website — the only domain seen is an email domain (atlasesop.com) that does not resolve to a firm site — and its FindLaw-adjacent listings describe a general practice with trademark filings. Record retained but flagged for manual review; URL left blank. Trademarks pass (Fargo): no local North Dakota trademark/IP firm appears - only nationwide placements (Sisun Law, AU LLC), so no record was added.",
+ "firms": [
+  {
+   "firm": "Adkins Law PLLC",
+   "website": "https://www.adkins-legal.com",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listing, Bismarck ND"
+  },
+  {
+   "firm": "Neustel Law Offices",
+   "website": "https://www.neustel.com/",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "Supplementary patent-directory record, Fargo ND - IP firm"
+  },
+  {
+   "firm": "Fargo Patent & Business Law PLLC",
+   "website": "https://fargopatentlaw.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Stephanie Arniel"
+   ],
+   "ev": "Supplementary patent-directory record, Fargo ND - IP/business firm",
+   "verification": "fargopatentlaw.com is the firm site (Fargo, ND) describing itself as an intellectual property and business law practice; Super Lawyers lists fargopatentlaw.com for the same address."
+  },
+  {
+   "firm": "Atlas Legal Services",
+   "website": "",
+   "website_verified": false,
+   "attorneys": [],
+   "ev": "Supplementary patent-directory record, West Fargo ND",
+   "needs_review": true
+  }
+ ],
+ "state": "North Dakota"
+}

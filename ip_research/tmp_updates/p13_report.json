@@ -1,0 +1,50 @@
+{
+ "website_fixed": [
+  "Montana: Calton Hamman & Wolff, P.C. -> https://www.caltonhammanandwolff.com/",
+  "Montana: Antoinette M. Tease, P.L.L.C. -> https://www.teaselaw.com/",
+  "Nebraska: Law Office of Matt Catlett -> https://www.catlettlaw.com/",
+  "Vermont: Merritt & Merritt -> http://www.merritt-merritt.com/",
+  "North Dakota: Fargo Patent & Business Law PLLC -> https://fargopatentlaw.com/",
+  "Vermont: Paul Frank + Collins P.C. -> https://www.pfclaw.com/",
+  "West Virginia: Schrader Duff Law & Lowe, PLLC -> https://www.schraderlaw.com/",
+  "Wyoming: Schwartz, Bon, Walker & Studer, LLC -> http://www.schwartzbon.com/",
+  "South Carolina: Henderson & Henderson, LLC -> https://hhlawsc.com/",
+  "South Carolina: Hurley Law PA -> https://www.hurleylawsc.com/",
+  "Oregon: The Smith Firm, P.C. -> https://www.thesmithfirmpc.com/",
+  "Utah: James Dodge Russell & Stephens, P.C. -> https://www.jdrslaw.com/",
+  "Michigan: Drew Cooper & Anding -> https://dca-lawyers.com/",
+  "Louisiana: Flowers Davis, P.L.L.C. -> https://flowersdavis.com/",
+  "Georgia: Hollin Law Offices -> https://www.hollinpatent.com/",
+  "Indiana: TDW Patents & Consulting, LLC -> https://www.tdwpatents.com/",
+  "Kansas: Davis & Jack, L.L.C. -> http://www.davisandjack.com/",
+  "Hawaii: Bailey Law Corporation -> https://www.bailey.law/hawaii",
+  "Ohio: Wesp Barwell, LLC -> https://www.wesplaw.com/"
+ ],
+ "added": [
+  "Ohio: Krugliak, Wilkins, Griffiths & Dougherty Co., L.P.A.",
+  "Michigan: Fleming & Borowicz PLC",
+  "Michigan: Murphy & Spagnuolo PC",
+  "Michigan: Raggio & Dinnin, P.C.",
+  "California: Harris & Hayden",
+  "California: Sterling Media Law",
+  "Texas: Booth Albanesi Schroeder, PLLC",
+  "Texas: Parker Justiss, P.C.",
+  "Texas: The Wendt Firm, P.C.",
+  "New York: Saile Ackerman LLC",
+  "New York: Lee Palmateer Law Office",
+  "New York: Cox Padmore Skolnik & Shakarchy LLP",
+  "New York: Simpson & Simpson, PLLC",
+  "Florida: Simpson & Simpson, PLLC",
+  "Florida: The Law Office of Geralyn F. Noonan",
+  "Illinois: Law Office of Adrienne B. Naumann",
+  "Missouri: Lodestar IP & Patent Law"
+ ],
+ "dropped": [
+  "West Virginia: Phillips, Gardill, Kaiser & Altmeyer \u2014 pgka.com firm profile lists banking, corporate, real estate, estates, employment, civil litigation, tax, family \u2014 no intellectual property practice; listed only as an incidental directory placement."
+ ],
+ "renamed": [
+  "OH: Wesp Barwell, LLC -> Wesp Barwell Berardino"
+ ],
+ "review_cleared": [],
+ "missed": []
+}

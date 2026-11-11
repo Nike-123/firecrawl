@@ -1,0 +1,72 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/lawyer/firm/patents/austin/texas",
+  "https://lawyers.findlaw.com/lawyer/firm/patents/dallas/texas",
+  "https://lawyers.findlaw.com/patents/texas/alief/",
+  "https://lawyers.findlaw.com/patents/texas/houston/"
+ ],
+ "listings_reviewed": 18,
+ "pagination_pages": 1,
+ "limitations": "Texas is one of the largest FindLaw patent markets; Houston, Dallas and Austin listings are paginated and only the first page of each reviewed view was enumerated, so Texas is marked partial. Personal-injury/mass-tort firms surfacing in the category (Abraham, Watkins; Sorrels Law; The Sher Law Firm; McCathern Shokouhi Evans) were excluded for lack of IP practice.",
+ "firms": [
+  {
+   "firm": "Fogarty IP",
+   "website": "https://www.fogartyip.com",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listing, Austin TX (IP firm)",
+   "verification": "FindLaw firm profile (Austin) lists fogartyip.com; firm site confirms patent/IP practice (Austin + Plano)."
+  },
+  {
+   "firm": "Juhasz Law Firm, PC",
+   "website": "https://www.patenthorizon.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Paul R. Juhasz"
+   ],
+   "ev": "FindLaw patents listings, Houston TX - patent prosecution",
+   "verification": "FindLaw firm profile (Houston) lists patenthorizon.com; IP practice covering patents, designs, trademarks, copyrights, trade secrets."
+  },
+  {
+   "firm": "Johnston IP Law, PLLC",
+   "website": "https://www.johnstonip.com/",
+   "website_verified": true,
+   "attorneys": [
+    "Robert H. Johnston III"
+   ],
+   "ev": "FindLaw patents listing, Dallas TX (IP firm)",
+   "verification": "FindLaw firm profile (Dallas) lists johnstonip.com; boutique patent and trademark prosecution practice."
+  },
+  {
+   "firm": "Cunningham Swaim, LLP",
+   "website": "https://www.cunninghamswaim.com",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listing, Houston TX office",
+   "verification": "Firm site confirms Dallas TX office and IP litigation practice."
+  },
+  {
+   "firm": "Booth Albanesi Schroeder, PLLC",
+   "website": "https://www.ipoftexas.com/",
+   "website_verified": true,
+   "verification": "FindLaw Dallas/Houston patents listing with Website https://www.ipoftexas.com/ (Dallas IP firm).",
+   "attorneys": []
+  },
+  {
+   "firm": "Parker Justiss, P.C.",
+   "website": "https://www.pj-iplaw.com/",
+   "website_verified": true,
+   "verification": "FindLaw Dallas patents listing with Website https://www.pj-iplaw.com/.",
+   "attorneys": []
+  },
+  {
+   "firm": "The Wendt Firm, P.C.",
+   "website": "https://www.wendtfirm.com/",
+   "website_verified": true,
+   "verification": "FindLaw Austin patents listing with Website https://www.wendtfirm.com/ (Austin patent firm).",
+   "attorneys": []
+  }
+ ],
+ "state": "Texas"
+}

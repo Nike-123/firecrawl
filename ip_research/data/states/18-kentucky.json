@@ -1,0 +1,45 @@
+{
+ "status": "partial",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/patents/kentucky/jefferson-county/",
+  "https://lawyers.findlaw.com/patents/kentucky/center/",
+  "https://lawyers.findlaw.com/patents/kentucky/elizabethtown/"
+ ],
+ "listings_reviewed": 6,
+ "pagination_pages": 0,
+ "limitations": "Kentucky patents pages report 'Results 1 to 2 of 2' per city with heavy repetition of the same Louisville firms; Stange Law Firm (family law) was excluded.",
+ "firms": [
+  {
+   "firm": "Carrithers Law Office, PLLC",
+   "website": "https://www.carritherslaw.com",
+   "website_verified": true,
+   "attorneys": [
+    "Adam Carrithers",
+    "Bill Martin"
+   ],
+   "ev": "FindLaw patents listing, Louisville KY"
+  },
+  {
+   "firm": "Valenti Hanley PLLC",
+   "website": "https://www.vhrlaw.com",
+   "website_verified": true,
+   "attorneys": [
+    "Dylan V. Valenti",
+    "Michael A. Valenti",
+    "John E. Hanley II",
+    "James P. McCrocklin",
+    "Hayden Holbrook"
+   ],
+   "ev": "FindLaw patents listing, Louisville KY (IP boutique); official URL not captured",
+   "verification": "FindLaw patents listing (Louisville) and firm site vhrlaw.com confirm intellectual property practice."
+  },
+  {
+   "firm": "Yewell Law, LLC",
+   "website": "https://www.yewelllaw.com",
+   "website_verified": true,
+   "attorneys": [],
+   "ev": "FindLaw patents listing, Owensboro KY"
+  }
+ ],
+ "state": "Kentucky"
+}

@@ -1,0 +1,37 @@
+{
+ "status": "completed",
+ "pages_reviewed": [
+  "https://lawyers.findlaw.com/patents/arizona/",
+  "https://lawyers.findlaw.com/patents/arizona/phoenix/",
+  "https://lawyers.findlaw.com/patents/arizona/tucson/",
+  "https://lawyers.findlaw.com/patents/arizona/sedona/",
+  "https://lawyers.findlaw.com/patents/arizona/scottsdale/",
+  "https://lawyers.findlaw.com/patents/arizona/mesa/",
+  "https://lawyers.findlaw.com/patents/arizona/chandler/",
+  "https://lawyers.findlaw.com/patents/arizona/page/"
+ ],
+ "listings_reviewed": 12,
+ "pagination_pages": 0,
+ "limitations": "Phoenix and Tucson each report 'Results 1 to 1 of 1'. Excluded after profile review: Law Offices of Roger H. Sigal, L.L.C. (Oro Valley) - findlaw profile practice areas are criminal law, federal white-collar crime, DUI and immigration, not IP; Roland Tong entry is captioned as attorney for Manning & Kass, Ellrod, Ramirez, Trester LLP with an unrelated firm domain, so it was left out rather than guessed. Ream Law Firm (Ottawa, KS) and NovoTech Patent Firm are nationwide placements without an Arizona office.",
+ "firms": [
+  {
+   "firm": "DeConcini McDonald Yetwin & Lacy, P.C.",
+   "website": "https://www.deconcinimcdonald.com/",
+   "website_verified": true,
+   "verification": "FindLaw patents listing, Tucson AZ; firm 'Visit Website' link points to deconcinimcdonald.com and the firm profile lists patent prosecution/litigation.",
+   "attorneys": [
+    "Dennis W. DeConcini"
+   ]
+  },
+  {
+   "firm": "Keith Miller Law Group",
+   "website": "https://www.keithmillerpllc.com/",
+   "website_verified": true,
+   "verification": "FindLaw patents listing (Sedona/Goodyear AZ) with sameAs keithmillerpllc.com; firm describes itself as an intellectual property law firm serving Arizona.",
+   "attorneys": [
+    "Keith Miller"
+   ]
+  }
+ ],
+ "state": "Arizona"
+}
