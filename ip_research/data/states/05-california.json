@@ -17,11 +17,16 @@
   "https://lawyers.findlaw.com/patents/california/fresno/",
   "https://lawyers.findlaw.com/patents/california/riverside/",
   "https://lawyers.findlaw.com/patents/california/newport-beach/",
-  "https://lawyers.findlaw.com/patents/california/sunnyvale/"
+  "https://lawyers.findlaw.com/patents/california/sunnyvale/",
+  "https://www.hpl.law/our-attorneys/",
+  "https://www.hudnelllaw.com/site-map/",
+  "https://www.thewangiplaw.com/about/meet-our-team/",
+  "https://www.mandourlaw.com/sitemap/",
+  "https://www.dwlawfirm.com/about/"
  ],
  "listings_reviewed": 48,
  "pagination_pages": 2,
- "limitations": "California city-by-city pass: reviewed the state all-cities index plus the Los Angeles, San Francisco, San Jose and San Diego patents pages. Los Angeles and San Diego return mostly out-of-area placements, so firms were attributed to their own city. The McClellan Law Firm (San Diego) was excluded as a personal-injury practice with no IP service. Cities still queued: Irvine, Newport Beach, Pasadena, Palo Alto, Santa Monica, Oakland, Long Beach, Riverside, Fresno, Sacramento (city page), Carlsbad, Sunnyvale, Beverly Hills, Torrance. Also reviewed Oakland, Sacramento and Irvine patents pages: no additional IP-only firms found (McCathern, Shokouhi, Evans excluded - general business/civil litigation; Bernstein Litowitz Berger & Grossmann excluded - securities litigation). City-level dedupe by firm profile slug confirmed that each city page repeats the same statewide firm pool. Reviewed Pasadena, Palo Alto, Long Beach, Santa Monica, Fresno, Riverside, Newport Beach and Sunnyvale individually: every one of these city pages draws on the same statewide FindLaw patents firm pool (HPL, Robert L. Hill, Hudnell, LiLaw, Delcin, Olsan, Ehlers, Darling & Wilson, Mandour, Wang IP, Harris & Hayden, Sterling Media Law, Cunningham Swaim), so no new IP firms surfaced and cross-city mention was not counted as new. Non-IP paid placements (McCathern Shokouhi Evans, Bernstein Litowitz Berger & Grossmann) were excluded.",
+ "limitations": "California city-by-city pass: reviewed the state all-cities index plus the Los Angeles, San Francisco, San Jose and San Diego patents pages. Los Angeles and San Diego return mostly out-of-area placements, so firms were attributed to their own city. The McClellan Law Firm (San Diego) was excluded as a personal-injury practice with no IP service. Cities still queued: Irvine, Newport Beach, Pasadena, Palo Alto, Santa Monica, Oakland, Long Beach, Riverside, Fresno, Sacramento (city page), Carlsbad, Sunnyvale, Beverly Hills, Torrance. Also reviewed Oakland, Sacramento and Irvine patents pages: no additional IP-only firms found (McCathern, Shokouhi, Evans excluded - general business/civil litigation; Bernstein Litowitz Berger & Grossmann excluded - securities litigation). City-level dedupe by firm profile slug confirmed that each city page repeats the same statewide firm pool. Reviewed Pasadena, Palo Alto, Long Beach, Santa Monica, Fresno, Riverside, Newport Beach and Sunnyvale individually: every one of these city pages draws on the same statewide FindLaw patents firm pool (HPL, Robert L. Hill, Hudnell, LiLaw, Delcin, Olsan, Ehlers, Darling & Wilson, Mandour, Wang IP, Harris & Hayden, Sterling Media Law, Cunningham Swaim), so no new IP firms surfaced and cross-city mention was not counted as new. Non-IP paid placements (McCathern Shokouhi Evans, Bernstein Litowitz Berger & Grossmann) were excluded. Firm-by-firm roster pass: HPL (4 attorneys), Hudnell (3), Wang IP (6) and Mandour (1) verified from their own sites; LiLaw, Robert L. Hill, Ehlers and Olsan roster URLs were not found (/team, /attorneys return 404), so those stay without attorney rows until a correct roster URL is found. Darling & Wilson, PC was REMOVED from the records after its own site (dwlawfirm.com/about) showed only estate planning, business and civil litigation - no IP practice - despite its FindLaw patents card.",
  "firms": [
   {
    "firm": "HPL Intellectual Property Law",
@@ -30,10 +35,11 @@
    "attorneys": [
     "Marc Hankin",
     "Kevin Schraven",
-    "Alice Denenberg"
+    "Alice Denenberg",
+    "Anooj Patel"
    ],
    "ev": "FindLaw patents listing, Los Angeles; Visit Website -> hpl.law",
-   "verification": "hpl.law verified live (Hankin Patent Law, Los Angeles IP firm; patents, trademarks, copyrights, trade secrets, IP litigation)."
+   "verification": "hpl.law verified live (Hankin Patent Law, Los Angeles IP firm; patents, trademarks, copyrights, trade secrets, IP litigation). Roster verified at https://www.hpl.law/our-attorneys/ (Marc E. Hankin, Kevin E. Schraven, Anooj Patel, Alice Denenberg)."
   },
   {
    "firm": "Law Offices of Robert L. Hill, APC",
@@ -48,9 +54,16 @@
    "firm": "Wang IP Law Group, P.C.",
    "website": "https://www.thewangiplaw.com",
    "website_verified": true,
-   "attorneys": [],
+   "attorneys": [
+    "Tommy SF Wang",
+    "Tom Chen",
+    "Robert Grandon",
+    "Edward Lu",
+    "Tommy Pan",
+    "Ramon Trujillo"
+   ],
    "ev": "FindLaw patents listing, Los Angeles; official URL not captured from listing - left blank",
-   "verification": "FindLaw firm profile (Los Angeles) lists thewangiplaw.com; firm describes IP/patent/trademark/IP-litigation practice."
+   "verification": "FindLaw firm profile (Los Angeles) lists thewangiplaw.com; firm describes IP/patent/trademark/IP-litigation practice. Roster verified at https://www.thewangiplaw.com/about/meet-our-team/ (Tommy SF Wang, Tom Chen, Robert Grandon, Edward Lu, Tommy Pan, Ramon Trujillo); Alyze Pierce excluded as a compliance/HR advisor, not an attorney."
   },
   {
    "firm": "Mandour & Associates",
@@ -60,7 +73,7 @@
     "Joseph A. Mandour"
    ],
    "ev": "FindLaw patents listing, Los Angeles (IP boutique); official URL not captured - left blank",
-   "verification": "Firm site mandourlaw.com confirms IP boutique (patents, trademarks, copyrights, IP litigation), Los Angeles/Orange County/San Diego."
+   "verification": "Firm site mandourlaw.com confirms IP boutique (patents, trademarks, copyrights, IP litigation), Los Angeles/Orange County/San Diego. Roster verified via https://www.mandourlaw.com/sitemap/: only Joseph A. Mandour is listed under Professionals."
   },
   {
    "firm": "Harris & Hayden",
@@ -87,8 +100,12 @@
    "firm": "Hudnell Law Group",
    "website": "https://www.hudnelllaw.com/",
    "website_verified": true,
-   "verification": "FindLaw patents listings for San Francisco and San Jose (Mountain View office) with Website https://www.hudnelllaw.com/; Mountain View IP boutique.",
-   "attorneys": []
+   "verification": "FindLaw patents listings for San Francisco and San Jose (Mountain View office) with Website https://www.hudnelllaw.com/; Mountain View IP boutique. Roster verified at https://www.hudnelllaw.com/site-map/ (Lewis E. Hudnell III, Nicolas S. Gikkas, Stan Thompson).",
+   "attorneys": [
+    "Lewis E. Hudnell III",
+    "Nicolas S. Gikkas",
+    "Stan Thompson"
+   ]
   },
   {
    "firm": "LiLaw Inc.",
@@ -109,13 +126,6 @@
    "website": "https://www.ehlerslawcorp.com/",
    "website_verified": true,
    "verification": "FindLaw San Francisco/San Jose patents listing (Sacramento office) with Website https://www.ehlerslawcorp.com/.",
-   "attorneys": []
-  },
-  {
-   "firm": "Darling & Wilson, PC",
-   "website": "https://www.dwlawfirm.com/",
-   "website_verified": true,
-   "verification": "FindLaw San Francisco patents listing (Visalia office) with Website https://www.dwlawfirm.com/.",
    "attorneys": []
   },
   {

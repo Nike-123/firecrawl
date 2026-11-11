@@ -207,5 +207,55 @@
    "distinct_firms": 157,
    "people": 165
   }
+ },
+ "phase7e_california_firms": {
+  "date": "2026-11-10",
+  "goal": "Firm-by-firm California data (roster + website verification)",
+  "verified_rosters": {
+   "HPL Intellectual Property Law": [
+    "Marc E. Hankin",
+    "Kevin E. Schraven",
+    "Anooj Patel",
+    "Alice Denenberg"
+   ],
+   "Hudnell Law Group": [
+    "Lewis E. Hudnell III",
+    "Nicolas S. Gikkas",
+    "Stan Thompson"
+   ],
+   "Wang IP Law Group, P.C.": [
+    "Tommy SF Wang",
+    "Tom Chen",
+    "Robert Grandon",
+    "Edward Lu",
+    "Tommy Pan",
+    "Ramon Trujillo"
+   ],
+   "Mandour & Associates": [
+    "Joseph A. Mandour"
+   ]
+  },
+  "removed_for_accuracy": [
+   {
+    "firm": "Darling & Wilson, PC",
+    "reason": "FindLaw patents card, but its own site (dwlawfirm.com/about) lists only estate planning, business and civil litigation - no IP practice"
+   }
+  ],
+  "roster_blocked": [
+   "lilaw.us/team -> 404",
+   "rlhfirm.com/attorneys/ -> 404",
+   "olsanlaw.com/attorneys/ -> 404",
+   "ehlerslawcorp.com/attorneys/ -> 404",
+   "mandourlaw.com/attorneys/ -> 404 (fixed via /sitemap/)"
+  ],
+  "excluded_non_attorney": [
+   "Alyze Pierce (Wang IP) - compliance/HR advisor, not an attorney"
+  ],
+  "counts_after": {
+   "rows": 249,
+   "distinct_firms": 156,
+   "people": 175,
+   "california_rows": 22
+  }
  }
 }

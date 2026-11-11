@@ -18,3 +18,4 @@
 {"ts": "2026-11-10", "phase": 7, "action": "new_firms_trademarks_directory", "added": 4, "note": "Idaho filled; DC/NE/WV expanded"}
 {"ts": "2026-11-10", "phase": 7, "action": "trademarks_city_pass", "added": 6, "states": ["OK", "AR", "TN"], "total_rows": 236}
 {"ts": "2026-11-10", "phase": 7, "action": "new_york_pass", "firms_added": 3, "attorneys_added": 4, "total_rows": 242}
+{"ts": "2026-11-10", "phase": 7, "action": "california_firm_by_firm", "people_added": 10, "firms_removed": 1, "total_rows": 249}
