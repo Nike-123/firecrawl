@@ -257,5 +257,44 @@
    "people": 175,
    "california_rows": 22
   }
+ },
+ "phase7f_california_san_diego": {
+  "date": "2026-11-10",
+  "source": "FindLaw intellectual-property-law/california/san-diego (37 results, 2 pages, both reviewed)",
+  "firms_added": {
+   "Coleman & Horowitt, LLP": 20,
+   "Berstein Law": 2,
+   "McKown Bailey": 4,
+   "McKasson & Klein LLP": 4
+  },
+  "people_added": 30,
+  "not_added": [
+   {
+    "name": "Dillon, Miller, Ahuja & Boss, LLP",
+    "reason": "IP is 1 of 8 practice areas; own website could not be reached -> unverified"
+   },
+   {
+    "name": "Klein & Wilson LLP",
+    "reason": "own site HTTP 500 -> unverified"
+   },
+   {
+    "name": "Hawkes Law, APLC",
+    "reason": "own site HTTP 500 -> unverified"
+   },
+   {
+    "name": "Blake & Ayaz / The McClellan Law Firm / Simmons Hanly Conroy / Fisher & Talwar / Schonbrun Seplow Harris Hoffman & Zeldes / Cotchett Pitre & McCarthy",
+    "reason": "PI, consumer, civil rights, asbestos or general practice - no verifiable IP practice page"
+   },
+   {
+    "name": "Bailey Law Corporation",
+    "reason": "already on master list under Hawaii (San Diego is secondary office of same firm)"
+   }
+  ],
+  "counts_after": {
+   "rows": 279,
+   "distinct_firms": 160,
+   "people": 205,
+   "websites": 274
+  }
  }
 }

@@ -62,16 +62,16 @@
   "states_with_no_findlaw_listings": [],
   "states_remaining": [],
   "states_total": 51,
-  "total_records": 249,
-  "unique_law_firms": 156,
-  "verified_official_websites": 151,
+  "total_records": 279,
+  "unique_law_firms": 160,
+  "verified_official_websites": 155,
   "missing_official_websites": 5,
-  "verified_official_websites_unique_firms": 151,
+  "verified_official_websites_unique_firms": 155,
   "missing_official_websites_unique_firms": 5,
-  "attorney_records": 175,
+  "attorney_records": 205,
   "records_requiring_review": 6,
-  "findlaw_listings_reviewed": 455,
-  "pagination_pages_processed": 4,
+  "findlaw_listings_reviewed": 492,
+  "pagination_pages_processed": 6,
   "state_details": {
     "Alabama": {
       "status": "completed",
@@ -111,12 +111,12 @@
     },
     "California": {
       "status": "partial",
-      "findlaw_listings_reviewed": 48,
-      "pagination_pages_processed": 2,
-      "pages_reviewed": 22,
-      "firms_collected": 12,
-      "records": 22,
-      "limitations": "California city-by-city pass: reviewed the state all-cities index plus the Los Angeles, San Francisco, San Jose and San Diego patents pages. Los Angeles and San Diego return mostly out-of-area placements, so firms were attributed to their own city. The McClellan Law Firm (San Diego) was excluded as a personal-injury practice with no IP service. Cities still queued: Irvine, Newport Beach, Pasadena, Palo Alto, Santa Monica, Oakland, Long Beach, Riverside, Fresno, Sacramento (city page), Carlsbad, Sunnyvale, Beverly Hills, Torrance. Also reviewed Oakland, Sacramento and Irvine patents pages: no additional IP-only firms found (McCathern, Shokouhi, Evans excluded - general business/civil litigation; Bernstein Litowitz Berger & Grossmann excluded - securities litigation). City-level dedupe by firm profile slug confirmed that each city page repeats the same statewide firm pool. Reviewed Pasadena, Palo Alto, Long Beach, Santa Monica, Fresno, Riverside, Newport Beach and Sunnyvale individually: every one of these city pages draws on the same statewide FindLaw patents firm pool (HPL, Robert L. Hill, Hudnell, LiLaw, Delcin, Olsan, Ehlers, Darling & Wilson, Mandour, Wang IP, Harris & Hayden, Sterling Media Law, Cunningham Swaim), so no new IP firms surfaced and cross-city mention was not counted as new. Non-IP paid placements (McCathern Shokouhi Evans, Bernstein Litowitz Berger & Grossmann) were excluded. Firm-by-firm roster pass: HPL (4 attorneys), Hudnell (3), Wang IP (6) and Mandour (1) verified from their own sites; LiLaw, Robert L. Hill, Ehlers and Olsan roster URLs were not found (/team, /attorneys return 404), so those stay without attorney rows until a correct roster URL is found. Darling & Wilson, PC was REMOVED from the records after its own site (dwlawfirm.com/about) showed only estate planning, business and civil litigation - no IP practice - despite its FindLaw patents card."
+      "findlaw_listings_reviewed": 85,
+      "pagination_pages_processed": 4,
+      "pages_reviewed": 31,
+      "firms_collected": 16,
+      "records": 52,
+      "limitations": "California city-by-city pass: reviewed the state all-cities index plus the Los Angeles, San Francisco, San Jose and San Diego patents pages. Los Angeles and San Diego return mostly out-of-area placements, so firms were attributed to their own city. The McClellan Law Firm (San Diego) was excluded as a personal-injury practice with no IP service. Cities still queued: Irvine, Newport Beach, Pasadena, Palo Alto, Santa Monica, Oakland, Long Beach, Riverside, Fresno, Sacramento (city page), Carlsbad, Sunnyvale, Beverly Hills, Torrance. Also reviewed Oakland, Sacramento and Irvine patents pages: no additional IP-only firms found (McCathern, Shokouhi, Evans excluded - general business/civil litigation; Bernstein Litowitz Berger & Grossmann excluded - securities litigation). City-level dedupe by firm profile slug confirmed that each city page repeats the same statewide firm pool. Reviewed Pasadena, Palo Alto, Long Beach, Santa Monica, Fresno, Riverside, Newport Beach and Sunnyvale individually: every one of these city pages draws on the same statewide FindLaw patents firm pool (HPL, Robert L. Hill, Hudnell, LiLaw, Delcin, Olsan, Ehlers, Darling & Wilson, Mandour, Wang IP, Harris & Hayden, Sterling Media Law, Cunningham Swaim), so no new IP firms surfaced and cross-city mention was not counted as new. Non-IP paid placements (McCathern Shokouhi Evans, Bernstein Litowitz Berger & Grossmann) were excluded. Firm-by-firm roster pass: HPL (4 attorneys), Hudnell (3), Wang IP (6) and Mandour (1) verified from their own sites; LiLaw, Robert L. Hill, Ehlers and Olsan roster URLs were not found (/team, /attorneys return 404), so those stay without attorney rows until a correct roster URL is found. Darling & Wilson, PC was REMOVED from the records after its own site (dwlawfirm.com/about) showed only estate planning, business and civil litigation - no IP practice - despite its FindLaw patents card. || 2026-11-10 Firm-by-firm pass on FindLaw San Diego IP/copyright index ('Results 1 to 20 of 37' + 'Results 21 to 37 of 37', both pages reviewed): added only firms whose own website shows an IP practice (Coleman & Horowitt, Berstein Law, McKown Bailey, McKasson & Klein). Not added: PI/consumer/civil-rights/asbestos listings (McClellan, Simmons Hanly Conroy, Fisher & Talwar, Schonbrun Seplow Harris Hoffman & Zeldes, Cotchett Pitre & McCarthy); general business/estate firms with no verifiable IP practice page; Dillon Miller Ahuja & Boss (IP is one of eight practice areas, own website unreachable -> unverified, not added); Klein & Wilson LLP and Hawkes Law APLC own sites returned HTTP 500 -> unverified. Bailey Law Corporation is already listed under Hawaii; the San Diego address is a secondary office of that firm."
     },
     "Colorado": {
       "status": "partial",
