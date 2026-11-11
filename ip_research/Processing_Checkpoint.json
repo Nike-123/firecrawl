@@ -62,15 +62,15 @@
   "states_with_no_findlaw_listings": [],
   "states_remaining": [],
   "states_total": 51,
-  "total_records": 236,
-  "unique_law_firms": 154,
-  "verified_official_websites": 149,
+  "total_records": 242,
+  "unique_law_firms": 157,
+  "verified_official_websites": 152,
   "missing_official_websites": 5,
-  "verified_official_websites_unique_firms": 149,
+  "verified_official_websites_unique_firms": 152,
   "missing_official_websites_unique_firms": 5,
-  "attorney_records": 160,
+  "attorney_records": 165,
   "records_requiring_review": 6,
-  "findlaw_listings_reviewed": 450,
+  "findlaw_listings_reviewed": 455,
   "pagination_pages_processed": 4,
   "state_details": {
     "Alabama": {
@@ -363,12 +363,12 @@
     },
     "New York": {
       "status": "partial",
-      "findlaw_listings_reviewed": 18,
+      "findlaw_listings_reviewed": 23,
       "pagination_pages_processed": 1,
-      "pages_reviewed": 4,
-      "firms_collected": 9,
-      "records": 10,
-      "limitations": "New York City's patents listing is large and paginated; only the first result page of the NYC, Manhattan and Brooklyn views was enumerated, so New York is marked partial. Bernstein Litowitz Berger & Grossmann LLP was excluded (securities litigation, no IP practice shown)."
+      "pages_reviewed": 6,
+      "firms_collected": 13,
+      "records": 17,
+      "limitations": "New York City's patents listing is large and paginated; only the first result page of the NYC, Manhattan and Brooklyn views was enumerated, so New York is marked partial. Bernstein Litowitz Berger & Grossmann LLP was excluded (securities litigation, no IP practice shown). New York pass completed: patents (New York City) page reviewed to its end (Results 1 to 8 of 8, chunks 0-3) and the Trademarks New York City page reviewed through chunk 4 (Codispoti & Associates, Cea Legal, Rosenberg Giger & Perala added; Nesenoff & Miltenberg re-attributed to New York where it is headquartered; attorneys Stephen Ackerman, Mary L. Grieco, Andrew B. Lustigman and Ralph N. Gaboury added from their firm cards). Tully Rinckey (employment/family), Denlea & Carton (commercial litigation), Law Office of David T. Azrin (franchise law) and Gabor & Marotta (general practice) were excluded as non-IP practices."
     },
     "North Carolina": {
       "status": "completed",

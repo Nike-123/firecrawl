@@ -175,5 +175,37 @@
    "people": 160,
    "verified_sites": 149
   }
+ },
+ "phase7d_new_york": {
+  "date": "2026-11-10",
+  "ny_status": "New York now fully covered for the patents directory (Results 1 to 8 of 8, all chunks) and the Trademarks New York City page (chunks 0-4 of 8).",
+  "firms_added": [
+   "Codispoti & Associates, P.C.",
+   "Cea Legal P.C.",
+   "Rosenberg, Giger and Perala P.C."
+  ],
+  "state_added_to_existing_firm": {
+   "firm": "Nesenoff & Miltenberg LLP",
+   "from": "Massachusetts",
+   "to": "Massachusetts; New York",
+   "why": "firm is headquartered at 363 Seventh Avenue, New York"
+  },
+  "attorneys_added": [
+   "Stephen Ackerman (Saile Ackerman LLC)",
+   "Ralph N. Gaboury (Cox Padmore Skolnik & Shakarchy LLP)",
+   "Mary L. Grieco (Olshan Frome Wolosky LLP)",
+   "Andrew B. Lustigman (Olshan Frome Wolosky LLP)"
+  ],
+  "excluded_non_ip": [
+   "Tully Rinckey PLLC (employment/family/military)",
+   "Denlea & Carton LLP (commercial litigation)",
+   "Law Office of David T. Azrin, P.A. (franchise law)",
+   "Gabor & Marotta LLC (general practice)"
+  ],
+  "counts_after": {
+   "rows": 242,
+   "distinct_firms": 157,
+   "people": 165
+  }
  }
 }
