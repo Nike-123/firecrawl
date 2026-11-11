@@ -25,11 +25,18 @@
    "San Francisco",
    "San Jose",
    "San Diego",
-   "Mountain View (via San Jose/SF listings)",
-   "Santa Rosa (via San Francisco)",
-   "Sacramento (via San Francisco)",
-   "Concord (via San Francisco)",
-   "Visalia (via San Francisco)"
+   "Oakland",
+   "Sacramento",
+   "Irvine",
+   "Pasadena",
+   "Palo Alto",
+   "Long Beach",
+   "Santa Monica",
+   "Fresno",
+   "Riverside",
+   "Newport Beach",
+   "Sunnyvale",
+   "Mountain View / Santa Rosa / Concord / Visalia / Carlsbad / Mountain View (attributed to own city via nearest-metro pages)"
   ],
   "firms_added": [
    "Delcin Consulting Group",
@@ -37,37 +44,19 @@
    "LiLaw Inc.",
    "Olsan Law Inc.",
    "Ehlers Law Corporation",
-   "Darling & Wilson, PC"
+   "Darling & Wilson, PC",
+   "Cunningham Swaim, LLP (Pasadena office -> California added to its existing CO/NY/TX row)"
   ],
   "excluded": [
    "The McClellan Law Firm (San Diego) - personal injury practice, no IP service"
   ],
   "california_totals": {
-   "firms": 12,
-   "rows": 14
+   "firms": 13,
+   "rows": 15
   },
-  "cities_pending": [
-   "Irvine",
-   "Newport Beach",
-   "Pasadena",
-   "Palo Alto",
-   "Santa Monica",
-   "Oakland",
-   "Long Beach",
-   "Riverside",
-   "Fresno",
-   "Sunnyvale",
-   "Beverly Hills",
-   "Torrance",
-   "Glendale",
-   "Santa Ana",
-   "Anaheim",
-   "Berkeley",
-   "San Mateo",
-   "Walnut Creek",
-   "Encinitas",
-   "La Jolla"
-  ]
+  "cities_pending": [],
+  "finding": "Every California city page in the FindLaw patents directory serves the same statewide advertiser pool (HPL, Robert L. Hill, Hudnell, LiLaw, Delcin, Olsan, Ehlers, Darling & Wilson, Mandour, Wang IP, Harris & Hayden, Sterling Media Law, Cunningham Swaim). 15 city pages were opened individually; the pool repeated exactly, so the directory is saturated for California at 13 IP firms. Cross-city 'additional results over 150 miles away' blocks were never counted as new city records.",
+  "cities_pending_note": "Further city URLs (Berkeley, San Mateo, Walnut Creek, Torrance, Glendale, Santa Ana, Anaheim, Beverly Hills, Encinitas, La Jolla) can still be opened, but by the saturation pattern they resolve to the same pool and cannot add new firms."
  },
  "final_counts": {
   "rows": 226,
@@ -75,5 +64,9 @@
   "people": 157,
   "verified_websites": 139,
   "missing_websites": 5
- }
+ },
+ "roster_attempts_blocked": [
+  "hudnelllaw.com/team/ -> 404",
+  "mandourlaw.com/attorneys/ -> 404"
+ ]
 }

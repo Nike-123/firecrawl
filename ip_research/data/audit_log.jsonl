@@ -14,3 +14,4 @@
 {"ts": "2026-11-10T17:35:37.404711Z", "phase": 6, "people_added": 14, "people_total": 162, "target": 500}
 {"ts": "2026-11-10", "phase": 7, "action": "firm_level_dedupe", "rows_before": 230, "rows_after": 226, "distinct_firms": 144}
 {"ts": "2026-11-10", "phase": 7, "action": "california_city_pass", "firms_added": 6, "cities": 9}
+{"ts": "2026-11-10", "phase": 7, "action": "california_city_pages_reviewed", "cities": 15, "new_firms": 1, "note": "FindLaw patents pool saturated at 13 CA IP firms"}
