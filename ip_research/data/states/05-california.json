@@ -6,11 +6,14 @@
   "https://lawyers.findlaw.com/patents/california/san-francisco-county/",
   "https://lawyers.findlaw.com/patents/california/san-diego/",
   "https://lawyers.findlaw.com/patents/california/san-jose/",
-  "https://lawyers.findlaw.com/patents/california/all-cities/"
+  "https://lawyers.findlaw.com/patents/california/all-cities/",
+  "https://lawyers.findlaw.com/patents/california/oakland/",
+  "https://lawyers.findlaw.com/patents/california/sacramento/",
+  "https://lawyers.findlaw.com/patents/california/irvine/"
  ],
- "listings_reviewed": 37,
+ "listings_reviewed": 40,
  "pagination_pages": 2,
- "limitations": "California city-by-city pass: reviewed the state all-cities index plus the Los Angeles, San Francisco, San Jose and San Diego patents pages. Los Angeles and San Diego return mostly out-of-area placements, so firms were attributed to their own city. The McClellan Law Firm (San Diego) was excluded as a personal-injury practice with no IP service. Cities still queued: Irvine, Newport Beach, Pasadena, Palo Alto, Santa Monica, Oakland, Long Beach, Riverside, Fresno, Sacramento (city page), Carlsbad, Sunnyvale, Beverly Hills, Torrance.",
+ "limitations": "California city-by-city pass: reviewed the state all-cities index plus the Los Angeles, San Francisco, San Jose and San Diego patents pages. Los Angeles and San Diego return mostly out-of-area placements, so firms were attributed to their own city. The McClellan Law Firm (San Diego) was excluded as a personal-injury practice with no IP service. Cities still queued: Irvine, Newport Beach, Pasadena, Palo Alto, Santa Monica, Oakland, Long Beach, Riverside, Fresno, Sacramento (city page), Carlsbad, Sunnyvale, Beverly Hills, Torrance. Also reviewed Oakland, Sacramento and Irvine patents pages: no additional IP-only firms found (McCathern, Shokouhi, Evans excluded - general business/civil litigation; Bernstein Litowitz Berger & Grossmann excluded - securities litigation). City-level dedupe by firm profile slug confirmed that each city page repeats the same statewide firm pool.",
  "firms": [
   {
    "firm": "HPL Intellectual Property Law",
