@@ -64,15 +64,15 @@
   ],
   "states_remaining": [],
   "states_total": 51,
-  "total_records": 230,
-  "unique_law_firms": 149,
-  "verified_official_websites": 144,
+  "total_records": 226,
+  "unique_law_firms": 144,
+  "verified_official_websites": 139,
   "missing_official_websites": 5,
-  "verified_official_websites_unique_firms": 133,
+  "verified_official_websites_unique_firms": 139,
   "missing_official_websites_unique_firms": 5,
-  "attorney_records": 162,
+  "attorney_records": 157,
   "records_requiring_review": 6,
-  "findlaw_listings_reviewed": 411,
+  "findlaw_listings_reviewed": 423,
   "pagination_pages_processed": 4,
   "state_details": {
     "Alabama": {
@@ -113,12 +113,12 @@
     },
     "California": {
       "status": "partial",
-      "findlaw_listings_reviewed": 25,
+      "findlaw_listings_reviewed": 37,
       "pagination_pages_processed": 2,
-      "pages_reviewed": 4,
-      "firms_collected": 6,
-      "records": 8,
-      "limitations": "California is the largest FindLaw patents market (Los Angeles, San Francisco and San Diego pages show 10+ firms each and are paginated). Listing capture is limited to the first result page of each reviewed city; remaining pagination pages were not enumerated, so this state is marked partial rather than complete. Entertainment/litigation generalists surfaced by the category (Sterling Media Law, The McClellan Law Firm, Harris & Hayden, Hymes Schreiber & Walden, McCathern Shokouhi Evans, Delcin Consulting Group) were excluded for lack of demonstrable IP practice."
+      "pages_reviewed": 6,
+      "firms_collected": 12,
+      "records": 14,
+      "limitations": "California city-by-city pass: reviewed the state all-cities index plus the Los Angeles, San Francisco, San Jose and San Diego patents pages. Los Angeles and San Diego return mostly out-of-area placements, so firms were attributed to their own city. The McClellan Law Firm (San Diego) was excluded as a personal-injury practice with no IP service. Cities still queued: Irvine, Newport Beach, Pasadena, Palo Alto, Santa Monica, Oakland, Long Beach, Riverside, Fresno, Sacramento (city page), Carlsbad, Sunnyvale, Beverly Hills, Torrance."
     },
     "Colorado": {
       "status": "partial",
@@ -315,7 +315,7 @@
       "pagination_pages_processed": 0,
       "pages_reviewed": 4,
       "firms_collected": 3,
-      "records": 3,
+      "records": 4,
       "limitations": "Montana has almost no Montana-based entries in FindLaw's patents directory: city pages list the nationwide placements (Ream Law Firm, Goldstein Law Offices, Dale Jensen PLC) plus Calton Hamman & Wolff in Billings. Additional Montana IP attorneys were verified through supplementary patent-directory profiles."
     },
     "Nebraska": {
@@ -531,7 +531,7 @@
       "pagination_pages_processed": 0,
       "pages_reviewed": 2,
       "firms_collected": 3,
-      "records": 3,
+      "records": 4,
       "limitations": "FindLaw's Casper, WY patents page returns only nationwide sponsored placements (NovoTech Patent Firm, The Simon Law Firm) - no Wyoming-based firm appears. Wyoming firms below were verified from supplementary patent-directory records showing a Wyoming office and patent practice."
     }
   },

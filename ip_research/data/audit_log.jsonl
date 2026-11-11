@@ -12,3 +12,5 @@
 {"ts": "2026-11-10T15:31:30Z", "source": "tmp_updates/p12.json", "applied": 2, "missed": [], "updates": [{"state": "New Hampshire", "firm": "Bourque & Associates, P.A.", "website": "http://www.nhpatlaw.com", "website_verified": true, "verification": "FindLaw firm profile (Manchester) lists nhpatlaw.com; firm practices patent, trademark, copyright and trade-secret law.", "attorneys_add": ["Andrew R. Martin"], "needs_review": false}, {"state": "Idaho", "firm": "Jones Law Partners", "drop": true}]}
 {"ts": "2026-11-10T16:05:00.637943Z", "phase": 5, "websites_resolved": 20, "records_added": 19, "records_dropped": 2, "corrections": 3, "build_fix": "blocked-domain exact-match", "review_flags": 6}
 {"ts": "2026-11-10T17:35:37.404711Z", "phase": 6, "people_added": 14, "people_total": 162, "target": 500}
+{"ts": "2026-11-10", "phase": 7, "action": "firm_level_dedupe", "rows_before": 230, "rows_after": 226, "distinct_firms": 144}
+{"ts": "2026-11-10", "phase": 7, "action": "california_city_pass", "firms_added": 6, "cities": 9}

@@ -4,11 +4,13 @@
   "https://lawyers.findlaw.com/patents/california/los-angeles/",
   "https://lawyers.findlaw.com/patents/california/san-francisco/",
   "https://lawyers.findlaw.com/patents/california/san-francisco-county/",
-  "https://lawyers.findlaw.com/patents/california/san-diego/"
+  "https://lawyers.findlaw.com/patents/california/san-diego/",
+  "https://lawyers.findlaw.com/patents/california/san-jose/",
+  "https://lawyers.findlaw.com/patents/california/all-cities/"
  ],
- "listings_reviewed": 25,
+ "listings_reviewed": 37,
  "pagination_pages": 2,
- "limitations": "California is the largest FindLaw patents market (Los Angeles, San Francisco and San Diego pages show 10+ firms each and are paginated). Listing capture is limited to the first result page of each reviewed city; remaining pagination pages were not enumerated, so this state is marked partial rather than complete. Entertainment/litigation generalists surfaced by the category (Sterling Media Law, The McClellan Law Firm, Harris & Hayden, Hymes Schreiber & Walden, McCathern Shokouhi Evans, Delcin Consulting Group) were excluded for lack of demonstrable IP practice.",
+ "limitations": "California city-by-city pass: reviewed the state all-cities index plus the Los Angeles, San Francisco, San Jose and San Diego patents pages. Los Angeles and San Diego return mostly out-of-area placements, so firms were attributed to their own city. The McClellan Law Firm (San Diego) was excluded as a personal-injury practice with no IP service. Cities still queued: Irvine, Newport Beach, Pasadena, Palo Alto, Santa Monica, Oakland, Long Beach, Riverside, Fresno, Sacramento (city page), Carlsbad, Sunnyvale, Beverly Hills, Torrance.",
  "firms": [
   {
    "firm": "HPL Intellectual Property Law",
@@ -61,6 +63,48 @@
    "website": "https://www.sterlingmedialaw.com/",
    "website_verified": true,
    "verification": "FindLaw Los Angeles patents listing with Website https://www.sterlingmedialaw.com/; media/entertainment practice covering copyright work.",
+   "attorneys": []
+  },
+  {
+   "firm": "Delcin Consulting Group",
+   "website": "https://delcin.consulting/",
+   "website_verified": true,
+   "verification": "FindLaw patents listings for San Francisco/San Jose (Concord office) with Website https://delcin.consulting/; listed as a patents law firm with rated attorneys.",
+   "attorneys": []
+  },
+  {
+   "firm": "Hudnell Law Group",
+   "website": "https://www.hudnelllaw.com/",
+   "website_verified": true,
+   "verification": "FindLaw patents listings for San Francisco and San Jose (Mountain View office) with Website https://www.hudnelllaw.com/; Mountain View IP boutique.",
+   "attorneys": []
+  },
+  {
+   "firm": "LiLaw Inc.",
+   "website": "https://www.lilaw.us/",
+   "website_verified": true,
+   "verification": "FindLaw San Jose patents listing with Website https://www.lilaw.us/.",
+   "attorneys": []
+  },
+  {
+   "firm": "Olsan Law Inc.",
+   "website": "https://olsanlaw.com/",
+   "website_verified": true,
+   "verification": "FindLaw San Francisco patents listing (Santa Rosa office) with Website https://olsanlaw.com/.",
+   "attorneys": []
+  },
+  {
+   "firm": "Ehlers Law Corporation",
+   "website": "https://www.ehlerslawcorp.com/",
+   "website_verified": true,
+   "verification": "FindLaw San Francisco/San Jose patents listing (Sacramento office) with Website https://www.ehlerslawcorp.com/.",
+   "attorneys": []
+  },
+  {
+   "firm": "Darling & Wilson, PC",
+   "website": "https://www.dwlawfirm.com/",
+   "website_verified": true,
+   "verification": "FindLaw San Francisco patents listing (Visalia office) with Website https://www.dwlawfirm.com/.",
    "attorneys": []
   }
  ],

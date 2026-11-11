@@ -120,9 +120,13 @@ def load():
 
 
 def build_rows(data):
+    """Firm-level rows: a firm that practises in several states appears once,
+    with every state it operates in joined in column A (dedupe requirement)."""
     rows = []
-    seen = set()
     per_state_stats = OrderedDict()
+    order = list(data["states"].keys())
+    firm_map = OrderedDict()
+
     for state, block in data["states"].items():
         state_stats = {
             "status": block.get("status", "not_started"),
@@ -145,14 +149,30 @@ def build_rows(data):
             if not attorneys:
                 attorneys = [""]
             state_stats["firms"] += 1
+            key = norm_key(fname)
+            entry = firm_map.get(key)
+            if entry is None:
+                entry = {"name": fname, "states": [], "site": "", "people": []}
+                firm_map[key] = entry
+            if state not in entry["states"]:
+                entry["states"].append(state)
+            if not entry["site"] and site:
+                entry["site"] = site
             for person in attorneys:
-                key = (state, norm_key(fname), norm_key(person))
-                if key in seen:
-                    continue
-                seen.add(key)
-                rows.append([state, fname, site, person])
-                state_stats["rows"] += 1
+                if person not in entry["people"]:
+                    entry["people"].append(person)
         per_state_stats[state] = state_stats
+
+    for entry in firm_map.values():
+        states = sorted(entry["states"], key=lambda s: order.index(s) if s in order else 999)
+        label = "; ".join(states)
+        for person in entry["people"]:
+            rows.append([label, entry["name"], entry["site"], person])
+            for st in states:
+                if st in per_state_stats:
+                    per_state_stats[st]["rows"] += 1
+    rows.sort(key=lambda r: (order.index(r[0].split("; ")[0]) if r[0].split("; ")[0] in order else 999,
+                             norm_key(r[1]), norm_key(r[3])))
     return rows, per_state_stats
 
 
@@ -199,7 +219,7 @@ def write_xlsx(rows, per_state_stats, order):
     write_sheet(master, rows)
 
     for state in order:
-        state_rows = [r for r in rows if r[0] == state]
+        state_rows = [r for r in rows if state in [x.strip() for x in r[0].split(";")]]
         title = state[:STATE_SHEET_MAX]
         ws = wb.create_sheet(title=title)
         write_sheet(ws, state_rows)
